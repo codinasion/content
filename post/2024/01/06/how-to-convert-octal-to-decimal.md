@@ -22,7 +22,7 @@ Here are the steps to convert an octal number to decimal number:
 
 Let's say we have the octal number 345. To convert this octal number to decimal number, we need to multiply each octal digit by its corresponding power of 8 and then add up the results:
 
-```text
+```
 5 * 1 = 5
 4 * 8 = 32
 3 * 64 = 192

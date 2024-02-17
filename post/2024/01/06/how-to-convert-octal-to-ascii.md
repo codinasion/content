@@ -23,7 +23,7 @@ Here's an example to illustrate the conversion process:
 
 Let's say we have the octal number `157 162 164 165 141 154`. To convert this octal number to ASCII text, we need to convert each octal digit to its corresponding ASCII character:
 
-```text
+```
 157 -> o
 162 -> r
 164 -> t

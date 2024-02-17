@@ -23,4 +23,18 @@ const post = defineCollection({
     }),
 });
 
-export const collections = { post };
+const program = defineCollection({
+  type: "content",
+  schema: () =>
+    z.object({
+      title: z.string(),
+      description: z.string(),
+      languages: z.array(z.string()),
+      contributors: z.array(z.string()),
+      pubDatetime: z.date(),
+      modDatetime: z.date().optional().nullable(),
+      trackId: z.number(),
+    }),
+});
+
+export const collections = { post, program };

@@ -21,7 +21,7 @@ Here are the steps to convert an octal number to binary number:
 
 Let's say we have the octal number 345. To convert this octal number to binary number, we need to convert each octal digit to its corresponding binary representation:
 
-```text
+```
 3 -> 011
 4 -> 100
 5 -> 101

@@ -25,7 +25,7 @@ Let's say we have the octal number 345. To convert this octal number to hexadeci
 
 1. Convert the octal number to binary number:
 
-   ```text
+   ```
    3 -> 011
    4 -> 100
    5 -> 101
@@ -35,7 +35,7 @@ Let's say we have the octal number 345. To convert this octal number to hexadeci
 
 2. Convert the binary number to hexadecimal number:
 
-   ```text
+   ```
    0111 -> 7
    0010 -> 2
    0101 -> 5
