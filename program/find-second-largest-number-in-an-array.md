@@ -38,6 +38,8 @@ trackId: 3556
 description: "Write a program to find second largest number in an array."
 ---
 
+## Table of contents
+
 ## Write a program to find second largest number in an array
 
 ```
@@ -46,6 +48,8 @@ Output : 4
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find second largest number in an array
@@ -82,6 +86,8 @@ void main(){
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find second largest number in an array
 
@@ -99,6 +105,8 @@ public class SecondLargest
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find second largest number in an array
@@ -181,6 +189,8 @@ int main()
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to find second largest number in an array
 
@@ -215,6 +225,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to find second largest number in an array
 
@@ -248,6 +260,8 @@ public class FindSecondLargestNumberInAnArray{
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find second largest number in an array
 
@@ -265,6 +279,8 @@ console.log(findSecondLargestNumberInAnArray([10, 100, 1000]));
 console.log(findSecondLargestNumberInAnArray([1, 2, 3, 4, 5]));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find second largest number in an array
 
@@ -272,6 +288,8 @@ array = [1,2,3,4,5]
 second_largest_element = sort(array, rev=true)
 println("The second largest number is : ", second_largest_element[2])
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find second largest number in an array
@@ -316,6 +334,8 @@ fun find2ndLargest(array:Array<Int>){
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find second largest number in an array
 
@@ -323,6 +343,8 @@ fun find2ndLargest(array:Array<Int>){
 @sortedList = sort @list;
 print "Second Largest value : ".@sortedList[$#sortedList-1];
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find second largest number in an array
@@ -341,6 +363,8 @@ print "Second Largest value : ".@sortedList[$#sortedList-1];
 	echo secondLargest(array(1123, 244, 35, 466, 57, 6, 7, 823, 9, 12310, 10));
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to find second largest number in an array
@@ -362,6 +386,8 @@ for i in range(2, n):
 print("Second highest number is : ", str(secondmax))
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find second largest number in an array
 
@@ -376,6 +402,8 @@ second_max = numbers_array.uniq.sort[-2]
 
 puts "Second Largest Number: #{second_max}"
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find second largest number in an array
@@ -402,6 +430,8 @@ var arr = [1, 2, 3, 4, 5]
 
 print("Second Largest Number: ", secondlargestNumber(a:arr))
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find second largest number in an array

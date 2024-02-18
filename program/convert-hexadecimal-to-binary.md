@@ -38,6 +38,8 @@ trackId: 628
 description: "Write a program to convert hexadecimal to binary."
 ---
 
+## Table of contents
+
 ## Write a program to convert hexadecimal to binary
 
 Hexadecimal is a base-16 number system. It uses sixteen digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, and F. The digits are called hexits. A hexit is the smallest unit of information in a computer. A hexit can be used to represent a single value, such as 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, or F, or it can be used to represent a single state, such as on or off.
@@ -55,6 +57,8 @@ Output : 1010
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert hexadecimal to binary
@@ -123,6 +127,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert hexadecimal to binary
 
@@ -137,6 +143,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert hexadecimal to binary
@@ -193,6 +201,8 @@ int main() {
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to convert hexadecimal to binary
 
@@ -221,6 +231,8 @@ func main() {
 	fmt.Println("Binary:", binary)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert hexadecimal to binary
@@ -281,6 +293,8 @@ class ConvertHexadecimalToBinary {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert hexadecimal to binary
 
@@ -288,6 +302,8 @@ export function convertHexadecimalToBinary(hex) {
   return parseInt(hex, 16).toString(2);
 }
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to convert hexadecimal to binary
@@ -298,6 +314,8 @@ y = parse(Int, x, base=16)
 y = string(y, base=2)
 println("Binary of ", x, ": ", y)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert hexadecimal to binary
@@ -331,6 +349,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert hexadecimal to binary
 
@@ -342,6 +362,8 @@ my $hexa = 'A';
 my $value =  hex ( $hexa );
 printf ( "Binary Equivalent : %b\n", $value );
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert hexadecimal to binary
@@ -357,6 +379,8 @@ hexaToBinary('A')
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert hexadecimal to binary
 
@@ -367,6 +391,8 @@ bnum = bin(hnum)
 
 print(bnum[2:])
 ```
+
+### R
 
 ```r
 # Write a R program to convert hexadecimal to binary
@@ -405,11 +431,15 @@ binaryResult <- hexToBinary(hexNumber)
 cat("Hexadecimal:", hexNumber, "- Binary:", binaryResult, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert hexadecimal to binary
 
 puts "A".to_i(16).to_s(2)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert hexadecimal to binary

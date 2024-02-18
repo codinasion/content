@@ -46,6 +46,8 @@ trackId: 1876
 description: "Write a program to convert minutes to seconds."
 ---
 
+## Table of contents
+
 ## Write a program to convert minutes to seconds
 
 1 minute = 60 seconds
@@ -56,6 +58,8 @@ Output : 300
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert minutes to seconds
@@ -71,6 +75,8 @@ int main(){
 
 //Contributed by Raghav Garg
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to convert minutes to seconds
@@ -102,6 +108,8 @@ public static void Main ()
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to convert minutes to seconds
 
@@ -130,6 +138,8 @@ int convertMinutesToSeconds(int minutes){
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert minutes to seconds
 
@@ -143,6 +153,8 @@ int convertMinutesToSeconds({int days = 5}) {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert minutes to seconds
 
@@ -153,6 +165,8 @@ let seconds =  minutesToSeconds 5
 
 printfn "Equivalent seconds : %d" seconds
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert minutes to seconds
@@ -174,6 +188,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to convert minutes to seconds
 
@@ -186,6 +202,8 @@ main = do
    let seconds = minutes * 60
    putStrLn $ show (seconds)
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert minutes to seconds
@@ -210,6 +228,8 @@ class minutesToSeconds
 	}
 }
 ```
+
+### JavaScript
 
 ````javascript
 // Write a JavaScript program to convert minutes to seconds
@@ -241,6 +261,8 @@ console.log("Number of seconds in 2.5 minutes.");
 console.log("That is" + ConvertMinutesToSeconds(2.5) + "// 150");
 ````
 
+### Julia
+
 ```julia
 # Write a Julia program to convert minutes to seconds
 
@@ -249,6 +271,8 @@ min = parse(Int, readline())
 sec = min * 60
 println(min, " minutes equals ", sec, " seconds")
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert minutes to seconds
@@ -263,6 +287,8 @@ fun main(args: Array<String>) {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert minutes to seconds
 
@@ -275,6 +301,8 @@ my $seconds = $mins * 60;
 print $mins." minutes are ".$seconds." seconds\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to convert minutes to seconds
 
@@ -285,6 +313,8 @@ print $mins." minutes are ".$seconds." seconds\n";
   echo "Seconds: $x1 \n";
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to convert minutes to seconds
@@ -308,6 +338,8 @@ else:
     print(f"Please enter valid input.")
 ```
 
+### R
+
 ```r
 # Write a R program to convert minutes to seconds
 
@@ -315,6 +347,8 @@ minutes = 5
 seconds = minutes * 60
 cat("seconds: ", seconds)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert minutes to seconds
@@ -324,6 +358,8 @@ def convert_to_seconds(minutes)
     return minutes * seconds_in_minute
 end
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert minutes to seconds
@@ -351,6 +387,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert minutes to seconds
 
@@ -361,6 +399,8 @@ object HelloWorld {
 	}
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to convert minutes to seconds
@@ -373,6 +413,8 @@ var minutes = 5
 var seconds = minutes * 60
 print("Seconds: ", seconds)
 ```
+
+### TypeScript
 
 ````typescript
 // Write a TypeScript program to convert minutes to seconds

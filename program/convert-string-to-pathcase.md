@@ -34,6 +34,8 @@ trackId: 2744
 description: "Write a program to convert string to pathcase."
 ---
 
+## Table of contents
+
 ## Write a program to convert string to pathcase
 
 Pathcase is a style of writing in which all letters are lowercase and spaces are replaced with forward slashes.
@@ -44,6 +46,8 @@ Output : "hello/world"
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert string to pathcase
@@ -109,6 +113,8 @@ void ConvertStringToPathcase(char *str)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert string to pathcase
 
@@ -122,6 +128,8 @@ class Pathcase {
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert string to pathcase
@@ -143,6 +151,8 @@ int main()
     return 0;
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert string to pathcase
@@ -171,6 +181,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert string to pathcase
 
@@ -190,6 +202,8 @@ class replaceSpace
 	}
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to convert string to pathcase
@@ -217,6 +231,8 @@ function stringToPathCase(str) {
 stringToPathCase("hello world, good morning");
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert string to pathcase
 
@@ -225,6 +241,8 @@ s = readline()
 s = replace(lowercase(s), " " => "/")
 println("Given string in pathcase: ", s)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert string to pathcase
@@ -255,6 +273,8 @@ private fun ConvertStringToPathcase(args: List<String>): String {
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to convert string to pathcase
 
@@ -271,6 +291,8 @@ private fun ConvertStringToPathcase(args: List<String>): String {
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert string to pathcase
 
@@ -281,6 +303,8 @@ for i in range(0, len(str), 1):
 print(str)
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert string to pathcase
 
@@ -289,6 +313,8 @@ user_input = gets.chomp
 result = user_input.split(' ').map(&:downcase).join('/')
 puts result
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert string to pathcase

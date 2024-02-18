@@ -45,6 +45,8 @@ trackId: 5596
 description: "Write a program to convert feet to inches."
 ---
 
+## Table of contents
+
 ## Write a program to convert feet to inches
 
 1 foot = 12 inches
@@ -55,6 +57,8 @@ Output : 60
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert feet to inches
@@ -79,6 +83,8 @@ int main(void) {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert feet to inches
 
@@ -93,6 +99,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert feet to inches
@@ -117,6 +125,8 @@ Contributed by : Kartikeya Saini
 */
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert feet to inches
 
@@ -130,6 +140,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert feet to inches
 
@@ -142,6 +154,8 @@ let main() =
     Console.Write("{0} feet equals {1} inches\n", feet, inches)
 main()
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert feet to inches
@@ -164,6 +178,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to convert feet to inches
 
@@ -181,6 +197,8 @@ main = do
   let inches = feetToInches feet
   putStrLn $ show inches ++ " inches"
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert feet to inches
@@ -200,6 +218,8 @@ public class Main
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert feet to inches
 
@@ -207,6 +227,8 @@ let input = prompt("Please Enter the foot Value");
 let result = parseInt(input) * 12;
 console.log(result);
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to convert feet to inches
@@ -217,6 +239,8 @@ feet = parse(Int, feet)
 inches = feet * 12
 println(feet, " feet equals ", inches, " inches")
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert feet to inches
@@ -236,6 +260,8 @@ private fun ConvertFeetToInches(feet: Double): Double {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert feet to inches
 
@@ -253,6 +279,8 @@ sub feet2Inches
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to convert feet to inches
 
@@ -267,6 +295,8 @@ echo(feet2Inches(5));
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert feet to inches
 
@@ -277,6 +307,8 @@ modifier = 12
 value_in_inches = input_value * modifier
 print(f"{input_value} Feet/Foot is {value_in_inches} Inches")
 ```
+
+### R
 
 ```r
 # Write a R program to convert feet to inches
@@ -301,6 +333,8 @@ inches <- feet_to_inches(feet)
 cat("Output:", inches, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert feet to inches
 
@@ -311,6 +345,8 @@ inches = feet * 12
 
 puts inches.round(2).to_s.sub(/\.?0+$/, '').to_s + " inches"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert feet to inches
@@ -327,6 +363,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert feet to inches
 
@@ -341,6 +379,8 @@ object feetToInches {
   }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to convert feet to inches
@@ -358,6 +398,8 @@ else {                                    //If the input is not valid, it will a
 }
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert feet to inches

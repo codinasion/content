@@ -41,6 +41,8 @@ trackId: 4215
 description: "Write a program to find cube root of a number."
 ---
 
+## Table of contents
+
 ## Write a program to find cube root of a number
 
 ```
@@ -49,6 +51,8 @@ Output : 3
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find cube root of a number
@@ -69,6 +73,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find cube root of a number
 
@@ -82,6 +88,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find cube root of a number
@@ -105,6 +113,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find cube root of a number
 
@@ -117,6 +127,8 @@ void main(){
   print('Cube root of the given number : $cube_root');
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to find cube root of a number
@@ -136,6 +148,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find cube root of a number
 
@@ -150,6 +164,8 @@ main = do
    let num = 27
    print (cubeRoot num)
 ```
+
+### Java
 
 ```java
 // Write a Java program to find cube root of a number
@@ -170,6 +186,8 @@ public class FindCubeRootOfANumber {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find cube root of a number
 
@@ -180,6 +198,8 @@ function cubeRoot(num) {
 let number = 27;
 console.log(`The cube root of ${number} is ${cubeRoot(number)}.`);
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to find cube root of a number
@@ -194,6 +214,8 @@ cubeRoot = cbrt(num)
 # Print the result
 println("Cube root of $num is: $cubeRoot")
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find cube root of a number
@@ -215,6 +237,8 @@ print "The cube root of $input is $out\n\n";
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find cube root of a number
 
@@ -227,11 +251,15 @@ echo "Cube root of $x is $x1.\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find cube root of a number
 
 print(round(int(input()) ** (1 / 3), 3))
 ```
+
+### R
 
 ```r
 # Write a R program to find cube root of a number
@@ -245,6 +273,8 @@ cuberoot = function(x){
 
 cuberoot(64)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find cube root of a number
@@ -260,6 +290,8 @@ echo cubeRoot(50);
 ?>
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to find cube root of a number
 
@@ -271,6 +303,8 @@ fn main()
     println!("Cube root : {}", result);
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find cube root of a number
@@ -291,6 +325,8 @@ object cubeRoot{
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find cube root of a number
 
@@ -302,6 +338,8 @@ var number = Double(readLine()!)!
 
 print ("Cube root : ", pow(number,1/3))
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find cube root of a number

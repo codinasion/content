@@ -38,6 +38,8 @@ trackId: 1286
 description: "Write a program to print all prime numbers between two numbers."
 ---
 
+## Table of contents
+
 ## Write a program to print all prime numbers between two numbers
 
 ```
@@ -46,6 +48,8 @@ Output : 11 13 17 19
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print all prime numbers between two numbers
@@ -89,6 +93,8 @@ int main() {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to print all prime numbers between two numbers
 
@@ -123,6 +129,8 @@ public class PrimeNUmber
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to print all prime numbers between two numbers
@@ -166,6 +174,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to print all prime numbers between two numbers
 
@@ -187,6 +197,8 @@ void main() {
   primeNos(10 , 20);
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to print all prime numbers between two numbers
@@ -234,6 +246,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to print all prime numbers between two numbers
 
@@ -271,6 +285,8 @@ class PrintAllPrimeNumbersBetweenTwoNumbers {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to print all prime numbers between two numbers
 
@@ -292,6 +308,8 @@ function primeNumbersBetweenTwoNumbers(startNum, endNum) {
 
 primeNumbersBetweenTwoNumbers(2, 10);
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to print all prime numbers between two numbers
@@ -334,6 +352,8 @@ fun checkPrimeNumber(num: Int): Boolean {
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to print all prime numbers between two numbers
 
@@ -360,6 +380,8 @@ function print_all_prime_numbers_between_two_numbers($n1, $n2)
 echo print_all_prime_numbers_between_two_numbers(10, 20);
 ```
 
+### Python
+
 ```python
 # Write a Python program to print all prime numbers between two numbers
 
@@ -374,6 +396,8 @@ for val in range(start, stop):
             print(val, end=" ")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to print all prime numbers between two numbers
 
@@ -385,6 +409,8 @@ end
 
 puts printAllPrimeNumbersBetweenTwoNumbers(10,20)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print all prime numbers between two numbers

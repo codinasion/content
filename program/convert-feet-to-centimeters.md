@@ -41,6 +41,8 @@ trackId: 2986
 description: "Write a program to convert feet to centimeters."
 ---
 
+## Table of contents
+
 ## Write a program to convert feet to centimeters
 
 1 foot = 30.48 centimeters
@@ -51,6 +53,8 @@ Output : 152.4
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert feet to centimeters
@@ -80,6 +84,8 @@ double ConvertToCm(double feet)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert feet to centimeters
 
@@ -93,6 +99,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert feet to centimeters
@@ -109,6 +117,8 @@ int main() {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert feet to centimeters
 
@@ -121,6 +131,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert feet to centimeters
 
@@ -131,6 +143,8 @@ let cm =  feetToCentimeter 5.0
 
 printfn "Equivalent centimeter : %f" cm
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert feet to centimeters
@@ -153,6 +167,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to convert feet to centimeters
 
@@ -165,6 +181,8 @@ main = do
    let centimeters = feet * 30.48
    putStrLn $ show (centimeters)
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert feet to centimeters
@@ -182,6 +200,8 @@ class convert_feet_to_centimeters
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert feet to centimeters
 
@@ -193,6 +213,8 @@ function feetToCentimeters(feet) {
 feetToCentimeters(5);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert feet to centimeters
 
@@ -202,6 +224,8 @@ feet = parse(Float64, feet)
 cm = round((feet * 30.48); digits=2)
 println(feet, " feet equals ", cm, " centimeters")
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert feet to centimeters
@@ -224,6 +248,8 @@ private fun ConvertFeetToCentimeters(feet: Double): Double {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert feet to centimeters
 
@@ -236,6 +262,8 @@ my $centimeter = $feet * 30.48 ;
 print $feet." feet is ".$centimeter." centimeters", "\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to convert feet to centimeters
 
@@ -246,6 +274,8 @@ print $feet." feet is ".$centimeter." centimeters", "\n";
   echo "Centimeters: $x1 \n";
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to convert feet to centimeters
@@ -261,6 +291,8 @@ def feetToCentimeters(feet):
 feetToCentimeters(5)
 ```
 
+### R
+
 ```r
 # Write a R program to convert feet to centimeters
 
@@ -268,6 +300,8 @@ feet = 5
 centimeters = feet * 30.48
 cat("centimeters: ", centimeters)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert feet to centimeters
@@ -278,6 +312,8 @@ feet = gets.chomp.to_i
 centimeters = feet * 30.48
 print "centimeters : #{centimeters}"
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to convert feet to centimeters
@@ -290,6 +326,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert feet to centimeters
 
@@ -300,6 +338,8 @@ var foot = 5.0
 var centimeters = foot * 30.48
 print("centimeters: ",centimeters)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert feet to centimeters

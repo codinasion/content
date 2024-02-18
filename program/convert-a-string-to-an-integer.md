@@ -44,6 +44,8 @@ trackId: 4403
 description: "Write a program to convert a string to an integer."
 ---
 
+## Table of contents
+
 ## Write a program to convert a string to an integer
 
 ```
@@ -52,6 +54,8 @@ Output : 123
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert a string to an integer
@@ -75,6 +79,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert a string to an integer
 
@@ -86,6 +92,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert a string to an integer
@@ -106,6 +114,8 @@ int main() {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert a string to an integer
 
@@ -120,6 +130,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert a string to an integer
 
@@ -133,6 +145,8 @@ if Int32.TryParse(test, &result) then
 else
     fprintf stderr "Error: Not a number"
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert a string to an integer
@@ -167,6 +181,8 @@ func main(){
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert a string to an integer
 
@@ -189,6 +205,8 @@ public class ConvertAStringToAnInteger {
 	}
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to convert a string to an integer
@@ -238,6 +256,8 @@ console.log(round("234.999")); // 235 // rounds to the nearest integer
 console.log(round("234adf.234")); // NaN // works only on string representations of numbers
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert a string to an integer
 
@@ -246,6 +266,8 @@ str = readline()
 int = parse(Int, str)
 println("String to Integer: ", int)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert a string to an integer
@@ -265,6 +287,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert a string to an integer
 
@@ -273,6 +297,8 @@ $num = int($string);
 
 print "String to Integer conversion : $num\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert a string to an integer
@@ -283,6 +309,8 @@ print "String to Integer conversion : $num\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert a string to an integer
 
@@ -290,6 +318,8 @@ n = input()
 number = int(input())
 print(number)
 ```
+
+### R
 
 ```r
 # Write a R program to convert a string to an integer
@@ -304,6 +334,8 @@ integer_value <- as.integer(string_value)
 print(integer_value)
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert a string to an integer
 
@@ -314,6 +346,8 @@ end
 
 puts stringToNumber '123'
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to convert a string to an integer
@@ -328,6 +362,8 @@ object stringToInteger {
     }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to convert a string to an integer
@@ -344,6 +380,8 @@ Int("+123")
 Int("-123")
 // -123
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert a string to an integer

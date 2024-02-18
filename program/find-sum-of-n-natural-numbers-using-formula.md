@@ -43,6 +43,8 @@ trackId: 5337
 description: "Write a program to find sum of n natural numbers using formula."
 ---
 
+## Table of contents
+
 ## Write a program to find sum of n natural numbers using formula
 
 formula: n(n+1)/2
@@ -53,6 +55,8 @@ Output : 15
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find sum of n natural numbers using formula
@@ -68,6 +72,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find sum of n natural numbers using formula
 
@@ -82,6 +88,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find sum of n natural numbers using formula
@@ -104,6 +112,8 @@ Contributed by : Kartikeya Saini
 */
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find sum of n natural numbers using formula
 
@@ -115,6 +125,8 @@ let n = 10
 
 printfn "%d" (sumOfNaturalNumbers n)
 ```
+
+### Go
 
 ```go
 // Write a Go program to find sum of n natural numbers using formula
@@ -131,6 +143,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find sum of n natural numbers using formula
 
@@ -145,6 +159,8 @@ main = do
   let result = sumOfNaturalNumbers n
   putStrLn $ "The sum of the first " ++ show n ++ " natural numbers is: " ++ show result
 ```
+
+### Java
 
 ```java
 // Write a Java program to find sum of n natural numbers using formula
@@ -163,6 +179,8 @@ public class FindSumOfNNaturalNumbersUsingFormula {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find sum of n natural numbers using formula
 
@@ -176,6 +194,8 @@ const FindSumOfNNaturalNumbersUsingFormula = n => {
 console.log(FindSumOfNNaturalNumbersUsingFormula(5));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find sum of n natural numbers using formula
 
@@ -188,6 +208,8 @@ n = parse(Int, n_s)
 println("The sum of first ", n," natural numbers is ", SumOfN(n))
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to find sum of n natural numbers using formula
 
@@ -196,6 +218,8 @@ fun main() {
     println((value*(value+1))/2)
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find sum of n natural numbers using formula
@@ -214,6 +238,8 @@ sub sumOfNaturalNumber
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find sum of n natural numbers using formula
 
@@ -227,6 +253,8 @@ echo sumOfnaturalNumbers(5);
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to find sum of n natural numbers using formula
@@ -242,6 +270,8 @@ def sumOfnNaturalNumber(n):
 print("Total sum : ", sumOfnNaturalNumber(n))
 ```
 
+### R
+
 ```r
 # Write a R program to find sum of n natural numbers using formula
 
@@ -253,6 +283,8 @@ n<-10
 result<-sum_natural(n)
 cat("Sum of the first",n,"natural numbers is:",result)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find sum of n natural numbers using formula
@@ -268,6 +300,8 @@ if $PROGRAM_NAME == __FILE__
   puts "Sum of Natural Number : #{sumOfNaturalNumber(num)}"
 end
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find sum of n natural numbers using formula
@@ -286,6 +320,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to find sum of n natural numbers using formula
 
@@ -300,6 +336,8 @@ object sumOfNaturalNumber {
     }
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find sum of n natural numbers using formula

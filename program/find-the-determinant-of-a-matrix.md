@@ -33,6 +33,8 @@ trackId: 3422
 description: "Write a program to find the determinant of a matrix."
 ---
 
+## Table of contents
+
 ## Write a program to find the determinant of a matrix
 
 The determinant of a square matrix is a scalar value that can be computed from the elements of the matrix. The determinant of a matrix A is denoted as det(A) or |A|.
@@ -48,6 +50,8 @@ Output :
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find the determinant of a matrix
@@ -117,6 +121,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find the determinant of a matrix
 
@@ -153,6 +159,8 @@ public class Determinant
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find the determinant of a matrix
@@ -191,6 +199,8 @@ int main()
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to find the determinant of a matrix
 
@@ -213,6 +223,8 @@ func main() {
 	fmt.Println(ans)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find the determinant of a matrix
@@ -240,6 +252,8 @@ public class FindTheDeterminantOfAMatrix {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find the determinant of a matrix
 
@@ -266,6 +280,8 @@ const test = [
 console.log(determinant(test));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find the determinant of a matrix
 
@@ -273,6 +289,8 @@ using LinearAlgebra
 A = [1 2 3; 4 5 6; 7 8 9]
 println(det(A))
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find the determinant of a matrix
@@ -306,6 +324,8 @@ echo "Determinant of the given matrix is: ".$det;
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find the determinant of a matrix
 
@@ -324,6 +344,8 @@ matrix = [create_line(i) for i in range(n)]
 
 print(np.linalg.det(matrix))
 ```
+
+### R
 
 ```r
 # Write a R program to find the determinant of a matrix
@@ -349,6 +371,8 @@ result <- find_determinant(matrix_example)
 # Print the result
 cat("Determinant of the matrix:\n", result, "\n")
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find the determinant of a matrix
@@ -378,6 +402,8 @@ if $PROGRAM_NAME == __FILE__
 end
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find the determinant of a matrix
 
@@ -403,6 +429,8 @@ for index in 0..<3 {
 
 print(determinant)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find the determinant of a matrix

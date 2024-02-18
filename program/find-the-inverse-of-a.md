@@ -38,6 +38,8 @@ trackId: 5271
 description: "Write a program to find the inverse of a."
 ---
 
+## Table of contents
+
 ## Write a program to find the inverse of a
 
 The inverse of a square matrix A is another square matrix B such that the product of A and B is the identity matrix I. The inverse of A is denoted as A<sup>-1</sup>. Should address case where inverse does not exist.
@@ -64,6 +66,8 @@ Output :
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find the inverse of a
@@ -181,6 +185,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find the inverse of a
 
@@ -236,6 +242,8 @@ namespace MatrixInverse
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find the inverse of a
 
@@ -279,6 +287,8 @@ int main() {
 
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find the inverse of a
@@ -347,6 +357,8 @@ public class FindTheInverseOfA {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find the inverse of a
 
@@ -410,6 +422,8 @@ if (det === 0) {
   printMatrix(invMatrix);
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find the inverse of a
@@ -482,6 +496,8 @@ for my $i (0..$#inverse_matrix) {
 }
 ```
 
+### Python
+
 ```python
 # Write a Python program to find the inverse of a
 
@@ -493,6 +509,8 @@ resultInverse = np.linalg.inv(inputArray)
 
 print(resultInverse)
 ```
+
+### R
 
 ```r
 # Write a R program to find the inverse of a
@@ -538,6 +556,8 @@ inverse_matrix <- matrixInverse(input_matrix)
 print(inverse_matrix)
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find the inverse of a
 
@@ -577,6 +597,8 @@ input_matrix = [
 # Find and print the inverse
 matrix_inverse(input_matrix)
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find the inverse of a
@@ -664,6 +686,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to find the inverse of a
 
@@ -726,6 +750,8 @@ object MatrixInverse {
   }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find the inverse of a
@@ -790,6 +816,8 @@ if let inverseMatrix = inverse(of: matrix) {
     print("The matrix doesn't have an inverse.")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find the inverse of a

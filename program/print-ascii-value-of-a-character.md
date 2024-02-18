@@ -43,6 +43,8 @@ trackId: 4137
 description: "Write a program to print ascii value of a character."
 ---
 
+## Table of contents
+
 ## Write a program to print ascii value of a character
 
 ASCII value is the numeric representation of a character. For example, the ASCII value of the character 'A' is 65. The ASCII value of the character 'a' is 97. The ASCII value of the character '0' is 48. The ASCII value of the character ' ' is 32.
@@ -53,6 +55,8 @@ Output : 65
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print ascii value of a character
@@ -99,6 +103,8 @@ int printAscii(char c)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to print ascii value of a character
 
@@ -114,6 +120,8 @@ public class AsciiValue
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to print ascii value of a character
@@ -138,6 +146,8 @@ int main() {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to print ascii value of a character
 
@@ -150,6 +160,8 @@ void main() {
   convertToAscii("s");
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to print ascii value of a character
@@ -167,6 +179,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to print ascii value of a character
 
@@ -182,6 +196,8 @@ asciiValue :: Char -> Int
 asciiValue char = fromEnum char
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to print ascii value of a character
 
@@ -193,12 +209,16 @@ function asciiValueOfCharacter(str) {
 asciiValueOfCharacter("A");
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to print ascii value of a character
 
 char = 'A'
 println(" ascii value = ", Int(char))
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to print ascii value of a character
@@ -209,6 +229,8 @@ fun main() {
 fun ascii(first: Char) = first.code
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to print ascii value of a character
 
@@ -217,6 +239,8 @@ $char = <STDIN>;
 chomp $char;
 print("Ascii value of " . substr($char, 0, 1) . " : " . ord($char) . "\n");
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to print ascii value of a character
@@ -232,6 +256,8 @@ echo asciiValue("A");
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to print ascii value of a character
 
@@ -239,6 +265,8 @@ ch = input("Enter character")
 ascii_code = ord(ch)
 print(ascii_code)
 ```
+
+### R
 
 ```r
 # Write a R program to print ascii value of a character
@@ -261,6 +289,8 @@ ascii_value <- getAsciiValue(input_char)
 print(ascii_value)
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to print ascii value of a character
 
@@ -270,6 +300,8 @@ end
 
 printAsciiValueOfACharacter "A"
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to print ascii value of a character
@@ -282,6 +314,8 @@ object Ascii{
     }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to print ascii value of a character
@@ -313,6 +347,8 @@ if let userInput = readLine(), let inputCharacter = userInput.first {
     print("Invalid input. Please enter a valid character.")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print ascii value of a character

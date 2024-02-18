@@ -47,6 +47,8 @@ trackId: 5533
 description: "Write a program to find length of a string."
 ---
 
+## Table of contents
+
 ## Write a program to find length of a string
 
 ```
@@ -55,6 +57,8 @@ Output : 4
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find length of a string
@@ -87,6 +91,8 @@ size_t FindLengthOfString(char *string)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find length of a string
 
@@ -114,6 +120,8 @@ public class Exercise2
 	}
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find length of a string
@@ -152,6 +160,8 @@ Contributed by : Kartikeya Saini
 */
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find length of a string
 
@@ -164,6 +174,8 @@ void main(List<String> args) {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find length of a string
 
@@ -173,6 +185,8 @@ let findLength (str: string) =
 // Example usage
 printfn "%d" (findLength "abcd") // Output: 4
 ```
+
+### Go
 
 ```go
 // Write a Go program to find length of a string
@@ -189,6 +203,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find length of a string
 
@@ -198,6 +214,8 @@ main = do
   let str = "abcd"
   print(length str)
 ```
+
+### Java
 
 ```java
 // Write a Java program to find length of a string
@@ -214,6 +232,8 @@ public class FindLengthOfAString {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find length of a string
 
@@ -223,6 +243,8 @@ let lengthOfTheString = string.length;
 
 console.log(lengthOfTheString);
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to find length of a string
@@ -234,6 +256,8 @@ n=length(s)
 
 println("The number of characters in the string: ",n)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find length of a string
@@ -255,6 +279,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find length of a string
 
@@ -264,6 +290,8 @@ $string_len = length($string);
 
 print "Length of String is: $string_len";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find length of a string
@@ -278,6 +306,8 @@ echo findLength('abcd')
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find length of a string
 
@@ -285,12 +315,16 @@ def lengthOfString(s: str) -> int:
     return len(list(s))
 ```
 
+### R
+
 ```r
 # Write a R program to find length of a string
 
 string = 'abcd'
 cat("Length of the string : ", nchar(string))
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find length of a string
@@ -301,6 +335,8 @@ length_of_string = string.length
 
 puts length_of_string
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find length of a string
@@ -317,6 +353,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to find length of a string
 
@@ -330,6 +368,8 @@ object Main
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find length of a string
 
@@ -341,6 +381,8 @@ var string = readLine()!
 
 print(string.length)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find length of a string

@@ -37,6 +37,8 @@ trackId: 508
 description: "Write a program to convert binary to octal."
 ---
 
+## Table of contents
+
 ## Write a program to convert binary to octal
 
 Binary is a base-2 number system. It uses only two digits: 0 and 1. The digits are called bits. A bit is the smallest unit of information in a computer. A bit can be either 0 or 1. A bit can be used to represent a single value, such as 0 or 1, or it can be used to represent a single state, such as on or off.
@@ -54,6 +56,8 @@ Output : 12
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert binary to octal
@@ -125,6 +129,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert binary to octal
 
@@ -165,6 +171,8 @@ public class Binary
 }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert binary to octal
@@ -214,6 +222,8 @@ int main()
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to convert binary to octal
 
@@ -234,6 +244,8 @@ func main() {
 	fmt.Print("Output : ", octalOutput)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert binary to octal
@@ -257,6 +269,8 @@ public class ConvertBinaryToOctal{
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert binary to octal
 
@@ -270,6 +284,8 @@ binaryToOctal(1010);
 console.log("Binary to Octal", binaryToOctal(1010));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert binary to octal
 
@@ -279,6 +295,8 @@ y = parse(Int, x, base=2)
 y = string(y, base=8)
 println("Octal of ", x, ": ", y)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert binary to octal
@@ -311,6 +329,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert binary to octal
 
@@ -318,6 +338,8 @@ print "Enter the binary value : ";
 my $bin_value = oct("0b".<STDIN>);
 printf("Equivalent Octal value : %o\n",$bin_value);
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert binary to octal
@@ -355,6 +377,8 @@ echo strrev($octal) . "\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert binary to octal
 
@@ -373,6 +397,8 @@ while b != 0:
 
 print("The octal conversion of binary number is ", octal)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert binary to octal
@@ -406,6 +432,8 @@ else
   puts "Invalid binary input. Please enter a valid binary number."
 end
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert binary to octal

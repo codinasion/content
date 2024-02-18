@@ -32,6 +32,8 @@ trackId: 2309
 description: "Write a program to find the maximum sum of a contiguous subarray (circular)."
 ---
 
+## Table of contents
+
 ## Write a program to find the maximum sum of a contiguous subarray (circular)
 
 Maximum sum of a circular subarray is the task of finding the contiguous subarray within a circular one-dimensional array of numbers which has the largest sum. For example, for the sequence of values `10, -3, -4, 7, 6, 5, -4, -1;` the contiguous subarray with the largest sum is `7, 6, 5,` with sum `18`.
@@ -42,6 +44,8 @@ Output : 22
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find the maximum sum of a contiguous subarray (circular)
@@ -89,6 +93,8 @@ int main(){
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find the maximum sum of a contiguous subarray (circular)
 
@@ -134,6 +140,8 @@ public class FindMaxContiguousSubarraySumCircular
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find the maximum sum of a contiguous subarray (circular)
 
@@ -167,6 +175,8 @@ int main(){
     return 0;
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to find the maximum sum of a contiguous subarray (circular)
@@ -238,6 +248,8 @@ func stringToIntSlice(input string) ([]int, bool) {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to find the maximum sum of a contiguous subarray (circular)
 
@@ -276,6 +288,8 @@ public class FindMaxContiguousSubarraySumCircular{
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find the maximum sum of a contiguous subarray (circular)
 
@@ -309,6 +323,8 @@ const maxSumSubarrayCircular = nums => {
 var arr = [1, -2, 3, -2, 8, -5, 1, 7];
 console.log(maxSumSubarrayCircular(arr));
 ```
+
+### Python
 
 ```python
 # Write a Python program to find the maximum sum of a contiguous subarray (circular)
@@ -362,6 +378,8 @@ for item in range(n):
 print("Output : ", max_cont_sum(arr, n))
 ```
 
+### R
+
 ```r
 # Write a R program to find the maximum sum of a contiguous subarray (circular)
 
@@ -397,6 +415,8 @@ max_sum <- function(arr) {
 arr <- c(10, -3, -4, 7, 6, 5, -4, -1)
 max_circular_sum(arr)
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find the maximum sum of a contiguous subarray (circular)
@@ -439,6 +459,8 @@ func maxSubarraySumCircular( nums: [Int]) -> Int {
 var arr = [1,-2,3,-2]
 print(maxSubarraySumCircular(nums:arr))
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find the maximum sum of a contiguous subarray (circular)

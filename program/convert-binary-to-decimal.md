@@ -42,6 +42,8 @@ trackId: 1949
 description: "Write a program to convert binary to decimal."
 ---
 
+## Table of contents
+
 ## Write a program to convert binary to decimal
 
 Binary is a base-2 number system. It uses only two digits: 0 and 1. The digits are called bits. A bit is the smallest unit of information in a computer. A bit can be either 0 or 1. A bit can be used to represent a single value, such as 0 or 1, or it can be used to represent a single state, such as on or off.
@@ -62,6 +64,8 @@ Output : 10
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert binary to decimal
@@ -99,6 +103,8 @@ int main(){
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert binary to decimal
 
@@ -125,6 +131,8 @@ namespace Demo {
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to convert binary to decimal
 
@@ -149,6 +157,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert binary to decimal
 
@@ -161,6 +171,8 @@ int convertBinaryToDecimal(int binary) {
   return binaryNumber;
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert binary to decimal
@@ -187,6 +199,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert binary to decimal
 
@@ -208,6 +222,8 @@ public class ConvertBinaryToDecimal {
 	}
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to convert binary to decimal
@@ -243,6 +259,8 @@ console.log(convertBinaryToDecimal(1111))
 */
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert binary to decimal
 
@@ -251,6 +269,8 @@ x = readline()
 y = parse(Int, x, base=2)
 println("Decimal of ", x, ": ", y)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert binary to decimal
@@ -278,6 +298,8 @@ fun BinaryToDecimal(num: Long): Int {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert binary to decimal
 
@@ -289,6 +311,8 @@ $binary = '1010';
 @res = binary2decimal('1010');
 print "Decimal representation of $binary is: ", @res;
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert binary to decimal
@@ -321,6 +345,8 @@ print "Decimal representation of $binary is: ", @res;
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert binary to decimal
 
@@ -336,6 +362,8 @@ while n > 0:
     power = power * 2
 print(decimal)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert binary to decimal
@@ -363,6 +391,8 @@ rescue ArgumentError => e
   puts "Error: #{e.message}"
 end
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to convert binary to decimal
@@ -410,6 +440,8 @@ func convertToDecimal(binary: String) -> Int {
 // Sample output
 let result = convertToDecimal(binary: binaryNumber)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert binary to decimal

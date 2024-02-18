@@ -43,6 +43,8 @@ trackId: 648
 description: "Write a program to convert inches to centimeters."
 ---
 
+## Table of contents
+
 ## Write a program to convert inches to centimeters
 
 1 inch = 2.54 centimeters
@@ -53,6 +55,8 @@ Output : 12.7
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert inches to centimeters
@@ -69,6 +73,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert inches to centimeters
 
@@ -83,6 +89,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert inches to centimeters
@@ -108,6 +116,8 @@ float ConvertToCm(int inches)
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert inches to centimeters
 
@@ -119,6 +129,8 @@ void main(){
   print('Equivalent Centimeter: $cm');
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert inches to centimeters
@@ -136,6 +148,8 @@ func main() {
 	fmt.Println("Week:", (inches * 2.54))
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert inches to centimeters
@@ -157,6 +171,8 @@ class ConvertInchesToCentimeters
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert inches to centimeters
 
@@ -170,6 +186,8 @@ function convertInchesToCentimeters(value) {
 }
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert inches to centimeters
 
@@ -178,6 +196,8 @@ inches = parse(Float64, readline(stdin))
 cm = inches * 2.54
 println("Equivalent Centimeter : ", cm)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert inches to centimeters
@@ -197,6 +217,8 @@ private fun ConvertInchesToCentimeters(inches: Double): Double {
     return cm
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to convert inches to centimeters
@@ -218,6 +240,8 @@ sub inchesToCentimetres
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to convert inches to centimeters
 
@@ -237,6 +261,8 @@ sub inchesToCentimetres
 	print_r(convert_inches_to_centimeters("Hello"));    // null
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert inches to centimeters
 
@@ -247,6 +273,8 @@ print(f"Input  : {inch_value}")
 print(f"Output : {cm_value}")
 ```
 
+### R
+
 ```r
 # Write a R program to convert inches to centimeters
 
@@ -254,6 +282,8 @@ inches = 5
 centimeters = inches * 2.54
 cat("Centimeters: ", centimeters)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert inches to centimeters
@@ -263,6 +293,8 @@ inch = gets.chomp.to_f
 cm = inch*2.54
 print "The value in centimeter : #{cm}"
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to convert inches to centimeters
@@ -275,6 +307,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert inches to centimeters
 
@@ -286,6 +320,8 @@ let centimeters = Double(inch) * 2.54
 
 print(centimeters)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert inches to centimeters

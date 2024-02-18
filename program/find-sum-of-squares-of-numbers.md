@@ -47,6 +47,8 @@ trackId: 5250
 description: "Write a program to find sum of squares of numbers."
 ---
 
+## Table of contents
+
 ## Write a program to find sum of squares of numbers
 
 Suppose you have a list of numbers, and you want to find the sum of the squares of those numbers. For example, if you have the list `[1, 2, 3]`, you want to find the sum of the squares of those numbers, which is `1^2 + 2^2 + 3^2 = 14`.
@@ -57,6 +59,8 @@ Output : 55
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find sum of squares of numbers
@@ -98,6 +102,8 @@ int sum_squares(int input[], int n)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find sum of squares of numbers
 
@@ -126,6 +132,8 @@ namespace exercise
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find sum of squares of numbers
 
@@ -152,6 +160,8 @@ Contributed by : Kartikeya Saini
 */
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find sum of squares of numbers
 
@@ -167,6 +177,8 @@ void main(){
   print(sumOfSq(arr));
 }
 ```
+
+### F#
 
 ```fsharp
 // Write a F# program to find sum of squares of numbers
@@ -186,6 +198,8 @@ let numbers = input.Split(' ') |> Array.toList |> List.map int
 let result = sumOfSquares numbers
 printfn "The sum of squares of the numbers is %d" result
 ```
+
+### Go
 
 ```go
 // Write a Go program to find sum of squares of numbers
@@ -207,6 +221,8 @@ func main(){
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find sum of squares of numbers
 
@@ -224,6 +240,8 @@ main = do
   let result = sumOfSquares numbers
   putStrLn $ "Sum of squares: " ++ show result
 ```
+
+### Java
 
 ```java
 // Write a Java program to find sum of squares of numbers
@@ -258,6 +276,8 @@ public class Main
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find sum of squares of numbers
 
@@ -271,6 +291,8 @@ for (let i = 0; i < input.length; i++) {
 
 console.log(sumOfSquaresOfNumbers);
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to find sum of squares of numbers
@@ -299,6 +321,8 @@ else
 end
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to find sum of squares of numbers
 
@@ -312,6 +336,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find sum of squares of numbers
 
@@ -322,6 +348,8 @@ for my $each (@$array) {
 }
 print $iter_sum;
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find sum of squares of numbers
@@ -344,6 +372,8 @@ echo sumofSquares([1,2,3,4,5]);
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find sum of squares of numbers
 
@@ -355,6 +385,8 @@ for num in numbers:
 print(sum)
 ```
 
+### R
+
 ```r
 # Write a R program to find sum of squares of numbers
 
@@ -363,6 +395,8 @@ square_sum <- sum(numbers^2)
 
 print(paste("The sum of squares of the numbers is:", square_sum))
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find sum of squares of numbers
@@ -376,6 +410,8 @@ end
 findSumOfSquaresOfNumbers [1, 2, 3, 4, 5]
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to find sum of squares of numbers
 
@@ -388,6 +424,8 @@ fn sum_of_squares(numbers: &[i32]) -> i32 {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to find sum of squares of numbers
 
@@ -396,6 +434,8 @@ val sum = numbers.map(num => num * num).sum
 
 println(sum)
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find sum of squares of numbers
@@ -411,6 +451,8 @@ for i in numbers {
 
 print(sum)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find sum of squares of numbers

@@ -38,6 +38,8 @@ trackId: 1236
 description: "Write a program to check armstrong number."
 ---
 
+## Table of contents
+
 ## Write a program to check armstrong number
 
 An Armstrong number is a number that is equal to the sum of cubes of its digits.
@@ -48,6 +50,8 @@ Output : Armstrong Number
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to check armstrong number
@@ -97,6 +101,8 @@ int raise_power(int n, int p) {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to check armstrong number
 
@@ -129,6 +135,8 @@ namespace ArmstrongNumbers
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to check armstrong number
@@ -163,6 +171,8 @@ int main(){
     return 0;
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to check armstrong number
@@ -202,6 +212,8 @@ func main(){
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to check armstrong number
 
@@ -225,6 +237,8 @@ public class CheckArmstrongNumber {
     }
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to check armstrong number
@@ -251,6 +265,8 @@ const checkArmstrongNumber = number => {
 
 console.log(checkArmstrongNumber(153));
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to check armstrong number
@@ -284,6 +300,8 @@ else
 end
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to check armstrong number
 
@@ -316,6 +334,8 @@ private fun CheckArmstrongNumber(number: Int): String {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to check armstrong number
 
@@ -339,6 +359,8 @@ else
 	print "Not an Armstrong Number";
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to check armstrong number
@@ -364,6 +386,8 @@ echo "It is not an armstrong number";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to check armstrong number
 
@@ -379,6 +403,8 @@ if num == sum:
 else:
     print("Output : Non Armstrong Number")
 ```
+
+### R
 
 ```r
 # Write a R program to check armstrong number
@@ -409,6 +435,8 @@ if (result) {
 }
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to check armstrong number
 
@@ -432,6 +460,8 @@ number=STDIN.gets.to_i
 
 puts "#{number} is an Armstrong number? #{isArmstrong(number)}"
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to check armstrong number

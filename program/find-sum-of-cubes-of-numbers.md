@@ -36,6 +36,8 @@ trackId: 853
 description: "Write a program to find sum of cubes of numbers."
 ---
 
+## Table of contents
+
 ## Write a program to find sum of cubes of numbers
 
 Suppose you have a list of numbers, and you want to find the sum of the cubes of those numbers. For example, if you have the list `[1, 2, 3]`, you want to find the sum of the cubes of those numbers, which is `1^3 + 2^3 + 3^3 = 36`.
@@ -46,6 +48,8 @@ Output : 225
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find sum of cubes of numbers
@@ -68,6 +72,8 @@ int main() {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find sum of cubes of numbers
 
@@ -86,6 +92,8 @@ public class SumOfCubes {
    }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find sum of cubes of numbers
@@ -109,6 +117,8 @@ int main() {
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to find sum of cubes of numbers
 
@@ -128,6 +138,8 @@ func main() {
 	fmt.Println(findArraySum([]int{1, 2, 3, 4, 5}))
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find sum of cubes of numbers
@@ -154,6 +166,8 @@ public class FindSumOfCubesOfNumbers {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find sum of cubes of numbers
 
@@ -161,6 +175,8 @@ const sumOfCubes = function (arr) {
   return arr.map(x => (x *= x * x)).reduce((a, b) => a + b);
 };
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find sum of cubes of numbers
@@ -188,6 +204,8 @@ private fun FindSumOfCubesOfNumbers(args: List<String>): Double {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find sum of cubes of numbers
 
@@ -198,6 +216,8 @@ for my $each (@$array) {
 }
 print $iter_sum;
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find sum of cubes of numbers
@@ -216,6 +236,8 @@ echo "Sum of cubes is: $sum";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find sum of cubes of numbers
 
@@ -229,6 +251,8 @@ print(
     ),
 )
 ```
+
+### R
 
 ```r
 # Write a R program to find sum of cubes of numbers
@@ -246,6 +270,8 @@ cat("Input Numbers: ", inputNumbers, "\n")
 cat("Sum of Cubes  : ", outputSum, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find sum of cubes of numbers
 
@@ -255,6 +281,8 @@ end
 
 findSumOfCubesOfNumbers [1,2,3,4,5]
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find sum of cubes of numbers

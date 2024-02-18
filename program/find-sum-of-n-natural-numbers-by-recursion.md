@@ -34,6 +34,8 @@ trackId: 2822
 description: "Write a program to find sum of n natural numbers by recursion."
 ---
 
+## Table of contents
+
 ## Write a program to find sum of n natural numbers by recursion
 
 ```
@@ -42,6 +44,8 @@ Output : 15
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find sum of n natural numbers by recursion
@@ -66,6 +70,8 @@ int sumByRecursion(int n) {
     return n;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find sum of n natural numbers by recursion
@@ -94,6 +100,8 @@ static int CalcuSum(int min, int val)
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find sum of n natural numbers by recursion
 
@@ -117,6 +125,8 @@ return 0;
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find sum of n natural numbers by recursion
 
@@ -127,6 +137,8 @@ let rec sum last first=
 let result = sum 5 0
 Console.WriteLine("The sum of first 5 integers is {0}\t", result)
 ```
+
+### Go
 
 ```go
 // Write a Go program to find sum of n natural numbers by recursion
@@ -144,6 +156,8 @@ func main() {
 	println(findSumOfNNaturalNumbersByRecursion(5))
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find sum of n natural numbers by recursion
@@ -170,6 +184,8 @@ class GFG
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find sum of n natural numbers by recursion
 
@@ -183,6 +199,8 @@ function sumOfNNaturalNumber(num) {
 
 console.log(sumOfNNaturalNumber(7));
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find sum of n natural numbers by recursion
@@ -210,6 +228,8 @@ private fun addNumbers(num: Int): Int {
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find sum of n natural numbers by recursion
 
@@ -227,6 +247,8 @@ echo Sum(5)
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find sum of n natural numbers by recursion
 
@@ -238,6 +260,8 @@ def recursive_sum(n: int) -> int:
 
 print(recursive_sum(int(input())))
 ```
+
+### R
 
 ```r
 # Write a R program to find sum of n natural numbers by recursion
@@ -251,6 +275,8 @@ sum<-function(n){
 }
 sum(5)
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find sum of n natural numbers by recursion
@@ -268,6 +294,8 @@ fn sum_of_n_natural_numbers(n: i32) -> i32 {
     return n + sum_of_n_natural_numbers(n - 1);
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find sum of n natural numbers by recursion

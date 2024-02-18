@@ -42,6 +42,8 @@ trackId: 4521
 description: "Write a program to check integer or float."
 ---
 
+## Table of contents
+
 ## Write a program to check integer or float
 
 ```
@@ -50,6 +52,8 @@ Output : Integer
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to check integer or float
@@ -101,6 +105,8 @@ int main() {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to check integer or float
 
@@ -129,6 +135,8 @@ namespace NumCheck
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to check integer or float
@@ -174,6 +182,8 @@ int main() {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to check integer or float
 
@@ -186,6 +196,8 @@ void main() {
           : "Unknown");
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to check integer or float
@@ -224,6 +236,8 @@ func main() {
 
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to check integer or float
@@ -265,6 +279,8 @@ public class CheckIntegerOrFloat {
 }
 ```
 
+### JavaScript
+
 ````javascript
 // Write a JavaScript program to check integer or float
 
@@ -290,6 +306,8 @@ console.log(CheckIntegerOrFloat(2) + " // Integer");
 console.log(CheckIntegerOrFloat(5.3) + " // Float");
 ````
 
+### Julia
+
 ```julia
 # Write a Julia program to check integer or float
 
@@ -302,6 +320,8 @@ else
     println("Invalid Type")
 end
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to check integer or float
@@ -333,6 +353,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to check integer or float
 
@@ -341,6 +363,8 @@ my $input = <STDIN>;
 print "\nGiven number is Integer\n" if ($input =~/^-?\d+$/);
 print "\nGiven number is Float\n" if ($input =~/^-?\d*\.\d+$/);
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to check integer or float
@@ -356,6 +380,8 @@ echo checkIntegerOrFloat(1);
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to check integer or float
 
@@ -369,6 +395,8 @@ def check_integer_or_float(input_str: str) -> None:
 guess = input()
 check_integer_or_float(guess)
 ```
+
+### R
 
 ```r
 # Write a R program to check integer or float
@@ -390,6 +418,8 @@ result <- checkNumberType(inputNumber)
 cat("Input:", inputNumber, "\nOutput:", result, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to check integer or float
 
@@ -400,6 +430,8 @@ else
     print 'Float'
 end
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to check integer or float
@@ -489,6 +521,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to check integer or float
 
@@ -507,6 +541,8 @@ object intergerOrFloat {
   }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to check integer or float
@@ -531,6 +567,8 @@ if let userInput = readLine() {
     print("Invalid input")
 }
 ```
+
+### TypeScript
 
 ````typescript
 // Write a TypeScript program to check integer or float

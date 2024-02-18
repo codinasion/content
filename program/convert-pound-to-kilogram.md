@@ -48,6 +48,8 @@ trackId: 6887
 description: "Write a program to convert pound to kilogram."
 ---
 
+## Table of contents
+
 ## Write a program to convert pound to kilogram
 
 1 pound = 0.453592 kg
@@ -58,6 +60,8 @@ Output : 0.453592
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert pound to kilogram
@@ -78,6 +82,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert pound to kilogram
 
@@ -91,6 +97,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert pound to kilogram
@@ -110,6 +118,8 @@ cout<<"the value in kilogram ="<<.43592*n<<"kg"<<endl;
  }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert pound to kilogram
 
@@ -123,6 +133,8 @@ void main(){
 
 }
 ```
+
+### F#
 
 ```fsharp
 // Write a F# program to convert pound to kilogram
@@ -140,6 +152,8 @@ let main () =
 
 main()
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert pound to kilogram
@@ -166,6 +180,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to convert pound to kilogram
 
@@ -177,6 +193,8 @@ main = do
 
 poundsTokilos pounds = pounds * 0.453592
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert pound to kilogram
@@ -201,6 +219,8 @@ public class ConvertPoundToKilogram {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert pound to kilogram
 
@@ -211,6 +231,8 @@ function poundToKilogram(pounds) {
 
 console.log(poundToKilogram(1));
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to convert pound to kilogram
@@ -225,6 +247,8 @@ kg=pounds*0.453592
 println("The weight in kilograms= ", kg)
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to convert pound to kilogram
 
@@ -238,6 +262,8 @@ fun poundToKg(wtPound: Double){
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert pound to kilogram
 
@@ -249,6 +275,8 @@ my $pounds = <STDIN>;
 my $kg = $pounds * 0.453592;
 print "Equivalent Kilogram : ".$kg, "\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert pound to kilogram
@@ -268,6 +296,8 @@ echo $weightInPounds . ' pounds is equal to ' . $weightInKilograms . ' kilograms
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert pound to kilogram
 
@@ -280,6 +310,8 @@ kilograms = pounds * 0.453592
 # print output
 print(str(pounds) + " pounds is " + str(kilograms) + " kilograms")
 ```
+
+### R
 
 ```r
 # Write a R program to convert pound to kilogram
@@ -295,6 +327,8 @@ kilograms <- pounds / 2.20462
 cat(paste(pounds, "pounds is", round(kilograms, 2), "kilograms\n"))
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert pound to kilogram
 
@@ -309,6 +343,8 @@ if $PROGRAM_NAME == __FILE__
   puts "#{pounds} pounds is #{poundToKilogram(pounds)} kilogram"
 end
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert pound to kilogram
@@ -330,6 +366,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert pound to kilogram
 
@@ -344,6 +382,8 @@ object poundsToKilogram{
   }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to convert pound to kilogram
@@ -361,6 +401,8 @@ if let pounds = Double(input ?? ""){
     print("Invalid Input. Please enter a number.")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert pound to kilogram

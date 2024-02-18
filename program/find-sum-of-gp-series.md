@@ -48,6 +48,8 @@ trackId: 4971
 description: "Write a program to find sum of gp series."
 ---
 
+## Table of contents
+
 ## Write a program to find sum of gp series
 
 A geometric progression (GP) is a sequence of numbers where each term after the first is found by multiplying the previous one by a fixed, non-zero number called the common ratio. The nth term of a GP is given by the formula a<sub>n</sub> = a<sub>1</sub>r<sup>n-1</sup> where a<sub>1</sub> is the first term and r is the common ratio.
@@ -58,6 +60,8 @@ Output : 54
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find sum of gp series
@@ -82,6 +86,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find sum of gp series
 
@@ -104,6 +110,8 @@ class GP {
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find sum of gp series
@@ -145,6 +153,8 @@ Contributed by : Kartikeya Saini
 */
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find sum of gp series
 
@@ -168,6 +178,8 @@ double calculateGPSum(int a1, int r, int n) {
   return a1 * (pow(r, n) - 1) / (r - 1);
 }
 ```
+
+### F#
 
 ```fsharp
 // Write a F# program to find sum of gp series
@@ -213,6 +225,8 @@ let n =
 printfn "Sum of GP series: %f" (sumOfGP a r n)
 ```
 
+### Go
+
 ```go
 // Write a Go program to find sum of gp series
 
@@ -240,6 +254,8 @@ func main(){
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find sum of gp series
 
@@ -266,6 +282,8 @@ wordsWhen p s = case dropWhile p s of
     s' -> w : wordsWhen p s''
         where (w, s'') = break p s'
 ```
+
+### Java
 
 ```java
 // Write a Java program to find sum of gp series
@@ -297,6 +315,8 @@ public class findgpseriessum {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find sum of gp series
 
@@ -322,6 +342,8 @@ function sumOfGpSeries(firstTerm, commonRatio, numOfTerms) {
 // console.log(sumOfGpSeries(0.5, 20, Infinity))
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to find sum of gp series
 
@@ -340,6 +362,8 @@ fun findSumOfGP(a1: Int, r: Int, n: Int): Int {
     return sum
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find sum of gp series
@@ -360,6 +384,8 @@ my $n = 3;
 
 print "Sum of the GP series: ", sum_of_gp($a1, $r, $n), "\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find sum of gp series
@@ -384,6 +410,8 @@ echo(sumOfGP(2, 3, 3));
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find sum of gp series
 
@@ -401,6 +429,8 @@ if __name__ == "__main__":
     print("The sum of the given gp series is ")
     print(findSumOfGpSeries(firstNumber, ratio, length))
 ```
+
+### R
 
 ```r
 # Write a R program to find sum of gp series
@@ -425,6 +455,8 @@ result <- sum_of_gp(a1, r, n)
 cat("Sum of the GP series:", result, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find sum of gp series
 
@@ -443,6 +475,8 @@ n = 3
 puts "Sum of the GP series: #{sum_of_gp(a1, r, n)}"
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to find sum of gp series
 
@@ -458,6 +492,8 @@ fn main() {
     println!("{}", sum_of_gp(a, r, n));
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find sum of gp series
@@ -488,6 +524,8 @@ object GpSumCalculator {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find sum of gp series
 
@@ -511,6 +549,8 @@ let n = 3      // Number of terms
 let result = sumOfGP(a1: a1, r: r, n: n)
 print("Sum of the GP series:", result)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find sum of gp series

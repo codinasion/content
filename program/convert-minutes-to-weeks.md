@@ -44,6 +44,8 @@ trackId: 1004
 description: "Write a program to convert minutes to weeks."
 ---
 
+## Table of contents
+
 ## Write a program to convert minutes to weeks
 
 1 week = 7 days = 168 hours = 10080 minutes
@@ -54,6 +56,8 @@ Output : 5
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert minutes to weeks
@@ -75,6 +79,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert minutes to weeks
 
@@ -89,6 +95,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert minutes to weeks
@@ -108,6 +116,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert minutes to weeks
 
@@ -120,6 +130,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert minutes to weeks
 
@@ -130,6 +142,8 @@ let weeks =  minutestoWeeks 50400
 
 printfn "Equivalent weeks : %d" weeks
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert minutes to weeks
@@ -148,6 +162,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert minutes to weeks
 
@@ -160,6 +176,8 @@ public class ConvertMinutesToWeeks {
     }
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to convert minutes to weeks
@@ -176,6 +194,8 @@ function ConvertMinutesToWeeks(minutes) {
 console.log(ConvertMinutesToWeeks(50400) + " weeks");
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert minutes to weeks
 
@@ -186,6 +206,8 @@ weeks = round((minutes / 10080); digits = 0)
 weeks = convert(Int, weeks)
 println(minutes, " minutes equals ", weeks, " complete weeks")
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert minutes to weeks
@@ -211,6 +233,8 @@ private fun ConvertMinutesToWeeks(minutes: Double): Double {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert minutes to weeks
 
@@ -222,6 +246,8 @@ my $minutes = <STDIN>;
 my $weeks = $minutes / 10080;
 print $minutes." minutes is ".$weeks." weeks", "\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert minutes to weeks
@@ -236,6 +262,8 @@ function convert_minutes_to_weeks($minutes)
 echo convert_minutes_to_weeks(50400);
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert minutes to weeks
 
@@ -245,6 +273,8 @@ if __name__ == "__main__":
     print(weeks)
 ```
 
+### R
+
 ```r
 # Write a R program to convert minutes to weeks
 
@@ -252,6 +282,8 @@ minutes = 50400
 weeks = minutes / 10080
 cat("Weeks: ", weeks)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert minutes to weeks
@@ -268,6 +300,8 @@ if $PROGRAM_NAME == __FILE__
 end
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to convert minutes to weeks
 
@@ -280,6 +314,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert minutes to weeks
 
@@ -290,6 +326,8 @@ object HelloWorld {
 	}
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to convert minutes to weeks
@@ -302,6 +340,8 @@ var minutes = 50400
 var weeks = minutes / 10080
 print("Weeks: ", weeks)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert minutes to weeks

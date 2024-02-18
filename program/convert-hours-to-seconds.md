@@ -44,6 +44,8 @@ trackId: 1152
 description: "Write a program to convert hours to seconds."
 ---
 
+## Table of contents
+
 ## Write a program to convert hours to seconds
 
 1 hour = 60 minutes = 3600 seconds
@@ -54,6 +56,8 @@ Output : 18000
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert hours to seconds
@@ -71,6 +75,8 @@ int main(){
 //Contributed by Raghav Garg
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert hours to seconds
 
@@ -85,6 +91,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert hours to seconds
@@ -105,6 +113,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert hours to seconds
 
@@ -117,6 +127,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert hours to seconds
 
@@ -127,6 +139,8 @@ let seconds = hoursToSeconds 5
 
 printfn "Equivalent Seconds : %d" seconds
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert hours to seconds
@@ -150,6 +164,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert hours to seconds
 
@@ -165,6 +181,8 @@ public class ConvertHoursToSeconds {
     }
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to convert hours to seconds
@@ -182,6 +200,8 @@ function HoursToSeconds(hours) {
 console.log(HoursToSeconds(5) + " seconds");
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert hours to seconds
 
@@ -190,6 +210,8 @@ hours = parse(Float64, readline(stdin))
 seconds = hours * 3600
 println("Equivalent seconds : ", seconds)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert hours to seconds
@@ -214,6 +236,8 @@ private fun ConvertHoursToSeconds(hr: Int): Int {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert hours to seconds
 
@@ -225,6 +249,8 @@ my $hours = <STDIN>;
 my $seconds = $hours * 3600;
 print $hours." hours is ".$seconds." seconds", "\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert hours to seconds
@@ -238,6 +264,8 @@ echo "Seconds :: $x1.\n";
  ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert hours to seconds
 
@@ -248,6 +276,8 @@ seconds = hours * 60 * 60
 print(seconds)
 ```
 
+### R
+
 ```r
 # Write a R program to convert hours to seconds
 
@@ -256,6 +286,8 @@ hours = as.integer(hours);
 seconds = hours * 3600
 cat("seconds: ", seconds)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert hours to seconds
@@ -272,6 +304,8 @@ if $PROGRAM_NAME == __FILE__
 end
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to convert hours to seconds
 
@@ -284,6 +318,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert hours to seconds
 
@@ -295,6 +331,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert hours to seconds
 
@@ -305,6 +343,8 @@ print("Enter hours: ")
 var hours = Int(readLine()!)!
 print("Seconds: ", hours * 3600)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert hours to seconds

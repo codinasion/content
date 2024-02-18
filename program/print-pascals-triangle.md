@@ -22,6 +22,8 @@ trackId: 3988
 description: "Write a program to print pascals triangle."
 ---
 
+## Table of contents
+
 ## Write a program to print pascal's triangle
 
 Pascal's triangle is a triangular array of the binomial coefficients. Write a function that takes an integer value `n` as input and prints first `n` lines of the Pascal's triangle.
@@ -38,6 +40,8 @@ Output :
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print pascals triangle
@@ -83,6 +87,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to print pascals triangle
 
@@ -109,6 +115,8 @@ namespace PascalTriangle {
    }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to print pascals triangle
@@ -143,6 +151,8 @@ main(){
    genPascalsTriangle(n);
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to print pascals triangle
@@ -185,6 +195,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to print pascals triangle
 
@@ -215,6 +227,8 @@ public class PrintPascalTriangle{
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to print pascals triangle
 
@@ -238,6 +252,8 @@ function pascalTriangle(num) {
 
 console.log(pascalTriangle(5));
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to print pascals triangle
@@ -278,6 +294,8 @@ foreach my $i (1..$n) {
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to print pascals triangle
 
@@ -310,6 +328,8 @@ foreach my $i (1..$n) {
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to print pascals triangle
 
@@ -327,6 +347,8 @@ for line in triangle[:n]:
     for number in line:
         print(number, end=" ")
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to print pascals triangle
@@ -366,6 +388,8 @@ end
 n = 5
 print_pascals_triangle(n)
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to print pascals triangle
@@ -424,6 +448,8 @@ fn main() {
     	print_pascals_triangle(n);
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print pascals triangle

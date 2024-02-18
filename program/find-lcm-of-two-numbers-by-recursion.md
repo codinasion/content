@@ -37,6 +37,8 @@ trackId: 405
 description: "Write a program to find lcm of two numbers by recursion."
 ---
 
+## Table of contents
+
 ## Write a program to find lcm of two numbers by recursion
 
 LCM (Least Common Multiple) of two numbers is the smallest number that can be divided by both numbers. For example, the LCM of 15 and 20 is 60 and LCM of 10 and 15 is 30.
@@ -47,6 +49,8 @@ Output : 36
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find lcm of two numbers by recursion
@@ -119,6 +123,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find lcm of two numbers by recursion
 
@@ -141,6 +147,8 @@ class LCM {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find lcm of two numbers by recursion
@@ -177,6 +185,8 @@ int main()
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to find lcm of two numbers by recursion
 
@@ -203,6 +213,8 @@ func lcm(a int, b int) int {
 	return (a / gcd(a, b)) * b
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find lcm of two numbers by recursion
@@ -232,6 +244,8 @@ class FindLcmOfTwoNumbersByRecursion
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find lcm of two numbers by recursion
 
@@ -241,6 +255,8 @@ export function findLcmOfTwoNumbersByRecursion(first, second, lcm = 1) {
   return findLcmOfTwoNumbersByRecursion(first, second, ++lcm);
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find lcm of two numbers by recursion
@@ -265,6 +281,8 @@ sub lcm {
 print lcm(12, 18);
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find lcm of two numbers by recursion
 
@@ -284,6 +302,8 @@ echo(lcm(12, 18));
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to find lcm of two numbers by recursion
@@ -308,6 +328,8 @@ print("num2 : ", num2)
 
 print("Output : ", lcm(num1, num2))
 ```
+
+### R
 
 ```r
 # Write a R program to find lcm of two numbers by recursion
@@ -334,6 +356,8 @@ result <- lcm(num1, num2)
 cat("The LCM of", num1, "and", num2, "is:", result, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find lcm of two numbers by recursion
 
@@ -356,6 +380,8 @@ result = LCM(number1, number2,1);
 print "LCM is: ",result;
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to find lcm of two numbers by recursion
 
@@ -367,6 +393,8 @@ object FINDLCM extends App{
     println(s"LCM of 12 and 18 is: ${lcm(12, 18)}")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find lcm of two numbers by recursion

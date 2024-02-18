@@ -33,6 +33,8 @@ trackId: 1787
 description: "Write a program to find sum of cubes of numbers by recursion."
 ---
 
+## Table of contents
+
 ## Write a program to find sum of cubes of numbers by recursion
 
 ```
@@ -41,6 +43,8 @@ Output : 225
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find sum of cubes of numbers by recursion
@@ -65,6 +69,8 @@ int addNumbers(int n) {
     return n;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find sum of cubes of numbers by recursion
@@ -92,6 +98,8 @@ public class FindSumOfCubesOfNumbersByRecursion
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find sum of cubes of numbers by recursion
 
@@ -115,6 +123,8 @@ int main()
 
 //Contributed by Raghav Garg
 ```
+
+### Go
 
 ```go
 // Write a Go program to find sum of cubes of numbers by recursion
@@ -147,6 +157,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to find sum of cubes of numbers by recursion
 
@@ -173,6 +185,8 @@ public class FindSumOfCubesOfNumbersByRecursion {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find sum of cubes of numbers by recursion
 
@@ -188,6 +202,8 @@ function FindSumOfCubesOfNumbersByRecursion(num) {
 
 console.log(FindSumOfCubesOfNumbersByRecursion(12345));
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find sum of cubes of numbers by recursion
@@ -220,6 +236,8 @@ private fun sumRecursion(index: Int, nums: MutableList<Int>): Int {
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find sum of cubes of numbers by recursion
 
@@ -235,6 +253,8 @@ private fun sumRecursion(index: Int, nums: MutableList<Int>): Int {
   }
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to find sum of cubes of numbers by recursion
@@ -278,6 +298,8 @@ def main():
 
 main()
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find sum of cubes of numbers by recursion

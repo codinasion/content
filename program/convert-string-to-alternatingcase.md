@@ -46,6 +46,8 @@ trackId: 5316
 description: "Write a program to convert string to alternatingcase."
 ---
 
+## Table of contents
+
 ## Write a program to convert string to alternatingcase
 
 Alternatingcase is a style of writing in which each letter is converted to its opposite case.
@@ -56,6 +58,8 @@ Output : "hElLo WoRlD"
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert string to alternatingcase
@@ -92,6 +96,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert string to alternatingcase
 
@@ -115,6 +121,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert string to alternatingcase
@@ -151,6 +159,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert string to alternatingcase
 
@@ -180,6 +190,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert string to alternatingcase
 
@@ -206,6 +218,8 @@ let result = alternatingCase "hello world"
 printfn "%s" result
 ```
 
+### Go
+
 ```go
 // Write a Go program to convert string to alternatingcase
 
@@ -230,6 +244,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to convert string to alternatingcase
 
@@ -252,6 +268,8 @@ main = do
   putStrLn $ toAlternatingCase input
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert string to alternatingcase
 
@@ -271,6 +289,8 @@ public class alternatingCase {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert string to alternatingcase
 
@@ -284,6 +304,8 @@ function alternatingCase(str) {
 console.log(alternatingCase("hello world"));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert string to alternatingcase
 
@@ -291,6 +313,8 @@ print("Enter a string: ")
 str = readline(stdin)
 println(String([i%2 == 0 ? uppercase(c) : c for (i, c) in enumerate(str)]))
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert string to alternatingcase
@@ -313,6 +337,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert string to alternatingcase
 
@@ -333,6 +359,8 @@ foreach my $i (@spl)
     $index++;
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert string to alternatingcase
@@ -368,6 +396,8 @@ echo alternatingCase("hello world")
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert string to alternatingcase
 
@@ -381,6 +411,8 @@ for idx in range(len(input)):
 
 print("The alternate case string : " + str(res))
 ```
+
+### R
 
 ```r
 # Write a R program to convert string to alternatingcase
@@ -413,6 +445,8 @@ cat("Input String: ", input_str, "\n")
 cat("Output String: ", output_str, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert string to alternatingcase
 
@@ -426,6 +460,8 @@ end
 
 stringAlternateCase "hello world"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert string to alternatingcase
@@ -461,6 +497,8 @@ fn main(){
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert string to alternatingcase
 
@@ -481,6 +519,8 @@ fun main() {
     println("Alternating Case String: $convertedString")
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to convert string to alternatingcase
@@ -511,6 +551,8 @@ let inputString = "hello world"
 let outputString = toAlternatingCase(inputString)
 print(outputString)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert string to alternatingcase

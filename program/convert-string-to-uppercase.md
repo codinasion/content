@@ -42,6 +42,8 @@ trackId: 3526
 description: "Write a program to convert string to uppercase."
 ---
 
+## Table of contents
+
 ## Write a program to convert string to uppercase
 
 ```
@@ -50,6 +52,8 @@ Output : "HELLO WORLD"
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert string to uppercase
@@ -74,6 +78,8 @@ int main(){
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert string to uppercase
 
@@ -92,6 +98,8 @@ namespace Uppercase {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert string to uppercase
@@ -118,6 +126,8 @@ int main() {
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to convert string to uppercase
 
@@ -135,6 +145,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert string to uppercase
 
@@ -151,6 +163,8 @@ public class ConvertStringToUppercase {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert string to uppercase
 
@@ -159,6 +173,8 @@ const convertStringToUpperCase = string => {
 };
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert string to uppercase
 
@@ -166,6 +182,8 @@ println("Enter a string: ")
 s = readline()
 println("Given string in uppercase: ", uppercase(s))
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert string to uppercase
@@ -186,12 +204,16 @@ private fun ConvertStringToUppercase(args: String): String {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert string to uppercase
 
 my $str = <STDIN>;
 print uc $str;
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert string to uppercase
@@ -212,11 +234,15 @@ echo "<br>\n Output: $toUpperCase";
 </html>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert string to uppercase
 
 print(input().upper())
 ```
+
+### R
 
 ```r
 # Write a R program to convert string to uppercase
@@ -225,6 +251,8 @@ string = "test hello world"
 cat(toupper(string))
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert string to uppercase
 
@@ -232,6 +260,8 @@ print "Enter string : \n"
 word = gets.chomp
 print(word.upcase)
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to convert string to uppercase
@@ -243,6 +273,8 @@ def convert_to_uppercase(string: String): String = {
 println(convert_to_uppercase("Hello World"))
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert string to uppercase
 
@@ -253,6 +285,8 @@ let str = "hello world"
 let uppercased = String(str.uppercased())
 print(uppercased)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert string to uppercase

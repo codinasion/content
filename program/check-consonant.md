@@ -39,6 +39,8 @@ trackId: 1054
 description: "Write a program to check consonant."
 ---
 
+## Table of contents
+
 ## Write a program to check consonant
 
 Check if a character is a consonant.
@@ -49,6 +51,8 @@ Output : Consonant
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to check consonant
@@ -64,6 +68,8 @@ int main(){
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to check consonant
@@ -93,6 +99,8 @@ public class LFC
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to check consonant
@@ -127,6 +135,8 @@ int main(){
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to check consonant
 
@@ -152,6 +162,8 @@ func main() {
 	}
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to check consonant
@@ -183,6 +195,8 @@ class CheckConsonant
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to check consonant
 
@@ -199,6 +213,8 @@ function checkConsonants(str) {
 console.log("Given string is", checkConsonants("b"));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to check consonant
 
@@ -212,6 +228,8 @@ else
     println("Consonant")
 end
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to check consonant
@@ -234,6 +252,8 @@ private fun CheckConsonant(ch: Char): String {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to check consonant
 
@@ -251,6 +271,8 @@ sub checkConsonants{
 
 checkConsonants("b");
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to check consonant
@@ -270,6 +292,8 @@ if($input != 'a' &&  $input != 'A' && $input != 'e' && $input != 'i' && $input !
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to check consonant
 
@@ -280,6 +304,8 @@ if char not in vowels:
 else:
     print("Not a Consonant")
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to check consonant
@@ -306,6 +332,8 @@ object HelloWorld {
  }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to check consonant
 
@@ -322,6 +350,8 @@ if consonants.contains(given) {
   print(given + " is not a consonant")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to check consonant

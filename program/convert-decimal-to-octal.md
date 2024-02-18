@@ -38,6 +38,8 @@ trackId: 976
 description: "Write a program to convert decimal to octal."
 ---
 
+## Table of contents
+
 ## Write a program to convert decimal to octal
 
 Octal is a base-8 number system. It uses only eight digits: 0, 1, 2, 3, 4, 5, 6, and 7. The digits are called octits. An octit is the smallest unit of information in a computer. An octit can be used to represent a single value, such as 0, 1, 2, 3, 4, 5, 6, or 7, or it can be used to represent a single state, such as on or off.
@@ -57,6 +59,8 @@ Output : 12
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert decimal to octal
@@ -91,6 +95,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert decimal to octal
 
@@ -113,6 +119,8 @@ class DecimalToOctal {
    }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert decimal to octal
@@ -141,6 +149,8 @@ int main(){
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert decimal to octal
 
@@ -150,6 +160,8 @@ void main() {
   print("Octal Equivalent:"+octalNumber);
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert decimal to octal
@@ -172,6 +184,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert decimal to octal
 
@@ -193,6 +207,8 @@ class ConvertDecimalToOctal {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert decimal to octal
 
@@ -203,6 +219,8 @@ function decimalToOctal(num) {
 console.log("Decimal to Octal conversion", decimalToOctal(20));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert decimal to octal
 
@@ -212,6 +230,8 @@ y = parse(Int, x)
 y = string(y, base=8)
 println("Octal of ", x, ": ", y)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert decimal to octal
@@ -235,6 +255,8 @@ fun convertDecimalToOctal(number: Int): Int {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert decimal to octal
 
@@ -252,6 +274,8 @@ my $octal = sprintf("%s%o", $sign, $decimal);
 print("Octal Equivalent: $octal\n");
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to convert decimal to octal
 
@@ -263,6 +287,8 @@ print("Octal Equivalent: $octal\n");
     echo "The octal equivalent of $decimal_number is: $octal_number";
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to convert decimal to octal
@@ -291,6 +317,8 @@ except:
     print("Please enter a valid decimal number.")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert decimal to octal
 
@@ -300,6 +328,8 @@ end
 
 decimalToOctal(10)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert decimal to octal

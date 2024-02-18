@@ -47,6 +47,8 @@ trackId: 7471
 description: "Write a program to find roots of quadratic equation."
 ---
 
+## Table of contents
+
 ## Write a program to find roots of quadratic equation
 
 Use the quadratic formula to find the roots of the quadratic equation
@@ -61,6 +63,8 @@ Output : -1 -1
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find roots of quadratic equation
@@ -95,6 +99,8 @@ int main() {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find roots of quadratic equation
 
@@ -118,6 +124,8 @@ public class FindRootsOfQuadraticEquation
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find roots of quadratic equation
@@ -159,6 +167,8 @@ int main() {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find roots of quadratic equation
 
@@ -197,6 +207,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find roots of quadratic equation
 
@@ -221,6 +233,8 @@ match findRoots (a, b, c) with
 | None -> printfn "No real roots" // If there are no real roots, print the message
 | Some (root1, root2) -> printfn "%.0f %.0f" root1 root2 // Print the roots as integers
 ```
+
+### Go
 
 ```go
 // Write a Go program to find roots of quadratic equation
@@ -255,6 +269,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find roots of quadratic equation
 
@@ -274,6 +290,8 @@ main = do
     let (root1, root2) = quadraticRoots 1 2 1
     putStrLn $ "Roots: " ++ show [root1, root2]
 ```
+
+### Java
 
 ```java
 // Write a Java program to find roots of quadratic equation
@@ -297,6 +315,8 @@ class FindRootsOfQuadraticEquation
     }
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to find roots of quadratic equation
@@ -323,6 +343,8 @@ function findQuadEquationRoots(a, b, c) {
 const solutions = findQuadEquationRoots(1, -5, 6);
 console.log(solutions);
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to find roots of quadratic equation
@@ -359,6 +381,8 @@ c = parse(Float64, c_f)
 
 find_roots(a,b,c)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find roots of quadratic equation
@@ -400,6 +424,8 @@ fun main(args: Array<String>) {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find roots of quadratic equation
 
@@ -428,6 +454,8 @@ if ($discriminant >= 0) {
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find roots of quadratic equation
 
@@ -446,6 +474,8 @@ $outputNegative = (-$inputB - pow($sumD, 0.5)) / (2 * $inputA);
 
 echo "x = $outputPositive &nbsp; or &nbsp; x = $outputNegative";
 ```
+
+### Python
 
 ```python
 # Write a Python program to find roots of quadratic equation
@@ -468,6 +498,8 @@ root2 = (-b+cmath.sqrt(d))/(2*a)
 
 print('The roots of quadratic equations are: ',root1, root2)
 ```
+
+### R
 
 ```r
 # Write a R program to find roots of quadratic equation
@@ -500,6 +532,8 @@ if (is.null(roots)) {
 }
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find roots of quadratic equation
 
@@ -527,6 +561,8 @@ else
 end
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to find roots of quadratic equation
 
@@ -547,6 +583,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to find roots of quadratic equation
 
@@ -562,6 +600,8 @@ object Main {
   }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find roots of quadratic equation
@@ -581,6 +621,8 @@ let coefficients = input.components(separatedBy: " ").compactMap(Double.init)
 let (root1, root2) = findRoots(a: coefficients[0], b: coefficients[1], c: coefficients[2])
 print("\(root1) \(root2)")
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find roots of quadratic equation

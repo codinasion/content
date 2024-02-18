@@ -39,6 +39,8 @@ trackId: 733
 description: "Write a program to find sum of digits of a number by recursion."
 ---
 
+## Table of contents
+
 ## Write a program to find sum of digits of a number by recursion
 
 Suppose we have a number `n` and we want to find the sum of its digits. For example, if `n = 123`, then the sum of its digits is `1 + 2 + 3 = 6`.
@@ -51,6 +53,8 @@ Output : 6
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find sum of digits of a number by recursion
@@ -74,6 +78,8 @@ int main(){
 //Contributed by Raghav Garg
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find sum of digits of a number by recursion
 
@@ -95,6 +101,8 @@ public static void Main()
 }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find sum of digits of a number by recursion
@@ -125,6 +133,8 @@ int main() {
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to find sum of digits of a number by recursion
 
@@ -147,6 +157,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to find sum of digits of a number by recursion
 
@@ -167,6 +179,8 @@ public class FindSumOfDigitsOfANumberByRecursion {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find sum of digits of a number by recursion
 
@@ -183,6 +197,8 @@ sumOfDigits(12345);
 console.log("Sum of Digits of sumOfDigits(12345) is", sumOfDigits(12345));
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to find sum of digits of a number by recursion
 
@@ -198,6 +214,8 @@ class FindSumOfDigitsOfANumberByRecursion {
     }
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find sum of digits of a number by recursion
@@ -228,6 +246,8 @@ if (scalar @ARGV > 0) {
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find sum of digits of a number by recursion
 
@@ -244,6 +264,8 @@ if (scalar @ARGV > 0) {
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find sum of digits of a number by recursion
 
@@ -257,6 +279,8 @@ num = int(input())
 result = sum_of_digit(num)
 print(result)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find sum of digits of a number by recursion
@@ -276,6 +300,8 @@ number = gets.chomp.to_i;
 result = SumOfDigits(number, 0);
 print "Sum of digits: ",result;
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find sum of digits of a number by recursion
@@ -307,6 +333,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to find sum of digits of a number by recursion
 
@@ -317,6 +345,8 @@ println(calc(123))
 }
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find sum of digits of a number by recursion

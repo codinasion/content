@@ -43,6 +43,8 @@ trackId: 1182
 description: "Write a program to convert inches to miles."
 ---
 
+## Table of contents
+
 ## Write a program to convert inches to miles
 
 1 mile = 63360 inches
@@ -53,6 +55,8 @@ Output : 5
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert inches to miles
@@ -68,6 +72,8 @@ int main(){
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert inches to miles
 
@@ -82,6 +88,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert inches to miles
@@ -109,6 +117,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert inches to miles
 
@@ -121,6 +131,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert inches to miles
 
@@ -130,6 +142,8 @@ let inchesToMiles (inches: int) =
 let miles = inchesToMiles 316800
 printfn "Equivalent Miles : %d" miles
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert inches to miles
@@ -146,6 +160,8 @@ func main() {
 	fmt.Println(convertInchesToMiles(950700))
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert inches to miles
@@ -165,6 +181,8 @@ public class ConvertInchesToMiles {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert inches to miles
 
@@ -181,6 +199,8 @@ function inchesToMiles(inches) {
 console.log("Converting Inches to Miles", inchesToMiles(12345) + " miles");
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert inches to miles
 
@@ -190,6 +210,8 @@ inches = parse(Float64, inches)
 miles = round((inches / 63360); digits = 2)
 println(inches, " inches equals ", miles, " miles")
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert inches to miles
@@ -207,6 +229,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert inches to miles
 
@@ -218,6 +242,8 @@ my $inches = <STDIN>;
 my $miles = $inches/63360;
 print $inches." inches is ".$miles." miles", "\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert inches to miles
@@ -232,6 +258,8 @@ function convert_inches_to_miles($inch)
 echo convert_inches_to_miles(316800);
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert inches to miles
 
@@ -240,6 +268,8 @@ output_miles = int(input_inches / 63360)
 print(f"Output: {output_miles}")
 ```
 
+### R
+
 ```r
 # Write a R program to convert inches to miles
 
@@ -247,6 +277,8 @@ inches = 316800
 miles = inches / 63360
 cat("miles: ", miles)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert inches to miles
@@ -263,6 +295,8 @@ if $PROGRAM_NAME == __FILE__
 end
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to convert inches to miles
 
@@ -275,6 +309,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert inches to miles
 
@@ -286,6 +322,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert inches to miles
 
@@ -296,6 +334,8 @@ print("Enter inches: ")
 var inches = Int(readLine()!)!
 print("Miles: ", inches / 63360)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert inches to miles

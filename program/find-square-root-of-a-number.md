@@ -40,6 +40,8 @@ trackId: 3591
 description: "Write a program to find square root of a number."
 ---
 
+## Table of contents
+
 ## Write a program to find square root of a number
 
 Square root of a number is the number that when multiplied by itself gives the original number. For example, square root of 4 is 2 because 2 _ 2 = 4. Similarly, square root of 9 is 3 because 3 _ 3 = 9.
@@ -50,6 +52,8 @@ Output : 2
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find square root of a number
@@ -69,6 +73,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find square root of a number
 
@@ -82,6 +88,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find square root of a number
@@ -107,6 +115,8 @@ Author : Kartikeya Saini
 */
 ```
 
+### Go
+
 ```go
 // Write a Go program to find square root of a number
 
@@ -123,6 +133,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find square root of a number
 
@@ -137,6 +149,8 @@ main = do
    let num = 25
    print (squareRoot num)
 ```
+
+### Java
 
 ```java
 // Write a Java program to find square root of a number
@@ -162,6 +176,8 @@ class FindSquareRootOfANumber {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find square root of a number
 
@@ -174,6 +190,8 @@ console.log("Input  :", number);
 console.log("Output :", squareRootOfANumber(number));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find square root of a number
 
@@ -182,6 +200,8 @@ number = parse(Float64, readline(stdin))
 println("Square root of given number: ", sqrt(number))
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find square root of a number
 
@@ -189,6 +209,8 @@ print "Enter any number : ";
 my $num = <STDIN>;
 print "Square root of $num : " .sqrt($num). "\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find square root of a number
@@ -208,6 +230,8 @@ print "Square root of $num : " .sqrt($num). "\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find square root of a number
 
@@ -218,12 +242,16 @@ base = int(input("Enter base: "))
 print("\nResult:", math.sqrt(base))
 ```
 
+### R
+
 ```r
 # Write a R program to find square root of a number
 
 num = 4
 cat("Square root  : ", sqrt(num))
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find square root of a number
@@ -234,6 +262,8 @@ result = Math.sqrt(input)
 puts "Square root of #{input} is: #{result}"
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to find square root of a number
 
@@ -242,6 +272,8 @@ object Main extends App {
     println(s"Square root of 4 : ${sqrt(4)}");
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find square root of a number
@@ -255,6 +287,8 @@ print ("The value of sqrt(25.0) : ",sqrt(25.0))
 
 print ("The value of sqrt(4.4) : ",sqrt(4.4))
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find square root of a number

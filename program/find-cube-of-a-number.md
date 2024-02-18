@@ -49,6 +49,8 @@ trackId: 125
 description: "Write a program to find cube of a number."
 ---
 
+## Table of contents
+
 ## Write a program to find cube of a number
 
 ```
@@ -57,6 +59,8 @@ Output : 8
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find cube of a number
@@ -78,6 +82,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find cube of a number
 
@@ -92,6 +98,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find cube of a number
@@ -109,6 +117,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find cube of a number
 
@@ -122,6 +132,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find cube of a number
 
@@ -132,6 +144,8 @@ let result =  cubeOfNumber 2
 
 printfn "Cube of given number : %d" result
 ```
+
+### Go
 
 ```go
 // Write a Go program to find cube of a number
@@ -147,6 +161,8 @@ func main(){
   fmt.Println("Cube of given number is:", num*num*num)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find cube of a number
@@ -168,6 +184,8 @@ public class FindCubeOfANumber {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find cube of a number
 
@@ -180,6 +198,8 @@ console.log("Input  :", number);
 console.log("Output :", FindCubeOfANumber(number));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find cube of a number
 
@@ -188,6 +208,8 @@ num = parse(Float64, readline(stdin))
 cube = num * num * num
 println("Cube of the given number : ", cube)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find cube of a number
@@ -203,6 +225,8 @@ fun main(args: Array<String>) {
   println(cube)
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find cube of a number
@@ -223,6 +247,8 @@ $cube=cube($num);
 say "Output : $cube";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find cube of a number
 
@@ -233,6 +259,8 @@ $x1 = $x**(3);
 echo "Cube of $x is $x1.\n";
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to find cube of a number
@@ -245,6 +273,8 @@ if __name__ == "__main__":
     num = int(input("Enter the number : "))
     print(f"\nCube of the number : {cube_of_number(num)}")
 ```
+
+### R
 
 ```r
 # Write a R program to find cube of a number
@@ -261,6 +291,8 @@ result <- calculate_cube(number)
 cat("Cube of", number, "is:", result, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find cube of a number
 
@@ -269,6 +301,8 @@ num = gets.chomp.to_i
 cube = num**3
 print "Cube of #{num} is #{cube}"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find cube of a number
@@ -282,6 +316,8 @@ fn main()
 
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find cube of a number
@@ -297,6 +333,8 @@ object cubeNumber {
   }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find cube of a number
@@ -315,6 +353,8 @@ let number = Int(myString!)
 let cube = number! * number! * number!
 print(cube)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find cube of a number

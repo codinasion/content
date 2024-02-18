@@ -42,6 +42,8 @@ trackId: 3398
 description: "Write a program to convert centimeters to inches."
 ---
 
+## Table of contents
+
 ## Write a program to convert centimeters to inches
 
 1 inch = 2.54 centimeters
@@ -52,6 +54,8 @@ Output : 5
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert centimeters to inches
@@ -81,6 +85,8 @@ float ConvertToInches(float cm)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert centimeters to inches
 
@@ -102,6 +108,8 @@ class centimetersToInches
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert centimeters to inches
@@ -125,6 +133,8 @@ int main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert centimeters to inches
 
@@ -135,6 +145,8 @@ let inches = centimeterToInches 12.7
 
 printfn "Equivalent inches : %f" inches
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert centimeters to inches
@@ -152,6 +164,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to convert centimeters to inches
 
@@ -164,6 +178,8 @@ main = do
    let inches = centimeters / 2.54
    putStrLn $ show (inches)
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert centimeters to inches
@@ -183,6 +199,8 @@ public class Main
 // Contributed by Raghav Garg (@grraghav120)
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert centimeters to inches
 
@@ -199,6 +217,8 @@ const result = centimetersToInch(centimeters);
 console.log(`Output: ${result} ${result == 1 ? "inch" : "inches"}`);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert centimeters to inches
 
@@ -208,6 +228,8 @@ cm = parse(Float64, cm)
 inches = round((cm / 2.54); digits = 2)
 println(cm, " centimeters equals ", inches, " inches")
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert centimeters to inches
@@ -224,6 +246,8 @@ fun centimetersToInches() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert centimeters to inches
 
@@ -236,6 +260,8 @@ my $centimeters = $inches / 2.54;
 print $inches." inches are ".$centimeters." centimeters\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to convert centimeters to inches
 
@@ -247,12 +273,16 @@ print $inches." inches are ".$centimeters." centimeters\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert centimeters to inches
 
 n = float(input())
 print(n / 2.54)
 ```
+
+### R
 
 ```r
 # Write a R program to convert centimeters to inches
@@ -261,6 +291,8 @@ centimeters = 12.7
 inches = centimeters / 2.54
 cat("inches: ", inches)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert centimeters to inches
@@ -280,6 +312,8 @@ if $PROGRAM_NAME == __FILE__
 end
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert centimeters to inches
 
@@ -291,6 +325,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert centimeters to inches
 
@@ -301,6 +337,8 @@ print("Enter centimeters: ")
 var centimeters = Double(readLine()!)!
 print("Inches: ", centimeters / 2.54)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert centimeters to inches

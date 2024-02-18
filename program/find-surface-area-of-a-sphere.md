@@ -39,6 +39,8 @@ trackId: 3008
 description: "Write a program to find surface area of a sphere."
 ---
 
+## Table of contents
+
 ## Write a program to find surface area of a sphere
 
 Surface area of sphere = 4 × π × `Radius`^2
@@ -50,6 +52,8 @@ Surface area : 50.26548245743669
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find surface area of a sphere
@@ -73,6 +77,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find surface area of a sphere
 
@@ -86,6 +92,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find surface area of a sphere
@@ -103,6 +111,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find surface area of a sphere
 
@@ -115,6 +125,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find surface area of a sphere
 
@@ -125,6 +137,8 @@ let area = surfaceAreafOfSphere 2.0
 
 printfn "Surface area of sphere : %f" area
 ```
+
+### Go
 
 ```go
 // Write a Go program to find surface area of a sphere
@@ -150,6 +164,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find surface area of a sphere
 
@@ -162,6 +178,8 @@ main = do
     let surfaceArea = 4 * pi * radius * radius
     putStrLn $ show (surfaceArea)
 ```
+
+### Java
 
 ```java
 // Write a Java program to find surface area of a sphere
@@ -178,6 +196,8 @@ class findSurfaceAreaOfSphere
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find surface area of a sphere
 
@@ -188,6 +208,8 @@ function surfaceAreaOfSphere(radius) {
 surfaceAreaOfSphere(2);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find surface area of a sphere
 
@@ -196,6 +218,8 @@ radius = parse(Float64, readline(stdin))
 area =  4 * 3.14 * radius * radius
 println("Surface area of sphere: ", area)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find surface area of a sphere
@@ -221,6 +245,8 @@ fun main(args: Array<String>) {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find surface area of a sphere
 
@@ -233,6 +259,8 @@ my $area = 4 * 3.14  * $radius * $radius ;
 print "Surface area of sphere : ".$area, "\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find surface area of a sphere
 
@@ -243,6 +271,8 @@ print "Surface area of sphere : ".$area, "\n";
   echo "Surface area of sphere: $x1 \n";
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to find surface area of a sphere
@@ -258,6 +288,8 @@ def surfaceAreaOfSphere(radius):
 surfaceAreaOfSphere(2)
 ```
 
+### R
+
 ```r
 # Write a R program to find surface area of a sphere
 
@@ -265,6 +297,8 @@ radius = 2
 surfaceArea = 4 * pi * radius * radius
 cat("surfaceArea: ", surfaceArea)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find surface area of a sphere
@@ -278,6 +312,8 @@ surfaceArea = 4 * pi * radius * radius
 print "surface area : #{surfaceArea}"
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to find surface area of a sphere
 
@@ -288,6 +324,8 @@ fn main() {
   println!("Surface area of sphere is {0}", surfaceArea as f32);
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find surface area of a sphere
@@ -302,6 +340,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find surface area of a sphere
 
@@ -313,6 +353,8 @@ var radius = 2.0
 var surfaceArea = 4.0 * M_PI * radius * radius
 print("Surface area of sphere: ", surfaceArea)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find surface area of a sphere

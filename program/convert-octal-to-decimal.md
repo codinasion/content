@@ -38,6 +38,8 @@ trackId: 602
 description: "Write a program to convert octal to decimal."
 ---
 
+## Table of contents
+
 ## Write a program to convert octal to decimal
 
 Octal is a base-8 number system. It uses only eight digits: 0, 1, 2, 3, 4, 5, 6, and 7. The digits are called octits. An octit is the smallest unit of information in a computer. An octit can be used to represent a single value, such as 0, 1, 2, 3, 4, 5, 6, or 7, or it can be used to represent a single state, such as on or off.
@@ -58,6 +60,8 @@ Output : 10
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert octal to decimal
@@ -110,6 +114,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert octal to decimal
 
@@ -142,6 +148,8 @@ class OctalToDecimal
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert octal to decimal
@@ -191,6 +199,8 @@ int main(){
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to convert octal to decimal
 
@@ -222,6 +232,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert octal to decimal
 
@@ -252,6 +264,8 @@ public class ConvertOctalToDecimal {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert octal to decimal
 
@@ -274,6 +288,8 @@ console.log(octalToDecimal(69));
 console.log(octalToDecimal(69420));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert octal to decimal
 
@@ -282,6 +298,8 @@ x = readline()
 y = parse(Int, x, base=8)
 println("Decimal of ", x, ": ", y)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert octal to decimal
@@ -306,6 +324,8 @@ fun convertOctalToDecimal(number: Int): Int {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert octal to decimal
 
@@ -313,6 +333,8 @@ print "Enter the octal value :";
 my $oct_value = oct(<STDIN>);
 printf("Equivalent Decimal value : %d\n",$oct_value);
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert octal to decimal
@@ -344,6 +366,8 @@ echo octalToDecimal(12);
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert octal to decimal
 
@@ -367,6 +391,8 @@ def octalToDecimal(n):
 num = 67
 print(octalToDecimal(num))
 ```
+
+### R
 
 ```r
 # Write a R program to convert octal to decimal
@@ -393,6 +419,8 @@ decimalNumber <- convertOctalToDecimal(octalNumber)
 cat("Octal   : ", octalNumber, "\n")
 cat("Decimal : ", decimalNumber, "\n")
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert octal to decimal

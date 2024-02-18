@@ -8,6 +8,8 @@ trackId: 2352
 description: "Write a program to find cofactors of a matrix."
 ---
 
+## Table of contents
+
 ## Write a program to Write a Java program to find the cofactor of a matrix
 
 Write a Java program to find the cofactor of a matrix
@@ -26,6 +28,8 @@ Output :
 ```
 
 ---
+
+### Java
 
 ```java
 // Write a Java program to find cofactors of a matrix

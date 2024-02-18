@@ -42,6 +42,8 @@ trackId: 4085
 description: "Write a program to convert string to pascalcase."
 ---
 
+## Table of contents
+
 ## Write a program to convert string to pascalcase
 
 Pascalcase is a style of writing in which the first letter of each word is capitalized.
@@ -52,6 +54,8 @@ Output : "HelloWorld"
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert string to pascalcase
@@ -85,6 +89,8 @@ void main(){
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert string to pascalcase
 
@@ -104,6 +110,8 @@ public class ConvertStringToPascalCase{
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert string to pascalcase
@@ -135,6 +143,8 @@ int main()
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to convert string to pascalcase
 
@@ -163,6 +173,8 @@ func main() {
 	fmt.Println("PascalCase string:", toPascalCase(str))
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert string to pascalcase
@@ -200,6 +212,8 @@ public class ConvertStringToPascalcase {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert string to pascalcase
 
@@ -220,6 +234,8 @@ const pascalCase = string => {
 };
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert string to pascalcase
 
@@ -233,6 +249,8 @@ end
 
 println("Given string in pascalcase: ", s)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert string to pascalcase
@@ -262,6 +280,8 @@ private fun ConvertStringToPascalcase(args: List<String>): String {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert string to pascalcase
 
@@ -271,6 +291,8 @@ $_ = ucfirst;
 s/(?<=[^\W_]) +([^\W_])|_+/\U$1/g;
 print;
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert string to pascalcase
@@ -289,6 +311,8 @@ echo pascalCase('hello world');
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert string to pascalcase
 
@@ -299,6 +323,8 @@ for word in input_string.split(" "):
     output_string += word.capitalize()
 print(output_string)
 ```
+
+### R
 
 ```r
 # Write a R program to convert string to pascalcase
@@ -321,6 +347,8 @@ output_str <- convertToPascalCase(input_str)
 print(output_str)
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert string to pascalcase
 
@@ -329,6 +357,8 @@ user_input = gets.chomp
 result = user_input.split(' ').map { |word| word.capitalize }.join
 puts result
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert string to pascalcase

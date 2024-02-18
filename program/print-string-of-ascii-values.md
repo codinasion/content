@@ -36,6 +36,8 @@ trackId: 1631
 description: "Write a program to print string of ascii values."
 ---
 
+## Table of contents
+
 ## Write a program to print string of ascii values
 
 ASCII value is the numeric representation of a character. For example, the ASCII value of the character 'A' is 65. The ASCII value of the character 'a' is 97. The ASCII value of the character '0' is 48. The ASCII value of the character ' ' is 32.
@@ -46,6 +48,8 @@ Output : ABC
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print string of ascii values
@@ -60,6 +64,8 @@ int main()
     printf("Ascii Character of %d is %c",num,num);
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to print string of ascii values
@@ -100,6 +106,8 @@ public class PrintStringOfAsciiValues
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to print string of ascii values
 
@@ -122,6 +130,8 @@ int main(){
 //Contributed by Raghav Garg
 ```
 
+### Go
+
 ```go
 // Write a Go program to print string of ascii values
 
@@ -141,6 +151,8 @@ func main() {
 	fmt.Println(result)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to print string of ascii values
@@ -185,6 +197,8 @@ public class PrintStringOfAsciiValues {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to print string of ascii values
 
@@ -193,6 +207,8 @@ function PrintStringOfAsciiValues(one, two, third) {
 }
 console.log(PrintStringOfAsciiValues(65, 66, 67));
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to print string of ascii values
@@ -226,6 +242,8 @@ function asciiToString($ascii, $length)
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to print string of ascii values
 
@@ -237,6 +255,8 @@ for i in l:
 
 print("Output", string)
 ```
+
+### R
 
 ```r
 # Write a R program to print string of ascii values
@@ -260,6 +280,8 @@ output <- ascii_to_char(ascii_values)
 cat("Output:", output, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to print string of ascii values
 
@@ -279,6 +301,8 @@ rescue ArgumentError => e
   puts "Error: #{e.message}"
 end
 ```
+
+### TypeScript
 
 ````typescript
 // Write a TypeScript program to print string of ascii values

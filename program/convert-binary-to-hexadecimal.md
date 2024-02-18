@@ -36,6 +36,8 @@ trackId: 936
 description: "Write a program to convert binary to hexadecimal."
 ---
 
+## Table of contents
+
 ## Write a program to convert binary to hexadecimal
 
 Binary is a base-2 number system. It uses only two digits: 0 and 1. The digits are called bits. A bit is the smallest unit of information in a computer. A bit can be either 0 or 1. A bit can be used to represent a single value, such as 0 or 1, or it can be used to represent a single state, such as on or off.
@@ -53,6 +55,8 @@ Output : A
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert binary to hexadecimal
@@ -72,6 +76,8 @@ int main(){
    return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to convert binary to hexadecimal
@@ -101,6 +107,8 @@ namespace ConsoleApp1
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to convert binary to hexadecimal
 
@@ -122,6 +130,8 @@ int main() {
     return 0;
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert binary to hexadecimal
@@ -150,6 +160,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert binary to hexadecimal
 
@@ -165,6 +177,8 @@ public class ConvertBinaryToHexadecimal{
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert binary to hexadecimal
 
@@ -175,6 +189,8 @@ function binaryToHexaDecimal(num) {
 console.log("Binary to HexaDecimal", binaryToHexaDecimal("1011"));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert binary to hexadecimal
 
@@ -184,6 +200,8 @@ y = parse(Int, x, base=2)
 y = string(y, base=16)
 println("Hexadecimal of ", x, ": ", uppercase(y))
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to convert binary to hexadecimal
@@ -198,6 +216,8 @@ my $hex = sprintf("%x", $int );
 print uc($hex),"\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to convert binary to hexadecimal
 
@@ -207,6 +227,8 @@ $hex = dechex(bindec($bin));
 
 echo $hex;
 ```
+
+### Python
 
 ```python
 # Write a Python program to convert binary to hexadecimal
@@ -228,6 +250,8 @@ except:
     # Error
     print("Please input a valid binary number.")
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert binary to hexadecimal
@@ -266,6 +290,8 @@ else
   puts "Invalid binary input. Please enter a valid binary number."
 end
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert binary to hexadecimal

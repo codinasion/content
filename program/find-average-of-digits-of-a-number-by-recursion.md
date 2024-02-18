@@ -48,6 +48,8 @@ trackId: 5360
 description: "Write a program to find average of digits of a number by recursion."
 ---
 
+## Table of contents
+
 ## Write a program to find average of digits of a number by recursion
 
 Average of digits of a number is the sum of digits of the number divided by the number of digits in the number. For example, the average of digits of 123 is 6. The sum of digits of 123 is 6 and the number of digits in 123 is 3. So, the average of digits of 123 is 6/3 = 2.
@@ -58,6 +60,8 @@ Output : 2
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find average of digits of a number by recursion
@@ -87,6 +91,8 @@ void main() {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find average of digits of a number by recursion
 
@@ -115,6 +121,8 @@ class AVERAGE {
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find average of digits of a number by recursion
 
@@ -142,6 +150,8 @@ int main() {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find average of digits of a number by recursion
 
@@ -164,6 +174,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find average of digits of a number by recursion
 
@@ -183,6 +195,8 @@ let main argv =
     printfn "Output : %d" average
     0 // Return an integer exit code
 ```
+
+### Go
 
 ```go
 // Write a Go program to find average of digits of a number by recursion
@@ -206,6 +220,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find average of digits of a number by recursion
 
@@ -221,6 +237,8 @@ main =  do
 
     print a
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to find average of digits of a number by recursion
@@ -246,6 +264,8 @@ var averageOfDigits = function (num, digitsCount, digitsSum) {
 };
 console.log(averageOfDigits(455));
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find average of digits of a number by recursion
@@ -273,6 +293,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find average of digits of a number by recursion
 
@@ -293,6 +315,8 @@ my $result = average_of_digits($number);
 
 print "Average of digits of $number is $result\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find average of digits of a number by recursion
@@ -319,6 +343,8 @@ echo averageRecursion($num);
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find average of digits of a number by recursion
 
@@ -331,6 +357,8 @@ def average_of_digits(n):
 
 print(average_of_digits(123))
 ```
+
+### R
 
 ```r
 # Write a R program to find average of digits of a number by recursion
@@ -357,6 +385,8 @@ result <- average_of_digits(input_number)
 cat("Average: ", result, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find average of digits of a number by recursion
 
@@ -373,6 +403,8 @@ end
 puts Average.get_avg(123) # => 2
 puts Average.get_avg(448) # => 5
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find average of digits of a number by recursion
@@ -391,6 +423,8 @@ fn sum_and_count_of_digits(n: u32) -> (u32, u32) {
     }
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find average of digits of a number by recursion
@@ -415,6 +449,8 @@ object Main {
   }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find average of digits of a number by recursion
@@ -442,6 +478,8 @@ let number = 123
 let result = digitAverage(number)
 print("The average of digits in \(number) is: \(result)")
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find average of digits of a number by recursion

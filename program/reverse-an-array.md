@@ -45,6 +45,8 @@ trackId: 4950
 description: "Write a program to reverse an array."
 ---
 
+## Table of contents
+
 ## Write a program to reverse an array
 
 ```
@@ -53,6 +55,8 @@ Output : [5, 4, 3, 2, 1]
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to reverse an array
@@ -124,6 +128,8 @@ void PrintArr(int *arr,size_t size)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to reverse an array
 
@@ -140,6 +146,8 @@ public class Reverse
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to reverse an array
@@ -184,6 +192,8 @@ Author : Kartikeya Saini
 */
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to reverse an array
 
@@ -193,6 +203,8 @@ void main(){
     print(reversedList);
 }
 ```
+
+### F#
 
 ```fsharp
 // Write a F# program to reverse an array
@@ -209,6 +221,8 @@ let reversedArray = reverseArray inputArray
 printfn "%A" reversedArray
 ```
 
+### Go
+
 ```go
 // Write a Go program to reverse an array
 
@@ -224,6 +238,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to reverse an array
 
@@ -234,6 +250,8 @@ reverse_list = \list ->
         x:xs -> reverse_list xs ++ [x]
 main = print (reverse [1, 2, 3, 4, 5])
 ```
+
+### Java
 
 ```java
 // Write a Java program to reverse an array
@@ -254,6 +272,8 @@ public class ReverseAnArray {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to reverse an array
 
@@ -265,12 +285,16 @@ const revArr = arr => {
 revArr([1, 2, 3, 4, 5]);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to reverse an array
 
 array = Vector(1:5)
 println(reverse(array))
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to reverse an array
@@ -281,6 +305,8 @@ fun main() {
     println(arr.contentToString())
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to reverse an array
@@ -293,6 +319,8 @@ my @array = qw(1 2 3 4 5);
 my @rev = reverse @array;
 say join ' ', @rev;
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to reverse an array
@@ -308,6 +336,8 @@ print_r(reverseArray([1,2,3,4,5]));
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to reverse an array
 
@@ -320,6 +350,8 @@ print(
     )[::-1]
 )
 ```
+
+### R
 
 ```r
 # Write a R program to reverse an array
@@ -338,12 +370,16 @@ cat("Input array: ", input_array, "\n")
 cat("Reversed array: ", output_array, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to reverse an array
 
 a = [1, 2, 3, 4, 5]
 puts "Reverse of the given array : #{a.reverse()}\n\n"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to reverse an array
@@ -360,6 +396,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to reverse an array
 
@@ -373,6 +411,8 @@ object arrayReverse {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to reverse an array
 
@@ -383,6 +423,8 @@ var numbers = [1, 2, 3, 4, 5]
 numbers.reverse()
 print("Reversed Array: ", numbers)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to reverse an array

@@ -41,6 +41,8 @@ trackId: 3846
 description: "Write a program to convert decimal to binary."
 ---
 
+## Table of contents
+
 ## Write a program to convert decimal to binary
 
 Binary is a base-2 number system. It uses only two digits: 0 and 1. The digits are called bits. A bit is the smallest unit of information in a computer. A bit can be either 0 or 1. A bit can be used to represent a single value, such as 0 or 1, or it can be used to represent a single state, such as on or off.
@@ -60,6 +62,8 @@ Output : 1010
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert decimal to binary
@@ -96,6 +100,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert decimal to binary
 
@@ -122,6 +128,8 @@ using System;
   }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to convert decimal to binary
 
@@ -146,6 +154,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert decimal to binary
 
@@ -164,6 +174,8 @@ void main() {
   decToBin(11);
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert decimal to binary
@@ -196,6 +208,8 @@ func main() {
 	fmt.Println("Binary number:", binaryNumber)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert decimal to binary
@@ -241,6 +255,8 @@ public class ConversationToBinAndDec {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert decimal to binary
 
@@ -269,6 +285,8 @@ let n = 10;
 decToBinary(n);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert decimal to binary
 
@@ -278,6 +296,8 @@ y = parse(Int, x)
 y = string(y, base=2)
 println("Binary of ", x, ": ", y)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert decimal to binary
@@ -309,6 +329,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert decimal to binary
 
@@ -316,6 +338,8 @@ print "Please enter a decimal value : ";
 $decimal = <STDIN>;
 printf("Equivalent Binary value : %b\n",$decimal);
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert decimal to binary
@@ -348,11 +372,15 @@ echo strrev($binary) . "\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert decimal to binary
 
 print(bin(int(input()))[2:])
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert decimal to binary
@@ -362,6 +390,8 @@ number = gets.chomp
 result = number.to_i.to_s(2)
 puts "Here's your converted number: #{result}"
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to convert decimal to binary
@@ -409,6 +439,8 @@ if let decimalInput = readLine(), let decimal = Int(decimalInput) {
     print("Invalid input. Please enter a valid decimal number.")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert decimal to binary

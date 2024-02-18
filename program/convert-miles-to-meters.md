@@ -42,6 +42,8 @@ trackId: 3781
 description: "Write a program to convert miles to meters."
 ---
 
+## Table of contents
+
 ## Write a program to convert miles to meters
 
 1 mile = 1609.34 meters
@@ -52,6 +54,8 @@ Output : 8046.72
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert miles to meters
@@ -71,6 +75,8 @@ int main() {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert miles to meters
 
@@ -84,6 +90,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert miles to meters
@@ -102,6 +110,8 @@ int main()
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert miles to meters
 
@@ -112,6 +122,8 @@ let meters = milesToMeters 5
 
 printfn "Equivalent meters : %d" meters
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert miles to meters
@@ -128,6 +140,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to convert miles to meters
 
@@ -140,6 +154,8 @@ main = do
    let meters = miles * 1609.344
    putStrLn $ show (meters)
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert miles to meters
@@ -159,6 +175,8 @@ public class Main
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert miles to meters
 
@@ -172,6 +190,8 @@ const convertMilesToMeters = miles => {
 console.log(convertMilesToMeters(5));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert miles to meters
 
@@ -181,6 +201,8 @@ miles = parse(Float64, miles)
 meters = round((miles * 1609.34); digits = 2)
 println(miles, " miles equals ", meters, " meters")
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert miles to meters
@@ -203,6 +225,8 @@ private fun ConvertMilesToMeters(miles: Int): Double {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert miles to meters
 
@@ -215,6 +239,8 @@ my $meter = $miles * 1609;
 print "Equivalent meters : ".$meter, "\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to convert miles to meters
 
@@ -226,6 +252,8 @@ echo "Meters: $x1.\n";
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to convert miles to meters
@@ -241,6 +269,8 @@ def convertMilesToMeters(miles):
 print(convertMilesToMeters(5))
 ```
 
+### R
+
 ```r
 # Write a R program to convert miles to meters
 
@@ -248,6 +278,8 @@ miles = 5
 meters = miles * 1609.34
 cat("meters: ", meters)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert miles to meters
@@ -257,6 +289,8 @@ miles = gets.chomp.to_i
 meters = miles * 1609.34
 print "Meters : #{meters}"
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to convert miles to meters
@@ -269,6 +303,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert miles to meters
 
@@ -279,6 +315,8 @@ print("Enter miles: ")
 var miles = Double(readLine()!)!
 print("Meters: ", miles * 1609.34)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert miles to meters

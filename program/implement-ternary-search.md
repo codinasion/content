@@ -29,13 +29,15 @@ trackId: 5108
 description: "Write a program to implement ternary search."
 ---
 
+## Table of contents
+
 ## Write a program to implement ternary search
 
 Ternary search is a divide and conquer algorithm that can be used to find an element in an array. It is similar to binary search where we divide the array into two parts but in this algorithm, we divide the given array into three parts and determine which has the key (searched element).
 
 ### Pseudocode
 
-```text
+```
 procedure ternary_search
    A ← sorted array
    value ← value to be searched
@@ -72,7 +74,7 @@ end procedure
 
 ### Example
 
-```text
+```
 list = [1,2,3,4,5]
 value = 4
 
@@ -80,6 +82,8 @@ Output : 3
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to implement ternary search
@@ -142,6 +146,8 @@ int main() {
     return 0;
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to implement ternary search
@@ -211,6 +217,8 @@ int main()
 /* Cautiously Crafted By Redzwinger */
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to implement ternary search
 
@@ -243,6 +251,8 @@ printfn "List: %A" list
 printfn "Value to be searched: %d" value
 printfn "Output: %d" result
 ```
+
+### Java
 
 ```java
 // Write a Java program to implement ternary search
@@ -313,6 +323,8 @@ public class ImplementTernarySearch {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to implement ternary search
 
@@ -349,6 +361,8 @@ if (result) {
   console.log("Value Not Found");
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to implement ternary search
@@ -399,6 +413,8 @@ if ($result !== -1) {
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to implement ternary search
 
@@ -436,6 +452,8 @@ if result != -1:
 else:
     print(f"Element {value} not found in the array")
 ```
+
+### R
 
 ```r
 # Write a R program to implement ternary search
@@ -491,6 +509,8 @@ if (result == -1)
 # Cautiously Crafted By Redzwinger #
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to implement ternary search
 
@@ -530,6 +550,8 @@ def ternary_search(array, value)
     puts "Element #{value} not found in the array"
   end
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to implement ternary search
@@ -574,6 +596,8 @@ fn main() {
     }
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to implement ternary search

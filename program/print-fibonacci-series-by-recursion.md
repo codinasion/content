@@ -36,6 +36,8 @@ trackId: 1489
 description: "Write a program to print fibonacci series by recursion."
 ---
 
+## Table of contents
+
 ## Write a program to print fibonacci series by recursion
 
 ```
@@ -44,6 +46,8 @@ Output : 0 1 1 2 3
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print fibonacci series by recursion
@@ -88,6 +92,8 @@ int main() {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to print fibonacci series by recursion
 
@@ -118,6 +124,8 @@ public class FibonacciSeries {
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to print fibonacci series by recursion
 
@@ -147,6 +155,8 @@ int main()
 //Contributed by Raghav Garg
 ```
 
+### Go
+
 ```go
 // Write a Go program to print fibonacci series by recursion
 
@@ -174,6 +184,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to print fibonacci series by recursion
 
@@ -188,6 +200,8 @@ main = do
 
     putStrLn . unwords . map show $ s
 ```
+
+### Java
 
 ```java
 // Write a Java program to print fibonacci series by recursion
@@ -216,6 +230,8 @@ public class print_fibonacci_series_by_recursion{
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to print fibonacci series by recursion
 
@@ -234,6 +250,8 @@ for (let i = 0; i < input; i++) {
 }
 console.log(output);
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to print fibonacci series by recursion
@@ -265,6 +283,8 @@ private fun fib(num: Int, arr: IntArray): Int {
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to print fibonacci series by recursion
 
@@ -288,6 +308,8 @@ for ($counter = 0; $counter < $num; $counter++){
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to print fibonacci series by recursion
 
@@ -302,6 +324,8 @@ number = int(input())
 for i in range(number):
     print(fibonacci(i), end=" ")
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to print fibonacci series by recursion
@@ -321,6 +345,8 @@ b=1;
 
 printFibonacci(a, b, 6);
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print fibonacci series by recursion

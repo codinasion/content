@@ -39,6 +39,8 @@ trackId: 5381
 description: "Write a program to find volume of a cylinder."
 ---
 
+## Table of contents
+
 ## Write a program to find volume of a cylinder
 
 Volume of cylinder = π × `Radius`^2 × `Height`
@@ -51,6 +53,8 @@ Volume : 37.69911184307752
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find volume of a cylinder
@@ -80,6 +84,8 @@ int main(void) {
   return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find volume of a cylinder
@@ -115,6 +121,8 @@ namespace VolumeOfCylinder
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find volume of a cylinder
 
@@ -144,6 +152,8 @@ int main() {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find volume of a cylinder
 
@@ -158,6 +168,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find volume of a cylinder
 
@@ -169,6 +181,8 @@ let volume = cylinderVolume 2.0 3.0
 
 printfn "Volume of Cylinder : %f" volume
 ```
+
+### Go
 
 ```go
 // Write a Go program to find volume of a cylinder
@@ -198,6 +212,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find volume of a cylinder
 
@@ -214,6 +230,8 @@ main = do
     let volume = pi * radius * radius * height
     putStrLn $ show (volume)
 ```
+
+### Java
 
 ```java
 // Write a Java program to find volume of a cylinder
@@ -241,6 +259,8 @@ public class VolumeOfCylinder {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find volume of a cylinder
 
@@ -255,6 +275,8 @@ function volumeOfCylinder(radius, height) {
 }
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find volume of a cylinder
 
@@ -265,6 +287,8 @@ height = parse(Float64, readline(stdin))
 volume = 3.14 * radius * radius * height
 println("Volume of cylinder: ", volume)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find volume of a cylinder
@@ -281,6 +305,8 @@ fun main(args: Array<String>) {
   println(volume)
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find volume of a cylinder
@@ -301,6 +327,8 @@ sub volumeOfCylinder
     return $res ;
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find volume of a cylinder
@@ -326,6 +354,8 @@ $cylinderVolume = volumeOfCylinder($cylinderRadius, $cylinderHeight);
 echo "Volume of cylinder = " . $cylinderVolume . "\n";
 ```
 
+### Python
+
 ```python
 # Write a Python program to find volume of a cylinder
 
@@ -349,6 +379,8 @@ if __name__ == "__main__":
     print(f"Volume of cylinder = {cylinder_volume}")
 ```
 
+### R
+
 ```r
 # Write a R program to find volume of a cylinder
 
@@ -357,6 +389,8 @@ height = 3
 volume = pi * radius * radius * height
 cat("Volume: ", volume)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find volume of a cylinder
@@ -380,6 +414,8 @@ def volume_of_cylinder(radius, height)
   puts "Volume of cylinder = #{cylinder_volume}"
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to find volume of a cylinder
 
@@ -396,6 +432,8 @@ fn main() {
     println!("{}", cylinder_volume(r, h));
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find volume of a cylinder
@@ -419,6 +457,8 @@ val cylinderVolume = volumeOfCylinder(cylinderRadius, cylinderHeight)
 println(s"Volume of cylinder = $cylinderVolume")
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find volume of a cylinder
 
@@ -431,6 +471,8 @@ var height = 3.0
 var volume = 3.14 * radius * radius * height
 print("Volume of a cylinder: ", volume)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find volume of a cylinder

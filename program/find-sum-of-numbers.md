@@ -37,6 +37,8 @@ trackId: 956
 description: "Write a program to find sum of numbers."
 ---
 
+## Table of contents
+
 ## Write a program to find sum of numbers
 
 ```
@@ -45,6 +47,8 @@ Output : 15
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find sum of numbers
@@ -112,6 +116,8 @@ int FindSum(int *arr,int size)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find sum of numbers
 
@@ -134,6 +140,8 @@ using System;
   }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find sum of numbers
 
@@ -155,6 +163,8 @@ int main() {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find sum of numbers
 
@@ -167,6 +177,8 @@ void main() {
   sumToN(10);
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to find sum of numbers
@@ -185,6 +197,8 @@ func main(){
    fmt.Println(findArraySum([]int{1, 2, 3, 4, 5}))
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find sum of numbers
@@ -206,6 +220,8 @@ public class FindSumOfNumbers{
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find sum of numbers
 
@@ -225,6 +241,8 @@ function sumOfNumbers(num) {
 console.log("Sum of Numbers", sumOfNumbers(12345));
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find sum of numbers
 
@@ -235,6 +253,8 @@ for my $each (@$array) {
 }
 print $iter_sum;
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find sum of numbers
@@ -247,6 +267,8 @@ print $iter_sum;
   echo array_sum(range(1, 5));
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to find sum of numbers
@@ -266,6 +288,8 @@ for i in range(0, len(sumNum)):
 print("Output : " + str(sum))
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find sum of numbers
 
@@ -277,6 +301,8 @@ input.split(" ").each do |number|
 end
 puts "the sum of the numbers is #{sum_of_numbers}"
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find sum of numbers
@@ -290,6 +316,8 @@ var arraySum = myArray.reduce(0, +)
 print("Array:", myArray)
 print("Sum:", arraySum)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find sum of numbers

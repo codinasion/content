@@ -43,6 +43,8 @@ trackId: 4544
 description: "Write a program to add two matrices."
 ---
 
+## Table of contents
+
 ## Write a program to add two matrices
 
 Matrix addition is the process of adding two matrices by adding the corresponding elements of the two matrices. Two matrices must have an equal number of rows and columns to be added.
@@ -64,6 +66,8 @@ Output :
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to add two matrices
@@ -112,6 +116,8 @@ int main()
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to add two matrices
@@ -169,6 +175,8 @@ public class AddMatrix {
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to add two matrices
 
@@ -221,6 +229,8 @@ int main()
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to add two matrices
 
@@ -263,6 +273,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to add two matrices
 
@@ -288,6 +300,8 @@ addMatrices mat1 mat2 = zipWith (zipWith (+)) mat1 mat2
 printMatrix :: [[Int]] -> IO ()
 printMatrix = mapM_ (putStrLn . unwords . map show)
 ```
+
+### Java
 
 ```java
 // Write a Java program to add two matrices
@@ -385,6 +399,8 @@ public class AddTwoMatrices {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to add two matrices
 
@@ -414,6 +430,8 @@ let matrix2 = [
 console.log(addMatrix(matrix1, matrix2));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to add two matrices
 
@@ -422,6 +440,8 @@ B = [1 2 3; 4 5 6; 7 8 9]
 
 print(A+B)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to add two matrices
@@ -474,6 +494,8 @@ fun addMatrices(a : ArrayList<ArrayList<Int>>, b : ArrayList<ArrayList<Int>>) : 
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to add two matrices
 
@@ -513,6 +535,8 @@ for($row=0; $row<3 ; $row++)
   print "\n";
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to add two matrices
@@ -561,6 +585,8 @@ for ($i = 0; $i < $row; $i++) {
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to add two matrices
 
@@ -571,6 +597,8 @@ b = np.arange(1, 10).reshape((3, 3))
 c = np.add(a, b)
 print(c)
 ```
+
+### R
 
 ```r
 # Write a R program to add two matrices
@@ -593,6 +621,8 @@ print("The sum of the two matrices is:")
 print(result_matrix)
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to add two matrices
 
@@ -603,6 +633,8 @@ matrix2 = Matrix[[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 
 puts  matrix1 + matrix2
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to add two matrices
@@ -723,6 +755,8 @@ mod tests {
     // You can add more test cases as needed...
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to add two matrices

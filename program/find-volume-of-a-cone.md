@@ -31,6 +31,8 @@ trackId: 3871
 description: "Write a program to find volume of a cone."
 ---
 
+## Table of contents
+
 ## Write a program to find volume of a cone
 
 Volume of cone = 1/3 × π × `Radius`^2 × `Height`
@@ -43,6 +45,8 @@ Volume : 12.566370614359
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find volume of a cone
@@ -66,6 +70,8 @@ int main(void) {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find volume of a cone
 
@@ -81,6 +87,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find volume of a cone
@@ -101,6 +109,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find volume of a cone
 
@@ -116,6 +126,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find volume of a cone
 
@@ -126,6 +138,8 @@ let cone = volumeOfCone 2.0 3.0
 
 printfn "Volume of cone : %f" cone
 ```
+
+### Go
 
 ```go
 // Write a Go program to find volume of a cone
@@ -155,6 +169,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find volume of a cone
 
@@ -171,6 +187,8 @@ main = do
     let volume = 1/3 * pi * radius * radius * height
     putStrLn $ show (volume)
 ```
+
+### Java
 
 ```java
 // Write a Java program to find volume of a cone
@@ -209,6 +227,8 @@ public class FindVolumeOfACone {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find volume of a cone
 
@@ -221,6 +241,8 @@ function findVolumeOfACone(radius, height) {
 findVolumeOfACone(2, 3);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find volume of a cone
 
@@ -231,6 +253,8 @@ height = parse(Float64, readline(stdin))
 volume = 1/3 * 3.14 * (radius * radius * height)
 println("Volume of cone: ", volume)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find volume of a cone
@@ -248,6 +272,8 @@ fun main(args: Array<String>) {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find volume of a cone
 
@@ -262,6 +288,8 @@ my $cone = 1/3 * 3.14 * $radius * $radius * $height;
 print "Volume of cone: ".$cone, "\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find volume of a cone
 
@@ -273,6 +301,8 @@ print "Volume of cone: ".$cone, "\n";
   echo "Volume of Cone: $x1 \n";
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to find volume of a cone
@@ -299,6 +329,8 @@ if __name__ == "__main__":
     print("Volume:", FindVolumeOfACone(radius, height))
 ```
 
+### R
+
 ```r
 # Write a R program to find volume of a cone
 
@@ -307,6 +339,8 @@ height = 3
 volume = 1/3 * pi * radius * radius * height
 cat("volume: ", volume)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find volume of a cone
@@ -322,6 +356,8 @@ volume = 1.0/3.0 * pi * radius * radius * height
 print "volume : #{volume}"
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to find volume of a cone
 
@@ -333,6 +369,8 @@ fn main() {
     println!("Volume of cone is {0}", volume as f32);
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find volume of a cone
@@ -348,6 +386,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find volume of a cone
 
@@ -360,6 +400,8 @@ var height = 3.0
 var volume = 1.0/3.0 * M_PI * radius * radius * height
 print("Volume of cone: ", volume)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find volume of a cone

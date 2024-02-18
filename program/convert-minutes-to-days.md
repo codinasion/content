@@ -44,6 +44,8 @@ trackId: 4313
 description: "Write a program to convert minutes to days."
 ---
 
+## Table of contents
+
 ## Write a program to convert minutes to days
 
 1 day = 24 hours = 1440 minutes
@@ -54,6 +56,8 @@ Output : 5
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert minutes to days
@@ -73,6 +77,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert minutes to days
 
@@ -87,6 +93,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert minutes to days
@@ -124,6 +132,8 @@ int ConvertMinutesToDays(int min)
 /****************************************************************************/
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert minutes to days
 
@@ -136,6 +146,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert minutes to days
 
@@ -146,6 +158,8 @@ let days = minutesToDays 7200
 
 printfn "Equivalent days : %d" days
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert minutes to days
@@ -166,6 +180,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to convert minutes to days
 
@@ -178,6 +194,8 @@ main = do
    let days = minutes / 1440
    putStrLn $ show (days)
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert minutes to days
@@ -194,6 +212,8 @@ class ConvertMinutes2Days {
   }
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to convert minutes to days
@@ -222,6 +242,8 @@ console.log(
 );
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert minutes to days
 
@@ -231,6 +253,8 @@ minutes = parse(Int, minutes)
 days = convert(Int, minutes / 1440)
 println(minutes, " minutes equals ", days, " days")
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert minutes to days
@@ -246,6 +270,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert minutes to days
 
@@ -253,6 +279,8 @@ my $minutes = <STDIN>;
 $days = $minutes / 1440;
 print "days: $days"
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert minutes to days
@@ -265,6 +293,8 @@ echo "Days: $x1 \n";
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to convert minutes to days
@@ -281,6 +311,8 @@ n = int(input())
 ConvertSectoDay(n)
 ```
 
+### R
+
 ```r
 # Write a R program to convert minutes to days
 
@@ -288,6 +320,8 @@ minutes = 7200
 days = minutes / 1440
 cat("days: ", days)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert minutes to days
@@ -308,6 +342,8 @@ converted_days = minutes_to_days(minutes)
 puts "Input: #{minutes}"
 puts "Output: #{converted_days}"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert minutes to days
@@ -335,6 +371,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert minutes to days
 
@@ -350,6 +388,8 @@ object minutesToDays {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert minutes to days
 
@@ -361,6 +401,8 @@ var minutes = 7200
 var days = minutes / 1440
 print("Days: ", days)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert minutes to days

@@ -39,6 +39,8 @@ trackId: 6642
 description: "Write a program to check anagram string."
 ---
 
+## Table of contents
+
 ## Write a program to check Anagram strings
 
 Two strings are said to be anagrams if they make a meaningful word by rearranging or shuffling the letters of the string. In other words, we can say that two strings are anagrams if they contain the same characters but in different order.
@@ -49,6 +51,8 @@ Output : Anagram Strings
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to check anagram string
@@ -85,6 +89,8 @@ void main() {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to check anagram string
 
@@ -108,6 +114,8 @@ public class Anagram {
    }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to check anagram string
@@ -141,6 +149,8 @@ int main() {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to check anagram string
 
@@ -165,6 +175,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to check anagram string
 
@@ -181,6 +193,8 @@ if isAnagram s1 s2 then
 else
     printfn "Not Anagram Strings"
 ```
+
+### Go
 
 ```go
 // Write a Go program to check anagram string
@@ -218,6 +232,8 @@ func main(){
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to check anagram string
 
@@ -240,6 +256,8 @@ toResult word1 word2
     | otherwise = "Strings are not Anagrams"
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to check anagram string
 
@@ -256,6 +274,8 @@ const anagramChecker = (str1, str2) => {
 
 // console.log(anagramChecker('aAbb', 'bBaa'))
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to check anagram string
@@ -290,6 +310,8 @@ else
 end
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to check anagram string
 
@@ -313,6 +335,8 @@ fun anagramChecker(s: String, t: String): Boolean {
 //println(anagramChecker("pan", "nap"))
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to check anagram string
 
@@ -333,6 +357,8 @@ else {
   print "String are not Anagram";
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to check anagram string
@@ -360,6 +386,8 @@ echo anagram('pan' , 'nap');
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to check anagram string
 
@@ -375,6 +403,8 @@ if isanagram(string1,string2) == True
 else:
     print("Not Anagram Strings")
 ```
+
+### R
 
 ```r
 # Write a R program to check anagram string
@@ -399,6 +429,8 @@ result <- checkAnagram(string1, string2)
 cat(result) # Output: Anagram Strings
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to check anagram string
 
@@ -412,6 +444,8 @@ end
 
 puts checkAnagram "pan", "nap"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to check anagram string
@@ -441,6 +475,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to check anagram string
 
@@ -449,6 +485,8 @@ def areAnagram(str1: String, str2: String): Boolean =
 
 println(areAnagram("pan", "nap"))
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to check anagram string
@@ -474,6 +512,8 @@ func AreAnagram(str1: String, str2: String){
 
 AreAnagram(str1: "listen", str2: "SiLent")
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to check anagram string

@@ -32,6 +32,8 @@ trackId: 554
 description: "Write a program to print reverse of a string by recursion."
 ---
 
+## Table of contents
+
 ## Write a program to print reverse of a string by recursion
 
 Reverse of a string is the string with characters in reverse order. For example, reverse of "GeeksQuiz" is "ziuQskeeG".
@@ -42,6 +44,8 @@ Output : dcba
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print reverse of a string by recursion
@@ -68,6 +72,8 @@ reverse(s,start,end);
  }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to print reverse of a string by recursion
 
@@ -93,6 +99,8 @@ public class ReverseStringRecursion
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to print reverse of a string by recursion
 
@@ -112,6 +120,8 @@ reverse(s,start,end);
     cout<<s;
  }
 ```
+
+### Go
 
 ```go
 // Write a Go program to print reverse of a string by recursion
@@ -138,6 +148,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to print reverse of a string by recursion
 
@@ -163,6 +175,8 @@ public class PrintReverseOfAStringByRecursion {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to print reverse of a string by recursion
 
@@ -174,6 +188,8 @@ function reverse(s) {
 }
 console.log(reverse(s));
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to print reverse of a string by recursion
@@ -195,6 +211,8 @@ print "Input: $inputString\n";
 print "Output: $outputString\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to print reverse of a string by recursion
 
@@ -215,6 +233,8 @@ print_r(Reverse($str));
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to print reverse of a string by recursion
 
@@ -229,6 +249,8 @@ s = input("Enter the string to be reversed: ")
 print(reverse(s))
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to print reverse of a string by recursion
 
@@ -242,6 +264,8 @@ end
 
 puts(reverseRecursive("abcd"))
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to print reverse of a string by recursion
@@ -258,6 +282,8 @@ else reverse(s.tail) + s.head
 }
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print reverse of a string by recursion

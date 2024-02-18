@@ -41,6 +41,8 @@ trackId: 912
 description: "Write a program to print reverse of a string."
 ---
 
+## Table of contents
+
 ## Write a program to print reverse of a string
 
 Reverse of a string is the string with the characters in reverse order. For example, the reverse of "hello" is "olleh".
@@ -51,6 +53,8 @@ Output : dcba
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print reverse of a string
@@ -92,6 +96,8 @@ void PrintReverseOfAString(char *str)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to print reverse of a string
 
@@ -118,6 +124,8 @@ namespace reverseString
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to print reverse of a string
@@ -147,6 +155,8 @@ int main(){
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to print reverse of a string
 
@@ -163,6 +173,8 @@ func main() {
 	fmt.Println(reverse)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to print reverse of a string
@@ -185,6 +197,8 @@ public class PrintReverseOfAString {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to print reverse of a string
 
@@ -195,6 +209,8 @@ function reverseString(str) {
 console.log(reverseString("abcd"));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to print reverse of a string
 
@@ -202,6 +218,8 @@ print("Enter a String: ")
 str = readline(stdin)
 println(reverse(str))
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to print reverse of a string
@@ -222,6 +240,8 @@ private fun reverseString(str: String): String {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to print reverse of a string
 
@@ -229,6 +249,8 @@ print "Enter a String : \n";
 $string = <STDIN>;
 print "Reverse String : ".scalar reverse("$string"), "\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to print reverse of a string
@@ -238,11 +260,15 @@ print "Reverse String : ".scalar reverse("$string"), "\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to print reverse of a string
 
 print(input("What would you like to reverse?: ")[::-1])
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to print reverse of a string
@@ -259,6 +285,8 @@ print "The reversed string is : "
 printReverseOfAString string_input
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to print reverse of a string
 
@@ -270,6 +298,8 @@ fn main() {
     println!("{}", reverse_string("abcd"));
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to print reverse of a string
@@ -287,6 +317,8 @@ object HelloWorld {
  }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to print reverse of a string
 
@@ -297,6 +329,8 @@ let str = "Hello, world!"
 let reversed = String(str.reversed())
 print(reversed)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print reverse of a string

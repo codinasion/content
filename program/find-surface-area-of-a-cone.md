@@ -41,6 +41,8 @@ trackId: 4566
 description: "Write a program to find surface area of a cone."
 ---
 
+## Table of contents
+
 ## Write a program to find surface area of a cone
 
 Surface area of cone = π × `Radius` × (`Radius` + `Slant Height`)
@@ -53,6 +55,8 @@ Surface area : 50.26548245743669
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find surface area of a cone
@@ -98,6 +102,8 @@ return 0;
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find surface area of a cone
 
@@ -114,6 +120,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find surface area of a cone
@@ -151,6 +159,8 @@ cin>>slant_height;
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find surface area of a cone
 
@@ -165,6 +175,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find surface area of a cone
 
@@ -176,6 +188,8 @@ let cone = surfaceAreaOfCone 2.0 3.0
 
 printfn "Surface area of cone: %f" cone
 ```
+
+### Go
 
 ```go
 // Write a Go program to find surface area of a cone
@@ -200,6 +214,8 @@ func main(){
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find surface area of a cone
 
@@ -217,6 +233,8 @@ main = do
     putStrLn $ show (surfaceArea)
 ```
 
+### Java
+
 ```java
 // Write a Java program to find surface area of a cone
 
@@ -233,6 +251,8 @@ Double area = Math.PI*radius*(radius + slantHeight);
     }
 }
 ```
+
+### JavaScript
 
 ````javascript
 // Write a JavaScript program to find surface area of a cone
@@ -269,6 +289,8 @@ console.log(
 );
 ````
 
+### Julia
+
 ```julia
 # Write a Julia program to find surface area of a cone
 
@@ -279,6 +301,8 @@ height = parse(Float64, readline(stdin))
 area = 3.14 * radius * (radius + height)
 println("Surface area of cone: ", area)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find surface area of a cone
@@ -296,6 +320,8 @@ fun main() {
     println("Surface area of a cone is "+area);
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find surface area of a cone
@@ -317,6 +343,8 @@ sub surfaceAreaOfCone
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find surface area of a cone
 
@@ -330,6 +358,8 @@ echo surfaceAreaOfCone(2,3)
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to find surface area of a cone
@@ -360,6 +390,8 @@ if __name__ == "__main__":
 # contributed by MedMly20208 Mohamed Moulay
 ```
 
+### R
+
 ```r
 # Write a R program to find surface area of a cone
 
@@ -368,6 +400,8 @@ slantHeight = 3
 surfaceArea = pi * radius * ( radius + slantHeight )
 cat("surfaceArea: ", surfaceArea)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find surface area of a cone
@@ -387,6 +421,8 @@ surfaceArea = 3.14 * radius * ( radius + height );
 print "Surface area of cone is: ",surfaceArea.to_f.round(2);
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to find surface area of a cone
 
@@ -404,6 +440,8 @@ object surfaceAreaOfCone {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find surface area of a cone
 
@@ -416,6 +454,8 @@ var height = 3.0
 var surfaceArea = M_PI * radius * (radius + height)
 print("Surface area of cone: ", surfaceArea)
 ```
+
+### TypeScript
 
 ````typescript
 // Write a TypeScript program to find surface area of a cone

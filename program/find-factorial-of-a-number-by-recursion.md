@@ -38,6 +38,8 @@ trackId: 782
 description: "Write a program to find factorial of a number by recursion."
 ---
 
+## Table of contents
+
 ## Write a program to find factorial of a number by recursion
 
 Factorial of a number is the product of all the numbers from 1 to that number. For example, factorial of 5 is 5\*4\*3\*2\*1 = 120.
@@ -48,6 +50,8 @@ Output : 120
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find factorial of a number by recursion
@@ -83,6 +87,8 @@ int FactorialRec(int num)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find factorial of a number by recursion
 
@@ -108,6 +114,8 @@ class Factorial
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find factorial of a number by recursion
@@ -136,6 +144,8 @@ int main() {
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to find factorial of a number by recursion
 
@@ -160,6 +170,8 @@ func main() {
 	fmt.Println(factorialize(i))
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find factorial of a number by recursion
@@ -188,6 +200,8 @@ import java.util.Scanner;
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find factorial of a number by recursion
 
@@ -212,6 +226,8 @@ factorialize(5);
 console.log("Factorial of 5 is", factorialize(5));
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to find factorial of a number by recursion
 
@@ -228,6 +244,8 @@ class FindFactorialOfANumberByRecursion {
     }
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find factorial of a number by recursion
@@ -249,6 +267,8 @@ $n = 5;
 print "Factorial of a number $n is ", factorial($n);
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find factorial of a number by recursion
 
@@ -266,6 +286,8 @@ echo factorial((int) readline()) . "\n";
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to find factorial of a number by recursion
@@ -286,6 +308,8 @@ else:
     print("Factorial of", n, "=", fact(n))
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find factorial of a number by recursion
 
@@ -298,6 +322,8 @@ print "Enter a number : "
 num = gets.chomp.to_i
 print "Factorial of #{num} : #{fact(num)}"
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find factorial of a number by recursion
@@ -316,6 +342,8 @@ object HelloWorld {
   }
  }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find factorial of a number by recursion
@@ -336,6 +364,8 @@ func factorial(fNumber: Int) -> Int{
    }
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find factorial of a number by recursion

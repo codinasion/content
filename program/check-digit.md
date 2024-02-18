@@ -41,6 +41,8 @@ trackId: 2930
 description: "Write a program to check digit."
 ---
 
+## Table of contents
+
 ## Write a program to check digit
 
 Check wether given character is a digit (0-9).
@@ -51,6 +53,8 @@ Output : Digit
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to check digit
@@ -92,6 +96,8 @@ int IsDigit(char check_me)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to check digit
 
@@ -109,6 +115,8 @@ public class CheckDigit
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to check digit
 
@@ -125,6 +133,8 @@ int main(){
 
 //Contributed by Raghav Garg
 ```
+
+### Go
 
 ```go
 // Write a Go program to check digit
@@ -164,6 +174,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to check digit
 
@@ -186,6 +198,8 @@ public class CheckDigit {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to check digit
 
@@ -196,6 +210,8 @@ console.log(isNumDigit("1"));
 console.log(isNumDigit("w"));
 console.log(isNumDigit("6.9"));
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to check digit
@@ -208,6 +224,8 @@ else
     println("Not a Digit")
 end
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to check digit
@@ -235,6 +253,8 @@ private fun CheckIsDigit(str: String): String {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to check digit
 
@@ -246,6 +266,8 @@ if (length(do { no warnings "numeric"; $x & "" })){
    print "Not a digit\n";
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to check digit
@@ -261,6 +283,8 @@ function checkDigit($digits) {
 checkDigit('1')
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to check digit
@@ -283,6 +307,8 @@ if checDigit(num):
 else:
     print("Not Digit")
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to check digit
@@ -310,6 +336,8 @@ end
 check_digit(num)
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to check digit
 
@@ -322,6 +350,8 @@ object checkDigit
     }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to check digit
@@ -341,6 +371,8 @@ print("A".isNumeric) //false
 print("a".isNumeric) //false
 print("&".isNumeric) //false
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to check digit

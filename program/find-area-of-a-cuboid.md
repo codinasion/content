@@ -40,6 +40,8 @@ trackId: 2585
 description: "Write a program to find area of a cuboid."
 ---
 
+## Table of contents
+
 ## Write a program to find area of a cuboid
 
 Area of cuboid = 2 × (`Length` × `Width` + `Length` × `Height` + `Width` × `Height`)
@@ -53,6 +55,8 @@ Area : 52
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find area of a cuboid
@@ -73,6 +77,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find area of a cuboid
 
@@ -90,6 +96,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find area of a cuboid
@@ -109,6 +117,8 @@ int main()
 //Contributed by Raghav Garg
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find area of a cuboid
 
@@ -125,6 +135,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find area of a cuboid
 
@@ -138,6 +150,8 @@ let area = 2 * ((length * width) + (length * height) + (width * height))
 
 printfn "Area of cuboid  : %d" area
 ```
+
+### Go
 
 ```go
 // Write a Go program to find area of a cuboid
@@ -162,6 +176,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find area of a cuboid
 
@@ -182,6 +198,8 @@ main = do
     let area = 2 * (length * width + length * height + width * height)
     putStrLn $ show (area)
 ```
+
+### Java
 
 ```java
 // Write a Java program to find area of a cuboid
@@ -205,6 +223,8 @@ public class findareaofacuboid {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find area of a cuboid
 
@@ -219,6 +239,8 @@ let Height = 4;
 console.log(cuboidArea(Length, Width, Height)); //52
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find area of a cuboid
 
@@ -231,6 +253,8 @@ height = parse(Float64, readline(stdin))
 area = 2 * (length * width + length * height + width * height)
 println("Area of cuboid : ", area)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find area of a cuboid
@@ -256,6 +280,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find area of a cuboid
 
@@ -272,6 +298,8 @@ my $cuboid = 2 * ($length * $width) + ($length * $height) + ($width * $height);
 print "Area of Cuboid: ".$cuboid, "\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find area of a cuboid
 
@@ -286,6 +314,8 @@ print "Area of Cuboid: ".$cuboid, "\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find area of a cuboid
 
@@ -294,6 +324,8 @@ Width = int(input())
 Height = int(input())
 print(2 * (Length * Width + Length * Height + Width * Height))
 ```
+
+### R
 
 ```r
 # Write a R program to find area of a cuboid
@@ -304,6 +336,8 @@ height = 4
 area = 2 * (length * width + length * height + width * height)
 cat("Area: ", area)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find area of a cuboid
@@ -321,6 +355,8 @@ area = 2 * (length * width + length * height + width * height)
 print "area : #{area}"
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to find area of a cuboid
 
@@ -333,6 +369,8 @@ fn main() {
     println!("Area of cuboid is {0}", area as f32);
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find area of a cuboid
@@ -348,6 +386,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find area of a cuboid
 
@@ -361,6 +401,8 @@ var height = 4.0
 var area = 2.0 * (length * width + length * height + width * height)
 print("Area of cuboid: ", area)
 ```
+
+### TypeScript
 
 ````typescript
 // Write a TypeScript program to find area of a cuboid

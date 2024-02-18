@@ -36,6 +36,8 @@ trackId: 456
 description: "Write a program to convert octal to hexadecimal."
 ---
 
+## Table of contents
+
 ## Write a program to convert octal to hexadecimal
 
 Octal is a base-8 number system. It uses only eight digits: 0, 1, 2, 3, 4, 5, 6, and 7. The digits are called octits. An octit is the smallest unit of information in a computer. An octit can be used to represent a single value, such as 0, 1, 2, 3, 4, 5, 6, or 7, or it can be used to represent a single state, such as on or off.
@@ -53,6 +55,8 @@ Output : A
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert octal to hexadecimal
@@ -123,6 +127,8 @@ int main()
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to convert octal to hexadecimal
@@ -201,6 +207,8 @@ Console.Write("Equivalent Hexadecimal Value = " +
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to convert octal to hexadecimal
 
@@ -239,6 +247,8 @@ int main()
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to convert octal to hexadecimal
 
@@ -269,6 +279,8 @@ func main() {
 	fmt.Printf("octal number %s converted to hexadecimal number：%s\n", octalStr, strings.ToUpper(hexStr))
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert octal to hexadecimal
@@ -315,6 +327,8 @@ class ConvertOctalToHexadecimal
    }
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to convert octal to hexadecimal
@@ -402,6 +416,8 @@ hexnum = decToHexa(decnum);
 console.log("Equivalent Hexadecimal Value = " + hexnum);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert octal to hexadecimal
 
@@ -411,6 +427,8 @@ y = parse(Int, x, base=8)
 y = string(y, base=16)
 println("Hexadecimal of ", x, ": ", uppercase(y))
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert octal to hexadecimal
@@ -466,6 +484,8 @@ private fun decimalToHexadecimal(nums: Int): String {
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to convert octal to hexadecimal
 
@@ -513,6 +533,8 @@ echo strrev($hexadecimal) . "\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert octal to hexadecimal
 
@@ -527,6 +549,8 @@ hexadecimal = hex(decnum).replace("0x", "")
 # Printing the hexadecimal value
 print(hexadecimal)
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to convert octal to hexadecimal
@@ -558,6 +582,8 @@ object OctalToHexadecimalConverter {
   }
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert octal to hexadecimal

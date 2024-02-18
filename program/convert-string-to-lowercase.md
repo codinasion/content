@@ -43,6 +43,8 @@ trackId: 2683
 description: "Write a program to convert string to lowercase."
 ---
 
+## Table of contents
+
 ## Write a program to convert string to lowercase
 
 ```
@@ -51,6 +53,8 @@ Output : "hello world"
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert string to lowercase
@@ -75,6 +79,8 @@ printf (" \n Upper Case to Lower case string is: %s", str);
 return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to convert string to lowercase
@@ -101,6 +107,8 @@ class Program
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to convert string to lowercase
 
@@ -118,6 +126,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert string to lowercase
 
@@ -130,6 +140,8 @@ void main() {
   print(lower(myString));
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert string to lowercase
@@ -146,6 +158,8 @@ func main() {
 	fmt.Println(strings.ToLower(str))
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert string to lowercase
@@ -167,6 +181,8 @@ public class ConvertStringToLowercase {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert string to lowercase
 
@@ -176,6 +192,8 @@ function ConvertStringToLowercase(param) {
 console.log(ConvertStringToLowercase("Hello World"));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert string to lowercase
 
@@ -183,6 +201,8 @@ println("Enter a string: ")
 s = lowercase(readline())
 println("Given string in lowercase: ", s)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert string to lowercase
@@ -203,12 +223,16 @@ private fun ConvertStringToLowercase(args: String): String {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert string to lowercase
 
 my $str = <STDIN>;
 print lc $str;
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert string to lowercase
@@ -220,12 +244,16 @@ print lc $str;
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert string to lowercase
 
 a = input()
 print(a.lower())
 ```
+
+### R
 
 ```r
 # Write a R program to convert string to lowercase
@@ -239,6 +267,8 @@ convertStringToLowercase("Hello World")
 # hello world
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert string to lowercase
 
@@ -246,6 +276,8 @@ print "Enter String : "
 str = gets.chomp
 print "Lowecase : #{str.downcase}"
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to convert string to lowercase
@@ -257,6 +289,8 @@ let str = "HELLO WORLD"
 let lowercase = String(str.lowercased())
 print(lowercase)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert string to lowercase

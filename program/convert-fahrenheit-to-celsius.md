@@ -44,6 +44,8 @@ trackId: 5013
 description: "Write a program to convert fahrenheit to celsius."
 ---
 
+## Table of contents
+
 ## Write a program to convert fahrenheit to celsius
 
 celsius = (fahrenheit - 32) \* 5/9
@@ -54,6 +56,8 @@ Output ( C ) : -40
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert fahrenheit to celsius
@@ -76,6 +80,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert fahrenheit to celsius
 
@@ -89,6 +95,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert fahrenheit to celsius
@@ -111,6 +119,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert fahrenheit to celsius
 
@@ -123,6 +133,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert fahrenheit to celsius
 
@@ -133,6 +145,8 @@ let celcius = fahrenheitToCelsius -40.0
 
 printfn "Equivalent celcius : %f" celcius
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert fahrenheit to celsius
@@ -149,6 +163,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to convert fahrenheit to celsius
 
@@ -161,6 +177,8 @@ main = do
     let celsius = (fahrenheit - 32) * 5/9
     putStrLn $ "Given Fahrenheit in Celsius: " ++ show(celsius) ++ " °C"
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert fahrenheit to celsius
@@ -181,6 +199,8 @@ public class ConvertFahrenheitToCelsius {
 // You can use float, double or any other data type according to convinience.
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert fahrenheit to celsius
 
@@ -190,6 +210,8 @@ function convertFahrenheitToCelsius(fahrenheit) {
 
 console.log("Given Fahrenheit in Celsius:", convertFahrenheitToCelsius(50));
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to convert fahrenheit to celsius
@@ -201,6 +223,8 @@ celsius = round((fahrenheit - 32) * 5/9; digits = 2)
 println("Given Fahrenheit in Celsius: ", celsius, " °C")
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to convert fahrenheit to celsius
 
@@ -211,6 +235,8 @@ fun main() {
     println("$input fahrenheit = " + ((input!!.toDouble() -32) * 5/9) + " celsius")
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to convert fahrenheit to celsius
@@ -229,6 +255,8 @@ sub fahrenheitToCelsius
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to convert fahrenheit to celsius
 
@@ -242,6 +270,8 @@ echo fahrenheit2Celsius(-40);
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to convert fahrenheit to celsius
@@ -259,6 +289,8 @@ if __name__ == "__main__":
     print(convertFahrenheitToCelsius(fahrenheit))
 ```
 
+### R
+
 ```r
 # Write a R program to convert fahrenheit to celsius
 
@@ -266,6 +298,8 @@ fahrenheit = -40
 celsius = (fahrenheit - 32) * 5/9
 cat("celsius: ", celsius)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert fahrenheit to celsius
@@ -276,6 +310,8 @@ end
 
 convertFahrenheitToCelcius(-40)
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert fahrenheit to celsius
@@ -311,6 +347,8 @@ fn main(){
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert fahrenheit to celsius
 
@@ -326,6 +364,8 @@ object fahrenheitToCelsius {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert fahrenheit to celsius
 
@@ -336,6 +376,8 @@ print("Enter fahrenheit: ")
 var fahrenheit = Int(readLine()!)!
 print("Celsius: ", (fahrenheit - 32) * 5/9)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert fahrenheit to celsius

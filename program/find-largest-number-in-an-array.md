@@ -39,6 +39,8 @@ trackId: 2894
 description: "Write a program to find largest number in an array."
 ---
 
+## Table of contents
+
 ## Write a program to find largest number in an array
 
 ```
@@ -47,6 +49,8 @@ Output : 5
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find largest number in an array
@@ -68,6 +72,8 @@ int main()
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find largest number in an array
@@ -105,6 +111,8 @@ namespace Largest
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find largest number in an array
 
@@ -126,6 +134,8 @@ int main(){
 //Contributed by Raghav Garg
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find largest number in an array
 
@@ -143,6 +153,8 @@ void main() {
   largestInArray([1,2,3,100,5,66]);
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to find largest number in an array
@@ -165,6 +177,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find largest number in an array
 
@@ -174,6 +188,8 @@ maxNum (x:x':xs) = maxNum ((if x >= x' then x else x'):xs)
 
 main = print (maxNum [1, 2, 3, 4, 5])
 ```
+
+### Java
 
 ```java
 // Write a Java program to find largest number in an array
@@ -203,6 +219,8 @@ System.out.println("Largest: "+getLargest(a,5));
 }}
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find largest number in an array
 
@@ -216,6 +234,8 @@ console.log(
 );
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find largest number in an array
 
@@ -223,6 +243,8 @@ array = [1,2,3,4,5]
 largest_element = sort(array, rev=true)
 println("The largest number is : ", largest_element[1])
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find largest number in an array
@@ -235,6 +257,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find largest number in an array
 
@@ -242,6 +266,8 @@ use List::Util qw(min max);
 my @arr = (1, 2, 3, 4, 5);
 print max(@arr), "\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find largest number in an array
@@ -258,11 +284,15 @@ print max(@arr), "\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find largest number in an array
 
 print(max(map(lambda x: int(x), list(input("Enter the values: ").strip().split()))))
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find largest number in an array
@@ -274,6 +304,8 @@ puts ''
 puts "Sorted Array: #{numbers_array.sort}"
 puts "Max Number: #{numbers_array.max}"
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find largest number in an array
@@ -295,6 +327,8 @@ object LargestElement {
     }
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find largest number in an array

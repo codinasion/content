@@ -42,6 +42,8 @@ trackId: 4476
 description: "Write a program to find second smallest number in an array."
 ---
 
+## Table of contents
+
 ## Write a program to find second smallest number in an array
 
 ```
@@ -50,6 +52,8 @@ Output : 2
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find second smallest number in an array
@@ -86,6 +90,8 @@ main()
     printf(" \nSecond smallest element is %d", secondsmallest);
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find second smallest number in an array
@@ -135,6 +141,8 @@ namespace SecondSmallest
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find second smallest number in an array
 
@@ -168,6 +176,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find second smallest number in an array
 
@@ -186,6 +196,8 @@ void main() {
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to find second smallest number in an array
 
@@ -202,6 +214,8 @@ func main() {
 	fmt.Println(series[1])
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find second smallest number in an array
@@ -242,6 +256,8 @@ class secondSmallest
     }
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to find second smallest number in an array
@@ -316,6 +332,8 @@ function findSecondSmallestNumberInAnArray(nums) {
 console.log(findSecondSmallestNumberInAnArray([1, 2, 3, 4, 5]));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find second smallest number in an array
 
@@ -324,6 +342,8 @@ second_smallest_element = sort(array)
 println("The second smallest number is : ", second_smallest_element[2])
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find second smallest number in an array
 
@@ -331,6 +351,8 @@ println("The second smallest number is : ", second_smallest_element[2])
 @sortedList = sort @list;
 print "Second Smallest value : ".@sortedList[1];
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find second smallest number in an array
@@ -347,6 +369,8 @@ echo secondSmallest([1,2,3,4,5]);
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find second smallest number in an array
 
@@ -359,6 +383,8 @@ def find_len(n):
 size_list = int(input("What's the size of the list: "))
 find_len(size_list)
 ```
+
+### R
 
 ```r
 # Write a R program to find second smallest number in an array
@@ -380,6 +406,8 @@ second_smallest <- find_second_smallest(numbers)
 cat("The second smallest number in the array is:", second_smallest, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find second smallest number in an array
 
@@ -391,6 +419,8 @@ end
 arr = [5,3,1,4,2]
 print second_smallest_element(arr)
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find second smallest number in an array
@@ -410,6 +440,8 @@ fn main(){
     println!("{second_small}");
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find second smallest number in an array
@@ -449,6 +481,8 @@ object Scala_Array {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find second smallest number in an array
 
@@ -480,6 +514,8 @@ func main() {
 
 main()
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find second smallest number in an array

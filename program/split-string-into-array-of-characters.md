@@ -37,6 +37,8 @@ trackId: 2535
 description: "Write a program to split string into array of characters."
 ---
 
+## Table of contents
+
 ## Write a program to split string into array of characters
 
 ```
@@ -45,6 +47,8 @@ Output : ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d"]
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to split string into array of characters
@@ -83,6 +87,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to split string into array of characters
 
@@ -99,6 +105,8 @@ public class Reverse
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to split string into array of characters
@@ -123,6 +131,8 @@ int main()
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to split string into array of characters
 
@@ -143,6 +153,8 @@ func main() {
 	splitStringIntoArray(str)
 }
 ```
+
+### Haskell
 
 ```haskell
 -- Write a Haskell program to split string into array of characters
@@ -166,6 +178,8 @@ main = do
   let result = characters "Hii there"
   print result
 ```
+
+### Java
 
 ```java
 // Write a Java program to split string into array of characters
@@ -199,6 +213,8 @@ class SplitStringintoArrayofCharacters{
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to split string into array of characters
 
@@ -218,6 +234,8 @@ function splitStringIntoArrayOfCharacters(str) {
 splitStringIntoArrayOfCharacters("Hello World");
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to split string into array of characters
 
@@ -229,6 +247,8 @@ my $word = <STDIN>;
 my @arr=split (//, $word);
 print "@arr";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to split string into array of characters
@@ -246,6 +266,8 @@ print "@arr";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to split string into array of characters
 
@@ -257,6 +279,8 @@ else:
     print("Output :", list(string))
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to split string into array of characters
 
@@ -264,6 +288,8 @@ str = gets.chomp
 arr = str.split("")
 print arr
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to split string into array of characters

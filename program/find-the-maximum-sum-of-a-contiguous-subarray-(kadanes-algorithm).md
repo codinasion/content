@@ -21,6 +21,8 @@ trackId: 3918
 description: "Write a program to find the maximum sum of a contiguous subarray (kadanes algorithm)."
 ---
 
+## Table of contents
+
 ## Write a program to find the maximum sum of a contiguous subarray (kadane's algorithm)
 
 Kadane's algorithm is used to find the maximum sum of a contiguous subarray within a one-dimensional array of numbers. For example, for the sequence of values `−2, 1, −3, 4, −1, 2, 1, −5, 4;` the contiguous subarray with the largest sum is `4, −1, 2, 1,` with sum `6`.
@@ -31,6 +33,8 @@ Output : 9
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find the maximum sum of a contiguous subarray (kadanes algorithm)
@@ -69,6 +73,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find the maximum sum of a contiguous subarray (kadanes algorithm)
 
@@ -101,6 +107,8 @@ public class FindTheMaximumSumOfAContiguousSubArrayKadanesAlgorithm{
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find the maximum sum of a contiguous subarray (kadanes algorithm)
 
@@ -124,6 +132,8 @@ int main()
 
 //Contributed by Raghav Garg
 ```
+
+### Go
 
 ```go
 // Write a Go program to find the maximum sum of a contiguous subarray (kadanes algorithm)
@@ -166,6 +176,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to find the maximum sum of a contiguous subarray (kadanes algorithm)
 
@@ -191,6 +203,8 @@ public class FindTheMaximumSumOfAContiguousSubarray{
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find the maximum sum of a contiguous subarray (kadanes algorithm)
 
@@ -212,6 +226,8 @@ function maximumContiguousSum(arr) {
 let arr = [-2, -3, 4, -1, -2, 1, 5, -3];
 console.log(maximumContiguousSum(arr)); //7
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find the maximum sum of a contiguous subarray (kadanes algorithm)
@@ -235,6 +251,8 @@ fun maxSubArraySum(a: IntArray): Int {
     return best
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find the maximum sum of a contiguous subarray (kadanes algorithm)
@@ -266,6 +284,8 @@ echo "Maximum sum of contiguous subarray : " ,$max_sum;
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find the maximum sum of a contiguous subarray (kadanes algorithm)
 
@@ -294,6 +314,8 @@ a = [-2, -3, 4, -1, -2, 1, 5, -3]
 
 print("Maximum contiguous sum is", maxSubArraySum(a, len(a)))
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find the maximum sum of a contiguous subarray (kadanes algorithm)
@@ -337,6 +359,8 @@ puts Subarray.max_sub(arr)
 # => 6
 # => [4, -1, 2, 1]
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find the maximum sum of a contiguous subarray (kadanes algorithm)

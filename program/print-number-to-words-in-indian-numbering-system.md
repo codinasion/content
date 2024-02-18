@@ -31,6 +31,8 @@ trackId: 1312
 description: "Write a program to print number to words in indian numbering system."
 ---
 
+## Table of contents
+
 ## Write a program to print number to words in indian numbering system
 
 ```
@@ -39,6 +41,8 @@ Output : Twelve Crore Thirty Four Lakh Fifty Six Thousand Seven Hundred Eighty N
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print number to words in indian numbering system
@@ -96,6 +100,8 @@ void main()
 	return;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to print number to words in indian numbering system
@@ -167,6 +173,8 @@ public class numToWords
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to print number to words in indian numbering system
 
@@ -209,6 +217,8 @@ int main(){
 
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to print number to words in indian numbering system
@@ -320,6 +330,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to print number to words in indian numbering system
 
@@ -385,6 +397,8 @@ public class NumberToWords {
     }
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to print number to words in indian numbering system
@@ -497,6 +511,8 @@ function numberToWords(input) {
 console.log(numberToWords(123456789));
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to print number to words in indian numbering system
 
@@ -583,6 +599,8 @@ echo "Output: $inWords";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to print number to words in indian numbering system
 
@@ -652,6 +670,8 @@ D = {
 num = int(input("Enter number :"))
 Convert(num)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print number to words in indian numbering system

@@ -39,6 +39,8 @@ trackId: 2224
 description: "Write a program to find largest and smallest numbers in an array."
 ---
 
+## Table of contents
+
 ## Write a program to find largest and smallest numbers in an array
 
 ```
@@ -47,6 +49,8 @@ Output : 5, 1
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find largest and smallest numbers in an array
@@ -98,6 +102,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find largest and smallest numbers in an array
 
@@ -138,6 +144,8 @@ namespace LargestAndSmallest
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find largest and smallest numbers in an array
 
@@ -175,6 +183,8 @@ cout<< max << ", "<<min;
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find largest and smallest numbers in an array
 
@@ -188,6 +198,8 @@ let FindLargestAndSmallestNumbersInAnArray (input: int list) =
 let input = [1; 2; 3; 9; 6; 4; 5]
 FindLargestAndSmallestNumbersInAnArray input
 ```
+
+### Go
 
 ```go
 // Write a Go program to find largest and smallest numbers in an array
@@ -228,6 +240,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to find largest and smallest numbers in an array
 
@@ -254,6 +268,8 @@ public class FindLargestSmallestNumber {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find largest and smallest numbers in an array
 
@@ -265,6 +281,8 @@ const numberArrTest = [1, 2, 3, 4, 5];
 findingSmallLarge(numberArrTest);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find largest and smallest numbers in an array
 
@@ -275,6 +293,8 @@ largest_element = array[length(array)]
 println("The smallest number is : ", smallest_element)
 println("\nThe largest number is : ", largest_element)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find largest and smallest numbers in an array
@@ -291,6 +311,8 @@ fun main() {
 	println(findLargestAndSmallestNumbers(inputs))
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find largest and smallest numbers in an array
@@ -325,6 +347,8 @@ print "Largest value : ", $ret[1], "\n";
 print "Smallest value : ", $ret[0], "\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find largest and smallest numbers in an array
 
@@ -342,12 +366,16 @@ $inputs = [1, 2, 3, 4, 5];
 echo find_largest_and_smallest_numbers_in_an_array($inputs);
 ```
 
+### Python
+
 ```python
 # Write a Python program to find largest and smallest numbers in an array
 
 numbers = [int(input()) for _ in range(int(input("How many numbers: ")))]
 print(f"{max(numbers)}, {min(numbers)}")
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find largest and smallest numbers in an array
@@ -361,6 +389,8 @@ end
 findLargestAndSmallestNumbersInAnArray [1,2,3,4,5]
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find largest and smallest numbers in an array
 
@@ -371,6 +401,8 @@ let numbers = [1, 2, 3, 4, 5]
 print("Largest number: ", numbers.reduce(Int.min, { max($0, $1) }))
 print("Smallest number: ", numbers.reduce(Int.max, { min($0, $1) }))
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find largest and smallest numbers in an array

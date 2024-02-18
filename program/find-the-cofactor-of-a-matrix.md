@@ -28,6 +28,8 @@ trackId: 2344
 description: "Write a program to find the cofactor of a matrix."
 ---
 
+## Table of contents
+
 ## Write a program to find the cofactor of a matrix
 
 The cofactor of an element a<sub>ij</sub> of a square matrix A is the determinant of the minor of A obtained by deleting the ith row and jth column of A. The cofactor of a matrix A is the matrix of cofactors of A.
@@ -43,6 +45,8 @@ Output :
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find the cofactor of a matrix
@@ -118,6 +122,8 @@ int main()
     printMatrix(coFactors);
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find the cofactor of a matrix
@@ -228,6 +234,8 @@ class Program
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find the cofactor of a matrix
@@ -386,6 +394,8 @@ void printMatrix(Matrix matrix, int row, int col) {
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to find the cofactor of a matrix
 
@@ -444,6 +454,8 @@ func prettyPrintMatrix(matrix [3][3]int) {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find the cofactor of a matrix
 
@@ -500,6 +512,8 @@ for (let i = 0; i < 3; i++) {
 printMatrix(coFacMatrix);
 ```
 
+### Python
+
 ```python
 # Write a Python program to find the cofactor of a matrix
 
@@ -538,6 +552,8 @@ print(compute_cofactor_matrix([[1, 2, 3], [4, 5, 6], [7, 8, 9]]))
  [ -3.   6.  -3.]]
 """
 ```
+
+### R
 
 ```r
 # Write a R program to find the cofactor of a matrix
@@ -579,6 +595,8 @@ cofactor <- calculate_cofactor(your_matrix, matrix_ord)
 print("Matrix of cofactors:")
 print(cofactor)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find the cofactor of a matrix

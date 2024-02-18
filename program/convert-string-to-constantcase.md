@@ -44,6 +44,8 @@ trackId: 3966
 description: "Write a program to convert string to constantcase."
 ---
 
+## Table of contents
+
 ## Write a program to convert string to constantcase
 
 Constantcase is a style of writing in which all letters are uppercase and spaces are replaced with underscores.
@@ -54,6 +56,8 @@ Output : "HELLO_WORLD"
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert string to constantcase
@@ -80,6 +84,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert string to constantcase
 
@@ -98,6 +104,8 @@ public class Program
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert string to constantcase
@@ -137,6 +145,8 @@ void ConvertStringToConstantcase(std::string& str)
 /////////////////////////////////////////////////////////////////////
 ```
 
+### Go
+
 ```go
 // Write a Go program to convert string to constantcase
 
@@ -160,6 +170,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert string to constantcase
 
@@ -177,6 +189,8 @@ public class ConvertStringToConstantcase {
     }
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to convert string to constantcase
@@ -196,6 +210,8 @@ function stringToConstantcase(str) {
 stringToConstantcase("hello world");
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert string to constantcase
 
@@ -204,6 +220,8 @@ s = readline()
 s = replace(uppercase(s), " " => "_")
 println("Given string in constantcase: ", s)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert string to constantcase
@@ -234,6 +252,8 @@ private fun ConvertStringToConstantcase(args: List<String>): String {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert string to constantcase
 
@@ -243,6 +263,8 @@ $_ = uc;
 s/\s+/_/g;
 print;
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert string to constantcase
@@ -258,6 +280,8 @@ $output = str_replace(" ", "_", $input);
 echo strtoupper($output);
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert string to constantcase
 
@@ -266,6 +290,8 @@ if __name__ == "__main__":
     string = "_".join(word)
     print(string.upper())
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert string to constantcase
@@ -279,6 +305,8 @@ end
 
 puts converStringToConstantCase input_string
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to convert string to constantcase
@@ -309,6 +337,8 @@ object convertStringToConstantcase {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert string to constantcase
 
@@ -327,6 +357,8 @@ if let userInput = readLine() {
     print("Invalid input")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert string to constantcase

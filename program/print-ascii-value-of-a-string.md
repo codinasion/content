@@ -37,6 +37,8 @@ trackId: 578
 description: "Write a program to print ascii value of a string."
 ---
 
+## Table of contents
+
 ## Write a program to print ascii value of a string
 
 ASCII value is the numeric representation of a character. For example, the ASCII value of the character 'A' is 65. The ASCII value of the character 'a' is 97. The ASCII value of the character '0' is 48. The ASCII value of the character ' ' is 32.
@@ -47,6 +49,8 @@ Output : 65 66 67
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print ascii value of a string
@@ -68,6 +72,8 @@ int main(int argc, char *argv[])
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to print ascii value of a string
@@ -105,6 +111,8 @@ namespace CSharpStringToASCII {
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to print ascii value of a string
 
@@ -124,6 +132,8 @@ int main()
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to print ascii value of a string
 
@@ -142,6 +152,8 @@ func main() {
 	fmt.Printf("\nThe ASCII value of '%c' : %d\n", ch, ch)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to print ascii value of a string
@@ -164,6 +176,8 @@ class PrintAsciiValueOfAString
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to print ascii value of a string
 
@@ -177,6 +191,8 @@ console.log("Input  :", s);
 console.log("Output :", PrintAsciiValueOfAString(s));
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to print ascii value of a string
 
@@ -188,6 +204,8 @@ fun main() {
     }
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to print ascii value of a string
@@ -206,6 +224,8 @@ asciiString('ABC');
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to print ascii value of a string
 
@@ -216,6 +236,8 @@ def ascii(s):
 
 ascii(input())
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to print ascii value of a string
@@ -237,6 +259,8 @@ end
 main
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to print ascii value of a string
 
@@ -253,6 +277,8 @@ object asciiValueString {
   }
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print ascii value of a string

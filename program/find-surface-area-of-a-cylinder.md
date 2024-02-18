@@ -39,6 +39,8 @@ trackId: 5034
 description: "Write a program to find surface area of a cylinder."
 ---
 
+## Table of contents
+
 ## Write a program to find surface area of a cylinder
 
 Surface area of cylinder = 2 × π × `Radius` × `Height`
@@ -51,6 +53,8 @@ Surface area : 62.83185307179586
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find surface area of a cylinder
@@ -78,6 +82,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find surface area of a cylinder
 
@@ -94,6 +100,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find surface area of a cylinder
@@ -122,6 +130,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find surface area of a cylinder
 
@@ -135,6 +145,8 @@ void main(){
   print('Area of Cylinder: $area');
 }
 ```
+
+### F#
 
 ```fsharp
 // Write a F# program to find surface area of a cylinder
@@ -151,6 +163,8 @@ let cylinder = surfaceArea radius height
 
 printfn "Surface area of cylinder : %f" cylinder
 ```
+
+### Go
 
 ```go
 // Write a Go program to find surface area of a cylinder
@@ -172,6 +186,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find surface area of a cylinder
 
@@ -188,6 +204,8 @@ main = do
     let surfaceArea = 2 * pi * radius * (radius + height)
     putStrLn $ show (surfaceArea)
 ```
+
+### Java
 
 ```java
 // Write a Java program to find surface area of a cylinder
@@ -211,6 +229,8 @@ class TotalSurfaceAreaOfCylinder {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find surface area of a cylinder
 
@@ -226,6 +246,8 @@ const cylinder = surfaceArea(2, 3);
 console.log(cylinder.area());
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find surface area of a cylinder
 
@@ -236,6 +258,8 @@ height = parse(Float64, readline(stdin))
 area = 2 * 3.14 * radius * (radius + height)
 println("Surface area of cylinder: ", area)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find surface area of a cylinder
@@ -252,6 +276,8 @@ fun main(args: Array<String>) {
     println(surfaceArea)
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find surface area of a cylinder
@@ -274,6 +300,8 @@ my $surface_area = 2 * 3.14159 * $radius * $height + 2 * 3.14159 * $radius * $ra
 print "The surface area of the cylinder is: $surface_area\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find surface area of a cylinder
 
@@ -289,6 +317,8 @@ echo surfaceAreaOfCylinder(2, 3);
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find surface area of a cylinder
 
@@ -303,6 +333,8 @@ surfaceAreaOfCylinder = 2 * pi * radius * (height + radius)
 print(surfaceAreaOfCylinder)
 ```
 
+### R
+
 ```r
 # Write a R program to find surface area of a cylinder
 
@@ -311,6 +343,8 @@ height = 3
 surfaceArea = 2 * pi * radius * ( radius + height )
 cat("surfaceArea: ", surfaceArea)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find surface area of a cylinder
@@ -330,6 +364,8 @@ if $PROGRAM_NAME == __FILE__
 end
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to find surface area of a cylinder
 
@@ -341,6 +377,8 @@ fn main() {
     println!("Surface area of cylinder is {0}", surfaceArea as f32);
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find surface area of a cylinder
@@ -359,6 +397,8 @@ object surfaceAreaOfCylinder {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find surface area of a cylinder
 
@@ -371,6 +411,8 @@ var height = 3.0
 var surfaceArea = 2.0 * M_PI * radius * (radius + height)
 print("Surface area of a cylinder: ", surfaceArea)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find surface area of a cylinder

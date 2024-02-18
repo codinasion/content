@@ -44,6 +44,8 @@ trackId: 1735
 description: "Write a program to find perimeter of a rectangle."
 ---
 
+## Table of contents
+
 ## Write a program to find perimeter of a rectangle
 
 Perimeter of rectangle = 2 × (`Length` + `Width`)
@@ -56,6 +58,8 @@ Perimeter : 10
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find perimeter of a rectangle
@@ -72,6 +76,8 @@ int main(){
 
 //Contributed by Raghav Garg
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find perimeter of a rectangle
@@ -100,6 +106,8 @@ class Rectangle
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find perimeter of a rectangle
 
@@ -115,6 +123,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find perimeter of a rectangle
 
@@ -129,6 +139,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find perimeter of a rectangle
 
@@ -139,6 +151,8 @@ let perimeter = perimeterOfRectangle 2 3
 
 printfn "Perimeter of rectangle : %d" perimeter
 ```
+
+### Go
 
 ```go
 // Write a Go program to find perimeter of a rectangle
@@ -157,6 +171,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find perimeter of a rectangle
 
@@ -173,6 +189,8 @@ main = do
      let perimeter = 2 * (length + width)
      putStrLn $ show (perimeter)
 ```
+
+### Java
 
 ```java
 // Write a Java program to find perimeter of a rectangle
@@ -191,6 +209,8 @@ public class FindPerimeterOfARectangle
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find perimeter of a rectangle
 
@@ -207,6 +227,8 @@ console.log(
 );
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find perimeter of a rectangle
 
@@ -217,6 +239,8 @@ width = parse(Float64, readline(stdin))
 perimeter = 2 * (length + width)
 println("Perimeter of rectangle: ", perimeter)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find perimeter of a rectangle
@@ -238,6 +262,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find perimeter of a rectangle
 
@@ -251,6 +277,8 @@ my $width = <STDIN>;
 my $result = 2 * ($length+$width);
 print "Perimeter of rectangle : ".$result. "\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find perimeter of a rectangle
@@ -272,11 +300,15 @@ echo "\nThe Perimeter of rectangle = " . $perimeter . " units"
 <!-- Contributed by Mohit Prajapat ..... Github Mohitt0 -->
 ```
 
+### Python
+
 ```python
 # Write a Python program to find perimeter of a rectangle
 
 print("Perimeter:", 2 * (int(input("Length: ")) + int(input("Width: "))))
 ```
+
+### R
 
 ```r
 # Write a R program to find perimeter of a rectangle
@@ -292,6 +324,8 @@ perimeter <- 2 * (length + width)
 cat("Perimeter:", perimeter)
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find perimeter of a rectangle
 
@@ -302,6 +336,8 @@ w = gets.chomp.to_i
 perimeter = 2*(l+w)
 print "Perimeter : #{perimeter}"
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find perimeter of a rectangle
@@ -316,6 +352,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find perimeter of a rectangle
 
@@ -328,6 +366,8 @@ var width = 3
 var perimeter =  2 * (length + width)
 print("Perimeter: ", perimeter)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find perimeter of a rectangle

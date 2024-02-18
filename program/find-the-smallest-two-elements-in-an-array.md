@@ -37,6 +37,8 @@ trackId: 5068
 description: "Write a program to find the smallest two elements in an array."
 ---
 
+## Table of contents
+
 ## Write a program to find the smallest two elements in an array
 
 ```
@@ -48,6 +50,8 @@ Output : 5 10
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find the smallest two elements in an array
@@ -96,6 +100,8 @@ int main() {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find the smallest two elements in an array
 
@@ -140,6 +146,8 @@ class Program
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find the smallest two elements in an array
@@ -195,6 +203,8 @@ int main() {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find the smallest two elements in an array
 
@@ -241,6 +251,8 @@ Smallest two elements in the array: 1 3
 */
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find the smallest two elements in an array
 
@@ -251,6 +263,8 @@ let sort = List.sort input
 for i = 0 to 1 do
     printfn "%d" sort.[i]
 ```
+
+### Go
 
 ```go
 // Write a Go program to find the smallest two elements in an array
@@ -276,6 +290,8 @@ func smallestTwoElements(arr []int) []int {
     return arr[:2]
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find the smallest two elements in an array
@@ -314,6 +330,8 @@ public class Main {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find the smallest two elements in an array
 
@@ -326,6 +344,8 @@ console.log(findTheSmallestTwoElementsInAnArray([12, 13, 1, 10, 34, 1]));
 console.log(findTheSmallestTwoElementsInAnArray([10, 5, 10]));
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find the smallest two elements in an array
 
@@ -337,6 +357,8 @@ if(scalar @input < 2){
     print "@input[0],@input[1]\n";
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find the smallest two elements in an array
@@ -367,6 +389,8 @@ findSmallestTwo($arr2);
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find the smallest two elements in an array
 
@@ -396,6 +420,8 @@ if __name__ == '__main__':
       main()
 ```
 
+### R
+
 ```r
 # Write a R program to find the smallest two elements in an array
 
@@ -422,6 +448,8 @@ arr2 <- c(10, 5, 10)
 findSmallestTwo(arr2)
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find the smallest two elements in an array
 
@@ -434,6 +462,8 @@ else
   print result
 end
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find the smallest two elements in an array

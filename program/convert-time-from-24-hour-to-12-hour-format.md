@@ -45,6 +45,8 @@ trackId: 4286
 description: "Write a program to convert time from 24 hour to 12 hour format."
 ---
 
+## Table of contents
+
 ## Write a program to convert time from 24-hour to 12-hour format
 
 ```
@@ -53,6 +55,8 @@ Output : 12:05:45PM
 ```
 
 ---
+
+### C#
 
 ```csharp
 // Write a C# program to convert time from 24 hour to 12 hour format
@@ -102,6 +106,8 @@ public static void Main()
 }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert time from 24 hour to 12 hour format
@@ -163,6 +169,8 @@ int main()
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert time from 24 hour to 12 hour format
 
@@ -183,6 +191,8 @@ let convertTo12HourFormat (time : string) =
 let conversion = convertTo12HourFormat "12:05:45"
 printfn "%s" conversion
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert time from 24 hour to 12 hour format
@@ -221,6 +231,8 @@ func main(){
 	fmt.Println("Output : ",convertedTime)
 }
 ```
+
+### Haskell
 
 ```haskell
 -- Write a Haskell program to convert time from 24 hour to 12 hour format
@@ -262,6 +274,8 @@ splitOn delimiter list =
         (_:xs) -> splitOn delimiter xs
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert time from 24 hour to 12 hour format
 
@@ -300,6 +314,8 @@ public class convert_time_from_24_hour_to_12_hour_format {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert time from 24 hour to 12 hour format
 
@@ -334,6 +350,8 @@ console.log(convertTime("13"));
 console.log(convertTime("1:24"));
 console.log(convertTime("22"));
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert time from 24 hour to 12 hour format
@@ -375,6 +393,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert time from 24 hour to 12 hour format
 
@@ -387,6 +407,8 @@ if($hour > 12)
 }
 print "Output: ",$hour,":",$minute,":",$second,$time;
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert time from 24 hour to 12 hour format
@@ -402,6 +424,8 @@ echo twelveHourFormat('12:05:45');
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to convert time from 24 hour to 12 hour format
@@ -424,6 +448,8 @@ elif hour == 12:
 print(f"{hour}:{minute}:{second}{period}")
 ```
 
+### R
+
 ```r
 # Write a R program to convert time from 24 hour to 12 hour format
 
@@ -443,6 +469,8 @@ output_time <- convert_time(input_time)
 cat("Time in 12-hour format: ", output_time, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert time from 24 hour to 12 hour format
 
@@ -453,6 +481,8 @@ hour = gets.chomp
 
 puts Time.strptime(hour, "%H:%M:%S").strftime('%l:%M:%S %p')
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert time from 24 hour to 12 hour format
@@ -513,6 +543,8 @@ fn main() {
     );
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to convert time from 24 hour to 12 hour format
@@ -607,6 +639,8 @@ func testConvert24hto12h() {
 // Call the test function
 testConvert24hto12h()
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert time from 24 hour to 12 hour format

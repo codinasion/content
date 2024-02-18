@@ -48,6 +48,8 @@ trackId: 4929
 description: "Write a program to convert string to vowelcase."
 ---
 
+## Table of contents
+
 ## Write a program to convert string to vowelcase
 
 Vowelcase is a style of writing in which all vowels are converted to uppercase and all consonants are converted to lowercase.
@@ -58,6 +60,8 @@ Output : "hEllO wOrld"
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert string to vowelcase
@@ -111,6 +115,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert string to vowelcase
 
@@ -151,6 +157,8 @@ public class ConvertStringToVowelcase
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to convert string to vowelcase
 
@@ -181,6 +189,8 @@ int main() {
 	return 0;
 }
 ```
+
+### Dart
 
 ```dart
 // Write a Dart program to convert string to vowelcase
@@ -215,6 +225,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert string to vowelcase
 
@@ -235,6 +247,8 @@ let input = "hello world"
 let output = convertToVowelCase input
 printfn "Input: %s\nOutput: %s" input output
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert string to vowelcase
@@ -265,6 +279,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to convert string to vowelcase
 
@@ -284,6 +300,8 @@ main = do
     putStrLn $ "Vowel-case converted string: " ++ result
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert string to vowelcase
 
@@ -301,6 +319,8 @@ public class ConvertStringToVowelcase {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert string to vowelcase
 
@@ -316,6 +336,8 @@ const vowelCase = str => {
 
 console.log(vowelCase("hello world"));
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to convert string to vowelcase
@@ -335,6 +357,8 @@ end
 
 println("Given string in vowelcase: ", s)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert string to vowelcase
@@ -369,6 +393,8 @@ private fun ConvertStringToVowelcase(args: List<String>): String {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert string to vowelcase
 
@@ -388,6 +414,8 @@ foreach my $char (split //, $str)
   }}
 print $result;
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert string to vowelcase
@@ -410,6 +438,8 @@ echo vowelCase('hello world');
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert string to vowelcase
 
@@ -426,6 +456,8 @@ def vowelCasePy(string_):
         new_string += Check_Vow(char, vowels)
     return new_string
 ```
+
+### R
 
 ```r
 # Write a R program to convert string to vowelcase
@@ -463,6 +495,8 @@ cat("Input  : ", inputString, "\n")
 cat("Output : ", outputString, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert string to vowelcase
 
@@ -479,6 +513,8 @@ end
 
 puts Vowelcase.vowel("hello world") # => hEllO wOrld
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert string to vowelcase
@@ -511,6 +547,8 @@ fn main() {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert string to vowelcase
 
@@ -535,6 +573,8 @@ let result = convertToVowelCase(inputString)
 print("Input: \(inputString)")
 print("Output: \(result)")
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert string to vowelcase

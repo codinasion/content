@@ -44,6 +44,8 @@ trackId: 4381
 description: "Write a program to convert days to weeks."
 ---
 
+## Table of contents
+
 ## Write a program to convert days to weeks
 
 1 week = 7 days
@@ -54,6 +56,8 @@ Output : 5
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert days to weeks
@@ -80,6 +84,8 @@ int main(){
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert days to weeks
 
@@ -93,6 +99,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert days to weeks
@@ -124,6 +132,8 @@ Author : Kartikeya Saini
 */
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert days to weeks
 
@@ -136,6 +146,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert days to weeks
 
@@ -146,6 +158,8 @@ let weeks = daysToWeeks 35
 
 printfn "Equivalent weeks : %d" weeks
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert days to weeks
@@ -162,6 +176,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to convert days to weeks
 
@@ -174,6 +190,8 @@ main = do
     let weeks = days / 7
     putStrLn $ show (weeks)
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert days to weeks
@@ -192,6 +210,8 @@ public class Main
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert days to weeks
 
@@ -200,6 +220,8 @@ function convertDaysToWeek(days) {
 }
 console.log(convertDaysToWeek(35));
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to convert days to weeks
@@ -210,6 +232,8 @@ days = parse(Int, days)
 weeks = convert(Int, days / 7)
 println(days, " days equals ", weeks, " weeks")
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert days to weeks
@@ -225,6 +249,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert days to weeks
 
@@ -232,6 +258,8 @@ my $days = <STDIN>;
 $weeks = $days / 7;
 print "weeks: $weeks"
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert days to weeks
@@ -248,11 +276,15 @@ echo daysToWeeks($days); // Output: 5
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert days to weeks
 
 print(int(input()) / 7)
 ```
+
+### R
 
 ```r
 # Write a R program to convert days to weeks
@@ -261,6 +293,8 @@ days = 35
 weeks = days / 7
 cat("weeks: ", weeks)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert days to weeks
@@ -276,6 +310,8 @@ if $PROGRAM_NAME == __FILE__
   puts "#{days} days is #{daysToWeeks(days)} weeks"
 end
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert days to weeks
@@ -303,6 +339,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert days to weeks
 
@@ -318,6 +356,8 @@ object daysToWeeks {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert days to weeks
 
@@ -328,6 +368,8 @@ print("Enter days: ")
 var days = Int(readLine()!)!
 print("Weeks: ", days / 7)
 ```
+
+### TypeScript
 
 ````typescript
 // Write a TypeScript program to convert days to weeks

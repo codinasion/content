@@ -43,6 +43,8 @@ trackId: 5121
 description: "Write a program to find smallest element in a matrix."
 ---
 
+## Table of contents
+
 ## Write a program to find smallest element in a matrix
 
 ```
@@ -55,6 +57,8 @@ Output : 0
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find smallest element in a matrix
@@ -90,6 +94,8 @@ int main()
 
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find smallest element in a matrix
@@ -142,6 +148,8 @@ class matrix
  }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find smallest element in a matrix
 
@@ -184,6 +192,8 @@ int main(){
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find smallest element in a matrix
 
@@ -203,6 +213,8 @@ void main() {
   smallestInMatrix([[1,2,3,4,5],[0,-1,-6,-9,0]]);
 }
 ```
+
+### F#
 
 ```fsharp
 // Write a F# program to find smallest element in a matrix
@@ -230,6 +242,8 @@ let matrix : int[][] = [|
 let smallestElement = findSmallestElement matrix
 printfn "The smallest element in the matrix is: %d" smallestElement
 ```
+
+### Go
 
 ```go
 // Write a Go program to find smallest element in a matrix
@@ -269,6 +283,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to find smallest element in a matrix
 
@@ -307,6 +323,8 @@ public class FindSmallestElementInAMatrix {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find smallest element in a matrix
 
@@ -329,6 +347,8 @@ console.log(
 );
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find smallest element in a matrix
 
@@ -345,6 +365,8 @@ matrix = [4 7 3;
 smallest_element = find_smallest_element(matrix)
 println("The smallest element in the matrix is: ", smallest_element)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find smallest element in a matrix
@@ -399,6 +421,8 @@ fun findSmallestElement(matrix: Array<IntArray>): Int {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find smallest element in a matrix
 
@@ -416,6 +440,8 @@ push (@min_array, min(@{$items[1]}));
 push (@min_array, min(@{$items[2]}));
 print min(@min_array), "\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find smallest element in a matrix
@@ -437,6 +463,8 @@ echo smallestElementInMatrix([[1,2,3],[4,5,6],[7,8,9]])
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find smallest element in a matrix
 
@@ -456,6 +484,8 @@ def findSmallestElementInAMatrix(matrix):
 if __name__ == "__main__":
     print(findSmallestElementInAMatrix([[10, 222, 43], [0, -15, 336], [437, 854, 49]]))
 ```
+
+### R
 
 ```r
 # Write a R program to find smallest element in a matrix
@@ -491,11 +521,15 @@ smallest_element <- find_smallest_element(matrix_input)
 cat("\nThe smallest element in the matrix is:", smallest_element, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find smallest element in a matrix
 
 puts [[4, 7, 3], [9, 4, 2], [0, 6, 4]].flatten.min
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find smallest element in a matrix
@@ -516,6 +550,8 @@ fn main(){
     println!("{small}");
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find smallest element in a matrix
@@ -598,6 +634,8 @@ if let smallestElement = findSmallestElement(matrix: matrix) {
     print("The matrix is empty.")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find smallest element in a matrix

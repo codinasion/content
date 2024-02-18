@@ -44,6 +44,8 @@ trackId: 2638
 description: "Write a program to convert hours to days."
 ---
 
+## Table of contents
+
 ## Write a program to convert hours to days
 
 1 day = 24 hours
@@ -54,6 +56,8 @@ Output : 5
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert hours to days
@@ -74,6 +78,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert hours to days
 
@@ -87,6 +93,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert hours to days
@@ -127,6 +135,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert hours to days
 
@@ -139,6 +149,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert hours to days
 
@@ -149,6 +161,8 @@ let days = hoursToDays 120
 
 printfn "Equivalent days : %d" days
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert hours to days
@@ -168,6 +182,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to convert hours to days
 
@@ -179,6 +195,8 @@ main = do
     let days = hours/24.0
     putStrLn $ show (hours) ++ " hours is equal to " ++ show (days) ++ " days."
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert hours to days
@@ -194,6 +212,8 @@ class ConvertedHoursToDays
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert hours to days
 
@@ -207,6 +227,8 @@ const result = convertHoursToDays(hours);
 console.log(`Output: ${result} ${result > 1 ? "days" : "day"}`);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert hours to days
 
@@ -217,6 +239,8 @@ days = round(hours / 24)
 days = convert(Int, days)
 println(hours, " hours equals ", days, " days")
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert hours to days
@@ -241,6 +265,8 @@ private fun ConvertHoursToDays(hr: Double): Double {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert hours to days
 
@@ -248,6 +274,8 @@ my $hours = <STDIN>;
 $days = $hours / 24;
 print "days: $days"
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert hours to days
@@ -260,6 +288,8 @@ print "days: $days"
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert hours to days
 
@@ -271,6 +301,8 @@ def hours2days(hours):
 print(hours2days(120))
 ```
 
+### R
+
 ```r
 # Write a R program to convert hours to days
 
@@ -278,6 +310,8 @@ hours = 120
 days = hours / 24
 cat("days: ", days)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert hours to days
@@ -290,6 +324,8 @@ hours = 48
 puts "#{hours} hours is #{ConvertHoursToDays(hours)} days"
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert hours to days
 
@@ -300,6 +336,8 @@ object HelloWorld {
 	}
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to convert hours to days
@@ -312,6 +350,8 @@ var hours = 120
 var days = hours / 24
 print("Days: ", days)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert hours to days

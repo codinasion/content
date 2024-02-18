@@ -47,6 +47,8 @@ trackId: 4589
 description: "Write a program to find the trace of a matrix."
 ---
 
+## Table of contents
+
 ## Write a program to find the trace of a matrix
 
 The trace of a square matrix is the sum of the elements on the main diagonal (from the upper left to the lower right).
@@ -62,6 +64,8 @@ Output :
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find the trace of a matrix
@@ -121,6 +125,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find the trace of a matrix
 
@@ -163,6 +169,8 @@ class Matrix {
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find the trace of a matrix
@@ -244,6 +252,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find the trace of a matrix
 
@@ -283,6 +293,8 @@ Trace of matrix is 15.
 */
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find the trace of a matrix
 
@@ -308,6 +320,8 @@ printfn "Input:\n%A" matrix
 // Call the trace function and print the result
 printfn "Output:\n%d" (trace matrix)
 ```
+
+### Go
 
 ```go
 // Write a Go program to find the trace of a matrix
@@ -341,6 +355,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find the trace of a matrix
 
@@ -360,6 +376,8 @@ readRow = map read . words <$> getLine
 trace :: [[Int]] -> Int
 trace matrix = sum $ zipWith (!!) matrix [0..]
 ```
+
+### Java
 
 ```java
 // Write a Java program to find the trace of a matrix
@@ -404,6 +422,8 @@ public class FindTheTraceOfAMatrix {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find the trace of a matrix
 
@@ -441,6 +461,8 @@ console.log("Input:");
 takeInput();
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find the trace of a matrix
 
@@ -448,6 +470,8 @@ using LinearAlgebra
 A = [1 2 3; 4 5 6; 7 8 9]
 println(tr(A))
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find the trace of a matrix
@@ -491,6 +515,8 @@ echo "Trace of the given matrix is: ".$sum;
 </html>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find the trace of a matrix
 
@@ -509,6 +535,8 @@ for i in range(len(arr)):
 
 print(sm)
 ```
+
+### R
 
 ```r
 # Write a R program to find the trace of a matrix
@@ -539,6 +567,8 @@ a1 = matrix(data = c(1,2,3,4,5,6),nrow = 3, ncol = 2)
 b1 = trace_matrix(a1)#Should return an error
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find the trace of a matrix
 
@@ -558,6 +588,8 @@ def matrix_trace(matrix)
 end
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to find the trace of a matrix
 
@@ -574,6 +606,8 @@ fn main() {
     println!("{sum}");
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find the trace of a matrix
@@ -595,6 +629,8 @@ object MatrixTrace {
   }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find the trace of a matrix
@@ -622,6 +658,8 @@ let matrix = [
 let trace = traceOfMatrix(matrix)
 print("Trace of the matrix: \(trace)")
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find the trace of a matrix

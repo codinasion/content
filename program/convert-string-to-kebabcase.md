@@ -38,6 +38,8 @@ trackId: 2449
 description: "Write a program to convert string to kebabcase."
 ---
 
+## Table of contents
+
 ## Write a program to convert string to kebabcase
 
 Kebabcase is a style of writing in which all letters are lowercase and spaces are replaced with hyphens.
@@ -48,6 +50,8 @@ Output : "hello-world"
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert string to kebabcase
@@ -80,6 +84,8 @@ void main() {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert string to kebabcase
 
@@ -110,6 +116,8 @@ public class KebabCase
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert string to kebabcase
@@ -149,6 +157,8 @@ void ConvertToKebabcase(std::string &str)
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to convert string to kebabcase
 
@@ -176,6 +186,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert string to kebabcase
 
@@ -191,6 +203,8 @@ public class Main
 	}
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to convert string to kebabcase
@@ -209,6 +223,8 @@ function kebabCase() {
 kebabCase("hello world");
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert string to kebabcase
 
@@ -217,6 +233,8 @@ s = readline()
 s = replace(lowercase(s), " " => "-")
 println("Given string in kebabcase: ", s)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert string to kebabcase
@@ -227,6 +245,8 @@ fun main() {
 	println(convertStringToKebabcase("hello world"))
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to convert string to kebabcase
@@ -241,6 +261,8 @@ $str=~s/ /-/g;
 say $str;
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to convert string to kebabcase
 
@@ -254,6 +276,8 @@ function convert_string_to_kebabcase($string)
 echo convert_string_to_kebabcase("hello world");
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert string to kebabcase
 
@@ -261,6 +285,8 @@ a = input("Input : ")
 b = a.replace(" ", "-")
 print("Output : ", b.lower())
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert string to kebabcase
@@ -275,6 +301,8 @@ end
 puts convertStringToKebabCase(input_string)
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to convert string to kebabcase
 
@@ -287,6 +315,8 @@ fn main() {
 	println!("{}", convert_string_to_kebabcase(text));
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert string to kebabcase

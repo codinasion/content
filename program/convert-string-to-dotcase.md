@@ -38,6 +38,8 @@ trackId: 2422
 description: "Write a program to convert string to dotcase."
 ---
 
+## Table of contents
+
 ## Write a program to convert string to dotcase
 
 Dotcase is a style of writing in which all letters are lowercase and spaces are replaced with periods.
@@ -48,6 +50,8 @@ Output : "hello.world"
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert string to dotcase
@@ -73,6 +77,8 @@ int main()
     printf("%s\n", str);
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to convert string to dotcase
@@ -107,6 +113,8 @@ public class ConvertStringToDotcase
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to convert string to dotcase
 
@@ -125,6 +133,8 @@ int main()
     return 0;
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert string to dotcase
@@ -153,6 +163,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert string to dotcase
 
@@ -167,6 +179,8 @@ public class Main
 	}
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to convert string to dotcase
@@ -185,6 +199,8 @@ function dotcase(str) {
 dotcase("hello world");
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert string to dotcase
 
@@ -193,6 +209,8 @@ s = readline()
 s = replace(lowercase(s), " " => ".")
 println("Given string in dotcase: ", s)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert string to dotcase
@@ -203,6 +221,8 @@ fun main() {
 	println(convertStringToDotcase("hello world"))
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to convert string to dotcase
@@ -217,6 +237,8 @@ $str=~s/ /./g;
 say $str;
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to convert string to dotcase
 
@@ -230,6 +252,8 @@ function convert_string_to_dotcase($string)
 echo convert_string_to_dotcase("hello world");
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert string to dotcase
 
@@ -237,6 +261,8 @@ a = input()
 b = a.replace(" ", ".")
 print(b.lower())
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert string to dotcase
@@ -246,6 +272,8 @@ user_input = gets.chomp
 result = user_input.split(' ').map(&:downcase).join('.')
 puts result
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert string to dotcase
@@ -259,6 +287,8 @@ fn main() {
 	println!("{}", convert_string_to_dotcase(text));
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert string to dotcase

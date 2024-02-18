@@ -43,6 +43,8 @@ trackId: 4979
 description: "Write a program to print inverted pyramid pattern."
 ---
 
+## Table of contents
+
 ## Write a program to print inverted pyramid pattern
 
 ```
@@ -57,6 +59,8 @@ Output :
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print inverted pyramid pattern
@@ -88,6 +92,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to print inverted pyramid pattern
 
@@ -113,6 +119,8 @@ namespace Pattern
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to print inverted pyramid pattern
@@ -145,6 +153,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to print inverted pyramid pattern
 
@@ -159,6 +169,8 @@ void main() {
   }
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to print inverted pyramid pattern
@@ -183,6 +195,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to print inverted pyramid pattern
 
@@ -190,6 +204,8 @@ main = do
   let n = 5
   mapM_ (putStrLn . unwords . map show) [[1..x] | x <- [n,n-1..1]]
 ```
+
+### Java
 
 ```java
 // Write a Java program to print inverted pyramid pattern
@@ -210,6 +226,8 @@ public class PrintInvertedPyramidPattern {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to print inverted pyramid pattern
 
@@ -222,6 +240,8 @@ for (let a = 5; a >= 1; a--) {
   console.log(str);
 }
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to print inverted pyramid pattern
@@ -240,6 +260,8 @@ n = 5
 print_inverted_pyramid(n)
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to print inverted pyramid pattern
 
@@ -256,6 +278,8 @@ fun printInvertedPyramid(rows: Int){
     }
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to print inverted pyramid pattern
@@ -282,6 +306,8 @@ fun printInvertedPyramid(rows: Int){
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to print inverted pyramid pattern
 
@@ -304,6 +330,8 @@ if __name__ == "__main__":
     printInvertedPyramidPattern(number)
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to print inverted pyramid pattern
 
@@ -317,6 +345,8 @@ end
 
 printInvertedPyramidPattern user_input
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to print inverted pyramid pattern
@@ -362,6 +392,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to print inverted pyramid pattern
 
@@ -387,6 +419,8 @@ object InvertedPyramidPattern {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to print inverted pyramid pattern
 
@@ -403,6 +437,8 @@ func printInvertedPyramid(_ n: Int) {
 let input = 5
 printInvertedPyramid(input)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print inverted pyramid pattern

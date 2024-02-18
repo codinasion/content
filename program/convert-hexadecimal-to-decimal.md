@@ -39,6 +39,8 @@ trackId: 1659
 description: "Write a program to convert hexadecimal to decimal."
 ---
 
+## Table of contents
+
 ## Write a program to convert hexadecimal to decimal
 
 Hexadecimal is a base-16 number system. It uses sixteen digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, and F. The digits are called hexits. A hexit is the smallest unit of information in a computer. A hexit can be used to represent a single value, such as 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, or F, or it can be used to represent a single state, such as on or off.
@@ -59,6 +61,8 @@ Output : 10
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert hexadecimal to decimal
@@ -109,6 +113,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert hexadecimal to decimal
 
@@ -123,6 +129,8 @@ public class HexaToDecimal {
    }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert hexadecimal to decimal
@@ -155,6 +163,8 @@ int main() {
    return 0;
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert hexadecimal to decimal
@@ -193,6 +203,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert hexadecimal to decimal
 
@@ -214,6 +226,8 @@ public class ConvertHexadecimalToDecimal{
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert hexadecimal to decimal
 
@@ -229,6 +243,8 @@ function hexadecimalToDecimal(hexString) {
 console.log(hexadecimalToDecimal("A"));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert hexadecimal to decimal
 
@@ -237,6 +253,8 @@ x = readline()
 y = parse(Int, x, base=16)
 println("Decimal of ", x, ": ", y)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert hexadecimal to decimal
@@ -269,6 +287,8 @@ private fun convert(str: String): Int {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert hexadecimal to decimal
 
@@ -276,6 +296,8 @@ print "Please enter a Hexadecimal value : ";
 $hex = hex(<STDIN>);
 printf("Equivalent decimal value : ".$hex);
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert hexadecimal to decimal
@@ -346,6 +368,8 @@ echo $decimal . "\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert hexadecimal to decimal
 
@@ -355,6 +379,8 @@ dec = int(hexadec, 16)
 
 print(dec)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert hexadecimal to decimal
@@ -379,6 +405,8 @@ puts "Hexadecimal: #{hexadecimal_number}"
 puts "Decimal: #{decimal_result}"
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert hexadecimal to decimal
 
@@ -402,6 +430,8 @@ if let inputHex = readLine() {
     print("Invalid input or no input was read.")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert hexadecimal to decimal

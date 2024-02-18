@@ -41,6 +41,8 @@ trackId: 5222
 description: "Write a program to find the smallest three elements in an array."
 ---
 
+## Table of contents
+
 ## Write a program to find the smallest three elements in an array
 
 ```
@@ -52,6 +54,8 @@ Output : 1 1 10
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find the smallest three elements in an array
@@ -108,6 +112,8 @@ int main()
 /* Cautiously Crafted By Redzwinger */
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find the smallest three elements in an array
 
@@ -137,6 +143,8 @@ return 0;
 
 }
 ```
+
+### Dart
 
 ```dart
 // Write a Dart program to find the smallest three elements in an array
@@ -189,6 +197,8 @@ Smallest three elements in the array: 6 7 8
 */
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find the smallest three elements in an array
 
@@ -199,6 +209,8 @@ let sort = List.sort input
 for i = 0 to 2 do
     printfn "%d" sort.[i]
 ```
+
+### Go
 
 ```go
 // Write a Go program to find the smallest three elements in an array
@@ -223,6 +235,8 @@ func smallestThreeElements(arr []int) []int {
     return arr[:3]
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find the smallest three elements in an array
@@ -266,6 +280,8 @@ class SmallestThreeNumbers {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find the smallest three elements in an array
 
@@ -286,6 +302,8 @@ function threeSmallElements(num) {
 console.log("the answer is", threeSmallElements(array));
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to find the smallest three elements in an array
 
@@ -304,6 +322,8 @@ fun threeSmallestElements(array: Array<Int>): Array<Int> {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find the smallest three elements in an array
 
@@ -315,6 +335,8 @@ if(scalar @input < 3){
     print "@input[0],@input[1],@input[2]\n";
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find the smallest three elements in an array
@@ -345,6 +367,8 @@ findSmallestThree($arr2);
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find the smallest three elements in an array
 
@@ -374,6 +398,8 @@ if __name__ == '__main__':
       main()
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find the smallest three elements in an array
 
@@ -386,6 +412,8 @@ else
   print result
 end
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find the smallest three elements in an array
@@ -414,6 +442,8 @@ fn main() {
     }
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find the smallest three elements in an array
@@ -453,6 +483,8 @@ object SmallestThreeElements {
 
 SmallestThreeElements.main(Array())
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find the smallest three elements in an array

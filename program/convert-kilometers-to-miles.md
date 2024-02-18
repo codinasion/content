@@ -43,6 +43,8 @@ trackId: 4011
 description: "Write a program to convert kilometers to miles."
 ---
 
+## Table of contents
+
 ## Write a program to convert kilometers to miles
 
 1 mile = 1.609344 kilometers
@@ -53,6 +55,8 @@ Output : 5
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert kilometers to miles
@@ -75,6 +79,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert kilometers to miles
 
@@ -88,6 +94,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert kilometers to miles
@@ -108,6 +116,8 @@ int main() {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert kilometers to miles
 
@@ -121,6 +131,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert kilometers to miles
 
@@ -131,6 +143,8 @@ let miles = kilometerToMiles 8.04672
 
 printfn "Equivalent miles : %f" miles
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert kilometers to miles
@@ -147,6 +161,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to convert kilometers to miles
 
@@ -159,6 +175,8 @@ main = do
    let miles = kilometers / 1.609344
    putStrLn $ show (miles)
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert kilometers to miles
@@ -179,6 +197,8 @@ public class ConvertKilometersToMiles{
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert kilometers to miles
 
@@ -197,6 +217,8 @@ function ConvertKilometersToMiles(Kilometers) {
 console.log(ConvertKilometersToMiles(8.04672));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert kilometers to miles
 
@@ -206,6 +228,8 @@ km = parse(Float64, km)
 miles = round((km / 1.609); digits = 2)
 println(km, " kilometers equals ", miles, " miles")
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert kilometers to miles
@@ -228,6 +252,8 @@ private fun ConvertKilometersToMiles(km: Double): Double {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert kilometers to miles
 
@@ -239,6 +265,8 @@ my $km = <STDIN>;
 my $miles = $km / 1.609;
 print $km." kilometers are ".$miles." miles\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert kilometers to miles
@@ -252,6 +280,8 @@ echo "Miles: $x1.\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert kilometers to miles
 
@@ -262,6 +292,8 @@ def km_to_miles(value_in_km):
 print("Miles:\n", km_to_miles(float(input("Kilometers: "))))
 ```
 
+### R
+
 ```r
 # Write a R program to convert kilometers to miles
 
@@ -269,6 +301,8 @@ kilometers = 8.04672
 miles = kilometers / 1.609344
 cat("miles: ", miles)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert kilometers to miles
@@ -285,6 +319,8 @@ if $PROGRAM_NAME == __FILE__
 end
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert kilometers to miles
 
@@ -300,6 +336,8 @@ object kmtoMiles {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert kilometers to miles
 
@@ -310,6 +348,8 @@ print("Enter kilometers: ")
 var kilometers = Double(readLine()!)!
 print("Miles: ", kilometers / 1.60934)
 ```
+
+### TypeScript
 
 ````typescript
 // Write a TypeScript program to convert kilometers to miles

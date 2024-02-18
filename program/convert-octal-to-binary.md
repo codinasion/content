@@ -39,6 +39,8 @@ trackId: 4499
 description: "Write a program to convert octal to binary."
 ---
 
+## Table of contents
+
 ## Write a program to convert octal to binary
 
 Octal is a base-8 number system. It uses only eight digits: 0, 1, 2, 3, 4, 5, 6, and 7. The digits are called octits. An octit is the smallest unit of information in a computer. An octit can be used to represent a single value, such as 0, 1, 2, 3, 4, 5, 6, or 7, or it can be used to represent a single state, such as on or off.
@@ -56,6 +58,8 @@ Output : 1010
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert octal to binary
@@ -89,6 +93,8 @@ int main()
     printf("The Binay Value = %ld\n", binary);
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to convert octal to binary
@@ -126,6 +132,8 @@ public class OctalToBinary
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert octal to binary
@@ -197,6 +205,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert octal to binary
 
@@ -233,6 +243,8 @@ String decimalToBinary(int decimalNumber) {
   return binaryResult;
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert octal to binary
@@ -280,6 +292,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert octal to binary
 
@@ -297,6 +311,8 @@ func main() {
     }
  }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to convert octal to binary
@@ -345,6 +361,8 @@ function octalToBinary(octnum) {
 console.log(octalToBinary("12"));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert octal to binary
 
@@ -354,6 +372,8 @@ y = parse(Int, x, base=8)
 y = string(y, base=2)
 println("Binary of ", x, ": ", y)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert octal to binary
@@ -408,6 +428,8 @@ private fun octalToBinary(nums: Int): String {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert octal to binary
 
@@ -415,6 +437,8 @@ print "Enter the octal value : ";
 my $oct_value = oct(<STDIN>);
 printf("Equivalent binary value : %b\n",$oct_value);
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert octal to binary
@@ -452,11 +476,15 @@ echo strrev($binary) . "\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert octal to binary
 
 print(bin(int(input(), 8))[2:])
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert octal to binary
@@ -491,6 +519,8 @@ end
 
 puts Octal_to_binary.convert(12) # => 1010
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert octal to binary
@@ -559,6 +589,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert octal to binary
 
@@ -588,6 +620,8 @@ binaryCon(n)
 }
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert octal to binary

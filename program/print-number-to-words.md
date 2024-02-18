@@ -30,6 +30,8 @@ trackId: 2613
 description: "Write a program to print number to words."
 ---
 
+## Table of contents
+
 ## Write a program to print number to words
 
 ```
@@ -38,6 +40,8 @@ Output : One Hundred Twenty Three Million Four Hundred Fifty Six Thousand Seven 
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print number to words
@@ -162,6 +166,8 @@ int main() {
   return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to print number to words
@@ -290,6 +296,8 @@ Console.WriteLine("enter numner less than 9999999999");
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to print number to words
 
@@ -340,6 +348,8 @@ using namespace std;
         return 0;
     }
 ```
+
+### Go
 
 ```go
 // Write a Go program to print number to words
@@ -397,6 +407,8 @@ func main() {
 	fmt.Printf("Output : %s\n", words)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to print number to words
@@ -458,6 +470,8 @@ public class PrintNumberToWords {
     }
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to print number to words
@@ -621,6 +635,8 @@ function test(v) {
 test(123456789);
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to print number to words
 
@@ -715,6 +731,8 @@ echo "Output: $result\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to print number to words
 
@@ -722,6 +740,8 @@ import inflect
 
 print(inflect.engine().number_to_words(int(input())).title())
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print number to words

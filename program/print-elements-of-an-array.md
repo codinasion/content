@@ -48,6 +48,8 @@ trackId: 5465
 description: "Write a program to print elements of an array."
 ---
 
+## Table of contents
+
 ## Write a program to print elements of an array
 
 ```
@@ -56,6 +58,8 @@ Output : 1 2 3 4 5
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print elements of an array
@@ -79,6 +83,8 @@ void main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to print elements of an array
 
@@ -94,6 +100,8 @@ public class Example
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to print elements of an array
@@ -112,6 +120,8 @@ int main(){
 // Contributed by Raghav Garg
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to print elements of an array
 
@@ -120,6 +130,8 @@ void main(List<String> args) {
   print(list);
 }
 ```
+
+### F#
 
 ```fsharp
 // Write a F# program to print elements of an array
@@ -133,6 +145,8 @@ let arr = [|1; 2; 3; 4; 5|]
 printArrayElements arr // Output: 1 2 3 4 5
 ```
 
+### Go
+
 ```go
 // Write a Go program to print elements of an array
 
@@ -145,6 +159,8 @@ func main() {
 	fmt.Println(arr)
 }
 ```
+
+### Haskell
 
 ```haskell
 -- Write a Haskell program to print elements of an array
@@ -163,6 +179,8 @@ main = do
     printArr arr
 ```
 
+### Java
+
 ```java
 // Write a Java program to print elements of an array
 
@@ -179,6 +197,8 @@ public class PrintElementsOfAnArray {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to print elements of an array
 
@@ -188,12 +208,16 @@ console.log(...array);
 // here ... is spread operator
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to print elements of an array
 
 arr = [1,2,3,4,5]
 foreach(println, arr)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to print elements of an array
@@ -207,12 +231,16 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to print elements of an array
 
 @num = (1, 2, 3, 4, 5);
 print "@num\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to print elements of an array
@@ -230,6 +258,8 @@ printElements([1,2,3,4,5])
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to print elements of an array
 
@@ -238,6 +268,8 @@ arr = [1, 2, 3, 4, 5]
 for num in arr:
     print(num, end=" ")
 ```
+
+### R
 
 ```r
 # Write a R program to print elements of an array
@@ -256,6 +288,8 @@ myArray <- c(1, 2, 3, 4, 5)
 printArrayElements(myArray)
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to print elements of an array
 
@@ -265,6 +299,8 @@ end
 
 printArrayElements [1,2,3,4,5]
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to print elements of an array
@@ -277,6 +313,8 @@ fn main() {
     }
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to print elements of an array
@@ -291,6 +329,8 @@ object printArray {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to print elements of an array
 
@@ -303,6 +343,8 @@ for i in myArray {
   print(i)
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print elements of an array

@@ -48,6 +48,8 @@ trackId: 5554
 description: "Write a program to print reverse of a number by recursion."
 ---
 
+## Table of contents
+
 ## Write a program to print reverse of a number by recursion
 
 Reverse of a number is the number obtained by reversing the digits of the original number. For example, reverse of 123 is 321. The recursive solution is to print the last digit of the number and then call the function recursively to print the remaining digits.
@@ -58,6 +60,8 @@ Output : 321
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print reverse of a number by recursion
@@ -84,6 +88,8 @@ int main(void)
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to print reverse of a number by recursion
@@ -112,6 +118,8 @@ public class Program
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to print reverse of a number by recursion
 
@@ -133,6 +141,8 @@ int main(){
 
 //Contributed by Raghav Garg
 ```
+
+### Dart
 
 ```dart
 // Write a Dart program to print reverse of a number by recursion
@@ -162,6 +172,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to print reverse of a number by recursion
 
@@ -180,6 +192,8 @@ let main argv =
     reverseNumber number
     0
 ```
+
+### Go
 
 ```go
 // Write a Go program to print reverse of a number by recursion
@@ -208,6 +222,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to print reverse of a number by recursion
 
@@ -222,6 +238,8 @@ main =  do
 
     putStrLn r
 ```
+
+### Java
 
 ```java
 // Write a Java program to print reverse of a number by recursion
@@ -252,6 +270,8 @@ class RecursionReverse
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to print reverse of a number by recursion
 
@@ -263,6 +283,8 @@ const reverseNum = num => {
 
 console.log(reverseNum(8675309));
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to print reverse of a number by recursion
@@ -287,6 +309,8 @@ n=n*(-1)
 reverse(n)
 println("")
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to print reverse of a number by recursion
@@ -315,6 +339,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to print reverse of a number by recursion
 
@@ -340,6 +366,8 @@ my $reverse_num = reverse_number($num);
 print "Reverse of $num is $reverse_num\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to print reverse of a number by recursion
 
@@ -362,6 +390,8 @@ print_r(reverseNumber(123)."\n");
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to print reverse of a number by recursion
@@ -387,6 +417,8 @@ print(reverse_num(7331))  # should print 1337
 print(reverse_num(87124389372498))  # should print 89427398342178
 ```
 
+### R
+
 ```r
 # Write a R program to print reverse of a number by recursion
 
@@ -409,6 +441,8 @@ cat("Original number:", num, "\n")
 cat("Reversed number:", reverse_number(num), "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to print reverse of a number by recursion
 
@@ -422,6 +456,8 @@ end
 
 puts reverseNum 12345
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to print reverse of a number by recursion
@@ -440,6 +476,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to print reverse of a number by recursion
 
@@ -457,6 +495,8 @@ def reverseIntList(x: Int): List[Int]  = {
   print(reverseIntList(123))
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to print reverse of a number by recursion
 
@@ -472,6 +512,8 @@ func printReverse(_ n: Int) {
 // Example usage:
 printReverse(123) // Output: 321
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print reverse of a number by recursion

@@ -40,6 +40,8 @@ trackId: 1376
 description: "Write a program to check even or odd number."
 ---
 
+## Table of contents
+
 ## Write a program to check even or odd number
 
 ```
@@ -48,6 +50,8 @@ Output : Odd Number
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to check even or odd number
@@ -62,6 +66,8 @@ int main(){
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to check even or odd number
@@ -83,6 +89,8 @@ public class evenOrOdd
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to check even or odd number
 
@@ -97,6 +105,8 @@ int main()
     else cout<<"Odd Number"<<'\n';
 }
 ```
+
+### Dart
 
 ```dart
 // Write a Dart program to check even or odd number
@@ -114,6 +124,8 @@ void main(){
   }
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to check even or odd number
@@ -136,6 +148,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to check even or odd number
 
@@ -157,6 +171,8 @@ public class CheckEvenOrOddNumber {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to check even or odd number
 
@@ -173,6 +189,8 @@ function checkEvenOrOdd(num) {
 console.log("The number is", checkEvenOrOdd(10));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to check even or odd number
 
@@ -184,6 +202,8 @@ else
  println("Odd Number")
 end
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to check even or odd number
@@ -208,6 +228,8 @@ fun main(args: Array<String>) {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to check even or odd number
 
@@ -222,6 +244,8 @@ else
    print "Odd Number\n"
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to check even or odd number
@@ -238,6 +262,8 @@ else
 }
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to check even or odd number
@@ -261,6 +287,8 @@ isEven = checkEven(4)
 print(f"Is 4 an even number? {isEven}")
 ```
 
+### R
+
 ```r
 # Write a R program to check even or odd number
 
@@ -275,6 +303,8 @@ print(paste(num,"is an even number."))
 }
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to check even or odd number
 
@@ -287,6 +317,8 @@ puts "Enter a number : "
  puts number.to_s + " is an odd number."
  end
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to check even or odd number
@@ -305,6 +337,8 @@ fn main()
     println!("{} is: {}",num,result);
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to check even or odd number
@@ -325,6 +359,8 @@ object CheckEvenOrOddNumber{
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to check even or odd number
 
@@ -339,6 +375,8 @@ if number % 2 == 0 {
   print("\(number) is odd number")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to check even or odd number

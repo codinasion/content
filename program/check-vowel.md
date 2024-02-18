@@ -36,6 +36,8 @@ trackId: 1761
 description: "Write a program to check vowel."
 ---
 
+## Table of contents
+
 ## Write a program to check vowel
 
 Vowel check is a simple program to check whether a character is a vowel or not.
@@ -46,6 +48,8 @@ Output : Vowel
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to check vowel
@@ -63,6 +67,8 @@ int main(){
 
 //Contributed by Raghav Garg
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to check vowel
@@ -90,6 +96,8 @@ public class vowelChar
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to check vowel
 
@@ -107,6 +115,8 @@ int main(){
 
 //Contributed by Raghav Garg
 ```
+
+### Go
 
 ```go
 // Write a Go program to check vowel
@@ -128,6 +138,8 @@ func main() {
 
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to check vowel
@@ -153,6 +165,8 @@ public class CheckVowel {
     }
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to check vowel
@@ -181,6 +195,8 @@ function checkVowels(str) {
 console.log(checkVowels("U"));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to check vowel
 
@@ -193,6 +209,8 @@ function vowelOrConsonant(char)
 end
 vowelOrConsonant('a');
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to check vowel
@@ -214,6 +232,8 @@ private fun CheckVowel(ch: Char): String {
     return "Not Vowel"
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to check vowel
@@ -239,6 +259,8 @@ private fun CheckVowel(ch: Char): String {
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to check vowel
 
@@ -261,6 +283,8 @@ else:
 # Contributed by Raghav Garg
 ```
 
+### R
+
 ```r
 # Write a R program to check vowel
 
@@ -280,6 +304,8 @@ checkVowel('E')
 # Vowel
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to check vowel
 
@@ -296,6 +322,8 @@ else                                                    puts "Not a Vowel"
 end
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to check vowel
 
@@ -311,6 +339,8 @@ object HelloWorld {
 	}
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to check vowel
@@ -335,6 +365,8 @@ if ((given == "a")
   print("\(given) is not a vowel")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to check vowel

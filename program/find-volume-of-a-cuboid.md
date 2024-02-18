@@ -43,6 +43,8 @@ trackId: 85
 description: "Write a program to find volume of a cuboid."
 ---
 
+## Table of contents
+
 ## Write a program to find volume of a cuboid
 
 Volume of a cuboid = `Length` × `Width` × `Height`
@@ -56,6 +58,8 @@ Volume : 24
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find volume of a cuboid
@@ -76,6 +80,8 @@ void main()
     printf("\nVolume of cuboid is : %d\n", volume);
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find volume of a cuboid
@@ -101,6 +107,8 @@ class VolumeaOfCuboid
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find volume of a cuboid
 
@@ -124,6 +132,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find volume of a cuboid
 
@@ -140,6 +150,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find volume of a cuboid
 
@@ -151,6 +163,8 @@ let cuboid = volumeOfCuboid 2 3 4
 
 printfn "Volume of a cuboid : %d" cuboid
 ```
+
+### Go
 
 ```go
 // Write a Go program to find volume of a cuboid
@@ -173,6 +187,8 @@ func main(){
   fmt.Println("Volume of Cuboid is:", length*width*height)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find volume of a cuboid
@@ -198,6 +214,8 @@ public class FindVolumeOfACuboid {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find volume of a cuboid
 
@@ -209,6 +227,8 @@ const width = 3;
 const height = 4;
 console.log(getVolumeOfACuboid(length, width, height));
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to find volume of a cuboid
@@ -222,6 +242,8 @@ height = parse(Float64, readline(stdin))
 volume = length * width * height
 println("Volume of a cuboid: ", volume)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find volume of a cuboid
@@ -239,6 +261,8 @@ fun main(args: Array<String>) {
   println(volume)
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find volume of a cuboid
@@ -263,6 +287,8 @@ sub volumeOfCuboid
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find volume of a cuboid
 
@@ -282,6 +308,8 @@ echo "Volume: " . $length * $width * $height . "\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find volume of a cuboid
 
@@ -299,6 +327,8 @@ if __name__ == "__main__":
     print("\nVolume : ", find_volume_of_a_cuboid(length, width, height))
 ```
 
+### R
+
 ```r
 # Write a R program to find volume of a cuboid
 
@@ -308,6 +338,8 @@ height = 4
 volume = length * width * height
 cat("Volume: ", volume)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find volume of a cuboid
@@ -322,6 +354,8 @@ volume = lenght * width * height
 print "Volume : #{volume}"
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to find volume of a cuboid
 
@@ -334,6 +368,8 @@ fn main() {
     println!("Volume of cuboid is {0}", volume as f32);
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find volume of a cuboid
@@ -354,6 +390,8 @@ object Main extends App {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find volume of a cuboid
 
@@ -367,6 +405,8 @@ var height = 4.0
 var volume = length * width * height
 print("Volume of cuboid: ", volume)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find volume of a cuboid

@@ -39,6 +39,8 @@ trackId: 2506
 description: "Write a program to convert string to titlecase."
 ---
 
+## Table of contents
+
 ## Write a program to convert string to titlecase
 
 Titlecase is a style of writing in which the first letter of each word is capitalized.
@@ -49,6 +51,8 @@ Output : "Hello World"
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert string to titlecase
@@ -107,6 +111,8 @@ void ConvertToTitleCase(char *str)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert string to titlecase
 
@@ -131,6 +137,8 @@ namespace TitleCase
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to convert string to titlecase
 
@@ -149,6 +157,8 @@ int main()
     return 0;
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert string to titlecase
@@ -215,6 +225,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert string to titlecase
 
@@ -235,6 +247,8 @@ public class ConvertStringToTitlecase {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert string to titlecase
 
@@ -254,6 +268,8 @@ function toTitleCase(str) {
 console.log(toTitleCase("I'm a little tea pot"));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert string to titlecase
 
@@ -261,6 +277,8 @@ println("Enter a string: ")
 s = titlecase(readline())
 println("Given string in titlecase: ", s)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert string to titlecase
@@ -274,6 +292,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert string to titlecase
 
@@ -282,6 +302,8 @@ $title = <STDIN>;
 $title =~ s/(\w+)/\u\L$1/g;
 printf $title;
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert string to titlecase
@@ -302,12 +324,16 @@ function convert_string_to_titlecase($string)
 echo convert_string_to_titlecase("hello world");
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert string to titlecase
 
 a = input()
 print(a.title())
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert string to titlecase
@@ -317,6 +343,8 @@ user_input = gets.chomp
 result = user_input.split(' ').map(&:capitalize).join(' ')
 puts result
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert string to titlecase

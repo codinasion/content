@@ -39,6 +39,8 @@ trackId: 3119
 description: "Write a program to convert string to snakecase."
 ---
 
+## Table of contents
+
 ## Write a program to convert string to snakecase
 
 Snakecase is a style of writing in which all letters are lowercase and spaces are replaced with underscores.
@@ -49,6 +51,8 @@ Output : "hello_world"
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert string to snakecase
@@ -73,6 +77,8 @@ void main() {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert string to snakecase
 
@@ -88,6 +94,8 @@ public class Program{
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert string to snakecase
@@ -107,6 +115,8 @@ int main()
     return 0;
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert string to snakecase
@@ -131,6 +141,8 @@ func main() {
 	fmt.Println(res[:len(res)-1])
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert string to snakecase
@@ -158,6 +170,8 @@ class StringToSnakecase
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert string to snakecase
 
@@ -184,6 +198,8 @@ const snakeCaseString = toSnakeCase(inputString);
 console.log(snakeCaseString);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert string to snakecase
 
@@ -192,6 +208,8 @@ s = readline()
 s = replace(lowercase(s), " " => "_")
 println("Given string in snakecase: ", s)
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to convert string to snakecase
@@ -203,6 +221,8 @@ s/\s+/_/g;
 print;
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to convert string to snakecase
 
@@ -212,6 +232,8 @@ print;
 // So in the str_replace("What you want to change", "What it should be changed into", "Your input")
 echo strtolower(str_replace(" ", "_", "hello world"));
 ```
+
+### Python
 
 ```python
 # Write a Python program to convert string to snakecase
@@ -223,6 +245,8 @@ value = input("Enter text: ")
 print(value.lower().replace(" ", "_"))
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert string to snakecase
 
@@ -232,6 +256,8 @@ end
 
 puts convert_string_to_snakecase('Time tO chaNgE')
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert string to snakecase

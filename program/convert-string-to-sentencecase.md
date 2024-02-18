@@ -45,6 +45,8 @@ trackId: 5055
 description: "Write a program to convert string to sentencecase."
 ---
 
+## Table of contents
+
 ## Write a program to convert string to sentencecase
 
 Sentence case is a style of writing in which the first letter of the first word is capitalized, while all other letters are in lowercase. However, there are some exceptions to this rule. For example, proper nouns (such as names of people, places, organizations, etc.) and acronyms (such as NASA, FBI, etc.) should always be capitalized, regardless of their position in the sentence. The first word after a colon or a semicolon may also be capitalized.
@@ -77,6 +79,8 @@ Output : "The cat is sleeping; however, the dog is awake"
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert string to sentencecase
@@ -146,6 +150,8 @@ const char *ConvertStringToSentenceCase(char *str)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert string to sentencecase
 
@@ -178,6 +184,8 @@ namespace ConvertStringToSentencecase
 	}
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert string to sentencecase
@@ -245,6 +253,8 @@ std::string& ConvertStringToSentencecase(std::string& str)
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert string to sentencecase
 
@@ -300,6 +310,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert string to sentencecase
 
@@ -319,6 +331,8 @@ let result = toSentenceCase inputString
 printfn "Input: %s" inputString
 printfn "Output: %s" result
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert string to sentencecase
@@ -369,6 +383,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert string to sentencecase
 
@@ -391,6 +407,8 @@ public class ConvertStringToSentencecase {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert string to sentencecase
 
@@ -401,6 +419,8 @@ function sentenceCase(str) {
 const result = sentenceCase("hello world");
 console.log(result);
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to convert string to sentencecase
@@ -416,6 +436,8 @@ end
 
 println("Given string in sentencecase: ", s)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert string to sentencecase
@@ -444,6 +466,8 @@ private fun ConvertStringToSentencecase(args: List<String>): String {
     return buffer.toString()
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to convert string to sentencecase
@@ -496,6 +520,8 @@ my $output_string3 = sentence_case_with_replacement($input_string3, @fixed_words
 print $output_string3 . "\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to convert string to sentencecase
 
@@ -509,6 +535,8 @@ echo sentenceCase('hello world');
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to convert string to sentencecase
@@ -548,6 +576,8 @@ def sentence_case(string: str):
 print(sentence_case(input()))
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert string to sentencecase
 
@@ -557,6 +587,8 @@ end
 
 puts convertStringToSentenceCase "hello world"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert string to sentencecase
@@ -576,6 +608,8 @@ fn main(){
     println!("{}", ans);
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to convert string to sentencecase
@@ -603,6 +637,8 @@ object SentenceCaseConverter {
   }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to convert string to sentencecase
@@ -641,6 +677,8 @@ if let userInput = readLine() {
     print("Invalid input. Please enter a valid string.")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert string to sentencecase

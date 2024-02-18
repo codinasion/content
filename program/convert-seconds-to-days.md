@@ -43,6 +43,8 @@ trackId: 3644
 description: "Write a program to convert seconds to days."
 ---
 
+## Table of contents
+
 ## Write a program to convert seconds to days
 
 1 day = 24 hours = 1440 minutes = 86400 seconds
@@ -53,6 +55,8 @@ Output : 5
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert seconds to days
@@ -79,6 +83,8 @@ int main(int argc, char **argv)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert seconds to days
 
@@ -92,6 +98,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert seconds to days
@@ -122,6 +130,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert seconds to days
 
@@ -134,6 +144,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert seconds to days
 
@@ -144,6 +156,8 @@ let days = secondsToDays 432000
 
 printfn "Equivalent days : %d" days
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert seconds to days
@@ -160,6 +174,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to convert seconds to days
 
@@ -172,6 +188,8 @@ main = do
    let days = seconds / 86400
    putStrLn $ show (days)
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert seconds to days
@@ -195,6 +213,8 @@ public class ConvertSecondsToDays {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert seconds to days
 
@@ -210,6 +230,8 @@ let input = 432000;
 ConvertSectoDay(input);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert seconds to days
 
@@ -220,6 +242,8 @@ days = round(seconds / 86400)
 days = convert(Int, days)
 println(seconds, " seconds equals ", days, " days")
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert seconds to days
@@ -246,6 +270,8 @@ private fun ConvertSecondsToDays(sec: Int): Int {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert seconds to days
 
@@ -253,6 +279,8 @@ my $seconds = <STDIN>;
 $days = $seconds / 86400;
 print "days: $days"
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert seconds to days
@@ -266,6 +294,8 @@ echo "Days: $x1 \n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert seconds to days
 
@@ -278,6 +308,8 @@ if __name__ == "__main__":
     print(seconds_to_days(seconds))
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert seconds to days
 
@@ -286,6 +318,8 @@ seconds = gets.chomp.to_i
 days = seconds / 86400
 print "Days : #{days}"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert seconds to days
@@ -313,6 +347,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert seconds to days
 
@@ -323,6 +359,8 @@ object HelloWorld {
 	}
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to convert seconds to days
@@ -335,6 +373,8 @@ var seconds = 432000
 var days = seconds / 86400
 print("Days: ", days)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert seconds to days

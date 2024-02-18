@@ -41,6 +41,8 @@ trackId: 756
 description: "Write a program to find area of a right angled triangle."
 ---
 
+## Table of contents
+
 ## Write a program to find area of a right angled triangle
 
 Area of right angled triangle = 0.5 × `Base` × `Height`
@@ -53,6 +55,8 @@ Area : 3
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find area of a right angled triangle
@@ -68,6 +72,8 @@ int main() {
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find area of a right angled triangle
@@ -86,6 +92,8 @@ class MainClass {
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find area of a right angled triangle
 
@@ -101,6 +109,8 @@ int main() {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find area of a right angled triangle
 
@@ -114,6 +124,8 @@ void main(){
   print('Area of right angled triangle : $area');
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to find area of a right angled triangle
@@ -137,6 +149,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to find area of a right angled triangle
 
@@ -154,6 +168,8 @@ public class FindAreaOfARightAngledTriangle {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find area of a right angled triangle
 
@@ -161,6 +177,8 @@ public class FindAreaOfARightAngledTriangle {
 
 const areaOfRightTriangle = (base, height) => (base * height) / 2;
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to find area of a right angled triangle
@@ -172,6 +190,8 @@ height = parse(Float64, readline(stdin))
 area = 0.5 * base * height
 println("Area of right angled triangle : ", area)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find area of a right angled triangle
@@ -189,6 +209,8 @@ fun main(args: Array<String>) {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find area of a right angled triangle
 
@@ -203,6 +225,8 @@ my $area = 0.5 * $base * $height;
 print "Area of right angled triangle : ".$area, "\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find area of a right angled triangle
 
@@ -213,6 +237,8 @@ $height = readline("Enter the height of triangle:");
 
 echo "Area of triangle is: " . (0.5 * $base * $height) . "\n";
 ```
+
+### Python
 
 ```python
 # Write a Python program to find area of a right angled triangle
@@ -231,6 +257,8 @@ print("Height :", height)
 print("Area :", area(base, height))
 ```
 
+### R
+
 ```r
 # Write a R program to find area of a right angled triangle
 
@@ -239,6 +267,8 @@ height = 3
 area = 0.5 * base * height
 cat("Area: ", area)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find area of a right angled triangle
@@ -257,6 +287,8 @@ if $PROGRAM_NAME == __FILE__
 end
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to find area of a right angled triangle
 
@@ -268,6 +300,8 @@ fn main() {
     println!("Area of right angled triangle is {0}", area as f32);
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find area of a right angled triangle
@@ -286,6 +320,8 @@ object areaOfRightAngledTriangle{
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find area of a right angled triangle
 
@@ -298,6 +334,8 @@ var height = 3.0
 var area = 0.5 * base * height
 print("Area of right angled triangle: ", area)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find area of a right angled triangle

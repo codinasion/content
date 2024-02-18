@@ -18,6 +18,8 @@ trackId: 5327
 description: "Write a program to implement selection sort."
 ---
 
+## Table of contents
+
 ## Write a program to implement selection sort
 
 Selection sort is a sorting algorithm that selects the smallest element from an unsorted list in each iteration and places that element at the beginning of the unsorted list.
@@ -52,12 +54,14 @@ end procedure
 
 ### Example
 
-```text
+```
 Input  : [8, 5, 2, 6, 9, 3, 1, 4, 0, 7]
 Output : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to implement selection sort
@@ -121,6 +125,8 @@ void printArray(const int arr[], size_t size) {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to implement selection sort
 
@@ -165,6 +171,8 @@ Sorted List: [1, 2, 4, 5, 9, 10]
 */
 ```
 
+### Java
+
 ```java
 // Write a Java program to implement selection sort
 
@@ -204,6 +212,8 @@ public class SelectionSort {
 }
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to implement selection sort
 
@@ -233,6 +243,8 @@ arr = [64, 25, 12, 22, 11]
 sorted_arr = selection_sort(arr)
 println("Sorted array: ", sorted_arr)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to implement selection sort
@@ -272,6 +284,8 @@ fun main() {
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to implement selection sort
 
@@ -310,6 +324,8 @@ echo "Sorted Array: [" . implode(", ", $inputArray) . "]\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to implement selection sort
 
@@ -345,6 +361,8 @@ if __name__ == '__main__':
       sorted_list = selection_sort(unsorted)
       print("Sorted List:", sorted_list)
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to implement selection sort

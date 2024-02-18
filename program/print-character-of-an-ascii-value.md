@@ -37,6 +37,8 @@ trackId: 1026
 description: "Write a program to print character of an ascii value."
 ---
 
+## Table of contents
+
 ## Write a program to print character of an ascii value
 
 ASCII value is the numeric representation of a character. For example, the ASCII value of the character 'A' is 65. The ASCII value of the character 'a' is 97. The ASCII value of the character '0' is 48. The ASCII value of the character ' ' is 32.
@@ -47,6 +49,8 @@ Output : A
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print character of an ascii value
@@ -62,6 +66,8 @@ int main(){
     printf("%d",result);
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to print character of an ascii value
@@ -80,6 +86,8 @@ public class HelloWorld
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to print character of an ascii value
 
@@ -93,6 +101,8 @@ int main(){
     cout<<(int)ch<<'\n';
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to print character of an ascii value
@@ -110,6 +120,8 @@ func main() {
 	fmt.Printf("Character corresponding to ASCII Code %d = %c\n", asciiValue, character)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to print character of an ascii value
@@ -132,6 +144,8 @@ public class PrintCharacterOfAnAsciiValue {
   }
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to print character of an ascii value
 
@@ -141,12 +155,16 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to print character of an ascii value
 
 #!/usr/bin/perl
 print chr (65);
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to print character of an ascii value
@@ -162,12 +180,16 @@ echo $char1;
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to print character of an ascii value
 
 ascii = int(input())
 print(chr(ascii))
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to print character of an ascii value
@@ -178,6 +200,8 @@ end
 
 puts printCharacterOfAnAsciiValue 65
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print character of an ascii value

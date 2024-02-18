@@ -35,6 +35,8 @@ trackId: 3809
 description: "Write a program to convert time from 12 hour to 24 hour format."
 ---
 
+## Table of contents
+
 ## Write a program to convert time from 12-hour to 24-hour format
 
 ```
@@ -43,6 +45,8 @@ Output : 12:05:45
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert time from 12 hour to 24 hour format
@@ -90,6 +94,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert time from 12 hour to 24 hour format
 
@@ -103,6 +109,8 @@ namespace Demo {
    }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert time from 12 hour to 24 hour format
@@ -167,6 +175,8 @@ int main()
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to convert time from 12 hour to 24 hour format
 
@@ -198,6 +208,8 @@ func main() {
     fmt.Println("Output :", time24)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert time from 12 hour to 24 hour format
@@ -237,6 +249,8 @@ public class convert_time_from_12_hour_to_24_hour_format {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert time from 12 hour to 24 hour format
 
@@ -268,6 +282,8 @@ function convertTimeTo24Hours(time) {
 convertTimeTo24Hours("12:05:45AM");
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert time from 12 hour to 24 hour format
 
@@ -286,6 +302,8 @@ sub time_12h_to_24h
 print time_12h_to_24h("10:10 PM");
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to convert time from 12 hour to 24 hour format
 
@@ -298,6 +316,8 @@ function convert_time_from_12_hour_to_24_hour_format($hour){
 
 echo convert_time_from_12_hour_to_24_hour_format("11:05:45PM");
 ```
+
+### Python
 
 ```python
 # Write a Python program to convert time from 12 hour to 24 hour format
@@ -314,6 +334,8 @@ elif period == "PM":
         hour += 12
     print(f"{hour}:{minute}:{second}")
 ```
+
+### R
 
 ```r
 # Write a R program to convert time from 12 hour to 24 hour format
@@ -344,6 +366,8 @@ output_time <- convert_to_24_hour_format(input_time)
 print(output_time)
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert time from 12 hour to 24 hour format
 
@@ -371,6 +395,8 @@ end
 
 puts convertTimeTo24Hours("12:05:45PM")
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert time from 12 hour to 24 hour format

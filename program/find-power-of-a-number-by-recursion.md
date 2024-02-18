@@ -32,13 +32,15 @@ trackId: 531
 description: "Write a program to find power of a number by recursion."
 ---
 
+## Table of contents
+
 ## Write a program to find power of a number by recursion
 
 Power of a number is calculated by multiplying the number by itself for the given number of times. For example, 2^3 = 2 _ 2 _ 2 = 8.
 
 Power of a number can be calculated by recursion. The formula is:
 
-```math
+```
 x^n = x * x^{n-1}
 ```
 
@@ -48,6 +50,8 @@ Output : 8
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find power of a number by recursion
@@ -84,6 +88,8 @@ int PowerOf(int num,int expo)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find power of a number by recursion
 
@@ -117,6 +123,8 @@ public static int CalcuOfPower( int x,int y)
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find power of a number by recursion
 
@@ -149,6 +157,8 @@ int PowerOfNumRec(int base,int expo)
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find power of a number by recursion
 
@@ -173,6 +183,8 @@ void main() {
   print(result);
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to find power of a number by recursion
@@ -201,6 +213,8 @@ func main() {
 	fmt.Println(power(base, exponent))
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find power of a number by recursion
@@ -232,6 +246,8 @@ class FindPowerOfANumberByRecursion {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find power of a number by recursion
 
@@ -254,6 +270,8 @@ export function findPowerOfANumberByRecursion(
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find power of a number by recursion
 
@@ -268,6 +286,8 @@ print power(2,3)
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to find power of a number by recursion
@@ -284,6 +304,8 @@ pow = int(input("Enter power : "))
 
 print("\nResult :", power(base, pow))
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find power of a number by recursion
@@ -305,6 +327,8 @@ end
 
 puts "#{num1}^#{num2} = #{power(num1, num2)}"
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find power of a number by recursion

@@ -38,6 +38,8 @@ trackId: 1126
 description: "Write a program to check upper case."
 ---
 
+## Table of contents
+
 ## Write a program to check upper case
 
 Check if the given character is upper case (A-Z).
@@ -48,6 +50,8 @@ Output : Upper Case
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to check upper case
@@ -63,6 +67,8 @@ int main(){
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to check upper case
@@ -96,6 +102,8 @@ public class charCase
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to check upper case
 
@@ -115,6 +123,8 @@ int main()
     return 0;
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to check upper case
@@ -138,6 +148,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to check upper case
 
@@ -152,6 +164,8 @@ class checkUpper {
     }
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to check upper case
@@ -170,6 +184,8 @@ function checkUpperCase(character) {
 }
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to check upper case
 
@@ -180,6 +196,8 @@ else
   println("Not an Upper case")
 end
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to check upper case
@@ -203,6 +221,8 @@ fun main(args: Array<String>) {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to check upper case
 
@@ -213,6 +233,8 @@ if ($str eq uc $str) {
   print "lower case\n";
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to check upper case
@@ -228,11 +250,15 @@ if ($str eq uc $str) {
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to check upper case
 
 print("Upper Case" if input()[0].isupper() else "Lower Case")
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to check upper case
@@ -250,6 +276,8 @@ end
 
 puts checkUpperCase input_letter
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to check upper case
@@ -270,6 +298,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to check upper case
 
@@ -285,6 +315,8 @@ object HelloWorld {
  }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to check upper case
 
@@ -297,6 +329,8 @@ print("a is uppercase: ", x.isUppercase)
 var y: Character = "K"
 print("K is uppercase: ", y.isUppercase)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to check upper case

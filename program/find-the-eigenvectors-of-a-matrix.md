@@ -30,6 +30,8 @@ trackId: 3169
 description: "Write a program to find the eigenvectors of a matrix."
 ---
 
+## Table of contents
+
 ## Write a program to find the eigenvectors of a matrix
 
 The eigenvalues and eigenvectors of a linear transformation are the values and vectors that determine the transformation. The eigenvectors of a matrix A are the vectors v for which the matrix equation Av = λv has a non-trivial solution.
@@ -47,6 +49,8 @@ Output :
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find the eigenvectors of a matrix
@@ -93,6 +97,8 @@ int main() {
     return 0;
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find the eigenvectors of a matrix
@@ -156,6 +162,8 @@ int main ()
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to find the eigenvectors of a matrix
 
@@ -202,6 +210,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to find the eigenvectors of a matrix
 
@@ -234,6 +244,8 @@ public class Eigenvectors {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find the eigenvectors of a matrix
 
@@ -254,6 +266,8 @@ const eigVectorsT = math.transpose(eigVectors); // Transpose to get row vectors
 console.log(math.format(eigVectorsT, { precision: 10, columnSeparator: "  " })); // Print with precision 10 and column separator '  '
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find the eigenvectors of a matrix
 
@@ -261,6 +275,8 @@ using LinearAlgebra
 A = [1 2 3; 4 5 6; 7 8 9]
 println(eigvecs(A))
 ```
+
+### Python
 
 ```python
 # Write a Python program to find the eigenvectors of a matrix
@@ -280,6 +296,8 @@ print(eig_vector)
 """
 ```
 
+### R
+
 ```r
 # Write a R program to find the eigenvectors of a matrix
 
@@ -288,6 +306,8 @@ cat("The 3x3 matrix:\n")
 print(A)
 print(eigen(A))
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find the eigenvectors of a matrix

@@ -40,6 +40,8 @@ trackId: 1832
 description: "Write a program to check prime number."
 ---
 
+## Table of contents
+
 ## Write a program to check prime number
 
 A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.
@@ -50,6 +52,8 @@ Output : Prime Number
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to check prime number
@@ -70,6 +74,8 @@ int main()
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to check prime number
@@ -98,6 +104,8 @@ using System;
    }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to check prime number
 
@@ -118,6 +126,8 @@ int main()
     return 0;
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to check prime number
@@ -153,6 +163,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to check prime number
 
@@ -186,6 +198,8 @@ class CheckPrimeNumber {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to check prime number
 
@@ -197,6 +211,8 @@ function isPrime(num) {
 }
 console.log(isPrime(17));
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to check prime number
@@ -224,6 +240,8 @@ else
 end
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to check prime number
 
@@ -247,6 +265,8 @@ private fun checkPrime(num: Int): Boolean {
     return true
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to check prime number
@@ -276,6 +296,8 @@ print "It's not a Prime number \n";
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to check prime number
 
@@ -297,6 +319,8 @@ print "It's not a Prime number \n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to check prime number
 
@@ -317,6 +341,8 @@ else:
 
 # Contributed by Raghav Garg
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to check prime number
@@ -344,6 +370,8 @@ puts PrimeNumber.check_prime(41) # => Prime Number
 puts PrimeNumber.check_prime(16) # => Not Prime Number
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to check prime number
 
@@ -367,6 +395,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to check prime number
 
@@ -387,6 +417,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to check prime number
 
@@ -406,6 +438,8 @@ print("5 is a prime number: " , isPrime(number1))
 var number2 = 9
 print("9 is a prime number: " , isPrime(number2))
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to check prime number

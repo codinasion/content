@@ -49,6 +49,8 @@ trackId: 5638
 description: "Write a program to split string into array of words."
 ---
 
+## Table of contents
+
 ## Write a program to split string into array of words
 
 ```
@@ -57,6 +59,8 @@ Output : ["hello", "world"]
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to split string into array of words
@@ -86,6 +90,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to split string into array of words
 
@@ -106,6 +112,8 @@ class SPLIT {
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to split string into array of words
@@ -133,6 +141,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to split string into array of words
 
@@ -146,6 +156,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to split string into array of words
 
@@ -156,6 +168,8 @@ let splitIntoWords (str: string) =
 let words = splitIntoWords "hello world"
 printfn "%A" words // Output: [|"hello"; "world"|]
 ```
+
+### Go
 
 ```go
 // Write a Go program to split string into array of words
@@ -180,6 +194,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to split string into array of words
 
@@ -188,6 +204,8 @@ main = do
   line <- getLine
   print (words line)
 ```
+
+### Java
 
 ```java
 // Write a Java program to split string into array of words
@@ -209,6 +227,8 @@ public class SplitStringIntoArrayOfWords {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to split string into array of words
 
@@ -218,6 +238,8 @@ function stringToArray(str) {
 
 console.log(stringToArray("hello world"));
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to split string into array of words
@@ -231,6 +253,8 @@ text = "Hello World"
 words = split_string(text)
 println(words)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to split string into array of words
@@ -246,6 +270,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to split string into array of words
 
@@ -253,6 +279,8 @@ my $str ='hello world';
 my @arr=split (/ /, $str);
 print "@arr";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to split string into array of words
@@ -268,11 +296,15 @@ string2Array('hello world');
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to split string into array of words
 
 print(input().split(" "))
 ```
+
+### R
 
 ```r
 # Write a R program to split string into array of words
@@ -283,6 +315,8 @@ result <- paste(shQuote(words), collapse=", ")
 cat(sprintf("[%s]", result))
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to split string into array of words
 
@@ -292,6 +326,8 @@ end
 
 print stringToArray("hello world")
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to split string into array of words
@@ -307,6 +343,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to split string into array of words
 
@@ -320,6 +358,8 @@ object Main {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to split string into array of words
 
@@ -327,6 +367,8 @@ if let str = readLine() {
    print("String of array is  \(str.split(separator: " "))")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to split string into array of words

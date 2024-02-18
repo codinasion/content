@@ -37,6 +37,8 @@ trackId: 1572
 description: "Write a program to find sum of n natural numbers."
 ---
 
+## Table of contents
+
 ## Write a program to find sum of n natural numbers
 
 ```
@@ -45,6 +47,8 @@ Output : 15
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find sum of n natural numbers
@@ -62,6 +66,8 @@ int main(){
 
 //Contributed by Raghav Garg
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find sum of n natural numbers
@@ -91,6 +97,8 @@ public class Exercise3
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find sum of n natural numbers
 
@@ -106,6 +114,8 @@ int main()
     cout<<sum<<'\n';
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to find sum of n natural numbers
@@ -126,6 +136,8 @@ func main() {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find sum of n natural numbers
 
@@ -135,6 +147,8 @@ function sumOfNumbers(n) {
 
 console.log(sumOfNumbers(5));
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find sum of n natural numbers
@@ -159,6 +173,8 @@ private fun FindSumOfNNaturalNumbers(num: Int): Int {
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find sum of n natural numbers
 
@@ -172,6 +188,8 @@ function find_sum_of_n_natural_numbers($n)
 echo find_sum_of_n_natural_numbers(5);
 ```
 
+### Python
+
 ```python
 # Write a Python program to find sum of n natural numbers
 
@@ -182,6 +200,8 @@ def find_sum_of_n_natural_numbers(x):
 print(find_sum_of_n_natural_numbers(5))
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find sum of n natural numbers
 
@@ -190,6 +210,8 @@ n = gets.chomp.to_i
 sum = (n*(n+1))/2
 print "Sum : #{sum}"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find sum of n natural numbers
@@ -202,6 +224,8 @@ fn main() {
 	println!("{}", find_sum_of_n_natural_numbers(5));
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find sum of n natural numbers
@@ -220,6 +244,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find sum of n natural numbers
 
@@ -230,6 +256,8 @@ var n = 5
 var sum = (n * (n + 1)/2)
 print("sum: ", sum)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find sum of n natural numbers

@@ -46,6 +46,8 @@ trackId: 4635
 description: "Write a program to convert hours to minutes."
 ---
 
+## Table of contents
+
 ## Write a program to convert hours to minutes
 
 1 hour = 60 minutes
@@ -56,6 +58,8 @@ Output : 300
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert hours to minutes
@@ -69,6 +73,8 @@ void main()
     printf("Output : %d\n", x*60);
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to convert hours to minutes
@@ -90,6 +96,8 @@ public class ConvertHoursToMinutes {
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to convert hours to minutes
 
@@ -106,6 +114,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert hours to minutes
 
@@ -118,6 +128,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert hours to minutes
 
@@ -128,6 +140,8 @@ let minutes = hoursToMinutes 5
 
 printfn "Equivalent minutes : %d" minutes
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert hours to minutes
@@ -147,6 +161,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to convert hours to minutes
 
@@ -155,6 +171,8 @@ module  Main where
 hoursToMins :: Int -> Int
 hoursToMins hours = hours * 60
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert hours to minutes
@@ -176,6 +194,8 @@ public class ConvertHoursToMinutes {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert hours to minutes
 
@@ -188,6 +208,8 @@ function convertHoursToMinutes(hour) {
 console.log(convertHoursToMinutes(hours));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert hours to minutes
 
@@ -197,6 +219,8 @@ hours = parse(Int, hours)
 minutes = hours * 60
 println(hours, " hours equals ", minutes, " minutes")
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert hours to minutes
@@ -211,6 +235,8 @@ fun main() {
     println("$hours  hours to minutes is $minutes ")
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to convert hours to minutes
@@ -229,6 +255,8 @@ sub hoursToMinutes
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to convert hours to minutes
 
@@ -242,6 +270,8 @@ echo hours2Minutes(5)
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to convert hours to minutes
@@ -266,6 +296,8 @@ if __name__ == "__main__":
 # contributed by MedMly20208 Mohamed Moulay
 ```
 
+### R
+
 ```r
 # Write a R program to convert hours to minutes
 
@@ -273,6 +305,8 @@ hours = 5
 minutes = hours * 60
 cat("minutes: ", minutes)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert hours to minutes
@@ -282,6 +316,8 @@ hours = gets.chomp.to_i
 minutes = hours * 60
 print "Minutes : #{minutes}"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert hours to minutes
@@ -309,6 +345,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert hours to minutes
 
@@ -324,6 +362,8 @@ object hoursToMinutes {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert hours to minutes
 
@@ -334,6 +374,8 @@ print("Enter hours: ")
 var hours = Int(readLine()!)!
 print("Minutes: ", hours * 60)
 ```
+
+### TypeScript
 
 ````typescript
 // Write a TypeScript program to convert hours to minutes

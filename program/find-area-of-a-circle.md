@@ -43,6 +43,8 @@ trackId: 699
 description: "Write a program to find area of a circle."
 ---
 
+## Table of contents
+
 ## Write a program to find area of a circle
 
 Area of circle = π × `Radius`^2
@@ -54,6 +56,8 @@ Area : 12.566370614359172
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find area of a circle
@@ -72,6 +76,8 @@ int main(void)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find area of a circle
 
@@ -86,6 +92,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find area of a circle
@@ -115,6 +123,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find area of a circle
 
@@ -127,6 +137,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find area of a circle
 
@@ -137,6 +149,8 @@ let area = areaOfCircle 2.0
 
 printfn "Area of circle : %f" area
 ```
+
+### Go
 
 ```go
 // Write a Go program to find area of a circle
@@ -169,6 +183,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to find area of a circle
 
@@ -188,6 +204,8 @@ class FindAreaOfACircle {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find area of a circle
 
@@ -195,6 +213,8 @@ export function findAreaOfACircle(radius) {
   return Math.PI * Math.pow(radius, 2);
 }
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to find area of a circle
@@ -204,6 +224,8 @@ radius = parse(Float64, readline(stdin))
 area = 3.14 * radius * radius
 println("Area of circle: ", area)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find area of a circle
@@ -220,6 +242,8 @@ fun main(args: Array<String>) {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find area of a circle
 
@@ -232,6 +256,8 @@ my $area =  3.14 * $radius * $radius;
 print "Area of circle : ".$area, "\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find area of a circle
 
@@ -243,6 +269,8 @@ print "Area of circle : ".$area, "\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find area of a circle
 
@@ -250,6 +278,8 @@ from math import pi
 
 print("Area:", float(input("Radius: ")) ** 2 * pi)
 ```
+
+### R
 
 ```r
 # Write a R program to find area of a circle
@@ -259,6 +289,8 @@ area = pi * radius * radius
 cat("Area: ", area)
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find area of a circle
 
@@ -267,6 +299,8 @@ radius = gets.chomp.to_f
 area = 3.141592653 * (radius**2)
 print "Area : #{area}"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find area of a circle
@@ -297,6 +331,8 @@ fn calculate_area(radius: f64) -> f64 {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to find area of a circle
 
@@ -310,6 +346,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find area of a circle
 
@@ -321,6 +359,8 @@ var radius = 2.0
 var area = M_PI * radius * radius
 print("Area of circle: ", area)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find area of a circle

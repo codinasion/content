@@ -38,6 +38,8 @@ trackId: 1432
 description: "Write a program to convert hexadecimal to octal."
 ---
 
+## Table of contents
+
 ## Write a program to convert hexadecimal to octal
 
 Hexadecimal is a base-16 number system. It uses sixteen digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, and F. The digits are called hexits. A hexit is the smallest unit of information in a computer. A hexit can be used to represent a single value, such as 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, or F, or it can be used to represent a single state, such as on or off.
@@ -55,6 +57,8 @@ Output : 12
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert hexadecimal to octal
@@ -125,6 +129,8 @@ int main()
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to convert hexadecimal to octal
@@ -205,6 +211,8 @@ public static void Main(string[] args)
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to convert hexadecimal to octal
 
@@ -260,6 +268,8 @@ int main() {
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to convert hexadecimal to octal
 
@@ -289,6 +299,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert hexadecimal to octal
 
@@ -305,6 +317,8 @@ public class hexadecimalToOctal {
   }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert hexadecimal to octal
 
@@ -319,6 +333,8 @@ console.log(
 );
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert hexadecimal to octal
 
@@ -328,6 +344,8 @@ y = parse(Int, x, base=16)
 y = string(y, base=8)
 println("Octal of ", x, ": ", y)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert hexadecimal to octal
@@ -379,6 +397,8 @@ private fun convertHexadecimalToDecimal(str: String): Int {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert hexadecimal to octal
 
@@ -387,6 +407,8 @@ my $hex_str = hex(<STDIN>);
 my $oct_value = sprintf("%o", $hex_str);
 print "Equivalent Octal value :".$oct_value;
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert hexadecimal to octal
@@ -401,6 +423,8 @@ function convert_hexadecimal_to_octal($input)
 echo convert_hexadecimal_to_octal('A');
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert hexadecimal to octal
 
@@ -414,6 +438,8 @@ hnum = input()
 onum = HexToOct(hnum)
 print("Output : ", onum[2:])
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert hexadecimal to octal
@@ -459,6 +485,8 @@ rescue ArgumentError => e
   puts "Error: #{e.message}"
 end
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert hexadecimal to octal

@@ -37,6 +37,8 @@ trackId: 4037
 description: "Write a program to find the adjoint of a matrix."
 ---
 
+## Table of contents
+
 ## Write a program to find the adjoint of a matrix
 
 The adjoint of a square matrix A is the transpose of the matrix of cofactors of A. The adjoint of a matrix A is denoted as A<sup>\*</sup>.
@@ -52,6 +54,8 @@ Output :
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find the adjoint of a matrix
@@ -141,6 +145,8 @@ int main()
     printMatrix(adjoints);
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find the adjoint of a matrix
@@ -302,6 +308,8 @@ class FindTheAdjointOfAMatrix {
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find the adjoint of a matrix
 
@@ -407,6 +415,8 @@ void Matrix::set_elements(std::initializer_list<int> l)
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to find the adjoint of a matrix
 
@@ -480,6 +490,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to find the adjoint of a matrix
 
@@ -545,6 +557,8 @@ public class Adjoints {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find the adjoint of a matrix
 
@@ -598,6 +612,8 @@ console.log(adjaointOfMatrix);
 //     return adj;
 // }
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find the adjoint of a matrix
@@ -665,6 +681,8 @@ fun determinant(matrix: List<List<Int>>): Int {
     }
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find the adjoint of a matrix
@@ -748,6 +766,8 @@ foreach ($matrix as $row) {
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find the adjoint of a matrix
 
@@ -786,6 +806,8 @@ print(compute_adjoint_matrix([[1, 2, 3], [4, 5, 6], [7, 8, 9]]))
 """
 ```
 
+### R
+
 ```r
 # Write a R program to find the adjoint of a matrix
 
@@ -817,6 +839,8 @@ input_matrix <- matrix(c(1, 2, 3, 4, 5, 6, 7, 8, 9), nrow = 3, byrow = TRUE)
 adjoint_matrix <- findAdjoint(input_matrix)
 print(adjoint_matrix)
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find the adjoint of a matrix
@@ -891,6 +915,8 @@ fn format_row(row: &[i32; 3]) -> String {
     format!("[{}]", row.iter().map(|&x| x.to_string()).collect::<Vec<_>>().join(", "))
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find the adjoint of a matrix

@@ -30,6 +30,8 @@ trackId: 5192
 description: "Write a program to implement binary search."
 ---
 
+## Table of contents
+
 ## Write a program to implement binary search
 
 Binary search is a fast search algorithm with run-time complexity of Ο(log n). This search algorithm works on the principle of divide and conquer. For this algorithm to work properly, the data collection should be in the sorted form.
@@ -38,7 +40,7 @@ Binary search looks for a particular item by comparing the middle most item of t
 
 ### Pseudocode
 
-```text
+```
 procedure binary_search
    A ← sorted array
    n ← size of array
@@ -68,7 +70,7 @@ end procedure
 
 ### Example
 
-```text
+```
 list = [1,2,3,4,5]
 value = 4
 
@@ -76,6 +78,8 @@ Output : 3
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to implement binary search
@@ -128,6 +132,8 @@ int main()
 
 /* Cautiously Crafted By Redzwinger */
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to implement binary search
@@ -188,6 +194,8 @@ public class HelloWorld
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to implement binary search
 
@@ -233,6 +241,8 @@ int main() {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to implement binary search
 
@@ -268,6 +278,8 @@ void main() {
   }
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to implement binary search
@@ -310,6 +322,8 @@ func main() {
 
 /* Cautiously Crafted By Redzwinger */
 ```
+
+### Java
 
 ```java
 // Write a Java program to implement binary search
@@ -376,6 +390,8 @@ public class ImplementBinarySearch {
 }
 ```
 
+### Python
+
 ```python
 # Write a Python program to implement binary search
 
@@ -404,6 +420,8 @@ def binary_search(data, target):
 if __name__ == '__main__':
       main()
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to implement binary search
@@ -456,6 +474,8 @@ fn read_array(size: usize) -> Vec<i32> {
     .collect()
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to implement binary search

@@ -45,6 +45,8 @@ trackId: 5186
 description: "Write a program to find gcd of two numbers by recursion."
 ---
 
+## Table of contents
+
 ## Write a program to find gcd of two numbers by recursion
 
 GCD (Greatest Common Divisor) of two numbers is the largest number that divides both of them. A simple way to find GCD is to factorize both numbers and multiply common factors.
@@ -55,6 +57,8 @@ Output : 6
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find gcd of two numbers by recursion
@@ -85,6 +89,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find gcd of two numbers by recursion
 
@@ -106,6 +112,8 @@ class GCD {
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find gcd of two numbers by recursion
 
@@ -126,6 +134,8 @@ int main() {
   return 0;
 }
 ```
+
+### Dart
 
 ```dart
 // Write a Dart program to find gcd of two numbers by recursion
@@ -151,6 +161,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find gcd of two numbers by recursion
 
@@ -165,6 +177,8 @@ let num2 = 18
 let result = gcd num1 num2
 printfn "The GCD of %d and %d is: %d" num1 num2 result
 ```
+
+### Go
 
 ```go
 // Write a Go program to find gcd of two numbers by recursion
@@ -183,6 +197,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find gcd of two numbers by recursion
 
@@ -196,6 +212,8 @@ main = do
 
     print $ g n m
 ```
+
+### Java
 
 ```java
 // Write a Java program to find gcd of two numbers by recursion
@@ -222,6 +240,8 @@ class GCD {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find gcd of two numbers by recursion
 
@@ -236,6 +256,8 @@ function greatestCommonDenominator(a, b) {
 //display greatest common denominator of 12 and 18
 console.log(greatestCommonDenominator(12, 18));
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to find gcd of two numbers by recursion
@@ -257,6 +279,8 @@ num2 = 18
 
 println("GCD of $num1 and $num2 is: ", gcd_recursive(num1, num2))
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find gcd of two numbers by recursion
@@ -280,6 +304,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find gcd of two numbers by recursion
 
@@ -298,6 +324,8 @@ my $result = gcd($num1, $num2);
 print "The GCD of $num1 and $num2 is: $result\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find gcd of two numbers by recursion
 
@@ -313,6 +341,8 @@ echo gcd(12,18);
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to find gcd of two numbers by recursion
@@ -338,6 +368,8 @@ y = int(input("n2: "))
 print(f"GCD of {x} and {y} : {recursiveGcd(x,y)}")
 ```
 
+### R
+
 ```r
 # Write a R program to find gcd of two numbers by recursion
 
@@ -355,6 +387,8 @@ b=as.integer(readline())
 print(paste("Output: ",gcd(a,b)))
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find gcd of two numbers by recursion
 
@@ -371,6 +405,8 @@ end
 
 puts findGCDOfTwoNumbersByRecursion 12, 18
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find gcd of two numbers by recursion
@@ -393,6 +429,8 @@ object GCDCalculator {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find gcd of two numbers by recursion
 
@@ -412,6 +450,8 @@ let num2 = 18
 let result = gcd(num1, num2)
 print("GCD of \(num1) and \(num2) is \(result)")
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find gcd of two numbers by recursion

@@ -41,6 +41,8 @@ trackId: 1855
 description: "Write a program to find average of numbers."
 ---
 
+## Table of contents
+
 ## Write a program to find average of numbers
 
 Average of numbers is the sum of all numbers divided by the number of numbers.
@@ -51,6 +53,8 @@ Output : 3
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find average of numbers
@@ -80,6 +84,8 @@ int main()
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find average of numbers
@@ -111,6 +117,8 @@ public class Average
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find average of numbers
 
@@ -139,6 +147,8 @@ int main(){
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to find average of numbers
 
@@ -156,6 +166,8 @@ func main() {
 
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find average of numbers
@@ -178,6 +190,8 @@ class FindAverageOfNumbers {
     }
 }
 ```
+
+### JavaScript
 
 ````javascript
 // Write a JavaScript program to find average of numbers
@@ -212,6 +226,8 @@ console.log("Average of 12, and 43.");
 console.log("That is" + FindAverageOfNumbers(12, 43) + "// 27.5");
 ````
 
+### Julia
+
 ```julia
 # Write a Julia program to find average of numbers
 
@@ -219,6 +235,8 @@ using Statistics
 A = [1 2 3 4 5]
 println(mean(A))
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find average of numbers
@@ -241,6 +259,8 @@ private fun FindAverageOfNumbers(input: String): Double {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find average of numbers
 
@@ -258,6 +278,8 @@ my $average = $sum / $n;
 printf "Average = %.2f\n", $average;
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find average of numbers
 
@@ -273,6 +295,8 @@ echo "The average is $average";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find average of numbers
 
@@ -285,6 +309,8 @@ print(sum / len(lst))
 # Contributed by Raghav Garg
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find average of numbers
 
@@ -295,6 +321,8 @@ end
 
 findAverageOfNumbers [1,2,3,4,5]
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find average of numbers
@@ -313,6 +341,8 @@ fn main(){
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to find average of numbers
 
@@ -330,6 +360,8 @@ object HelloWorld {
  }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find average of numbers
 
@@ -344,6 +376,8 @@ var average = Double(arraySum)/Double(length)
 print("Array:", myArray)
 print("Average:", average)
 ```
+
+### TypeScript
 
 ````typescript
 // Write a TypeScript program to find average of numbers

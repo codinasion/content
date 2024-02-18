@@ -40,6 +40,8 @@ trackId: 883
 description: "Write a program to find volume of a sphere."
 ---
 
+## Table of contents
+
 ## Write a program to find volume of a sphere
 
 Volume of sphere = 4/3 × π × `Radius`^3
@@ -51,6 +53,8 @@ Volume : 33.510321638291124
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find volume of a sphere
@@ -65,6 +69,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find volume of a sphere
 
@@ -78,6 +84,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find volume of a sphere
@@ -105,6 +113,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find volume of a sphere
 
@@ -117,6 +127,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find volume of a sphere
 
@@ -128,6 +140,8 @@ let volume = volumeOfSphere 2.0
 
 printfn "Volume of sphere : %f" volume
 ```
+
+### Go
 
 ```go
 // Write a Go program to find volume of a sphere
@@ -151,6 +165,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to find volume of a sphere
 
@@ -165,6 +181,8 @@ public class sphere{
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find volume of a sphere
 
@@ -177,6 +195,8 @@ function volumeOfSphere(radius) {
 console.log("Volume of Sphere is", volumeOfSphere(4));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find volume of a sphere
 
@@ -185,6 +205,8 @@ radius = parse(Float64, readline(stdin))
 volume = 4/3 * 3.14 * radius * radius * radius
 println("Volume of sphere: ", volume)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find volume of a sphere
@@ -211,6 +233,8 @@ private fun FindVolumeOfASphere(radius: Double): Double {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find volume of a sphere
 
@@ -220,6 +244,8 @@ my $radius = <STDIN>;
 $volume = 4/3 * $PI * $radius * $radius * $radius;
 print "$volume"
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find volume of a sphere
@@ -232,6 +258,8 @@ print "$volume"
     echo $volume;
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to find volume of a sphere
@@ -246,6 +274,8 @@ volume = (4.0 / 3.0) * pie * (radius * radius * radius)
 print("volume of the sphere=" + str(volume))
 ```
 
+### R
+
 ```r
 # Write a R program to find volume of a sphere
 
@@ -253,6 +283,8 @@ radius = 2
 volume = 4/3 * pi * radius * radius * radius
 cat("volume: ", volume)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find volume of a sphere
@@ -269,6 +301,8 @@ if $PROGRAM_NAME == __FILE__
 end
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to find volume of a sphere
 
@@ -281,6 +315,8 @@ fn main() {
 	println!("{}", find_volume_of_a_sphere(2));
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find volume of a sphere
@@ -295,6 +331,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find volume of a sphere
 
@@ -306,6 +344,8 @@ var radius = 2.0
 var volume = (4.0/3.0) * M_PI * radius * radius * radius
 print("Volume of sphere: ", volume)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find volume of a sphere

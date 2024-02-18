@@ -36,6 +36,8 @@ trackId: 3694
 description: "Write a program to check valid date."
 ---
 
+## Table of contents
+
 ## Write a program to check valid date
 
 Check if a given date is valid or not.
@@ -46,6 +48,8 @@ Output : False
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to check valid date
@@ -80,6 +84,8 @@ int main() {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to check valid date
 
@@ -101,6 +107,8 @@ namespace DateValidation {
    }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to check valid date
@@ -147,6 +155,8 @@ int main()
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to check valid date
 
@@ -171,6 +181,8 @@ func main() {
 
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to check valid date
@@ -204,6 +216,8 @@ public class CheckValidDate {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to check valid date
 
@@ -225,6 +239,8 @@ if (isValidDate(date)) {
   console.log("False");
 }
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to check valid date
@@ -253,6 +269,8 @@ private fun CheckValidDate(date: String): Boolean {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to check valid date
 
@@ -276,6 +294,8 @@ sub isvaliddate {
 
 print isvaliddate('2019-02-29');
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to check valid date
@@ -328,6 +348,8 @@ if ($month > 0 && $month < 13) {
 }
 ```
 
+### Python
+
 ```python
 # Write a Python program to check valid date
 
@@ -341,6 +363,8 @@ except ValueError:
 else:
     print("True")
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to check valid date
@@ -367,6 +391,8 @@ if $PROGRAM_NAME == __FILE__
   end
 end
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to check valid date

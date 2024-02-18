@@ -44,6 +44,8 @@ trackId: 5293
 description: "Write a program to calculate simple interest."
 ---
 
+## Table of contents
+
 ## Write a program to calculate simple interest
 
 Simple interest = (principal amount _ rate of interest _ time) / 100
@@ -57,6 +59,8 @@ Simple interest : 500
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to calculate simple interest
@@ -87,6 +91,8 @@ int main(){
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to calculate simple interest
 
@@ -105,6 +111,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to calculate simple interest
@@ -126,6 +134,8 @@ int main(){
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to calculate simple interest
 
@@ -142,6 +152,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to calculate simple interest
 
@@ -152,6 +164,8 @@ let si = simpleInterest 1000.00 10.00 5.00
 
 printfn "Simple Interest : %f" si
 ```
+
+### Go
 
 ```go
 // Write a Go program to calculate simple interest
@@ -169,6 +183,8 @@ func main() {
 	fmt.Println(simpleInterest)
 }
 ```
+
+### Haskell
 
 ```haskell
 -- Write a Haskell program to calculate simple interest
@@ -195,6 +211,8 @@ main = do
     putStrLn $ "Simple interest: " ++ show interest
 ```
 
+### Java
+
 ```java
 // Write a Java program to calculate simple interest
 
@@ -218,6 +236,8 @@ public class CalculateSimpleInterest {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to calculate simple interest
 
@@ -227,6 +247,8 @@ const simpleInterest = (principal, interest, time) => {
 
 console.log(simpleInterest);
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to calculate simple interest
@@ -243,6 +265,8 @@ simple_interest = (principal * rate * time) / 100
 println("Simple interest: ", simple_interest)
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to calculate simple interest
 
@@ -255,6 +279,8 @@ fun main(args: Array<String>) {
     println(interest)
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to calculate simple interest
@@ -279,6 +305,8 @@ sub simpleInterest
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to calculate simple interest
 
@@ -292,6 +320,8 @@ echo simpleInterest(1000, 10, 5);
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to calculate simple interest
@@ -307,6 +337,8 @@ def simpleInterest():
 print(simpleInterest())
 ```
 
+### R
+
 ```r
 # Write a R program to calculate simple interest
 
@@ -316,6 +348,8 @@ time = 5
 simpleInterest = (principal * interest * time)/100
 cat("Simple interest : ", simpleInterest)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to calculate simple interest
@@ -335,6 +369,8 @@ if $PROGRAM_NAME == __FILE__
 end
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to calculate simple interest
 
@@ -342,6 +378,8 @@ fn simple_interest(principal: f32, rate: f32, time: f32) -> f32 {
     (principal * rate * time) / 100.0
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to calculate simple interest
@@ -362,6 +400,8 @@ object simpleInterest {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to calculate simple interest
 
@@ -376,6 +416,8 @@ print("Enter time: ")
 var time = Int(readLine()!)!
 print("Simple Interest: ", (principal * rate * time)/100)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to calculate simple interest

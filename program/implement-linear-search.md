@@ -39,6 +39,8 @@ trackId: 5289
 description: "Write a program to implement linear search."
 ---
 
+## Table of contents
+
 ## Write a program to implement linear search
 
 Linear search is a very simple search algorithm. In this type of search, a sequential search is made over all items one by one. Every item is checked and if a match is found then that particular item is returned, otherwise the search continues till the end of the data collection.
@@ -47,7 +49,7 @@ Linear search is the simplest search algorithm. For this reason, it is often cal
 
 ### Pseudocode
 
-```text
+```
 procedure linear_search (list, value)
 
    for each item in the list
@@ -61,7 +63,7 @@ end procedure
 
 ### Example
 
-```text
+```
 list = [1,2,3,4,5]
 value = 4
 
@@ -69,6 +71,8 @@ Output : 3
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to implement linear search
@@ -109,6 +113,8 @@ int main()
 
 /* Calmly Crafted By Redzwinger */
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to implement linear search
@@ -164,6 +170,8 @@ namespace Test
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to implement linear search
 
@@ -179,6 +187,8 @@ int linear_search(std::vector<T> list, T val){
     return -1;
 };
 ```
+
+### Dart
 
 ```dart
 // Write a Dart program to implement linear search
@@ -212,6 +222,8 @@ void main() {
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to implement linear search
 
@@ -233,6 +245,8 @@ func linearSearch(array [5]int, target int) int {
 	return -1
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to implement linear search
@@ -256,6 +270,8 @@ public class ImplementLinearSearch {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to implement linear search
 
@@ -274,6 +290,8 @@ function linear_search(seq, target) {
   return -1;
 }
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to implement linear search
@@ -302,6 +320,8 @@ else
 end
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to implement linear search
 
@@ -317,6 +337,8 @@ fun linearSearch(array: Array<Int>, value: Int): Int {
     return -1
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to implement linear search
@@ -350,6 +372,8 @@ if ($result != -1) {
 }
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to implement linear search
@@ -386,6 +410,8 @@ def linear_search(seq: list[int | str], value: int | str) -> int:
 if __name__ == '__main__':
       main()
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to implement linear search
@@ -424,6 +450,8 @@ else
 end
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to implement linear search
 
@@ -446,6 +474,8 @@ fn main() {
     }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to implement linear search
@@ -485,6 +515,8 @@ if let foundIndex = linearSearch(numbers, valueToSearch) {
     print("Value \(valueToSearch) not found in the list")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to implement linear search

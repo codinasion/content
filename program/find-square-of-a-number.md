@@ -44,6 +44,8 @@ trackId: 42
 description: "Write a program to find square of a number."
 ---
 
+## Table of contents
+
 ## Write a program to find square of a number
 
 ```
@@ -52,6 +54,8 @@ Output : 25
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find square of a number
@@ -81,6 +85,8 @@ int FindSquare(int num)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find square of a number
 
@@ -96,6 +102,8 @@ namespace HelloWorld
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find square of a number
@@ -116,6 +124,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find square of a number
 
@@ -129,6 +139,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find square of a number
 
@@ -138,6 +150,8 @@ main = do
  putStrLn "Square of number is:"
  print (square)
 ```
+
+### Go
 
 ```go
 // Write a Go program to find square of a number
@@ -156,6 +170,8 @@ func main() {
   fmt.Println("Square of the given number is:", num*num)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find square of a number
@@ -178,6 +194,8 @@ public class FindSquareOfANumber {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find square of a number
 
@@ -189,6 +207,8 @@ number = 2;
 console.log("Input  : " + number);
 console.log("Output : " + squareNum(number));
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to find square of a number
@@ -209,6 +229,8 @@ println(square)
 # contributed by Technical Amanjeet
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to find square of a number
 
@@ -220,6 +242,8 @@ fun main(args: Array<String>) {
     println("Answer = $result")
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find square of a number
@@ -239,6 +263,8 @@ $square = $n * $n;
 print "$square";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find square of a number
 
@@ -251,11 +277,15 @@ echo $n * $n . "\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find square of a number
 
 print(int(input()) ** 2)
 ```
+
+### R
 
 ```r
 # Write a R program to find square of a number
@@ -264,6 +294,8 @@ num<-scan(what = integer(),n=1);
 
 print(num * num)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find square of a number
@@ -274,6 +306,8 @@ def find_square_of_a_number(number)
 
   puts find_square_of_a_number(5)
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find square of a number
@@ -294,6 +328,8 @@ fn main()
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to find square of a number
 
@@ -309,6 +345,8 @@ object Main extends App {
 
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find square of a number
@@ -329,6 +367,8 @@ let number = Int(myString!)
 let square = number! * number!
 print(square)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find square of a number

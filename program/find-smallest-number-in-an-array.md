@@ -44,6 +44,8 @@ trackId: 3942
 description: "Write a program to find smallest number in an array."
 ---
 
+## Table of contents
+
 ## Write a program to find smallest number in an array
 
 ```
@@ -52,6 +54,8 @@ Output : 1
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find smallest number in an array
@@ -80,6 +84,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find smallest number in an array
 
@@ -92,6 +98,8 @@ class Smallest {
    }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find smallest number in an array
@@ -129,6 +137,8 @@ Author : Kartikeya Saini
 */
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find smallest number in an array
 
@@ -136,6 +146,8 @@ let numbers =[|1..5|]
 
 printfn "%A"  (numbers |> Array.min)
 ```
+
+### Go
 
 ```go
 // Write a Go program to find smallest number in an array
@@ -160,6 +172,8 @@ func main() {
 	fmt.Println(small)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find smallest number in an array
@@ -186,6 +200,8 @@ class FindSmallestNumberInAnArray {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find smallest number in an array
 
@@ -202,6 +218,8 @@ function findSmallestNumberInAnArray(arr) {
 findSmallestNumberInAnArray([1, 2, 3, 4, 5]);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find smallest number in an array
 
@@ -209,6 +227,8 @@ array = [1,2,3,4,5]
 smallest_element = sort(array)
 println("The smallest number is : ", smallest_element[1])
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find smallest number in an array
@@ -221,6 +241,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find smallest number in an array
 
@@ -228,6 +250,8 @@ use List::Util qw(min max);
 my @arr = (1,2,3,4,5);
 print "Smallest number : ".min(@arr);
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find smallest number in an array
@@ -243,6 +267,8 @@ echo smallestNumber([1,2,3,4,5]);
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to find smallest number in an array
@@ -260,6 +286,8 @@ print("Smallest number in the list is ", min1)
 
 # or use built-in python function: min(l)
 ```
+
+### R
 
 ```r
 # Write a R program to find smallest number in an array
@@ -281,6 +309,8 @@ smallest_number <- find_smallest_in_array(arr)
 cat("The smallest number in the array is:", smallest_number, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find smallest number in an array
 
@@ -290,6 +320,8 @@ end
 
 puts findSmallestNumberInAnArray [1,2,3,4,5]
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find smallest number in an array
@@ -312,6 +344,8 @@ fn main() {
     println!("The smallest number is {}", smallest);
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find smallest number in an array
@@ -340,6 +374,8 @@ object Scala_Array {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find smallest number in an array
 
@@ -349,6 +385,8 @@ import Foundation
 let numbers = [1, 2, 3, 4, 5]
 print("Smallest number: ", numbers.reduce(Int.max, { min($0, $1) }))
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find smallest number in an array

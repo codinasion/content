@@ -43,6 +43,8 @@ trackId: 4113
 description: "Write a program to print pattern 1."
 ---
 
+## Table of contents
+
 ## Write a program to print pattern 1
 
 ```
@@ -57,6 +59,8 @@ Output :
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print pattern 1
@@ -78,6 +82,8 @@ void main() {
 	printPattern(n);
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to print pattern 1
@@ -104,6 +110,8 @@ public class pattern {
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to print pattern 1
 
@@ -120,6 +128,8 @@ int main(){
     }
 }
 ```
+
+### Dart
 
 ```dart
 // Write a Dart program to print pattern 1
@@ -138,6 +148,8 @@ void main() {
   printPattern(5);
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to print pattern 1
@@ -158,6 +170,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to print pattern 1
 
@@ -172,6 +186,8 @@ public class PrintPattern1 {
     }
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to print pattern 1
@@ -189,6 +205,8 @@ function printPattern(n) {
 let n = 5;
 printPattern(n);
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to print pattern 1
@@ -220,6 +238,8 @@ fun main(args : Array<String>){
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to print pattern 1
 
@@ -240,6 +260,8 @@ printPattern(5);
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to print pattern 1
 
@@ -250,6 +272,8 @@ for i in range(1, num + 1):
         print(j, end=" ")
     print("")
 ```
+
+### R
 
 ```r
 # Write a R program to print pattern 1
@@ -267,6 +291,8 @@ printPattern <- function(n) {
 printPattern(5)
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to print pattern 1
 
@@ -281,6 +307,8 @@ for i in 1..num do
 end
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to print pattern 1
 
@@ -294,6 +322,8 @@ fn main(){
     }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to print pattern 1
@@ -318,6 +348,8 @@ if let input = readLine(), let number = Int(input) {
     print("Invalid input")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print pattern 1

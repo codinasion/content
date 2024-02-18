@@ -39,6 +39,8 @@ trackId: 1512
 description: "Write a program to check alphabet."
 ---
 
+## Table of contents
+
 ## Write a program to check alphabet
 
 Check that the given character is an alphabet or not (a-z, A-Z).
@@ -49,6 +51,8 @@ Output : Alphabet
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to check alphabet
@@ -66,6 +70,8 @@ int main()
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to check alphabet
@@ -89,6 +95,8 @@ class CheckAlphabet {
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to check alphabet
 
@@ -106,6 +114,8 @@ int main()
     else cout<<"Not Alphabet"<<'\n';
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to check alphabet
@@ -132,6 +142,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to check alphabet
 
@@ -154,6 +166,8 @@ class CheckAlphabet {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to check alphabet
 
@@ -165,6 +179,8 @@ console.log(isCharacterALetter("a"));
 console.log(isCharacterALetter("Z"));
 console.log(isCharacterALetter("!"));
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to check alphabet
@@ -187,6 +203,8 @@ private fun CheckAlphabet(inputStr: String): Boolean {
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to check alphabet
 
@@ -200,6 +218,8 @@ function check_alphabet($text)
 echo check_alphabet('a') ? 'Alphabet' : 'Non Alphabet';
 ```
 
+### Python
+
 ```python
 # Write a Python program to check alphabet
 
@@ -210,6 +230,8 @@ if alphabet.isalpha():
 else:
     print("Not an Alphabet")
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to check alphabet
@@ -226,6 +248,8 @@ else
     "Invalid choice";
 end
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to check alphabet
@@ -257,6 +281,8 @@ fn print_multi_table(n: i32) {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to check alphabet
 
@@ -268,6 +294,8 @@ object alphabets {
   }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to check alphabet
@@ -286,6 +314,8 @@ print("a".isAlphabet) //true
 print("1".isAlphabet) //false
 print("&".isAlphabet) //false
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to check alphabet

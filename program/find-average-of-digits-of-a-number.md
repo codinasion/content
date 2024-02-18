@@ -40,6 +40,8 @@ trackId: 3293
 description: "Write a program to find average of digits of a number."
 ---
 
+## Table of contents
+
 ## Write a program to find average of digits of a number
 
 Average of digits of a number is the sum of all digits divided by the number of digits.
@@ -50,6 +52,8 @@ Output : 2
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find average of digits of a number
@@ -77,6 +81,8 @@ void main() {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find average of digits of a number
 
@@ -103,6 +109,8 @@ public class FindAverageOfDigitsOfANumber {
 
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find average of digits of a number
@@ -132,6 +140,8 @@ Author : Kartikeya Saini
 */
 ```
 
+### Go
+
 ```go
 // Write a Go program to find average of digits of a number
 
@@ -153,6 +163,8 @@ func main() {
 	fmt.Println(averageOfDigits(i))
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find average of digits of a number
@@ -181,6 +193,8 @@ public class FindAverageOfDigitsOfANumber {
 // Contributed by Raghav Garg (@grraghav120)
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find average of digits of a number
 
@@ -200,6 +214,8 @@ function FindAverageOfDigits(num) {
 console.log(FindAverageOfDigits(123));
 console.log(FindAverageOfDigits(28356));
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find average of digits of a number
@@ -224,6 +240,8 @@ private fun sumAndAvgOfDigits(n: String):Double {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find average of digits of a number
 
@@ -241,6 +259,8 @@ for (my $i = 0; $i < $n; $i++) {
 my $average = $sum / $n;
 printf "Average = %.2f\n", $average;
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find average of digits of a number
@@ -260,6 +280,8 @@ printf "Average = %.2f\n", $average;
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find average of digits of a number
 
@@ -270,6 +292,8 @@ for i in num:
     sum += int(i)
 print("Output :", sum // len(num))
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find average of digits of a number
@@ -287,6 +311,8 @@ end
 puts Average.get_avg(123) # => 2
 puts Average.get_avg(448) # => 5
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find average of digits of a number
@@ -331,6 +357,8 @@ if let userInput = readLine(), let inputNumber = Int(userInput) {
     print("Invalid input. Please enter a valid number.")
 }
 ```
+
+### TypeScript
 
 ````typescript
 // Write a TypeScript program to find average of digits of a number

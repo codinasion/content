@@ -48,6 +48,8 @@ trackId: 4665
 description: "Write a program to print diamond pattern."
 ---
 
+## Table of contents
+
 ## Write a program to print diamond pattern
 
 ```
@@ -66,6 +68,8 @@ Output :
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print diamond pattern
@@ -111,6 +115,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to print diamond pattern
 
@@ -142,6 +148,8 @@ public class Exercise31
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to print diamond pattern
@@ -190,6 +198,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to print diamond pattern
 
@@ -225,6 +235,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to print diamond pattern
 
@@ -250,6 +262,8 @@ let size = System.Console.ReadLine() |> int
 // Print the diamond
 printDiamond size
 ```
+
+### Go
 
 ```go
 // Write a Go program to print diamond pattern
@@ -286,6 +300,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to print diamond pattern
 
@@ -311,6 +327,8 @@ centerPad totalSize rowSize = replicate spaces ' ' ++ replicate rowSize '*' ++ r
   where
     spaces = (totalSize - rowSize) `div` 2
 ```
+
+### Java
 
 ```java
 // Write a Java program to print diamond pattern
@@ -345,6 +363,8 @@ class PrintDiamondPattern {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to print diamond pattern
 
@@ -362,6 +382,8 @@ const diamondPattern = n => {
 
 diamondPattern(5);
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to print diamond pattern
@@ -408,6 +430,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to print diamond pattern
 
@@ -442,6 +466,8 @@ $space++;
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to print diamond pattern
 
@@ -471,6 +497,8 @@ diamondPattern(5);
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to print diamond pattern
@@ -512,6 +540,8 @@ if __name__ == "__main__":
 # contributed by MedMly20208 Mohamed Moulay
 ```
 
+### R
+
 ```r
 # Write a R program to print diamond pattern
 
@@ -537,6 +567,8 @@ diamond <- function(max) {
 }
 diamond(5)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to print diamond pattern
@@ -565,6 +597,8 @@ end
 
 PrintDiamond.print(5)
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to print diamond pattern
@@ -604,6 +638,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to print diamond pattern
 
@@ -630,6 +666,8 @@ object printDiamondPattern {
 
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to print diamond pattern
@@ -663,6 +701,8 @@ func printDiamondPattern(_ n: Int) {
 
 printDiamondPattern(5)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print diamond pattern

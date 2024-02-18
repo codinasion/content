@@ -31,6 +31,8 @@ trackId: 5253
 description: "Write a program to implement jump search."
 ---
 
+## Table of contents
+
 ## Write a program to implement jump search
 
 Like Binary Search, Jump Search is a searching algorithm for sorted arrays. The basic idea is to check fewer elements (than linear search) by jumping ahead by fixed steps or skipping some elements in place of searching all elements.
@@ -39,7 +41,7 @@ For example, suppose we have an array arr[] of size n and block (to be jumped) s
 
 ### Pseudocode
 
-```text
+```
 procedure jump_search
    A ← sorted array
    n ← size of array
@@ -72,7 +74,7 @@ end procedure
 
 ### Example
 
-```text
+```
 list = [1,2,3,4,5]
 value = 4
 
@@ -80,6 +82,8 @@ Output : 3
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to implement jump search
@@ -126,6 +130,8 @@ int main() {
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to implement jump search
@@ -191,6 +197,8 @@ class JumpSearch
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to implement jump search
 
@@ -252,6 +260,8 @@ int main() {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to implement jump search
 
@@ -299,6 +309,8 @@ void main() {
   }
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to implement jump search
@@ -374,6 +386,8 @@ public class ImplementJumpSearch {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to implement jump search
 
@@ -415,6 +429,8 @@ if (res !== -1) {
   console.log(`Element ${search} not found`);
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to implement jump search
@@ -465,6 +481,8 @@ if ($result == -1) {
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to implement jump search
 
@@ -498,6 +516,8 @@ if __name__ == '__main__':
     n = len(list)
     print(jump_search(list, value, n))
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to implement jump search
@@ -552,6 +572,8 @@ fn main() {
     }
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to implement jump search

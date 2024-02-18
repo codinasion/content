@@ -37,6 +37,8 @@ trackId: 481
 description: "Write a program to find sum of squares of numbers by recursion."
 ---
 
+## Table of contents
+
 ## Write a program to find sum of squares of numbers by recursion
 
 ```
@@ -45,6 +47,8 @@ Output : 55
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find sum of squares of numbers by recursion
@@ -64,6 +68,8 @@ int main() {
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find sum of squares of numbers by recursion
@@ -87,6 +93,8 @@ class sumOfSquares {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find sum of squares of numbers by recursion
@@ -141,6 +149,8 @@ int FindSumOfSquaresRec(std::vector<int>& nums,size_t idx)
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to find sum of squares of numbers by recursion
 
@@ -160,6 +170,8 @@ func main() {
 	fmt.Println(sumSquareRecursive(input, len(input) - 1))
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find sum of squares of numbers by recursion
@@ -183,6 +195,8 @@ class FindSumOfSquaresOfNumbersByRecursion {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find sum of squares of numbers by recursion
 
@@ -203,6 +217,8 @@ console.log("Input  :", number);
 console.log("Output :", FindSumOfSquaresOfNumbersByRecursion(number));
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to find sum of squares of numbers by recursion
 
@@ -218,6 +234,8 @@ class FindSumOfSquaresOfNumbersByRecursion {
 
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find sum of squares of numbers by recursion
@@ -241,6 +259,8 @@ echo recursiveSum($numbers) . "\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find sum of squares of numbers by recursion
 
@@ -257,6 +277,8 @@ def squarer(x):
 print(squarer(x))
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find sum of squares of numbers by recursion
 
@@ -269,6 +291,8 @@ input_array = gets.chomp.split(' ').map(&:to_i)
 
 puts "Sum of squares is #{input_array.sum { |num| num * num }}"
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find sum of squares of numbers by recursion
@@ -295,6 +319,8 @@ object SumOfSquares {
   }
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find sum of squares of numbers by recursion

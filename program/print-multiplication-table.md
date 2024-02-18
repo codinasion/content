@@ -41,6 +41,8 @@ trackId: 1686
 description: "Write a program to print multiplication table."
 ---
 
+## Table of contents
+
 ## Write a program to print multiplication table
 
 ```
@@ -60,6 +62,8 @@ Input  : 2
 
 ---
 
+### C
+
 ```c
 // Write a C program to print multiplication table
 
@@ -74,6 +78,8 @@ int main() {
   return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to print multiplication table
@@ -94,6 +100,8 @@ public class Multiplication
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to print multiplication table
@@ -127,6 +135,8 @@ int main()
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to print multiplication table
 
@@ -148,6 +158,8 @@ func main() {
 	}
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to print multiplication table
@@ -171,6 +183,8 @@ System.out.println(num+" * "+i+" = "+num*i);
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to print multiplication table
 
@@ -186,6 +200,8 @@ function PrintMultiplicationTable() {
 }
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to print multiplication table
 
@@ -195,6 +211,8 @@ for i in 1:10
     println("$num x $i = ",num*i)
 end
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to print multiplication table
@@ -216,6 +234,8 @@ sub table{
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to print multiplication table
 
@@ -234,6 +254,8 @@ multiplicationTable($n);
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to print multiplication table
 
@@ -242,6 +264,8 @@ n = int(input())
 for i in range(1, 11):
     print(f"{n} x {i} = {n * i}")
 ```
+
+### R
 
 ```r
 # Write a R program to print multiplication table
@@ -261,6 +285,8 @@ if (!is.numeric(number)) {
 }
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to print multiplication table
 
@@ -277,6 +303,8 @@ def printMultiplicationTable number
 end
 printMultiplicationTable Integer (user_input)
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to print multiplication table
@@ -308,6 +336,8 @@ fn print_multi_table(str:&String) {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to print multiplication table
 
@@ -318,6 +348,8 @@ def multab(tblnum: Int) = {
  }}
 multab(2)
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to print multiplication table
@@ -335,6 +367,8 @@ for j in 1...tableRange{
 	print("\(tablenumber) * \(j) = \(tablenumber * j)")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print multiplication table

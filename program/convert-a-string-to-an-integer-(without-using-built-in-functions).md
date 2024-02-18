@@ -37,6 +37,8 @@ trackId: 2481
 description: "Write a program to convert a string to an integer (without using built in functions)."
 ---
 
+## Table of contents
+
 ## Write a program to convert a string to an integer (without using built-in functions)
 
 ```
@@ -45,6 +47,8 @@ Output : 123
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert a string to an integer (without using built in functions)
@@ -82,6 +86,8 @@ int Atoi(char *str)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert a string to an integer (without using built in functions)
 
@@ -104,6 +110,8 @@ public static void Main(string[] args)
 }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert a string to an integer (without using built in functions)
@@ -131,6 +139,8 @@ int ConvertAStringToAnInteger(string str) {
 	return n;
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert a string to an integer (without using built in functions)
@@ -165,6 +175,8 @@ func main() {
 	fmt.Println(reflect.TypeOf(result))
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert a string to an integer (without using built in functions)
@@ -203,6 +215,8 @@ public class ConvertAStringToAnInteger {
     }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert a string to an integer (without using built in functions)
 
@@ -240,6 +254,8 @@ console.log(
 );
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to convert a string to an integer (without using built in functions)
 
@@ -258,6 +274,8 @@ private fun ConvertAStringToAnInteger(num: String):Int {
     return number
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert a string to an integer (without using built in functions)
@@ -313,6 +331,8 @@ echo "Integer: $integer\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert a string to an integer (without using built in functions)
 
@@ -340,6 +360,8 @@ def convert(s: str) -> int:  # function that will do the needful
 # Take input:
 print(convert("123"))
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert a string to an integer (without using built in functions)
@@ -377,6 +399,8 @@ rescue ArgumentError => e
   puts "Error: #{e.message}"
 end
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert a string to an integer (without using built in functions)

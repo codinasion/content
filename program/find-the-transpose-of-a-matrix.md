@@ -30,6 +30,8 @@ trackId: 3142
 description: "Write a program to find the transpose of a matrix."
 ---
 
+## Table of contents
+
 ## Write a program to find the transpose of a matrix
 
 The transpose of a matrix is an operator which flips a matrix over its diagonal, that is it switches the row and column indices of the matrix by producing another matrix denoted as A<sup>T</sup>.
@@ -47,6 +49,8 @@ Output :
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find the transpose of a matrix
@@ -111,6 +115,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find the transpose of a matrix
 
@@ -166,6 +172,8 @@ namespace Program
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find the transpose of a matrix
 
@@ -210,6 +218,8 @@ int main()
     printMatrix(transpose);
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to find the transpose of a matrix
@@ -262,6 +272,8 @@ func printMatrix(matrix [][]int) {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to find the transpose of a matrix
 
@@ -286,6 +298,8 @@ class FindTheTransposeOfAMatrix {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find the transpose of a matrix
 
@@ -309,12 +323,16 @@ transposeOfMatrix([
 ]);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find the transpose of a matrix
 
 A = [1 2 3; 4 5 6; 7 8 9]
 print((A'))
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find the transpose of a matrix
@@ -349,6 +367,8 @@ fun display(matrix: Array<IntArray>) {
 }
 ```
 
+### Python
+
 ```python
 # Write a Python program to find the transpose of a matrix
 
@@ -368,6 +388,8 @@ for i in range(columns):
         print(transposed_matrix[i][j], " ", end="")
     print()
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find the transpose of a matrix

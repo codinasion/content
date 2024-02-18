@@ -30,6 +30,8 @@ trackId: 5487
 description: "Write a program to print floyds triangle."
 ---
 
+## Table of contents
+
 ## Write a program to print floyd's triangle
 
 Floyd's triangle is a right-angled triangle of natural numbers, used in computer science as an example of a space-filling curve. It is named after Robert Floyd. It is defined by filling the rows of the triangle with consecutive numbers, starting with a 1 in the top left corner.
@@ -46,6 +48,8 @@ Output :
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print floyds triangle
@@ -65,6 +69,8 @@ int main() {
  return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to print floyds triangle
@@ -94,6 +100,8 @@ namespace FloydsTriangle
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to print floyds triangle
 
@@ -118,6 +126,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to print floyds triangle
 
@@ -139,6 +149,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to print floyds triangle
 
@@ -153,6 +165,8 @@ let printFloydsTriangle n =
 // Example usage with input 5
 printFloydsTriangle 5
 ```
+
+### Go
 
 ```go
 // Write a Go program to print floyds triangle
@@ -177,6 +191,8 @@ func main(){
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to print floyds triangle
 
@@ -190,6 +206,8 @@ main = do
   n <- readLn
   floyd n
 ```
+
+### Java
 
 ```java
 // Write a Java program to print floyds triangle
@@ -218,6 +236,8 @@ class FloydTriangleExample
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to print floyds triangle
 
@@ -238,6 +258,8 @@ let printFloydsTriangle = num => {
 printFloydsTriangle(5);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to print floyds triangle
 
@@ -254,6 +276,8 @@ end
 
 createFlyodTriangle(5)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to print floyds triangle
@@ -273,6 +297,8 @@ fun printFlyod(rows: Int){
     }
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to print floyds triangle
@@ -308,6 +334,8 @@ foreach my $count (@counts) {
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to print floyds triangle
 
@@ -334,6 +362,8 @@ floydsTriangle(5);
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to print floyds triangle
 
@@ -346,6 +376,8 @@ for i in range(1, rows + 1):
         num += 1
     print()
 ```
+
+### R
 
 ```r
 # Write a R program to print floyds triangle
@@ -366,6 +398,8 @@ n <- 5
 print_floyds_triangle(n)
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to print floyds triangle
 
@@ -380,6 +414,8 @@ end
 
 floydsTriangle(5)
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to print floyds triangle
@@ -403,6 +439,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to print floyds triangle
 
@@ -423,6 +461,8 @@ object FloydsTraingle {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to print floyds triangle
 
@@ -439,6 +479,8 @@ for x in 1...row{
   print("")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print floyds triangle

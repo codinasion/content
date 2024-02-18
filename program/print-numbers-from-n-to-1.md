@@ -30,6 +30,8 @@ trackId: 2710
 description: "Write a program to print numbers from n to 1."
 ---
 
+## Table of contents
+
 ## Write a program to print numbers from n to 1
 
 ```
@@ -38,6 +40,8 @@ Output : 5 4 3 2 1
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print numbers from n to 1
@@ -67,6 +71,8 @@ void main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to print numbers from n to 1
 
@@ -91,6 +97,8 @@ public class PrintNumbersFromNTo1
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to print numbers from n to 1
@@ -118,6 +126,8 @@ int main()
 
 //Contributed by Technical Amanjeet
 ```
+
+### Dart
 
 ```dart
 // Write a Dart program to print numbers from n to 1
@@ -147,6 +157,8 @@ void main() {
 // written by Technical Amanjeet
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to print numbers from n to 1
 
@@ -165,6 +177,8 @@ while(i >= 1) do
 
 // Contributed by Technical Amanjeet
 ```
+
+### Go
 
 ```go
 // Write a Go program to print numbers from n to 1
@@ -193,6 +207,8 @@ func main(){
 
 // Contributed by Technical Amanjeet
 ```
+
+### Java
 
 ```java
 // Write a Java program to print numbers from n to 1
@@ -229,6 +245,8 @@ public class PrintNumbersFromNTo1 {
 // contributed by Technical Amanjeet
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to print numbers from n to 1
 
@@ -247,6 +265,8 @@ for (i = num; i > 0; i--) {
 
 // contributed by Technical Amanjeet
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to print numbers from n to 1
@@ -273,6 +293,8 @@ end
 
 # contributed by Technical Amanjeet
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to print numbers from n to 1
@@ -304,6 +326,8 @@ fun main(args: Array<String>) {
 // Contributed by Technical Amanjeet
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to print numbers from n to 1
 
@@ -323,6 +347,8 @@ do {
 
 # Contributed by Technical Amanjeet
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to print numbers from n to 1
@@ -348,6 +374,8 @@ do {
 # <!-- Contributed by Technical Amanjeet -->
 ```
 
+### Python
+
 ```python
 # Write a Python program to print numbers from n to 1
 
@@ -365,6 +393,8 @@ for i in range(1, num + 1):
 
     # Contributed By Technical Amanjeet
 ```
+
+### R
 
 ```r
 # Write a R program to print numbers from n to 1
@@ -389,6 +419,8 @@ main()
 # Contributed by Technical Amanjeet
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to print numbers from n to 1
 
@@ -409,6 +441,8 @@ end
 
 # Contributed by technical amanjeet
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to print numbers from n to 1
@@ -437,6 +471,8 @@ fn main() {
 
 // Contributed by technical Amanjeet
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to print numbers from n to 1
@@ -469,6 +505,8 @@ object PrintNumbersFromNTo1{
 // Contributed by Technical Amanjeet
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to print numbers from n to 1
 
@@ -490,6 +528,8 @@ while (i > 0) {
 
 // Contributed by Technical Amanjeet
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print numbers from n to 1

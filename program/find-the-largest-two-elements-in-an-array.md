@@ -36,9 +36,11 @@ trackId: 5033
 description: "Write a program to find the largest two elements in an array."
 ---
 
+## Table of contents
+
 ## Write a program to find the largest two elements in an array
 
-```text
+```
 Input: arr[] = {12, 13, 1, 10, 34, 1}
 Output: The largest two elements are 34 and 13
 
@@ -50,6 +52,8 @@ Output: The largest two elements are 10 and 10
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find the largest two elements in an array
@@ -102,6 +106,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find the largest two elements in an array
 
@@ -150,6 +156,8 @@ class Program
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find the largest two elements in an array
@@ -206,6 +214,8 @@ int main() {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find the largest two elements in an array
 
@@ -252,6 +262,8 @@ Largest two elements in the array: 20 11
 */
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find the largest two elements in an array
 
@@ -262,6 +274,8 @@ let sort = List.sortDescending input
 for i = 0 to 1 do
     printfn "%d" sort.[i]
 ```
+
+### Go
 
 ```go
 // Write a Go program to find the largest two elements in an array
@@ -287,6 +301,8 @@ func largestTwoElements(arr []int) []int {
     return arr[:2]
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to find the largest two elements in an array
@@ -319,6 +335,8 @@ let result = findLargestTwoElements(letters);
 console.log("Largest two numbers:", result);
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to find the largest two elements in an array
 
@@ -337,6 +355,8 @@ fun twoLargestElements(array: Array<Int>): Array<Int> {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find the largest two elements in an array
 
@@ -348,6 +368,8 @@ if(scalar @input < 2){
     print "@input[0],@input[1]\n";
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find the largest two elements in an array
@@ -399,6 +421,8 @@ findLargestTwo($arr, $size);
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find the largest two elements in an array
 
@@ -427,6 +451,8 @@ def find_two_largest_elements(S):
 if __name__ == '__main__':
       main()
 ```
+
+### R
 
 ```r
 # Write a R program to find the largest two elements in an array
@@ -463,6 +489,8 @@ findLargestTwo(arr2)
 arr3 <- c(10, 10, 10)
 findLargestTwo(arr3)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find the largest two elements in an array

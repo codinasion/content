@@ -37,6 +37,8 @@ trackId: 3322
 description: "Write a program to find sum of numbers by recursion."
 ---
 
+## Table of contents
+
 ## Write a program to find sum of numbers by recursion
 
 ```
@@ -45,6 +47,8 @@ Output : 15
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find sum of numbers by recursion
@@ -107,6 +111,8 @@ int FindSum(int *arr,int size)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find sum of numbers by recursion
 
@@ -137,6 +143,8 @@ public class FindSumOfNumbersByRecursion {
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find sum of numbers by recursion
 
@@ -164,6 +172,8 @@ int main()
     return 0;
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to find sum of numbers by recursion
@@ -205,6 +215,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to find sum of numbers by recursion
 
@@ -228,6 +240,8 @@ public class FindSumOfNumbersByRecursion {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find sum of numbers by recursion
 
@@ -241,6 +255,8 @@ function sumOfNumbersByRecursion(num) {
 
 console.log(sumOfNumbersByRecursion(12345));
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find sum of numbers by recursion
@@ -256,6 +272,8 @@ sub sumOfNumbersByRecursion {
 
 print sumOfNumbersByRecursion(12345);
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find sum of numbers by recursion
@@ -281,6 +299,8 @@ echo "Sum of the numbers is: $result\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find sum of numbers by recursion
 
@@ -295,6 +315,8 @@ def recursive_sum(numbers: List[int]) -> int:
 
 print(recursive_sum([1, 2, 3, 4, 5]))  # Output: 15
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find sum of numbers by recursion
@@ -314,6 +336,8 @@ end
 puts "Sum: #{sum_of_numbers(numbers)}"
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to find sum of numbers by recursion
 
@@ -331,6 +355,8 @@ object HelloWorld {
  }
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find sum of numbers by recursion

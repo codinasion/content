@@ -51,6 +51,8 @@ trackId: 5142
 description: "Write a program to convert string to consonantcase."
 ---
 
+## Table of contents
+
 ## Write a program to convert string to consonantcase
 
 Consonantcase is a style of writing in which all consonants are converted to uppercase and all vowels are converted to lowercase.
@@ -61,6 +63,8 @@ Output : "HeLlo WoRLD"
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert string to consonantcase
@@ -103,6 +107,8 @@ int main() {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert string to consonantcase
 
@@ -138,6 +144,8 @@ public static void Main(String[] args)
 }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert string to consonantcase
@@ -192,6 +200,8 @@ using namespace std;
     }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert string to consonantcase
 
@@ -202,6 +212,8 @@ void main() {
   print(_consonantCase('hello world'));
 }
 ```
+
+### F#
 
 ```fsharp
 // Write a F# program to convert string to consonantcase
@@ -224,6 +236,8 @@ let inputString = "hello world"
 let result = toConsonantCase inputString
 printfn "Input: %s\nOutput: %s" inputString result
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert string to consonantcase
@@ -254,6 +268,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert string to consonantcase
 
@@ -283,6 +299,8 @@ public class ConvertStringToConsonantcase {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert string to consonantcase
 
@@ -298,6 +316,8 @@ const consonantCase = str => {
 
 console.log(consonantCase("hello world"));
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to convert string to consonantcase
@@ -317,6 +337,8 @@ end
 
 println("Given string in consonantcase: ", s)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert string to consonantcase
@@ -339,6 +361,8 @@ fun consonantCase() {
 consonantCase()
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert string to consonantcase
 
@@ -359,6 +383,8 @@ sub consonantcase {
 # Test with input "hello world"
 consonantcase("hello world");
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert string to consonantcase
@@ -383,6 +409,8 @@ consonantCase("hello world")
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert string to consonantcase
 
@@ -397,6 +425,8 @@ def consonantCase(a: str):
 x = input("Enter a string : ")
 print("Consonant Case of", x, " is ", consonantCase(x))
 ```
+
+### R
 
 ```r
 # Write a R program to convert string to consonantcase
@@ -415,6 +445,8 @@ result <- consonantCase(x)
 cat("Consonant Case of '", x, "' is '", result, "'\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert string to consonantcase
 
@@ -431,6 +463,8 @@ end
 
 convertStringToConsonantCase "hello world"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert string to consonantcase
@@ -472,6 +506,8 @@ fn to_consonantcase(s: &str) -> Result<String, &'static str> {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert string to consonantcase
 
@@ -497,6 +533,8 @@ object ConsonantCaseConverter {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert string to consonantcase
 
@@ -517,6 +555,8 @@ for char in initialString {
 
 print(result)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert string to consonantcase

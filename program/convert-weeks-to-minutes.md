@@ -42,6 +42,8 @@ trackId: 1080
 description: "Write a program to convert weeks to minutes."
 ---
 
+## Table of contents
+
 ## Write a program to convert weeks to minutes
 
 1 week = 7 days = 168 hours = 10080 minutes
@@ -52,6 +54,8 @@ Output : 50400
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert weeks to minutes
@@ -80,6 +84,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert weeks to minutes
 
@@ -94,6 +100,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert weeks to minutes
@@ -122,6 +130,8 @@ int main(){
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert weeks to minutes
 
@@ -134,6 +144,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert weeks to minutes
 
@@ -144,6 +156,8 @@ let minutes =  weeksToMinutes 5
 
 printfn "Equivalent minutes : %d" minutes
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert weeks to minutes
@@ -159,6 +173,8 @@ func main(){
   fmt.Println("Total minutes in given week is ", num_of_weeks * 10080)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert weeks to minutes
@@ -186,6 +202,8 @@ class ConvertWeeksToMinutes {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert weeks to minutes
 
@@ -201,6 +219,8 @@ function convertWeeksToMinutesInJS(weeks) {
 console.log(convertWeeksToMinutesInJS(5));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert weeks to minutes
 
@@ -210,6 +230,8 @@ weeks = parse(Int, weeks)
 minutes = weeks * 10080
 println(weeks, " weeks equals ", minutes, " minutes")
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert weeks to minutes
@@ -231,6 +253,8 @@ fun main(){
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert weeks to minutes
 
@@ -243,6 +267,8 @@ my $minutes = $weeks * 10080;
 print $weeks." weeks is ".$minutes." minutes", "\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to convert weeks to minutes
 
@@ -254,11 +280,15 @@ print $weeks." weeks is ".$minutes." minutes", "\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert weeks to minutes
 
 print("Minutes:", 10080 * int(input("Week(s): ")))
 ```
+
+### R
 
 ```r
 # Write a R program to convert weeks to minutes
@@ -268,6 +298,8 @@ noOfweeks<-scan(what = integer(),n=1);
 
 print(noOfweeks*No_of_minutes_in_a_week)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert weeks to minutes
@@ -279,6 +311,8 @@ total_minutes = num_of_weeks * 10080
 
 puts "Total Minutes in " + num_of_weeks.to_s + " weeks is " + total_minutes.to_s
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert weeks to minutes
@@ -293,6 +327,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert weeks to minutes
 
@@ -304,6 +340,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert weeks to minutes
 
@@ -314,6 +352,8 @@ print("Enter weeks: ")
 var weeks = Int(readLine()!)!
 print("Minutes: ", weeks * 10080)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert weeks to minutes

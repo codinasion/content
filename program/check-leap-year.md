@@ -38,6 +38,8 @@ trackId: 3346
 description: "Write a program to check leap year."
 ---
 
+## Table of contents
+
 ## Write a program to check leap year
 
 Leap years are years that are divisible by 4, but not by 100, unless they are also divisible by 400. For example, 1996 is a leap year, but 1900 is not. Write a function that takes a year as a parameter and returns True if the year is a leap year, False otherwise.
@@ -48,6 +50,8 @@ Output : Leap Year
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to check leap year
@@ -104,6 +108,8 @@ bool checkLeapYear(int year)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to check leap year
 
@@ -123,6 +129,8 @@ namespace CheckLeapYear
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to check leap year
@@ -158,6 +166,8 @@ int main() {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to check leap year
 
@@ -191,6 +201,8 @@ void main() {
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to check leap year
 
@@ -211,6 +223,8 @@ func main() {
 
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to check leap year
@@ -234,6 +248,8 @@ public class CheckLeapYear {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to check leap year
 
@@ -252,6 +268,8 @@ const year = prompt("Enter a year:");
 checkLeapYear(year);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to check leap year
 
@@ -261,6 +279,8 @@ end
 
 println(is_leap_year(2016))
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to check leap year
@@ -295,6 +315,8 @@ private fun CheckLeapYear(year: Int): Boolean {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to check leap year
 
@@ -310,6 +332,8 @@ $year=<STDIN>;
     }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to check leap year
 
@@ -323,6 +347,8 @@ function leapyear($year){
 }
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to check leap year
@@ -369,6 +395,8 @@ else:
     print(year_user, "is not a leap year")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to check leap year
 
@@ -380,6 +408,8 @@ else
   print "#{year} is not a leap year"
 end
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to check leap year
@@ -395,6 +425,8 @@ if ((0 == year % 4) && (0 != year % 100) || (0 == year % 400)) {
   print("\(year) is not a leap year")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to check leap year

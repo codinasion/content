@@ -33,6 +33,8 @@ trackId: 3060
 description: "Write a program to find digital root of a number."
 ---
 
+## Table of contents
+
 ## Write a program to find digital root of a number
 
 Digital root of a number is the recursive sum of its digits until we get a single digit number.
@@ -43,6 +45,8 @@ Output : 1
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find digital root of a number
@@ -82,6 +86,8 @@ int digital_root(int n)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find digital root of a number
 
@@ -108,6 +114,8 @@ class DigitalRoot {
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find digital root of a number
@@ -146,6 +154,8 @@ int DigitalRoot(int num)
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to find digital root of a number
 
@@ -177,6 +187,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to find digital root of a number
 
@@ -198,6 +210,8 @@ public class FindDigitalRootOfANumber{
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find digital root of a number
 
@@ -217,6 +231,8 @@ function findDigitalRoot(num) {
 
 console.log(findDigitalRoot(1234));
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find digital root of a number
@@ -240,6 +256,8 @@ sub digroot
 $n = 1234;
 print digroot(n);
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find digital root of a number
@@ -267,6 +285,8 @@ echo digroot(1234);
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find digital root of a number
 
@@ -287,6 +307,8 @@ def digitalRoot(num):
 num = "65785412"
 print(digitalRoot(num))
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find digital root of a number
@@ -310,6 +332,8 @@ else
     puts "Output: #{ans % 9}"
 end
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find digital root of a number

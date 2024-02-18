@@ -42,6 +42,8 @@ trackId: 3468
 description: "Write a program to print reverse of a number."
 ---
 
+## Table of contents
+
 ## Write a program to print reverse of a number
 
 Reverse of a number is the number obtained by reversing the digits of the original number. For example, the reverse of 123 is 321. The reverse of 100 is 1. The reverse of 1000 is 1.
@@ -52,6 +54,8 @@ Output : 321
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print reverse of a number
@@ -73,6 +77,8 @@ int main(){
 	printf("Number in reverse : %d", reverse(n));
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to print reverse of a number
@@ -96,6 +102,8 @@ using System;
   }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to print reverse of a number
 
@@ -116,6 +124,8 @@ int main(){
 	cout<<"Number in reverse : "<<reverse(n)<<endl;
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to print reverse of a number
@@ -147,6 +157,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to print reverse of a number
 
@@ -174,6 +186,8 @@ public class Main
 // Contributed by Raghav Garg (@grraghav120)
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to print reverse of a number
 
@@ -190,6 +204,8 @@ while (num != 0) {
 console.log(+rev);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to print reverse of a number
 
@@ -200,6 +216,8 @@ println(reverse("gfg"))
 println(reverse("Geeks"))
 println(reverse("GeeksforGeeks"))
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to print reverse of a number
@@ -229,6 +247,8 @@ private fun ReverseNumber(num: Int): Int {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to print reverse of a number
 
@@ -242,6 +262,8 @@ $n=~s/0+$//;
 my $u = reverse $n;
 print "Reverse of given number : ".$u;
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to print reverse of a number
@@ -261,11 +283,15 @@ print "Reverse of given number : ".$u;
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to print reverse of a number
 
 print(input()[::-1])
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to print reverse of a number
@@ -277,6 +303,8 @@ result = number_input.to_s.reverse.to_i
 
 puts "Here's your reversed number: #{result}"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to print reverse of a number
@@ -297,6 +325,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to print reverse of a number
 
@@ -309,6 +339,8 @@ object HelloWorld {
 	}
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to print reverse of a number
@@ -329,6 +361,8 @@ while(number != 0){
 }
 print("Reversed number: ", reverseNum)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print reverse of a number

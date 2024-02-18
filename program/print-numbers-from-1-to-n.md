@@ -45,6 +45,8 @@ trackId: 5207
 description: "Write a program to print numbers from 1 to n."
 ---
 
+## Table of contents
+
 ## Write a program to print numbers from 1 to n
 
 ```
@@ -53,6 +55,8 @@ Output : 1 2 3 4 5
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print numbers from 1 to n
@@ -72,6 +76,8 @@ int main()
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to print numbers from 1 to n
@@ -93,6 +99,8 @@ class Program
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to print numbers from 1 to n
@@ -120,6 +128,8 @@ Author : Kartikeya Saini
 */
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to print numbers from 1 to n
 
@@ -134,6 +144,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to print numbers from 1 to n
 
@@ -143,6 +155,8 @@ let counter= Convert.ToInt32(Console.ReadLine());
 for i = 1 to counter do
  Console.Write("{0} ",i);
 ```
+
+### Go
 
 ```go
 // Write a Go program to print numbers from 1 to n
@@ -160,6 +174,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to print numbers from 1 to n
 
@@ -168,6 +184,8 @@ main = do
     let n = 5
     putStrLn . unwords . map show $ [1 .. n]
 ```
+
+### Java
 
 ```java
 // Write a Java program to print numbers from 1 to n
@@ -189,6 +207,8 @@ public class PrintNumbersFrom1ToN{
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to print numbers from 1 to n
 
@@ -197,6 +217,8 @@ for (let i = 0; i < num; i++) {
   console.log(i + 1);
 }
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to print numbers from 1 to n
@@ -208,6 +230,8 @@ for i in 1:n
   println(i)
 end
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to print numbers from 1 to n
@@ -222,6 +246,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to print numbers from 1 to n
 
@@ -234,6 +260,8 @@ for ($count = 1 ; $count <= $_[0] ; $count++)
 }
 print1ToN(5);
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to print numbers from 1 to n
@@ -250,6 +278,8 @@ one2N($input)
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to print numbers from 1 to n
 
@@ -261,6 +291,8 @@ for x, number in enumerate(range(1, n + 1)):
     print(number, end=", ")
 ```
 
+### R
+
 ```r
 # Write a R program to print numbers from 1 to n
 
@@ -270,6 +302,8 @@ number <- 10
 }
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to print numbers from 1 to n
 
@@ -277,6 +311,8 @@ print 'Enter a number : '
 input = gets.to_i
 (1..input).each { |n| puts n }
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to print numbers from 1 to n
@@ -287,6 +323,8 @@ fn print_numbers(n: u32) {
     }
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to print numbers from 1 to n
@@ -309,6 +347,8 @@ object print1ToN {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to print numbers from 1 to n
 
@@ -320,6 +360,8 @@ if let input = Int(readLine()!){
 }
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print numbers from 1 to n

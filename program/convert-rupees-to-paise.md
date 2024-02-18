@@ -38,6 +38,8 @@ trackId: 5228
 description: "Write a program to convert rupees to paise."
 ---
 
+## Table of contents
+
 ## Write a program to convert rupees to paise
 
 ```
@@ -46,6 +48,8 @@ Output ( Ps ) : 100
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert rupees to paise
@@ -65,6 +69,8 @@ int main() {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert rupees to paise
 
@@ -79,6 +85,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert rupees to paise
@@ -100,6 +108,8 @@ int main() {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert rupees to paise
 
@@ -109,6 +119,8 @@ void main(){
   print('$rupees rupees = $paise paise');
 }
 ```
+
+### F#
 
 ```fsharp
 // Write a F# program to convert rupees to paise
@@ -120,6 +132,8 @@ let paise = rupeesToPaise 1
 
 printfn "Equivalent Paise : %d" paise
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert rupees to paise
@@ -137,6 +151,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to convert rupees to paise
 
@@ -149,6 +165,8 @@ main = do
    let paise = rupees * 100
    putStrLn $ show (paise)
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert rupees to paise
@@ -166,6 +184,8 @@ class Convert {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert rupees to paise
 
@@ -178,6 +198,8 @@ function rupeesToPaise(rupees) {
 console.log(rupeesToPaise(10));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert rupees to paise
 
@@ -186,6 +208,8 @@ rupees = parse(Float64, readline(stdin))
 paise = rupees * 100
 println("Equivalent Paise: ", paise)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert rupees to paise
@@ -197,6 +221,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert rupees to paise
 
@@ -205,6 +231,8 @@ $rupees = 10;
 $paise = $rupees * 100;
 print $rupees . ' rupees = ' . $paise . " paise";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert rupees to paise
@@ -215,6 +243,8 @@ $paise = $rupees * 100;
 echo $rupees . " rupees = " . $paise . " paise";
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to convert rupees to paise
@@ -227,6 +257,8 @@ def Convert(rupees):
 Convert(10)
 ```
 
+### R
+
 ```r
 # Write a R program to convert rupees to paise
 
@@ -234,6 +266,8 @@ rupees = 1
 paise = rupees * 100
 cat("paise: ", paise)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert rupees to paise
@@ -250,6 +284,8 @@ if $PROGRAM_NAME == __FILE__
 end
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to convert rupees to paise
 
@@ -259,6 +295,8 @@ fn main(){
     println!("Given rupees are: {paise} p");
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to convert rupees to paise
@@ -275,6 +313,8 @@ object minutesToDays {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert rupees to paise
 
@@ -285,6 +325,8 @@ print("Enter rupees: ")
 var rupees = Double(readLine()!)!
 print("Paise: ", rupees * 100)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert rupees to paise

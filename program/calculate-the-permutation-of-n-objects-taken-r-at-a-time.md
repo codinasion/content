@@ -34,6 +34,8 @@ trackId: 4194
 description: "Write a program to calculate the permutation of n objects taken r at a time."
 ---
 
+## Table of contents
+
 ## Write a program to calculate the permutation of n objects taken r at a time
 
 Permutation is an arrangement of objects in a particular order. The number of permutations on n objects taken r at a time is given by the formula n!/(n-r)!
@@ -44,6 +46,8 @@ Output : 20
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to calculate the permutation of n objects taken r at a time
@@ -84,6 +88,8 @@ int CalcPermutation(int n,int r)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to calculate the permutation of n objects taken r at a time
 
@@ -106,6 +112,8 @@ public class HelloWorld
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to calculate the permutation of n objects taken r at a time
@@ -151,6 +159,8 @@ int main() {
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to calculate the permutation of n objects taken r at a time
 
@@ -189,6 +199,8 @@ func main() {
 	fmt.Println(result)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to calculate the permutation of n objects taken r at a time
@@ -230,6 +242,8 @@ public class CalculateThePermutationsOfNObjectsTakenAtTime {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to calculate the permutation of n objects taken r at a time
 
@@ -249,6 +263,8 @@ function permutations(total, sample) {
 console.log(permutations(5, 2));
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to calculate the permutation of n objects taken r at a time
 
@@ -265,6 +281,8 @@ echo "The permutation is : " . $p;
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to calculate the permutation of n objects taken r at a time
 
@@ -278,6 +296,8 @@ n, r = map(int, input().split())
 
 print(factorial(n) // factorial(n - r))
 ```
+
+### R
 
 ```r
 # Write a R program to calculate the permutation of n objects taken r at a time
@@ -295,6 +315,8 @@ result <- calculate_permutation(n, r)
 cat("The number of permutations of", n, "objects taken", r, "at a time is:", result, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to calculate the permutation of n objects taken r at a time
 
@@ -311,6 +333,8 @@ n = 5
 r = 3
 puts "Permutation of #{n} objects taken #{r} at a time is: #{permutation(n, r)}"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to calculate the permutation of n objects taken r at a time
@@ -339,6 +363,8 @@ fn main() -> () {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to calculate the permutation of n objects taken r at a time
 
@@ -357,6 +383,8 @@ def permutations(total: Integer, sample: Integer): Integer = {
 
 println(permutations(5, 2))
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to calculate the permutation of n objects taken r at a time
@@ -386,6 +414,8 @@ if let n = inputs?[0], let r = inputs?[1] {
     print("Invalid input")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to calculate the permutation of n objects taken r at a time

@@ -39,6 +39,8 @@ trackId: 4360
 description: "Write a program to find sum of ap series."
 ---
 
+## Table of contents
+
 ## Write a program to find sum of ap series
 
 An arithmetic progression (AP) is a sequence of numbers such that the difference of any two consecutive terms is a constant. The nth term of an AP is given by the formula a<sub>n</sub> = a<sub>1</sub> + (n-1)d where a<sub>1</sub> is the first term and d is the common difference.
@@ -49,6 +51,8 @@ Output : 20
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find sum of ap series
@@ -78,6 +82,8 @@ int main()
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find sum of ap series
@@ -114,6 +120,8 @@ public class FindSumOfApSeries
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find sum of ap series
 
@@ -149,6 +157,8 @@ int main() {
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to find sum of ap series
 
@@ -167,6 +177,8 @@ func main() {
 	fmt.Println(sum / 2)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find sum of ap series
@@ -197,6 +209,8 @@ public class FindSumOfApSeries {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find sum of ap series
 
@@ -207,6 +221,8 @@ function sumOfApSeries(firstTerm, commmonDifference, nthTerm) {
 }
 console.log(sumOfApSeries(2, 3, 5));
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find sum of ap series
@@ -243,6 +259,8 @@ private fun FindSumOfApSeries(args: List<String>): Int {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find sum of ap series
 
@@ -254,6 +272,8 @@ sub sumOfApSeries{
 }
 sumOfApSeries(2, 3, 5);
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find sum of ap series
@@ -278,6 +298,8 @@ echo(sumOfAP($a, $d, $n));
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find sum of ap series
 
@@ -295,6 +317,8 @@ if n < 0:
 else:
     print((n / 2) * ((2 * a) + ((n - 1) * d)))
 ```
+
+### R
 
 ```r
 # Write a R program to find sum of ap series
@@ -316,6 +340,8 @@ result <- sum_of_ap_series(a, n, d)
 cat("Output:", result, "\n")
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to find sum of ap series
 
@@ -328,6 +354,8 @@ fn main(){
     println!("{answer}");
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find sum of ap series
@@ -349,6 +377,8 @@ object APSumCalculator {
   }
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find sum of ap series

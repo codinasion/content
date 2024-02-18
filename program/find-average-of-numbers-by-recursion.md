@@ -44,6 +44,8 @@ trackId: 4611
 description: "Write a program to find average of numbers by recursion."
 ---
 
+## Table of contents
+
 ## Write a program to find average of numbers by recursion
 
 Average of numbers is the sum of all numbers divided by the number of numbers. For example, the average of 1, 2, 3, 4, 5 is 3. The average of 1, 2, 3, 4, 5, 6 is 3.5.
@@ -56,6 +58,8 @@ Output : 3
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find average of numbers by recursion
@@ -88,6 +92,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find average of numbers by recursion
 
@@ -115,6 +121,8 @@ class Average {
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find average of numbers by recursion
@@ -149,6 +157,8 @@ int main()
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find average of numbers by recursion
 
@@ -162,6 +172,8 @@ let result = average input
 
 printfn "Average of numbers: %.1f" result
 ```
+
+### Java
 
 ```java
 // Write a Java program to find average of numbers by recursion
@@ -185,6 +197,8 @@ public class FindAverageOfDigitsOfANumberByRecursion {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find average of numbers by recursion
 
@@ -201,6 +215,8 @@ let n = arr.length;
 
 console.log(avgRec(arr, 0, n));
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find average of numbers by recursion
@@ -220,6 +236,8 @@ fun main() {
     println("Average By Recursion = $avgByRecursion")
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find average of numbers by recursion
@@ -254,6 +272,8 @@ my $average_value = calc_average(\@numbers, 0, $#numbers);
 print "The average value is $average_value\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find average of numbers by recursion
 
@@ -279,6 +299,8 @@ echo averageRecursion($arr, 0, $n);
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find average of numbers by recursion
 
@@ -297,6 +319,8 @@ n = len(arr)
 print(avgRec(arr, 0, n))
 ```
 
+### R
+
 ```r
 # Write a R program to find average of numbers by recursion
 
@@ -313,6 +337,8 @@ result <- calculate_average(numbers, length(numbers))
 
 cat("Average of numbers is:", result, "\n")
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find average of numbers by recursion
@@ -340,6 +366,8 @@ end
 
 main
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find average of numbers by recursion
@@ -379,6 +407,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to find average of numbers by recursion
 
@@ -409,6 +439,8 @@ object AverageCalculator {
   }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find average of numbers by recursion
@@ -458,6 +490,8 @@ if let input = readLine(), !input.isEmpty {
     print("Invalid input. Please enter valid numbers.")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find average of numbers by recursion

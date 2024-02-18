@@ -38,6 +38,8 @@ trackId: 1462
 description: "Write a program to convert weeks to hours."
 ---
 
+## Table of contents
+
 ## Write a program to convert weeks to hours
 
 1 week = 7 days = 168 hours
@@ -48,6 +50,8 @@ Output : 840
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert weeks to hours
@@ -68,6 +72,8 @@ void main()
     printf("\nTotal hours is  : %d\n", total_hours);
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to convert weeks to hours
@@ -90,6 +96,8 @@ class VolumeaOfCuboid
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to convert weeks to hours
 
@@ -111,6 +119,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert weeks to hours
 
@@ -126,6 +136,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert weeks to hours
 
@@ -135,6 +147,8 @@ main = do
  putStrLn "Sum of two numbers is:"
  print (total_hrs)
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert weeks to hours
@@ -156,6 +170,8 @@ func main(){
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to convert weeks to hours
 
@@ -168,6 +184,8 @@ main = do
    let hours = weeks * 168
    putStrLn $ show (hours)
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert weeks to hours
@@ -190,6 +208,8 @@ public class ConvertWeeksToHours {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert weeks to hours
 
@@ -199,6 +219,8 @@ let totalHrs = num_of_weeks * 168;
 
 console.log(`Total hrs in ${num_of_weeks} weeks is ${totalHrs}`);
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to convert weeks to hours
@@ -218,6 +240,8 @@ total_hrs = num_of_weeks * 168
 
 println("Total hrs :", total_hrs)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert weeks to hours
@@ -242,6 +266,8 @@ private fun ConvertWeeksToHours(wk: Int): Int {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert weeks to hours
 
@@ -249,6 +275,8 @@ my $weeks = <STDIN>;
 $hours = $weeks * 168;
 print "hours: $hours"
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert weeks to hours
@@ -261,11 +289,15 @@ print "hours: $hours"
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert weeks to hours
 
 print("Hours:", 168 * int(input("Weeks: ")))
 ```
+
+### R
 
 ```r
 # Write a R program to convert weeks to hours
@@ -275,6 +307,8 @@ hours = weeks * 168
 cat("hours: ", hours)
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert weeks to hours
 
@@ -283,6 +317,8 @@ weeks = gets.chomp.to_i
 hours = weeks * 168
 print "Hours : #{hours}"
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to convert weeks to hours
@@ -295,6 +331,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert weeks to hours
 
@@ -305,6 +343,8 @@ print("Enter weeks: ")
 var weeks = Int(readLine()!)!
 print("Hours: ", weeks * 168)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert weeks to hours

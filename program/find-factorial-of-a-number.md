@@ -38,6 +38,8 @@ trackId: 3193
 description: "Write a program to find factorial of a number."
 ---
 
+## Table of contents
+
 ## Write a program to find factorial of a number
 
 Factorial of N = N _(N-1)_ (N-2) _..._ 1
@@ -48,6 +50,8 @@ Output : 120
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find factorial of a number
@@ -65,6 +69,8 @@ int main(){
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find factorial of a number
@@ -84,6 +90,8 @@ using System;
      }
   }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find factorial of a number
@@ -115,6 +123,8 @@ Author : Kartikeya Saini
 */
 ```
 
+### Go
+
 ```go
 // Write a Go program to find factorial of a number
 
@@ -137,12 +147,16 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find factorial of a number
 
 fact n = product [1..n]
 main = print (fact 5)
 ```
+
+### Java
 
 ```java
 // Write a Java program to find factorial of a number
@@ -169,6 +183,8 @@ public class FindFactorialOfANumber {
 // Contributed by Raghav Garg (@grraghav120)
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find factorial of a number
 
@@ -176,6 +192,8 @@ print("Enter a number : ")
 num = readline()
 println("Factorial of the given number : ",factorial(parse(Int64,num)))
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find factorial of a number
@@ -202,6 +220,8 @@ private fun factorialOfNumber(num: Int): Long {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find factorial of a number
 
@@ -216,6 +236,8 @@ $n=$n-1;
 }
 print "Factorial of given number :  $f\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find factorial of a number
@@ -236,6 +258,8 @@ echo factorial(5);
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find factorial of a number
 
@@ -243,6 +267,8 @@ from math import factorial
 
 print(factorial(int(input())))
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find factorial of a number
@@ -263,6 +289,8 @@ end
 puts findFactorialOfANumber input_number
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to find factorial of a number
 
@@ -280,6 +308,8 @@ object HelloWorld {
   }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find factorial of a number
@@ -303,6 +333,8 @@ func factorial(fNumber: Int) -> Int{
    return output
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find factorial of a number

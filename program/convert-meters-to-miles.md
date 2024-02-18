@@ -47,6 +47,8 @@ trackId: 277
 description: "Write a program to convert meters to miles."
 ---
 
+## Table of contents
+
 ## Write a program to convert meters to miles
 
 1 mile = 1609 meters
@@ -57,6 +59,8 @@ Output : 5
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert meters to miles
@@ -86,6 +90,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert meters to miles
 
@@ -100,6 +106,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert meters to miles
@@ -127,6 +135,8 @@ int ConvertMetersToMiles(float meters)
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert meters to miles
 
@@ -139,6 +149,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert meters to miles
 
@@ -149,6 +161,8 @@ let miles =  meterToMiles 8046.72
 
 printfn "Equivalent miles : %f" miles
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert meters to miles
@@ -167,6 +181,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert meters to miles
 
@@ -182,6 +198,8 @@ public class ConvertMetersToMiles {
 	}
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to convert meters to miles
@@ -200,6 +218,8 @@ console.log("input  : " + userInput);
 console.log("output : " + convertMetersToMiles(userInput));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert meters to miles
 
@@ -209,6 +229,8 @@ meters = parse(Float64, meters)
 miles = round((meters / 1609); digits = 2)
 println(meters, " meters equals ", miles, " miles")
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert meters to miles
@@ -229,6 +251,8 @@ private fun ConvertMetersToMiles(meters: Double): Double {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert meters to miles
 
@@ -240,6 +264,8 @@ my $metre = <STDIN>;
 my $miles = $metre/1609;
 print "Equivalent Miles : ".$miles, "\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert meters to miles
@@ -253,6 +279,8 @@ echo round($miles, 2) . "\n";
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to convert meters to miles
@@ -271,6 +299,8 @@ output_in_miles = metersToMiles(input_in_meters)
 print("Output :", output_in_miles)
 ```
 
+### R
+
 ```r
 # Write a R program to convert meters to miles
 
@@ -286,6 +316,8 @@ outputMiles <- convertMetersToMiles(inputMeters)
 cat("Input:", inputMeters, "meters\n")
 cat("Output:", outputMiles, "miles\n")
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert meters to miles
@@ -303,6 +335,8 @@ meters = gets.chomp.to_f
 miles = convertMetersToMiles(meters)
 puts "Output : #{strip_trailing_zero(miles)}"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert meters to miles
@@ -332,6 +366,8 @@ fn convert_to_miles(meters: f32) -> f32 {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert meters to miles
 
@@ -347,6 +383,8 @@ object metresToMiles {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert meters to miles
 
@@ -357,6 +395,8 @@ print("Enter meters: ")
 var meters = Double(readLine()!)!
 print("Miles: ", meters / 1609.34)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert meters to miles

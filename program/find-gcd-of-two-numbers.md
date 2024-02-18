@@ -38,6 +38,8 @@ trackId: 2860
 description: "Write a program to find gcd of two numbers."
 ---
 
+## Table of contents
+
 ## Write a program to find gcd of two numbers
 
 GCD (Greatest Common Divisor) of two numbers is the largest number that divides both of them. A simple way to find GCD is to factorize both numbers and multiply common factors.
@@ -48,6 +50,8 @@ Output : 6
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find gcd of two numbers
@@ -73,6 +77,8 @@ int main(){
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find gcd of two numbers
@@ -102,6 +108,8 @@ class GCD {
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find gcd of two numbers
 
@@ -127,6 +135,8 @@ int main()
     return 0;
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to find gcd of two numbers
@@ -166,6 +176,8 @@ func gcd(firstNumber int, secondNumber int) int {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to find gcd of two numbers
 
@@ -191,6 +203,8 @@ public class FindGcdOfTwoNumbers
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find gcd of two numbers
 
@@ -209,6 +223,8 @@ let a = 10;
 let b = 5;
 console.log("GCD of ", a, " and ", b, " is ", gcd(a, b));
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find gcd of two numbers
@@ -271,6 +287,8 @@ fun gcdBySteinsAlgorithm(number1: Int, number2: Int): Int {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find gcd of two numbers
 
@@ -285,6 +303,8 @@ sub gcd {
 
 print gcd(12, 18);
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find gcd of two numbers
@@ -307,6 +327,8 @@ echo "GCD of $x and $y is: $gcd";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find gcd of two numbers
 
@@ -324,6 +346,8 @@ y = int(input("n2: "))
 print(f"GCD of {x} and {y} : {findGCD(x,y)}")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find gcd of two numbers
 
@@ -339,6 +363,8 @@ end
 
 findGCDOfTwoNumbers(first_number, second_number)
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find gcd of two numbers
@@ -389,6 +415,8 @@ fn main()
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to find gcd of two numbers
 
@@ -421,6 +449,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find gcd of two numbers
 
@@ -444,6 +474,8 @@ func findGCD(num1: Int, num2: Int) -> Int {
 var result = findGCD(num1:12, num2:18)
 print("GCD: ", result)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find gcd of two numbers

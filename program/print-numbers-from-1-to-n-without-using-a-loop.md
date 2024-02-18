@@ -49,6 +49,8 @@ trackId: 5076
 description: "Write a program to print numbers from 1 to n without using a loop."
 ---
 
+## Table of contents
+
 ## Write a program to print numbers from 1 to n without using a loop
 
 ```
@@ -57,6 +59,8 @@ Output : 1 2 3 4 5
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print numbers from 1 to n without using a loop
@@ -93,6 +97,8 @@ int main()
 */
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to print numbers from 1 to n without using a loop
 
@@ -114,6 +120,8 @@ namespace PrintNumbers{
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to print numbers from 1 to n without using a loop
@@ -144,6 +152,8 @@ Contributed by : Kartikeya Saini
 */
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to print numbers from 1 to n without using a loop
 
@@ -162,6 +172,8 @@ void main() {
   printNumbers(n);
 }
 ```
+
+### F#
 
 ```fsharp
 // Write a F# program to print numbers from 1 to n without using a loop
@@ -182,6 +194,8 @@ let n = int input
 printNumbers n
 ```
 
+### Go
+
 ```go
 // Write a Go program to print numbers from 1 to n without using a loop
 
@@ -201,6 +215,8 @@ func main() {
 	printNumbers(5)
 }
 ```
+
+### Haskell
 
 ```haskell
 -- Write a Haskell program to print numbers from 1 to n without using a loop
@@ -223,6 +239,8 @@ main = do
   printNumbers n
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to print numbers from 1 to n without using a loop
 
@@ -236,6 +254,8 @@ function printNumbers(n) {
 
 printNumbers(5);
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to print numbers from 1 to n without using a loop
@@ -258,6 +278,8 @@ n = 10
 print_numbers_recursive(1, n)
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to print numbers from 1 to n without using a loop
 
@@ -276,6 +298,8 @@ fun printNumber(originalNum: Int, num: Int): Int {
   return printNumber(originalNum, num-1)
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to print numbers from 1 to n without using a loop
@@ -314,6 +338,8 @@ if ($num !~ /^\d+$/ || $num < 1) {
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to print numbers from 1 to n without using a loop
 
@@ -326,6 +352,8 @@ print1ToN(5);
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to print numbers from 1 to n without using a loop
@@ -343,6 +371,8 @@ user_input = int(input("Enter the value for n: "))
 print_numbers(user_input)
 ```
 
+### R
+
 ```r
 # Write a R program to print numbers from 1 to n without using a loop
 
@@ -359,6 +389,8 @@ n <- 5
 printNumbers(n)
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to print numbers from 1 to n without using a loop
 
@@ -371,6 +403,8 @@ end
 
 puts printNumber(5)
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to print numbers from 1 to n without using a loop
@@ -387,6 +421,8 @@ fn main(){
     print_numbers(n);
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to print numbers from 1 to n without using a loop
@@ -408,6 +444,8 @@ object PrintNumbers extends App {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to print numbers from 1 to n without using a loop
 
@@ -425,6 +463,8 @@ func printNumber(original:Int, n: Int) -> Int {
 var num = 15
 var result1 = printNumber(original: num, n: num-1)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print numbers from 1 to n without using a loop

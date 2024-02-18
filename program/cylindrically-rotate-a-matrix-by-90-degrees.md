@@ -43,6 +43,8 @@ trackId: 5444
 description: "Write a program to cylindrically rotate a matrix by 90 degrees."
 ---
 
+## Table of contents
+
 ## Write a program to cylindrically rotate a matrix by 90 degrees
 
 ```
@@ -58,6 +60,8 @@ Output :
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to cylindrically rotate a matrix by 90 degrees
@@ -94,6 +98,8 @@ int main(){
    }
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to cylindrically rotate a matrix by 90 degrees
@@ -144,6 +150,8 @@ public static void Main ()
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to cylindrically rotate a matrix by 90 degrees
 
@@ -171,6 +179,8 @@ int main()
     return 0;
 }
 ```
+
+### Dart
 
 ```dart
 // Write a Dart program to cylindrically rotate a matrix by 90 degrees
@@ -201,6 +211,8 @@ List<List<int>> rotateMatrix90Degrees(List<List<int>> matrix) {
   return result;
 }
 ```
+
+### F#
 
 ```fsharp
 // Write a F# program to cylindrically rotate a matrix by 90 degrees
@@ -239,6 +251,8 @@ for i in 0..(rotatedMatrix.GetLength(0) - 1) do
         printf "%d " rotatedMatrix.[i, j]
     printfn ""
 ```
+
+### Go
 
 ```go
 // Write a Go program to cylindrically rotate a matrix by 90 degrees
@@ -281,6 +295,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to cylindrically rotate a matrix by 90 degrees
 
@@ -307,6 +323,8 @@ class Matrix {
     }
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to cylindrically rotate a matrix by 90 degrees
@@ -342,6 +360,8 @@ console.log("\nRotated matrix:");
 rotate90Clockwise(arr);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to cylindrically rotate a matrix by 90 degrees
 
@@ -374,6 +394,8 @@ end
 #4 5 6
 #1 2 3
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to cylindrically rotate a matrix by 90 degrees
@@ -417,6 +439,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to cylindrically rotate a matrix by 90 degrees
 
@@ -455,6 +479,8 @@ for my $row (@$rotated_matrix_ref) {
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to cylindrically rotate a matrix by 90 degrees
 
@@ -492,6 +518,8 @@ print_r(rotate90Degrees($array));
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to cylindrically rotate a matrix by 90 degrees
 
@@ -511,6 +539,8 @@ arr = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 
 rotate90Degrees(arr)
 ```
+
+### R
 
 ```r
 # Write a R program to cylindrically rotate a matrix by 90 degrees
@@ -544,6 +574,8 @@ cat("\nRotated Matrix:\n")
 print(rotated_matrix)
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to cylindrically rotate a matrix by 90 degrees
 
@@ -558,6 +590,8 @@ end
 
 puts temp_matrix.inspect
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to cylindrically rotate a matrix by 90 degrees
@@ -591,6 +625,8 @@ fn main() {
     }
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to cylindrically rotate a matrix by 90 degrees
@@ -634,6 +670,8 @@ object MatrixRotation {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to cylindrically rotate a matrix by 90 degrees
 
@@ -669,6 +707,8 @@ printMatrix(input)
 print("Output  :")
 printMatrix(rotate90Clockwise(input))
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to cylindrically rotate a matrix by 90 degrees

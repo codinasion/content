@@ -37,6 +37,8 @@ trackId: 2789
 description: "Write a program to find volume of a cube."
 ---
 
+## Table of contents
+
 ## Write a program to find volume of a cube
 
 Volume of cube = `Side`^3
@@ -48,6 +50,8 @@ Volume : 8
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find volume of a cube
@@ -64,6 +68,8 @@ int main(void) {
   return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find volume of a cube
@@ -82,6 +88,8 @@ public class VolumeOfCube
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find volume of a cube
 
@@ -99,6 +107,8 @@ int main(){
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find volume of a cube
 
@@ -112,6 +122,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find volume of a cube
 
@@ -121,6 +133,8 @@ main = do
  putStrLn "Cube of number is : "
  print (cube)
 ```
+
+### Go
 
 ```go
 // Write a Go program to find volume of a cube
@@ -140,6 +154,8 @@ func main() {
         fmt.Printf("The volume is: %0.0f", result)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find volume of a cube
@@ -163,6 +179,8 @@ public class FindVolumeOfCube {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find volume of a cube
 
@@ -172,6 +190,8 @@ function getVolumeOfACube(side) {
 const side = 2;
 console.log(getVolumeOfACube(side));
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to find volume of a cube
@@ -190,6 +210,8 @@ println(cube)
 
 # contributed by Technical Amanjeet
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find volume of a cube
@@ -211,6 +233,8 @@ fun main(args: Array<String>) {
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find volume of a cube
 
@@ -224,11 +248,15 @@ echo $volume . "\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find volume of a cube
 
 print("Volume:", int(input("Side: ")) ** 3)
 ```
+
+### R
 
 ```r
 # Write a R program to find volume of a cube
@@ -240,6 +268,8 @@ findVolumeOfCube <- function(side) {
 print(findVolumeOfCube(2)) # output: 8
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find volume of a cube
 
@@ -248,6 +278,8 @@ side = gets.chomp.to_i
 volume = side**3
 print "The volume of the cube : #{volume}"
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find volume of a cube
@@ -264,6 +296,8 @@ object volumeOfCube {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find volume of a cube
 
@@ -275,6 +309,8 @@ var cubeVolume = cubeSide * cubeSide * cubeSide
 print("Side = ", cubeSide)
 print("So, Volume of the cube= ", cubeVolume)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find volume of a cube

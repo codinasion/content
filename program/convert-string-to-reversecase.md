@@ -48,6 +48,8 @@ trackId: 5163
 description: "Write a program to convert string to reversecase."
 ---
 
+## Table of contents
+
 ## Write a program to convert string to reversecase
 
 Reversecase is a style of writing in which all lowercase letters are converted to uppercase and all uppercase letters are converted to lowercase.
@@ -58,6 +60,8 @@ Output : "HELLO WORLD"
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert string to reversecase
@@ -103,6 +107,8 @@ void ConvertStringToReverseCase(char *str)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert string to reversecase
 
@@ -129,6 +135,8 @@ static public void Main()
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to convert string to reversecase
 
@@ -153,6 +161,8 @@ int main(){
     return 0;
 }
 ```
+
+### Dart
 
 ```dart
 // Write a Dart program to convert string to reversecase
@@ -189,6 +199,8 @@ String reverseCase(String str) {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert string to reversecase
 
@@ -209,6 +221,8 @@ let reversedString = reverseCase inputString
 printfn "%s" reversedString
 ```
 
+### Go
+
 ```go
 // Write a Go program to convert string to reversecase
 
@@ -225,6 +239,8 @@ func main() {
 	fmt.Println(s)
 }
 ```
+
+### Haskell
 
 ```haskell
 -- Write a Haskell program to convert string to reversecase
@@ -244,6 +260,8 @@ main = do
   putStrLn $ "Input: " ++ inputString
   putStrLn $ "Output: " ++ outputString
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert string to reversecase
@@ -270,6 +288,8 @@ class Main
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert string to reversecase
 
@@ -282,6 +302,8 @@ function convertStringToReverseCase(str) {
     .join("");
 }
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to convert string to reversecase
@@ -302,6 +324,8 @@ end
 println("Given string in reversecase: ", reversed)
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to convert string to reversecase
 
@@ -318,6 +342,8 @@ fun String.reverseCaseOfString(): String {
     return output
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to convert string to reversecase
@@ -340,6 +366,8 @@ print "Input: $inputString\n";
 print "Output: $outputString\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to convert string to reversecase
 
@@ -352,12 +380,16 @@ print strtolower($str) ^ strtoupper($str) ^ $str;
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert string to reversecase
 
 string = input("Enter the String:")
 print("Reversecase for the given String : ", string.swapcase())
 ```
+
+### R
 
 ```r
 # Write a R program to convert string to reversecase
@@ -385,6 +417,8 @@ cat("Input String: ", input_str, "\n")
 cat("Output String: ", output_str, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert string to reversecase
 
@@ -394,6 +428,8 @@ end
 
 convertStringToReverseCase "hello world"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert string to reversecase
@@ -411,6 +447,8 @@ fn main(){
     println!("{}", ans);
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to convert string to reversecase
@@ -432,6 +470,8 @@ object ReverseCaseConverter {
   }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to convert string to reversecase
@@ -459,6 +499,8 @@ if let inputString = readLine() {
     print("Error reading input.")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert string to reversecase

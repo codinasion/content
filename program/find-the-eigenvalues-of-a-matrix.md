@@ -48,6 +48,8 @@ trackId: 5575
 description: "Write a program to find the eigenvalues of a matrix."
 ---
 
+## Table of contents
+
 ## Write a program to find the eigenvalues of a matrix
 
 The eigenvalues and eigenvectors of a linear transformation are the values and vectors that determine the transformation. The eigenvalues of a matrix A are the values λ for which the matrix equation Av = λv has a non-trivial solution.
@@ -65,6 +67,8 @@ Output :
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find the eigenvalues of a matrix
@@ -142,6 +146,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find the eigenvalues of a matrix
 
@@ -187,6 +193,8 @@ namespace Eigenvalues
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find the eigenvalues of a matrix
 
@@ -212,6 +220,8 @@ int main()
     findTheEigenValuesOfAMatrix(X);
 }
 ```
+
+### Dart
 
 ```dart
 // Write a Dart program to find the eigenvalues of a matrix
@@ -298,6 +308,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find the eigenvalues of a matrix
 
@@ -327,6 +339,8 @@ let eigenvalues = calculateEigenvalues inputMatrix
 printfn "Eigenvalues:"
 eigenvalues |> List.iter (printfn "%f")
 ```
+
+### Go
 
 ```go
 // Write a Go program to find the eigenvalues of a matrix
@@ -368,6 +382,8 @@ func main() {
 	}
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find the eigenvalues of a matrix
@@ -418,6 +434,8 @@ public class FindTheEigenvaluesOfAMatrix {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find the eigenvalues of a matrix
 
@@ -439,6 +457,8 @@ const eigenvalues = values.map()(round(num, 15));
 console.log(eigenvalues); // Expected: [ 1e-15, -1.116843969807044, 16.116843969807043 ]
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find the eigenvalues of a matrix
 
@@ -447,6 +467,8 @@ arr = [1 2 3; 4 5 6; 7 8 9]
 data = eigen(arr)
 print(data.values)
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find the eigenvalues of a matrix
@@ -474,6 +496,8 @@ foreach $value (@all_values) {
   print "$value\n";
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find the eigenvalues of a matrix
@@ -540,6 +564,8 @@ foreach ($eigenvalues as $eigenvalue) {
     0.9999999999999998 */
 ```
 
+### Python
+
 ```python
 # Write a Python program to find the eigenvalues of a matrix
 
@@ -551,6 +577,8 @@ w, v = np.linalg.eig(arr)
 
 [print(x) for x in np.round(w, decimals=4)]
 ```
+
+### R
 
 ```r
 # Write a R program to find the eigenvalues of a matrix
@@ -565,6 +593,8 @@ eigenvalues <- eigen(A)$values
 print(eigenvalues)
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find the eigenvalues of a matrix
 
@@ -574,6 +604,8 @@ mat1 =  Matrix[[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 
 puts  mat1.eigen()
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find the eigenvalues of a matrix
@@ -604,6 +636,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to find the eigenvalues of a matrix
 
@@ -621,6 +655,8 @@ val eigenvalues = eigen.getRealEigenvalues
 println("Eigenvalues:")
 eigenvalues.foreach(println)
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find the eigenvalues of a matrix
@@ -688,6 +724,8 @@ let matrix = getInput()
 let eigenValues = eigenvalues(ofMatrix: matrix)
 print("Output: \(eigenValues)")
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find the eigenvalues of a matrix

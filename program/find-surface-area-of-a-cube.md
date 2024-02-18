@@ -44,6 +44,8 @@ trackId: 1926
 description: "Write a program to find surface area of a cube."
 ---
 
+## Table of contents
+
 ## Write a program to find surface area of a cube
 
 Surface area of cube = 6 × `Side`^2
@@ -55,6 +57,8 @@ Surface area : 24
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find surface area of a cube
@@ -68,6 +72,8 @@ int main()
     printf("%ld\n", 6 * n * n);
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find surface area of a cube
@@ -89,6 +95,8 @@ class FindSurfaceAreaOfACube
 // output: Surface Area of Cube is: 24
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find surface area of a cube
 
@@ -108,6 +116,8 @@ int main(){
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find surface area of a cube
 
@@ -122,6 +132,8 @@ num findCubeSurfaceArea(int side) {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find surface area of a cube
 
@@ -132,6 +144,8 @@ let area = surfaceAreaOfCube 2
 
 printfn "Surface area of cube : %d" area
 ```
+
+### Go
 
 ```go
 // Write a Go program to find surface area of a cube
@@ -154,6 +168,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find surface area of a cube
 
@@ -166,6 +182,8 @@ main = do
     let surfaceArea = 6 * side * side
     putStrLn $ show (surfaceArea)
 ```
+
+### Java
 
 ```java
 // Write a Java program to find surface area of a cube
@@ -183,6 +201,8 @@ public class Main
 	}
 }
 ```
+
+### JavaScript
 
 ````javascript
 // Write a JavaScript program to find surface area of a cube
@@ -214,6 +234,8 @@ console.log("Surface area of cube of side: 5");
 console.log("That is" + FindSurfaceAreaOfACube(5) + "// 150");
 ````
 
+### Julia
+
 ```julia
 # Write a Julia program to find surface area of a cube
 
@@ -222,6 +244,8 @@ side = parse(Float64, readline(stdin))
 area = 6 * side * side
 println("Surface area of cube: ", area)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find surface area of a cube
@@ -241,6 +265,8 @@ fun main(args: Array<String>) {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find surface area of a cube
 
@@ -248,6 +274,8 @@ my $side = <STDIN>;
 $surfaceArea = 6 * $side * $side;
 print "$surfaceArea"
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find surface area of a cube
@@ -259,6 +287,8 @@ echo("Surface Area: ");
 echo($surfacearea);
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to find surface area of a cube
@@ -272,6 +302,8 @@ print(findSurfaceAreaOfCube(2))
 # output 24
 ```
 
+### R
+
 ```r
 # Write a R program to find surface area of a cube
 
@@ -279,6 +311,8 @@ side = 2
 surfaceArea = 6 * side * side
 cat("Surface Area: ", surfaceArea)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find surface area of a cube
@@ -288,6 +322,8 @@ side = gets.chomp.to_i
 area = 6*side*side
 print "The surface area of cube : #{area}"
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find surface area of a cube
@@ -300,6 +336,8 @@ object HelloWorld {
 	}
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find surface area of a cube
@@ -315,6 +353,8 @@ var cubeArea = 6 * (cubeSide * cubeSide)
 print("Side - ", cubeSide)
 print("So, Area of the cube- ", cubeArea)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find surface area of a cube

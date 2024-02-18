@@ -43,6 +43,8 @@ trackId: 5098
 description: "Write a program to find power of a number."
 ---
 
+## Table of contents
+
 ## Write a program to find power of a number
 
 Power of a number is the result of multiplying a number by itself a certain number of times. For example, 2^3 = 2 _ 2 _ 2 = 8. The number 2 is the base and 3 is the exponent.
@@ -53,6 +55,8 @@ Output : 8
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find power of a number
@@ -97,6 +101,8 @@ int PowerOf(int num, int expo)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find power of a number
 
@@ -113,6 +119,8 @@ namespace FindPowerOfANumber{
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find power of a number
@@ -143,6 +151,8 @@ Author : Kartikeya Saini
 */
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find power of a number
 
@@ -152,6 +162,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find power of a number
 
@@ -159,6 +171,8 @@ let number = 2
 let power = pown number 3
 printfn "%A" power
 ```
+
+### Go
 
 ```go
 // Write a Go program to find power of a number
@@ -180,6 +194,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find power of a number
 
@@ -190,6 +206,8 @@ main = do
    print (show base ++ " raised to the power of " ++ show expo ++ " is:")
    print (base^expo)
 ```
+
+### Java
 
 ```java
 // Write a Java program to find power of a number
@@ -223,6 +241,8 @@ class FindPowerOfANumber {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find power of a number
 
@@ -241,6 +261,8 @@ console.log(powerOfNumber(2, 0));
 console.log(powerOfNumber(2, -3));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find power of a number
 
@@ -250,6 +272,8 @@ print("Enter second number : ")
 b = parse(Int, readline(stdin))
 println("Power of given number: ", a ^ b)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find power of a number
@@ -270,6 +294,8 @@ fun power(base: Int, powerRaised: Int): Int {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find power of a number
 
@@ -282,6 +308,8 @@ print "Enter the power : ";
 my $power = <STDIN>;
 print $number**$power, "\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find power of a number
@@ -305,6 +333,8 @@ echo powerOfNumber(2, 0);
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find power of a number
 
@@ -320,6 +350,8 @@ a, n = list(map(float, input().split()))
 print(round(math.pow(a, n), 3))
 ```
 
+### R
+
 ```r
 # Write a R program to find power of a number
 
@@ -327,6 +359,8 @@ x = 2
 y = 3
 cat("Power of the given number  : ", x**y)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find power of a number
@@ -347,6 +381,8 @@ end
 puts Power.power(2, 3) # => 8
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to find power of a number
 
@@ -362,6 +398,8 @@ fn main() {
     println!("{}^{} = {}", base, exponent, result);
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find power of a number
@@ -379,6 +417,8 @@ object powerOfNumber {
     }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find power of a number
@@ -399,6 +439,8 @@ for val in 1...power {
 
 print("Result: ", result)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find power of a number

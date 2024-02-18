@@ -48,6 +48,8 @@ trackId: 7363
 description: "Write a program to convert fahrenheit to kelvin."
 ---
 
+## Table of contents
+
 ## Write a program to convert fahrenheit to kelvin
 
 (1°F − 32) × 5/9 + 273.15 = 255.928K
@@ -58,6 +60,8 @@ Output : 255.928
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert fahrenheit to kelvin
@@ -80,6 +84,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert fahrenheit to kelvin
 
@@ -96,6 +102,8 @@ class Program {
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert fahrenheit to kelvin
@@ -124,6 +132,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert fahrenheit to kelvin
 
@@ -139,6 +149,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert fahrenheit to kelvin
 
@@ -149,6 +161,8 @@ let kelvin = fahrenheitToKelvin 1.0
 
 printfn "Equivalent value in kelvin : %f" kelvin
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert fahrenheit to kelvin
@@ -167,6 +181,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to convert fahrenheit to kelvin
 
@@ -179,6 +195,8 @@ main = do
     let kelvin = (fahrenheit - 32) * 5/9 + 273.15
     putStrLn $ "Given Fahrenheit in Kelvin: " ++ show(kelvin) ++ " K"
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert fahrenheit to kelvin
@@ -200,6 +218,8 @@ public class ConvertFahrenheitToKelvin {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert fahrenheit to kelvin
 
@@ -207,6 +227,8 @@ const fahrenheit = prompt();
 const kelvin = ((fahrenheit - 32) * 5) / 9 + 273.15;
 console.log(`${kelvin.toFixed(3)}K`);
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to convert fahrenheit to kelvin
@@ -221,6 +243,8 @@ else
     println("Temperature in Kelvin: $kelvin")
 end
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert fahrenheit to kelvin
@@ -241,6 +265,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert fahrenheit to kelvin
 
@@ -252,6 +278,8 @@ my $fahrenheit = <STDIN>;
 my $kelvin = ($fahrenheit - 32.0) * 0.56 + 273.15;
 print $fahrenheit." fahrenheit is ".$kelvin." kelvin", "\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert fahrenheit to kelvin
@@ -271,6 +299,8 @@ $kelvin = fahrenheitToKelvin($fahrenheit);
 echo "The Kelvin equivalent of {$fahrenheit}°F is $kelvin K.\n";
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert fahrenheit to kelvin
 
@@ -288,6 +318,8 @@ if __name__ == "__main__":
     fahrenheit = int(input("Fahrenheit input: "))
     print("Kelvin:", fahrenheit_to_kelvin(fahrenheit))
 ```
+
+### R
 
 ```r
 # Write a R program to convert fahrenheit to kelvin
@@ -308,6 +340,8 @@ if (is.na(fahrenheit)) {
 }
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert fahrenheit to kelvin
 
@@ -317,6 +351,8 @@ fahrenheit_input = gets.chomp.to_f          #Takes input from the user and conve
 kelvin = (fahrenheit_input + 459.67) * 5/9
 puts "Temperature converted: #{kelvin}"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert fahrenheit to kelvin
@@ -344,6 +380,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert fahrenheit to kelvin
 
@@ -358,6 +396,8 @@ object fahrenheitToKelvin {
   }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to convert fahrenheit to kelvin
@@ -375,6 +415,8 @@ if let input = readLine(), let fahrenheit = Double(input) {
     print("Invalid input. Please enter a valid temperature in Fahrenheit.")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert fahrenheit to kelvin

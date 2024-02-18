@@ -42,6 +42,8 @@ trackId: 4060
 description: "Write a program to swap two numbers without using third variable."
 ---
 
+## Table of contents
+
 ## Write a program to swap two numbers without using third variable
 
 ```
@@ -50,6 +52,8 @@ Output : 20 10
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to swap two numbers without using third variable
@@ -75,6 +79,8 @@ int main(void){
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to swap two numbers without using third variable
 
@@ -94,6 +100,8 @@ class GFG {
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to swap two numbers without using third variable
 
@@ -110,6 +118,8 @@ int main()
     return 0;
 }
 ```
+
+### Dart
 
 ```dart
 // Write a Dart program to swap two numbers without using third variable
@@ -135,6 +145,8 @@ void main() {
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to swap two numbers without using third variable
 
@@ -154,6 +166,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to swap two numbers without using third variable
 
@@ -169,6 +183,8 @@ main = do
 swapNumbers :: Int -> Int -> (Int, Int)
 swapNumbers num1 num2 = (num2, num1)
 ```
+
+### Java
 
 ```java
 // Write a Java program to swap two numbers without using third variable
@@ -192,6 +208,8 @@ public class swap {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to swap two numbers without using third variable
 
@@ -208,6 +226,8 @@ a = a - b; //a = 10
 console.log(a); //a is now 20
 console.log(b); //b is now 10
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to swap two numbers without using third variable
@@ -227,6 +247,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to swap two numbers without using third variable
 
@@ -242,6 +264,8 @@ print "\n The value of a and b after swap ";
 print "\n The value of a : $a";
 print "\n The value of b : $b";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to swap two numbers without using third variable
@@ -259,6 +283,8 @@ swapValue(10, 20);
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to swap two numbers without using third variable
 
@@ -266,6 +292,8 @@ n1, n2 = int(input()), int(input())
 n2, n1 = n1, n2
 print(n1, n2)
 ```
+
+### R
 
 ```r
 # Write a R program to swap two numbers without using third variable
@@ -285,6 +313,8 @@ swapNumbers <- function(a, b) {
 swapNumbers(10, 20)
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to swap two numbers without using third variable
 
@@ -297,6 +327,8 @@ end
 
 puts swapTwoNumbersWithoutUsingThirdVariable 10, 20
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to swap two numbers without using third variable
@@ -322,6 +354,8 @@ object Main extends App {
 
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to swap two numbers without using third variable

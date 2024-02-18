@@ -45,6 +45,8 @@ trackId: 2
 description: "Write a program to print hello world."
 ---
 
+## Table of contents
+
 ## Write a program to print hello world
 
 ### Desciption
@@ -54,6 +56,8 @@ Hello World !!!
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print hello world
@@ -65,6 +69,8 @@ void main()
     printf("Hello World \n");
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to print hello world
@@ -80,6 +86,8 @@ namespace HelloWorld
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to print hello world
 
@@ -94,6 +102,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to print hello world
 
@@ -101,6 +111,8 @@ void main() {
   print("Hello, World!");
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to print hello world
@@ -114,6 +126,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to print hello world
 
@@ -121,6 +135,8 @@ module Main where
 
 main = putStrLn "Hello World"
 ```
+
+### Java
 
 ```java
 // Write a Java program to print hello world
@@ -139,17 +155,23 @@ public class PrintHelloWorld {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to print hello world
 
 console.log("Hello World");
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to print hello world
 
 println("Hello World !!!")
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to print hello world
@@ -158,6 +180,8 @@ fun main(){
     println("Hello World");
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to print hello world
@@ -175,6 +199,8 @@ print("Hello World");
 # contribute by technical amanjeet
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to print hello world
 
@@ -183,11 +209,15 @@ echo "Hello World";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to print hello world
 
 print("Hello World")
 ```
+
+### R
 
 ```r
 # Write a R program to print hello world
@@ -195,11 +225,15 @@ print("Hello World")
 print("Hello World !!!")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to print hello world
 
 puts "Hello World !!!"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to print hello world
@@ -211,6 +245,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to print hello world
 
@@ -221,12 +257,16 @@ object printString {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to print hello world
 
 import Foundation
 print("Hello World !!!")
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print hello world

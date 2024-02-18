@@ -39,6 +39,8 @@ trackId: 3750
 description: "Write a program to find minimum of n numbers."
 ---
 
+## Table of contents
+
 ## Write a program to find minimum of n numbers
 
 ```
@@ -47,6 +49,8 @@ Output : 10
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find minimum of n numbers
@@ -68,6 +72,8 @@ int findMinimumOfNNumbers(int* arr, int n)
 	return (min);
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find minimum of n numbers
@@ -96,6 +102,8 @@ public class FindMinimumOfNNumbers {
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find minimum of n numbers
 
@@ -113,6 +121,8 @@ int main(){
     cout<<min;
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to find minimum of n numbers
@@ -133,6 +143,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find minimum of n numbers
 
@@ -142,6 +154,8 @@ minNum (x:x':xs) = minNum ((if x <= x' then x else x'):xs)
 
 main = print (minNum [10, 20, 30, 40, 50])
 ```
+
+### Java
 
 ```java
 // Write a Java program to find minimum of n numbers
@@ -169,6 +183,8 @@ public class FindMinimumOfNNumbers {
   }
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to find minimum of n numbers
@@ -213,6 +229,8 @@ console.log(findMinimumOfNNumbers([10, "20", undefined, 100, NaN]));
 console.log(findMinimumOfNNumbers([10, -20, 50, 99]));
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to find minimum of n numbers
 
@@ -230,6 +248,8 @@ fun findMiniOfNumber(arr: Array<Int>) {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find minimum of n numbers
 
@@ -240,6 +260,8 @@ my @array = sort { $a <=> $b } qw(10 20 30 40 50);
 print "min: $array[0]\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find minimum of n numbers
 
@@ -249,6 +271,8 @@ print "min: $array[0]\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find minimum of n numbers
 
@@ -256,6 +280,8 @@ def find_minimum_of_n_numbers(numbers):
     sorted_nums = sorted(numbers)
     return sorted_nums[0]
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find minimum of n numbers
@@ -270,6 +296,8 @@ end
 
 puts find_minimum_of_n_numbers([300, 50, 10, 2, 20, 34, 45])
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find minimum of n numbers
@@ -287,6 +315,8 @@ fn main() {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find minimum of n numbers
 
@@ -296,6 +326,8 @@ import Foundation
 let numbers = [10, 20, 30, 40, 50]
 print("Minimum number: ", numbers.reduce(Int.max, { min($0, $1) }))
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find minimum of n numbers

@@ -37,6 +37,8 @@ trackId: 2253
 description: "Write a program to find the sum of all numbers in an array."
 ---
 
+## Table of contents
+
 ## Write a program to find the sum of all numbers in an array
 
 ```
@@ -45,6 +47,8 @@ Output : 15
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find the sum of all numbers in an array
@@ -73,6 +77,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find the sum of all numbers in an array
 
@@ -88,6 +94,8 @@ public class SumOfArray
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find the sum of all numbers in an array
@@ -128,6 +136,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find the sum of all numbers in an array
 
@@ -143,6 +153,8 @@ void main() {
   sumOfArray([1,3,4,5,10]);
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to find the sum of all numbers in an array
@@ -163,6 +175,8 @@ func SumOfArray(array []int) int {
 	return sum
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find the sum of all numbers in an array
@@ -190,6 +204,8 @@ public class FindSumOfAllNumbers {
     }
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to find the sum of all numbers in an array
@@ -225,6 +241,8 @@ try {
 }
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to find the sum of all numbers in an array
 
@@ -249,6 +267,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find the sum of all numbers in an array
 
@@ -259,6 +279,8 @@ for my $each (@$array) {
 }
 print $iter_sum;
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find the sum of all numbers in an array
@@ -275,6 +297,8 @@ foreach ($array as $v) {
 echo "Sum of all elements of the array: " ,$result . "\n";
 ```
 
+### Python
+
 ```python
 # Write a Python program to find the sum of all numbers in an array
 
@@ -283,6 +307,8 @@ print(
     sum([int(input()) for _ in range(int(input("How many numbers: ")))]),
 )
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find the sum of all numbers in an array
@@ -295,6 +321,8 @@ end
 
 findTheSumOfAllNumbersInAnArray [1,2,3,4,5]
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find the sum of all numbers in an array

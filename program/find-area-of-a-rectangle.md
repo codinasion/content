@@ -41,6 +41,8 @@ trackId: 2391
 description: "Write a program to find area of a rectangle."
 ---
 
+## Table of contents
+
 ## Write a program to find area of a rectangle
 
 Area of rectangle = `Length` × `Width`
@@ -53,6 +55,8 @@ Area : 6
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find area of a rectangle
@@ -73,6 +77,8 @@ int main(){
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find area of a rectangle
 
@@ -88,6 +94,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find area of a rectangle
@@ -110,6 +118,8 @@ int main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find area of a rectangle
 
@@ -120,6 +130,8 @@ let area = areaOfRectangle 2 3
 
 printfn "Area of rectangle : %d" area
 ```
+
+### Go
 
 ```go
 // Write a Go program to find area of a rectangle
@@ -139,6 +151,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find area of a rectangle
 
@@ -155,6 +169,8 @@ main = do
      let area = length * width
      putStrLn $ show (area)
 ```
+
+### Java
 
 ```java
 // Write a Java program to find area of a rectangle
@@ -179,6 +195,8 @@ public class FindAreaOfARectangle {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find area of a rectangle
 
@@ -187,6 +205,8 @@ function FindAreaOfARectangle(length, width) {
 }
 console.log(FindAreaOfARectangle(2, 3));
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to find area of a rectangle
@@ -198,6 +218,8 @@ width = parse(Float64, readline(stdin))
 area = length * width
 println("Area of rectangle : ", area)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find area of a rectangle
@@ -218,6 +240,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find area of a rectangle
 
@@ -232,6 +256,8 @@ my $area = $length * $width;
 print "Area of rectangle : ".$area, "\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find area of a rectangle
 
@@ -243,6 +269,8 @@ $area = $length * $width;
 
 echo $area;
 ```
+
+### Python
 
 ```python
 # Write a Python program to find area of a rectangle
@@ -258,6 +286,8 @@ area = length * width
 print("Area = ", area)
 ```
 
+### R
+
 ```r
 # Write a R program to find area of a rectangle
 
@@ -266,6 +296,8 @@ width = 3
 area = length * width
 cat("Area: ", area)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find area of a rectangle
@@ -278,6 +310,8 @@ area = l*b
 print "Area : #{area}"
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to find area of a rectangle
 
@@ -288,6 +322,8 @@ fn main() {
 	println!("{}", area);
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find area of a rectangle
@@ -302,6 +338,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find area of a rectangle
 
@@ -314,6 +352,8 @@ var width = 3.0
 var area = length * width
 print("Area of rectangle: ", area)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find area of a rectangle

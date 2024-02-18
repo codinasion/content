@@ -44,6 +44,8 @@ trackId: 331
 description: "Write a program to convert miles to feet."
 ---
 
+## Table of contents
+
 ## Write a program to convert miles to feet
 
 1 mile = 5280 feet
@@ -54,6 +56,8 @@ Output : 26400
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert miles to feet
@@ -68,6 +72,8 @@ int main()
     printf("%d", feet);
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to convert miles to feet
@@ -84,6 +90,8 @@ class MainClass {
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to convert miles to feet
 
@@ -98,6 +106,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert miles to feet
 
@@ -110,6 +120,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert miles to feet
 
@@ -120,6 +132,8 @@ let feet =  milesToFeet 5
 
 printfn "Equivalent feet : %d" feet
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert miles to feet
@@ -137,6 +151,8 @@ func main() {
 	fmt.Println("Feet:", miles * 5280)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert miles to feet
@@ -160,6 +176,8 @@ public class ConvertMilesToFeet {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert miles to feet
 
@@ -176,6 +194,8 @@ console.log("Input  : " + miles);
 console.log("Output : " + milesToFeet(miles));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert miles to feet
 
@@ -189,6 +209,8 @@ miles = 5
 feet = miles_to_feet(miles)
 println("$miles miles = $feet feet")
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert miles to feet
@@ -209,6 +231,8 @@ private fun ConvertMilesToFeet(miles: Double): Double {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert miles to feet
 
@@ -220,6 +244,8 @@ my $miles = <STDIN>;
 my $feet =  $miles * 5280;
 print $miles." miles is ".$feet." feet", "\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert miles to feet
@@ -239,6 +265,8 @@ print $miles." miles is ".$feet." feet", "\n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert miles to feet
 
@@ -255,6 +283,8 @@ print(f"Input  : {miles}")
 print(f"Output : {feet}")
 ```
 
+### R
+
 ```r
 # Write a R program to convert miles to feet
 
@@ -270,6 +300,8 @@ feet <- miles_to_feet(miles)
 cat(paste(miles, "miles is equal to", feet, "feet"))
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert miles to feet
 
@@ -278,6 +310,8 @@ miles = gets.chomp.to_i
 feet = miles * 5280
 print "Feet : #{feet}"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert miles to feet
@@ -296,6 +330,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert miles to feet
 
@@ -311,6 +347,8 @@ object milesToFeet {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert miles to feet
 
@@ -321,6 +359,8 @@ print("Enter miles: ")
 var miles = Double(readLine()!)!
 print("Feet: ", miles * 5280)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert miles to feet

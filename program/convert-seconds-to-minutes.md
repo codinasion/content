@@ -45,6 +45,8 @@ trackId: 352
 description: "Write a program to convert seconds to minutes."
 ---
 
+## Table of contents
+
 ## Write a program to convert seconds to minutes
 
 1 minute = 60 seconds
@@ -55,6 +57,8 @@ Output : 5
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert seconds to minutes
@@ -89,6 +93,8 @@ int ConvertSecondsToMinutes(int seconds)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert seconds to minutes
 
@@ -103,6 +109,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert seconds to minutes
@@ -131,6 +139,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert seconds to minutes
 
@@ -143,6 +153,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert seconds to minutes
 
@@ -153,6 +165,8 @@ let minutes =  secondsToMinutes 300
 
 printfn "Equivalent minutes : %d" minutes
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert seconds to minutes
@@ -177,6 +191,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert seconds to minutes
 
@@ -198,6 +214,8 @@ public class ConvertSecondsToMinutes {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert seconds to minutes
 
@@ -214,6 +232,8 @@ console.log("Input: 300");
 console.log("Output:", secondsToMinutes(300));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert seconds to minutes
 
@@ -223,6 +243,8 @@ seconds = parse(Int, seconds)
 minutes = round((seconds / 60); digits = 2)
 println(seconds, " seconds equals ", minutes, " minutes")
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert seconds to minutes
@@ -236,6 +258,8 @@ fun main(args: Array<String>)
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert seconds to minutes
 
@@ -247,6 +271,8 @@ my $seconds = <STDIN>;
 my $minutes =  $seconds / 60;
 print $seconds." seconds is ".$minutes." minutes", "\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert seconds to minutes
@@ -267,6 +293,8 @@ print $seconds." seconds is ".$minutes." minutes", "\n";
 	print_r(convert_seconds_to_minutes("Hello"));   // null or empty
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert seconds to minutes
 
@@ -277,6 +305,8 @@ def convert_seconds_to_minutes(sec):
 seconds = int(input("Input : "))
 print("Output :", convert_seconds_to_minutes(seconds))
 ```
+
+### R
 
 ```r
 # Write a R program to convert seconds to minutes
@@ -303,6 +333,8 @@ result <- convert_seconds_to_minutes(seconds_input)
 cat("Converted minutes:", result, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert seconds to minutes
 
@@ -311,6 +343,8 @@ seconds = gets.chomp.to_i
 minutes = seconds / 60
 print "Minutes : #{minutes}"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert seconds to minutes
@@ -339,6 +373,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert seconds to minutes
 
@@ -354,6 +390,8 @@ object secondsToMinutes {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert seconds to minutes
 
@@ -364,6 +402,8 @@ print("Enter seconds: ")
 var seconds = Int(readLine()!)!
 print("Minutes: ", seconds / 60)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert seconds to minutes

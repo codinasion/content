@@ -34,6 +34,8 @@ trackId: 5133
 description: "Write a program to move all zeroes to end of array."
 ---
 
+## Table of contents
+
 ## Write a program to move all zeroes to end of array
 
 ```
@@ -45,6 +47,8 @@ Output : arr[] = {1, 2, 3, 6, 0, 0, 0};
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to move all zeroes to end of array
@@ -86,6 +90,8 @@ int main() {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to move all zeroes to end of array
 
@@ -124,6 +130,8 @@ class MoveZeros {
 	}
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to move all zeroes to end of array
@@ -180,6 +188,8 @@ int main() {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to move all zeroes to end of array
 
@@ -214,6 +224,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to move all zeroes to end of array
 
@@ -242,6 +254,8 @@ moveZeroesToEnd arr2
 printfn "Output: %A" arr2
 ```
 
+### Go
+
 ```go
 // Write a Go program to move all zeroes to end of array
 
@@ -266,6 +280,8 @@ func main() {
 	fmt.Println(arr)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to move all zeroes to end of array
@@ -334,6 +350,8 @@ public class MoveAllZeroesToEndOfArray {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to move all zeroes to end of array
 
@@ -362,6 +380,8 @@ console.log(moveZeroesToEnd(arr1)); // Output: [1, 2, 4, 3, 5, 0, 0, 0]
 let arr2 = [1, 2, 0, 0, 0, 3, 6];
 console.log(moveZeroesToEnd(arr2)); // Output: [1, 2, 3, 6, 0, 0, 0]
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to move all zeroes to end of array
@@ -398,6 +418,8 @@ print_r($resultArray);
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to move all zeroes to end of array
 
@@ -409,6 +431,8 @@ if __name__ == '__main__':
     arr = [1, 2, 0, 4, 3, 0, 5, 0]
     print(zeroes_to_end(arr))
 ```
+
+### R
 
 ```r
 # Write a R program to move all zeroes to end of array
@@ -441,6 +465,8 @@ result2 <- moveZeroesToEnd(arr2)
 cat("Input  : arr[] =", arr2, "\n")
 cat("Output : arr[] =", result2, "\n")
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to move all zeroes to end of array

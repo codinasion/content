@@ -46,6 +46,8 @@ trackId: 1981
 description: "Write a program to check palindrome number."
 ---
 
+## Table of contents
+
 ## Write a program to check palindrome number
 
 Palindrome numbers are the numbers for which reverse is exactly same as the original number. For example, 121 is palindrome, but 123 is not palindrome.
@@ -56,6 +58,8 @@ Output : Palindrome Number
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to check palindrome number
@@ -88,6 +92,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to check palindrome number
 
@@ -114,6 +120,8 @@ using System;
   }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to check palindrome number
 
@@ -136,6 +144,8 @@ int main()
 //Contributed by Raghav Garg
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to check palindrome number
 
@@ -152,6 +162,8 @@ bool isNumberPalindrome(int num) {
     return false;
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to check palindrome number
@@ -188,6 +200,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to check palindrome number
 
@@ -220,6 +234,8 @@ public class CheckPalindromeNumber {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to check palindrome number
 
@@ -237,6 +253,8 @@ function checkPalindromeNumber(num) {
 }
 console.log(checkPalindromeNumber(190));
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to check palindrome number
@@ -262,6 +280,8 @@ else
 end
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to check palindrome number
 
@@ -284,6 +304,8 @@ private fun checkPalindrome(num: String): Boolean {
     return true
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to check palindrome number
@@ -314,6 +336,8 @@ else {
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to check palindrome number
 
@@ -327,12 +351,16 @@ function check_palindrome_number($num)
 echo check_palindrome_number(121) ? 'Palindrome String' : 'Not Palindrome String';
 ```
 
+### Python
+
 ```python
 # Write a Python program to check palindrome number
 
 number = input("Input:")
 print("Palindrome Number" if number == number[::-1] else "Not Palindrome Number")
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to check palindrome number
@@ -355,6 +383,8 @@ else
     puts "The #{temp} is not a palindrome"
 end
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to check palindrome number
@@ -382,6 +412,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to check palindrome number
 
@@ -402,6 +434,8 @@ object HelloWorld {
  }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to check palindrome number
@@ -427,6 +461,8 @@ else
 
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to check palindrome number

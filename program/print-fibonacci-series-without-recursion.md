@@ -40,6 +40,8 @@ trackId: 2109
 description: "Write a program to print fibonacci series without recursion."
 ---
 
+## Table of contents
+
 ## Write a program to print fibonacci series without recursion
 
 ```
@@ -48,6 +50,8 @@ Output : 0 1 1 2 3
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to print fibonacci series without recursion
@@ -69,6 +73,8 @@ int main() {
   return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to print fibonacci series without recursion
@@ -92,6 +98,8 @@ using System;
       }
    }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to print fibonacci series without recursion
@@ -130,6 +138,8 @@ int main()
 // 0 1 1 2 3
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to print fibonacci series without recursion
 
@@ -149,6 +159,8 @@ void printFibonacciSeries(int n) {
   }
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to print fibonacci series without recursion
@@ -179,6 +191,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to print fibonacci series without recursion
 
@@ -203,6 +217,8 @@ class PrintFibonacciSeriesWithoutRecursion {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to print fibonacci series without recursion
 
@@ -222,6 +238,8 @@ console.log("Number : ", number);
 console.log("Output : ", fibonacci(number));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to print fibonacci series without recursion
 
@@ -238,6 +256,8 @@ while itr < pos
     global itr += 1
 end
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to print fibonacci series without recursion
@@ -263,6 +283,8 @@ function fibonacci($length) {
 echo fibonacci(5);
 ```
 
+### Python
+
 ```python
 # Write a Python program to print fibonacci series without recursion
 
@@ -278,6 +300,8 @@ while terms - 2:
     print(t, end=" ")
     terms = terms - 1
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to print fibonacci series without recursion
@@ -297,6 +321,8 @@ end
 
 puts printFibonacciSeriesWithoutRecursion(input_number)
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to print fibonacci series without recursion
@@ -328,6 +354,8 @@ for j in 0...val{
    print(output)
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to print fibonacci series without recursion

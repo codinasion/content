@@ -32,6 +32,8 @@ trackId: 5165
 description: "Write a program to find the largest three elements in an array."
 ---
 
+## Table of contents
+
 ## Write a program to find the largest three elements in an array
 
 ```
@@ -43,6 +45,8 @@ Output : 100, 90, 50
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find the largest three elements in an array
@@ -104,6 +108,8 @@ int main()
 
 /* Cautiously Crafted By Redzwinger */
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find the largest three elements in an array
@@ -167,6 +173,8 @@ int main()
 /* Cautiously Crafted By Redzwinger */
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find the largest three elements in an array
 
@@ -206,6 +214,8 @@ List<int> findLargestThreeElements(List<int> arr) {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find the largest three elements in an array
 
@@ -216,6 +226,8 @@ let sort = List.sortDescending input
 for i = 0 to 2 do
     printfn "%d" sort.[i]
 ```
+
+### Go
 
 ```go
 // Write a Go program to find the largest three elements in an array
@@ -241,6 +253,8 @@ func largestThreeElements(arr []int) []int {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find the largest three elements in an array
 
@@ -255,6 +269,8 @@ function largestThreeElements(arr) {
 
 console.log(largestThreeElements([10, 4, 3, 50, 23, 90]));
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find the largest three elements in an array
@@ -284,6 +300,8 @@ fun main() {
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find the largest three elements in an array
 
@@ -299,6 +317,8 @@ echo $input[0].",".$input[1].",".$input[2];
 }
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to find the largest three elements in an array
@@ -329,6 +349,8 @@ if __name__ == '__main__':
       main()
 ```
 
+### R
+
 ```r
 # Write a R program to find the largest three elements in an array
 
@@ -354,6 +376,8 @@ TheBigThree(ARay2)
 
 # Cautiously Crafted By Redzwinger #
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find the largest three elements in an array
@@ -383,6 +407,8 @@ fn main() {
     }
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find the largest three elements in an array

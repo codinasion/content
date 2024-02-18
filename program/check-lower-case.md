@@ -43,6 +43,8 @@ trackId: 4334
 description: "Write a program to check lower case."
 ---
 
+## Table of contents
+
 ## Write a program to check lower case
 
 Check if given character is lower case (a-z).
@@ -53,6 +55,8 @@ Output : Lower Case
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to check lower case
@@ -92,6 +96,8 @@ int IsLowerCase(char character)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to check lower case
 
@@ -112,6 +118,8 @@ namespace StringCheck
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to check lower case
@@ -140,6 +148,8 @@ int main(){
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to check lower case
 
@@ -157,6 +167,8 @@ void main() {
   checkLower("s");
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to check lower case
@@ -179,6 +191,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to check lower case
 
@@ -199,6 +213,8 @@ public class CheckLowerCase {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to check lower case
 
@@ -215,6 +231,8 @@ function checkLowerCase(str) {
 checkLowerCase("a");
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to check lower case
 
@@ -225,6 +243,8 @@ else
   println("Not a Lower Case")
 end
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to check lower case
@@ -248,6 +268,8 @@ fun main(args: Array<String>) {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to check lower case
 
@@ -258,6 +280,8 @@ if ($str eq lc $str) {
   print "UPPER CASE\n";
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to check lower case
@@ -272,6 +296,8 @@ echo checkLowerCase('a');
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to check lower case
@@ -293,6 +319,8 @@ else:
     print("Not a valid string")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to check lower case
 
@@ -305,6 +333,8 @@ end
 
 checkLowerCase user_input
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to check lower case
@@ -331,6 +361,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to check lower case
 
@@ -346,6 +378,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to check lower case
 
@@ -358,6 +392,8 @@ print("a is lowercase: ", x.isLowercase)
 var y: Character = "K"
 print("K is lowercase: ", y.isLowercase)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to check lower case

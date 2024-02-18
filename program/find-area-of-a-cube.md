@@ -40,6 +40,8 @@ trackId: 3258
 description: "Write a program to find area of a cube."
 ---
 
+## Table of contents
+
 ## Write a program to find area of a cube
 
 Area of cube = 6 × `Side`^2
@@ -51,6 +53,8 @@ Area : 24
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find area of a cube
@@ -66,6 +70,8 @@ int main(){
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find area of a cube
 
@@ -79,6 +85,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find area of a cube
@@ -106,6 +114,8 @@ Author : Kartikeya Saini
 */
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find area of a cube
 
@@ -118,6 +128,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find area of a cube
 
@@ -128,6 +140,8 @@ let area = areaOfCube 2
 
 printfn "Area of cube : %d" area
 ```
+
+### Go
 
 ```go
 // Write a Go program to find area of a cube
@@ -145,6 +159,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find area of a cube
 
@@ -157,6 +173,8 @@ main = do
     let area = 6 * side * side
     putStrLn $ show (area)
 ```
+
+### Java
 
 ```java
 // Write a Java program to find area of a cube
@@ -172,6 +190,8 @@ public class FindAreaofACube{
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find area of a cube
 
@@ -184,6 +204,8 @@ let area = areaOfCube();
 console.log("The area of the cube is " + area);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find area of a cube
 
@@ -192,6 +214,8 @@ side = parse(Float64, readline(stdin))
 cube = 6 * side * side
 println("Surface area of cone: ", cube)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find area of a cube
@@ -203,6 +227,8 @@ class FindAreaOfACube {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find area of a cube
 
@@ -210,6 +236,8 @@ my $side = <STDIN>;
 $area = 6 * $side * $side;
 print "$area"
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find area of a cube
@@ -221,6 +249,8 @@ print "$area"
   echo "Area of Cube: $x1 \n";
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to find area of a cube
@@ -234,6 +264,8 @@ area = 6 * side * side
 print("Area = ", area)
 ```
 
+### R
+
 ```r
 # Write a R program to find area of a cube
 
@@ -241,6 +273,8 @@ side = 2
 area = 6* side * side
 cat("Area: ", area)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find area of a cube
@@ -252,6 +286,8 @@ area = 6 * side * side
 print "area : #{area}"
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to find area of a cube
 
@@ -262,6 +298,8 @@ fn main() {
     println!("Area of cube is {0}", area as f32);
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find area of a cube
@@ -275,6 +313,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find area of a cube
 
@@ -286,6 +326,8 @@ var side = 2.0
 var area = 6 * side * side
 print("Area of cube: ", area)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find area of a cube

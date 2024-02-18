@@ -39,6 +39,8 @@ trackId: 1260
 description: "Write a program to check pangram string."
 ---
 
+## Table of contents
+
 ## Write a program to check pangram string
 
 A pangram is a sentence containing every letter in the English Alphabet.
@@ -49,6 +51,8 @@ Output : Pangram sentence
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to check pangram string
@@ -109,6 +113,8 @@ int isPangram(char *str)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to check pangram string
 
@@ -147,6 +153,8 @@ class Pangram {
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to check pangram string
@@ -193,6 +201,8 @@ bool IsPangram(string str)
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to check pangram string
 
@@ -206,6 +216,8 @@ void main() {
   print(isPangram("The quick brown fox jumps over the lazy dog"));
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to check pangram string
@@ -238,6 +250,8 @@ func main() {
 	}
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to check pangram string
@@ -272,6 +286,8 @@ public class CheckPangramString {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to check pangram string
 
@@ -294,6 +310,8 @@ function checkPangramString(string) {
 }
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to check pangram string
 
@@ -312,6 +330,8 @@ else
  println("Not a Pangram")
 end
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to check pangram string
@@ -336,6 +356,8 @@ private fun CheckPangramString(statement: String): Boolean {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to check pangram string
 
@@ -351,6 +373,8 @@ if(length($string) == 26){
     print 'Not a Pangram Sentence';
 }
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to check pangram string
@@ -373,6 +397,8 @@ echo isPangram('The quick brown fox jumps over the lazy dog');
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to check pangram string
 
@@ -392,6 +418,8 @@ else:
     print("Not pangram sentence")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to check pangram string
 
@@ -404,6 +432,8 @@ def pangram (string)
    end
 end
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to check pangram string
@@ -425,6 +455,8 @@ func CheckPangram(str: String) -> Bool {
 let str1 = "The quick brown fox jumps over the lazy dog"
 print("'\(str1)' is pangram?:", CheckPangram(str: str1))
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to check pangram string

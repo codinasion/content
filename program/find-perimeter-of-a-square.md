@@ -47,6 +47,8 @@ trackId: 4239
 description: "Write a program to find perimeter of a square."
 ---
 
+## Table of contents
+
 ## Write a program to find perimeter of a square
 
 Perimeter of square = 4 × `Side`
@@ -58,6 +60,8 @@ Perimeter : 8
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find perimeter of a square
@@ -105,6 +109,8 @@ float calc_peri(float side)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find perimeter of a square
 
@@ -118,6 +124,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find perimeter of a square
@@ -143,6 +151,8 @@ int main(){
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find perimeter of a square
 
@@ -154,6 +164,8 @@ void main(){
   print('Perimeter of square : $perimeter');
 }
 ```
+
+### F#
 
 ```fsharp
 // Write a F# program to find perimeter of a square
@@ -167,6 +179,8 @@ let perimeter = perimeterOfSquare side
 
 printfn "Perimeter of square : %d" perimeter
 ```
+
+### Go
 
 ```go
 // Write a Go program to find perimeter of a square
@@ -183,6 +197,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find perimeter of a square
 
@@ -195,6 +211,8 @@ main = do
      let perimeter = 4 * side
      putStrLn $ show (perimeter)
 ```
+
+### Java
 
 ```java
 // Write a Java program to find perimeter of a square
@@ -214,6 +232,8 @@ public class FindPerimeterOfASquare
 // Contributed by Raghav Garg (@grraghav120)
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find perimeter of a square
 
@@ -225,6 +245,8 @@ function perimeterOfSquare(sides) {
 perimeterOfSquare(2);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find perimeter of a square
 
@@ -233,6 +255,8 @@ side = parse(Float64, readline(stdin))
 perimeter = 4 * side
 println("Perimeter of square: ", perimeter)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find perimeter of a square
@@ -259,6 +283,8 @@ private fun FindPerimeterOfASquare(side: Double): Double {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find perimeter of a square
 
@@ -266,6 +292,8 @@ my $side = <STDIN>;
 $perimeter = 4 * $side;
 print "perimeter: $perimeter"
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find perimeter of a square
@@ -279,6 +307,8 @@ echo "Perimeter: $x1 \n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find perimeter of a square
 
@@ -291,12 +321,16 @@ if __name__ == "__main__":
     print("Perimeter of square:", perimeter_of_square(n))
 ```
 
+### R
+
 ```r
 # Write a R program to find perimeter of a square
 
 side = 2
 cat("Perimeter of square  : ", 4 * side)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find perimeter of a square
@@ -313,6 +347,8 @@ if $PROGRAM_NAME == __FILE__
   puts "Perimeter : #{find_perimeter_of_a_square(side)}"
 end
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find perimeter of a square
@@ -344,6 +380,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to find perimeter of a square
 
@@ -351,6 +389,8 @@ def findPerimeterOfASquare (side : Int) : Int = {
     side * 4
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find perimeter of a square
@@ -363,6 +403,8 @@ var side = 2
 var perimeter = 4 * side
 print("Perimeter: ", perimeter)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find perimeter of a square

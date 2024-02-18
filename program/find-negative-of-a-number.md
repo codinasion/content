@@ -38,6 +38,8 @@ trackId: 1810
 description: "Write a program to find negative of a number."
 ---
 
+## Table of contents
+
 ## Write a program to find negative of a number
 
 ```
@@ -46,6 +48,8 @@ Output : -5
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find negative of a number
@@ -60,6 +64,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find negative of a number
 
@@ -73,6 +79,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find negative of a number
@@ -90,6 +98,8 @@ int main()
 //Contributed by Raghav Garg
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find negative of a number
 
@@ -100,6 +110,8 @@ let result =  negativeOfNumber 5
 
 printfn "Negative of given number : -%d" result
 ```
+
+### Go
 
 ```go
 // Write a Go program to find negative of a number
@@ -115,6 +127,8 @@ func main() {
 	fmt.Println(ans)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find negative of a number
@@ -136,6 +150,8 @@ public class FindNegativeOfANumber {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find negative of a number
 
@@ -147,6 +163,8 @@ const inverse = findNegativeOfANumber(5);
 console.log(inverse);
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find negative of a number
 
@@ -157,6 +175,8 @@ print "Enter a number : ";
 my $num = <STDIN>;
 print "Negative Number : -".$num, "\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find negative of a number
@@ -170,6 +190,8 @@ $line = fgets($fin);
 printf("Output: %d\n", -intval($line));
 ```
 
+### Python
+
 ```python
 # Write a Python program to find negative of a number
 
@@ -182,6 +204,8 @@ if __name__ == "__main__":
     print("Negative of", n, "is", negative(int(n)))
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find negative of a number
 
@@ -190,6 +214,8 @@ num = gets.chomp.to_i
 num =num*-1
 print "Negative : #{num}"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find negative of a number
@@ -204,6 +230,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to find negative of a number
 
@@ -216,6 +244,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find negative of a number
 
@@ -226,6 +256,8 @@ var n = 5
 var negativeN = -1 * 5
 print("negative of 5 : ", negativeN)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find negative of a number

@@ -46,6 +46,8 @@ trackId: 6908
 description: "Write a program to find weekend days from number of years."
 ---
 
+## Table of contents
+
 ## Write a program to find weekend days from number of years
 
 Weekend means Saturday & Sunday together. In total, we have 52 weeks in a year. So there are 52 weekends in a year. So, in normal we have 104 Weekend Days.
@@ -56,6 +58,8 @@ Output : 104
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find weekend days from number of years
@@ -88,6 +92,8 @@ int main(void)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find weekend days from number of years
 
@@ -102,6 +108,8 @@ class MainClass {
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find weekend days from number of years
 
@@ -115,6 +123,8 @@ int year;
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find weekend days from number of years
 
@@ -127,6 +137,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find weekend days from number of years
 
@@ -136,6 +148,8 @@ let findWeekendDays (years: int) =
 
 findWeekendDays 1 // replace 1 with any number of years you want to calculate for
 ```
+
+### Go
 
 ```go
 // Write a Go program to find weekend days from number of years
@@ -157,6 +171,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find weekend days from number of years
 
@@ -168,6 +184,8 @@ main = do
 
 totalWeekends n = n * 104
 ```
+
+### Java
 
 ```java
 // Write a Java program to find weekend days from number of years
@@ -192,6 +210,8 @@ public class FindWeekendDaysFromNumberOfYears{
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find weekend days from number of years
 
@@ -214,6 +234,8 @@ function weekendsInYear(year) {
 weekendsInYear(1);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find weekend days from number of years
 
@@ -234,6 +256,8 @@ println("There are $(weekend_days) weekend days in $(num_years) years.")
 #To account for leap years, the function calculates the number of Sundays that occurred during those years. We can do this by dividing the number of years by 4 and taking the floor of the result, since there is an extra day (February 29th) in a leap year.
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to find weekend days from number of years
 
@@ -242,6 +266,8 @@ fun getWeekendDays(years: Int): Int {
     return years * numOfWeekendsInAYear
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find weekend days from number of years
@@ -255,6 +281,8 @@ my $weekend = $num * 104;
 print "Weekend days : ".$weekend, "\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find weekend days from number of years
 
@@ -267,6 +295,8 @@ function weekendDays($year){
 echo weekendDays(2)
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to find weekend days from number of years
@@ -290,6 +320,8 @@ weekend_days = count_weekend_days(years)
 print(f"Number of weekend days in {years} years: {weekend_days}")
 ```
 
+### R
+
 ```r
 # Write a R program to find weekend days from number of years
 
@@ -297,6 +329,8 @@ years = 1
 weekendDays = years * 104;
 cat("Weekend days: ", weekendDays)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find weekend days from number of years
@@ -312,6 +346,8 @@ if $PROGRAM_NAME == __FILE__
   puts "#{year} year has #{weekendDays(year)} weekends"
 end
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find weekend days from number of years
@@ -333,6 +369,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to find weekend days from number of years
 
@@ -347,6 +385,8 @@ object weekendDays {
   }
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find weekend days from number of years
@@ -386,6 +426,8 @@ let numberOfYears = 1
 let totalWeekendDays = countWeekendDays(inYears: numberOfYears)
 print("Total weekend days in \(numberOfYears) years: \(totalWeekendDays)")
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find weekend days from number of years

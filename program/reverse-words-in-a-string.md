@@ -36,6 +36,8 @@ trackId: 4997
 description: "Write a program to reverse words in a string."
 ---
 
+## Table of contents
+
 ## Write a program to reverse words in a string
 
 ```
@@ -44,6 +46,8 @@ Output : "World Hello"
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to reverse words in a string
@@ -107,6 +111,8 @@ int main() {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to reverse words in a string
 
@@ -138,6 +144,8 @@ class Program
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to reverse words in a string
@@ -187,6 +195,8 @@ int main() {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to reverse words in a string
 
@@ -213,6 +223,8 @@ String reverseWords(String input) {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to reverse words in a string
 
@@ -232,6 +244,8 @@ printfn "Output: %s" outputString
 //and then joins them back into a string with spaces.
 //The example usage demonstrates reversing the words in the input string "Hello World".
 ```
+
+### Go
 
 ```go
 // Write a Go program to reverse words in a string
@@ -264,6 +278,8 @@ func main() {
 	fmt.Println(reversedResult)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to reverse words in a string
@@ -308,6 +324,8 @@ class ReverseWordsInAString {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to reverse words in a string
 
@@ -324,6 +342,8 @@ function reverseString(str) {
 
 console.log("String reverse:", reverseString(string));
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to reverse words in a string
@@ -342,6 +362,8 @@ fun reverseWordsInAString(words : String) : String {
     return words.split(" ").reversed().joinToString(" ")
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to reverse words in a string
@@ -370,6 +392,8 @@ my $output_string = reverse_words($input_string);
 print "Input  : \"$input_string\"\n";
 print "Output : \"$output_string\"\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to reverse words in a string
@@ -402,6 +426,8 @@ else{
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to reverse words in a string
 
@@ -424,6 +450,8 @@ if __name__ == "__main__":
     print(result)
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to reverse words in a string
 
@@ -442,6 +470,8 @@ object ReverseWordsInAString {
   }
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to reverse words in a string

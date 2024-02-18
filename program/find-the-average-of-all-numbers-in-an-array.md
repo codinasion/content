@@ -45,6 +45,8 @@ trackId: 4908
 description: "Write a program to find the average of all numbers in an array."
 ---
 
+## Table of contents
+
 ## Write a program to find the average of all numbers in an array
 
 ```
@@ -53,6 +55,8 @@ Output : 3
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find the average of all numbers in an array
@@ -82,6 +86,8 @@ int main() {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find the average of all numbers in an array
 
@@ -95,6 +101,8 @@ class Average {
    }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find the average of all numbers in an array
@@ -150,6 +158,8 @@ int FindTheAverageOfAllNumbersInAnArray(std::vector<int> arr)
 /****************************************************************************/
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find the average of all numbers in an array
 
@@ -167,6 +177,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find the average of all numbers in an array
 
@@ -179,6 +191,8 @@ let avg aList =
 let res = avg [ 1.; 2.; 3.; 4.; 5. ]
 printfn "Average : %A" res
 ```
+
+### Go
 
 ```go
 // Write a Go program to find the average of all numbers in an array
@@ -199,6 +213,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find the average of all numbers in an array
 
@@ -215,6 +231,8 @@ main = do
   putStrLn $ "Input Array: " ++ show inputNumbers
   putStrLn $ "Average: " ++ show (average inputNumbers)
 ```
+
+### Java
 
 ```java
 // Write a Java program to find the average of all numbers in an array
@@ -234,6 +252,8 @@ public class FindTheAverageOfAllNumbersInAnArray {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find the average of all numbers in an array
 
@@ -243,6 +263,8 @@ const averageOfNumbers = arr => {
 
 console.log(averageOfNumbers([1, 2, 3, 4, 5]));
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find the average of all numbers in an array
@@ -255,6 +277,8 @@ fun main() {
     println("The average is:$average")
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find the average of all numbers in an array
@@ -271,6 +295,8 @@ return $sum/@array;
 print average(@dataArray);
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find the average of all numbers in an array
 
@@ -284,6 +310,8 @@ echo averageOfArray([1,2,3,4,5])
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to find the average of all numbers in an array
@@ -307,6 +335,8 @@ res = listAverage(arr, n)
 print("The average of all the elements in the list is:", res)
 ```
 
+### R
+
 ```r
 # Write a R program to find the average of all numbers in an array
 
@@ -322,6 +352,8 @@ average <- calculate_average(numbers)
 cat("The average is:", average, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find the average of all numbers in an array
 
@@ -332,6 +364,8 @@ end
 
 findTheAverageOfAllNumbersInAnArray [1,2,3,4,5]
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find the average of all numbers in an array
@@ -350,6 +384,8 @@ fn main(){
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to find the average of all numbers in an array
 
@@ -366,6 +402,8 @@ object arrayAverage {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find the average of all numbers in an array
 
@@ -376,6 +414,8 @@ let numbers = [1, 2, 3, 4, 5]
 var average = Double(numbers.reduce(0, +))/Double(numbers.count)
 print("Average: ", average)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find the average of all numbers in an array

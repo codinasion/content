@@ -37,6 +37,8 @@ trackId: 3221
 description: "Write a program to convert string to camelcase."
 ---
 
+## Table of contents
+
 ## Write a program to convert string to camelcase
 
 Camelcase is a style of writing in which the first letter of each word is capitalized except the first word.
@@ -47,6 +49,8 @@ Output : "helloWorld"
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert string to camelcase
@@ -85,6 +89,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert string to camelcase
 
@@ -122,6 +128,8 @@ class CamelCase
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to convert string to camelcase
 
@@ -146,6 +154,8 @@ int main(){
     return 0;
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert string to camelcase
@@ -178,6 +188,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to convert string to camelcase
 
@@ -202,6 +214,8 @@ public class ConvertStringToCamelCase {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert string to camelcase
 
@@ -217,6 +231,8 @@ function convertStringToCamelCase(str) {
 console.log(convertStringToCamelCase("hello world"));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert string to camelcase
 
@@ -231,6 +247,8 @@ end
 
 println("Given string in camelcase: ", s)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert string to camelcase
@@ -261,6 +279,8 @@ private fun CamelCase(args: List<String>): String {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert string to camelcase
 
@@ -270,6 +290,8 @@ $_ = lc;
 s/(?<=[^\W_]) +([^\W_])|_+/\U$1/g;
 print;
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to convert string to camelcase
@@ -288,6 +310,8 @@ echo stringToCamelCase('hello world');
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to convert string to camelcase
 
@@ -300,6 +324,8 @@ a = sub("r[_|-]", " ", a).title().replace(" ", "")
 print("".join([a[0].lower(), a[1:]]))
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to convert string to camelcase
 
@@ -309,6 +335,8 @@ result = user_input.split(' ').map(&:capitalize).join
 result[0] = result[0].downcase
 puts result
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert string to camelcase

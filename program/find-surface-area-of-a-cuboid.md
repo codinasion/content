@@ -45,6 +45,8 @@ trackId: 4453
 description: "Write a program to find surface area of a cuboid."
 ---
 
+## Table of contents
+
 ## Write a program to find surface area of a cuboid
 
 Surface area of cuboid = 2 × (`Length` × `Width` + `Length` × `Height` + `Width` × `Height`)
@@ -58,6 +60,8 @@ Surface area : 52
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find surface area of a cuboid
@@ -80,6 +84,8 @@ int main()
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find surface area of a cuboid
 
@@ -97,6 +103,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find surface area of a cuboid
@@ -124,6 +132,8 @@ int main() {
 // Author: Tanishq Singh (tanishqsingh.com)
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find surface area of a cuboid
 
@@ -140,6 +150,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find surface area of a cuboid
 
@@ -150,6 +162,8 @@ let cuboid = surfaceAreaOfCuboid 2 3 4
 
 printfn "Surface area of cuboid: %d" cuboid
 ```
+
+### Go
 
 ```go
 // Write a Go program to find surface area of a cuboid
@@ -178,6 +192,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find surface area of a cuboid
 
@@ -198,6 +214,8 @@ main = do
     let surfaceArea = 2 * (length * width + length * height + width * height)
     putStrLn $ show (surfaceArea)
 ```
+
+### Java
 
 ```java
 // Write a Java program to find surface area of a cuboid
@@ -226,6 +244,8 @@ public class FindSurfaceAreaOfACuboid {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find surface area of a cuboid
 
@@ -239,6 +259,8 @@ let height = 4;
 console.log(surfaceArea(length, width, height));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find surface area of a cuboid
 
@@ -251,6 +273,8 @@ height = parse(Float64, readline(stdin))
 area = 2 * (length * width + length * height + width * height)
 println("Surface area of cuboid: ", area)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find surface area of a cuboid
@@ -272,6 +296,8 @@ fun main() {
     println("Surface Area of Sphere of Cuboid :$surfaceAreaofCuboid")
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find surface area of a cuboid
@@ -296,6 +322,8 @@ sub surfaceArea
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find surface area of a cuboid
 
@@ -316,6 +344,8 @@ echo "Surface Area of Cuboid: " .round($surfaceArea, 2). "\n";
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to find surface area of a cuboid
@@ -339,6 +369,8 @@ def find_surface_area(length, breadth, height):
 find_surface_area(length, breadth, height)
 ```
 
+### R
+
 ```r
 # Write a R program to find surface area of a cuboid
 
@@ -348,6 +380,8 @@ height = 4
 surfaceArea = 2 * (length * width + length * height + width * height)
 cat("surfaceArea: ", surfaceArea)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find surface area of a cuboid
@@ -380,6 +414,8 @@ Height : 4
 Surface area : 52
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to find surface area of a cuboid
 
@@ -392,6 +428,8 @@ fn main() {
     println!("Surface area of cuboid is {0}", surfaceArea as f32);
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find surface area of a cuboid
@@ -412,6 +450,8 @@ object surfaceAreaOfCuboid {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find surface area of a cuboid
 
@@ -425,6 +465,8 @@ var height = 4.0
 var surfaceArea = 2.0 * (length * width + length * height + width * height)
 print("Surface area of cuboid: ", surfaceArea)
 ```
+
+### TypeScript
 
 ````typescript
 // Write a TypeScript program to find surface area of a cuboid

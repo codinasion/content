@@ -45,6 +45,8 @@ trackId: 1712
 description: "Write a program to swap two numbers."
 ---
 
+## Table of contents
+
 ## Write a program to swap two numbers
 
 ```
@@ -53,6 +55,8 @@ Output : 20 10
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to swap two numbers
@@ -90,6 +94,8 @@ void SwapTwoNumbers(int *num1,int *num2)
 /* contributed by osher harari*/
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to swap two numbers
 
@@ -114,6 +120,8 @@ public class SwapNumbers
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to swap two numbers
 
@@ -132,6 +140,8 @@ int main()
 
 //Contributed by Raghav Garg
 ```
+
+### Dart
 
 ```dart
 // Write a Dart program to swap two numbers
@@ -152,6 +162,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to swap two numbers
 
@@ -165,6 +177,8 @@ let swap (left : 'a byref) (right : 'a byref) =
 swap (&a) (&b)
 printfn "a: %i ; b: %i" a b
 ```
+
+### Go
 
 ```go
 // Write a Go program to swap two numbers
@@ -184,6 +198,8 @@ func main() {
 	fmt.Println(n2)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to swap two numbers
@@ -206,6 +222,8 @@ class Swap_With {
     }
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to swap two numbers
@@ -233,6 +251,8 @@ console.log(
 );
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to swap two numbers
 
@@ -248,6 +268,8 @@ println("First number : ", num1)
 println("Second number : ", num2)
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to swap two numbers
 
@@ -260,6 +282,8 @@ fun main() {
     println(secondVar) // prints 10
   }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to swap two numbers
@@ -278,6 +302,8 @@ print "\n The value of a : $a \n";
 print "\n The value of b : $b \n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to swap two numbers
 
@@ -295,6 +321,8 @@ print "\n The value of b : $b \n";
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to swap two numbers
 
@@ -304,6 +332,8 @@ a, b = b, a
 print(a)
 print(b)
 ```
+
+### R
 
 ```r
 # Write a R program to swap two numbers
@@ -330,6 +360,8 @@ result <- swap_numbers(num1, num2)
 cat("Swapped numbers: First number =", result$a, ", Second number =", result$b, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to swap two numbers
 
@@ -342,6 +374,8 @@ end
 
 puts swapTwoNumbers 10, 20
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to swap two numbers
@@ -359,6 +393,8 @@ object Main extends App {
     println("After Swapping a = " +a+ " b =" +b)
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to swap two numbers
@@ -380,6 +416,8 @@ n2 = temp
 print("\nNumber 1 after swapping:", n1)
 print("Number 2 after swapping:", n2)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to swap two numbers

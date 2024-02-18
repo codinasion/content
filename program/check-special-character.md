@@ -35,6 +35,8 @@ trackId: 2961
 description: "Write a program to check special character."
 ---
 
+## Table of contents
+
 ## Write a program to check special character
 
 Check if given character is a special character (not a letter or a number).
@@ -45,6 +47,8 @@ Output : Special Character
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to check special character
@@ -67,6 +71,8 @@ int main()
 	return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to check special character
@@ -105,6 +111,8 @@ onlySpecialchars(str);
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to check special character
 
@@ -127,6 +135,8 @@ int main()
 	return 0;
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to check special character
@@ -156,6 +166,8 @@ public class SpecialChar {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to check special character
 
@@ -168,6 +180,8 @@ function checkSpecialCharacter(char) {
 const callFun = checkSpecialCharacter("*");
 console.log(callFun);
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to check special character
@@ -193,6 +207,8 @@ fun main(args: Array<String>) {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to check special character
 
@@ -207,6 +223,8 @@ if ($char =~ /[^a-zA-Z0-9]/) {
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to check special character
 
@@ -219,6 +237,8 @@ if ($char =~ /[^a-zA-Z0-9]/) {
   }
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to check special character
@@ -241,6 +261,8 @@ if __name__ == "__main__":
     run(user)
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to check special character
 
@@ -255,6 +277,8 @@ object HelloWorld {
 	}
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to check special character
@@ -273,6 +297,8 @@ if givenCharacter.rangeOfCharacter(from: characterset.inverted) != nil {
   print("Not a Special Character")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to check special character

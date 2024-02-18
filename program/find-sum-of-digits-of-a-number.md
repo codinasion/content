@@ -49,6 +49,8 @@ trackId: 5402
 description: "Write a program to find sum of digits of a number."
 ---
 
+## Table of contents
+
 ## Write a program to find sum of digits of a number
 
 Suppose you have a number `n` and you want to find the sum of its digits. For example, if `n = 123`, then the sum of its digits is `1 + 2 + 3 = 6`.
@@ -59,6 +61,8 @@ Output : 6
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find sum of digits of a number
@@ -83,6 +87,8 @@ int main() {
 	return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find sum of digits of a number
@@ -112,6 +118,8 @@ namespace SumOfDigits
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to find sum of digits of a number
 
@@ -139,6 +147,8 @@ Contributed by : Kartikeya Saini
 */
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find sum of digits of a number
 
@@ -159,6 +169,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find sum of digits of a number
 
@@ -177,6 +189,8 @@ let number = 123
 let result = sumOfDigits number
 printfn "%d" result
 ```
+
+### Go
 
 ```go
 // Write a Go program to find sum of digits of a number
@@ -197,6 +211,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to find sum of digits of a number
 
@@ -212,6 +228,8 @@ sumOfDigitOfANumber str = sum $ stringToIntList str
 stringToIntList :: String -> [Int]
 stringToIntList = map (\c -> read [c] :: Int)
 ```
+
+### Java
 
 ```java
 // Write a Java program to find sum of digits of a number
@@ -235,6 +253,8 @@ public class FindSumOfDigitsOfANumber {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find sum of digits of a number
 
@@ -252,6 +272,8 @@ function sumOfDigits(number) {
   return sum;
 }
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to find sum of digits of a number
@@ -278,6 +300,8 @@ catch e
 end
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to find sum of digits of a number
 
@@ -297,6 +321,8 @@ fun sumOfNumberDigits(n: Int){
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find sum of digits of a number
 
@@ -310,6 +336,8 @@ $n=$n/10;
 }
 print"Sum is $s\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find sum of digits of a number
@@ -332,6 +360,8 @@ echo sumOfDigits(123);
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to find sum of digits of a number
 
@@ -352,6 +382,8 @@ print(find_sum_of_digits_of_a_number(123))
 # print(sumOfDigits(123))
 ```
 
+### R
+
 ```r
 # Write a R program to find sum of digits of a number
 
@@ -370,6 +402,8 @@ print(sum_of_digits(123)) ## Correct Answer: 6
 print(sum_of_digits(456)) ## Correct Answer: 15
 print(sum_of_digits(179)) ## Correct Answer: 17
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find sum of digits of a number
@@ -390,6 +424,8 @@ result = sumOfDigits(number, 0);
 print "Sum of given digits : ",result;
 ```
 
+### Rust
+
 ```rust
 // Write a Rust program to find sum of digits of a number
 
@@ -402,6 +438,8 @@ fn sum_of_digits(mut n: u32) -> u32 {
     sum
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find sum of digits of a number
@@ -422,6 +460,8 @@ object sum_digit {
 	}
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find sum of digits of a number
@@ -448,6 +488,8 @@ else {                                  //Print error if the input is invalid
     print("Please enter a valid input!")
 }
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find sum of digits of a number

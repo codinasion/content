@@ -36,6 +36,8 @@ trackId: 673
 description: "Write a program to find maximum of n numbers."
 ---
 
+## Table of contents
+
 ## Write a program to find maximum of n numbers
 
 ```
@@ -44,6 +46,8 @@ Output : 50
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find maximum of n numbers
@@ -74,6 +78,8 @@ int findMaximumOfNNumbers(int n[], int len)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find maximum of n numbers
 
@@ -90,6 +96,8 @@ int findMaximumOfNNumbers(int n[], int len)
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find maximum of n numbers
@@ -128,6 +136,8 @@ int main()
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to find maximum of n numbers
 
@@ -146,6 +156,8 @@ func main() {
 	fmt.Println(max_num)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find maximum of n numbers
@@ -178,6 +190,8 @@ public class Largest_Number
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find maximum of n numbers
 
@@ -192,6 +206,8 @@ const getMaximum = (...nums) => {
 };
 ```
 
+### Kotlin
+
 ```kotlin
 // Write a Kotlin program to find maximum of n numbers
 
@@ -203,6 +219,8 @@ fun main() {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find maximum of n numbers
 
@@ -212,6 +230,8 @@ use List::Util qw(max);
 say max( 10, 20, 30, 40, 50);
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to find maximum of n numbers
 
@@ -219,6 +239,8 @@ say max( 10, 20, 30, 40, 50);
 echo(max(10, 20, 30, 40, 50));
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to find maximum of n numbers
@@ -228,6 +250,8 @@ print(
     max([int(input()) for _ in range(int(input("How many numbers: ")))]),
 )
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to find maximum of n numbers
@@ -239,6 +263,8 @@ end
 puts findMaximumOfNumbers(10, 20, 30, 40, 50)
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find maximum of n numbers
 
@@ -248,6 +274,8 @@ import Foundation
 let numbers = [10, 20, 30, 40, 50]
 print("Maximum number: ", numbers.reduce(Int.min, { max($0, $1) }))
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find maximum of n numbers

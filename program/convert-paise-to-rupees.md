@@ -40,6 +40,8 @@ trackId: 814
 description: "Write a program to convert paise to rupees."
 ---
 
+## Table of contents
+
 ## Write a program to convert paise to rupees
 
 ```
@@ -48,6 +50,8 @@ Output ( Rs ) : 1
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert paise to rupees
@@ -63,6 +67,8 @@ int main() {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert paise to rupees
 
@@ -77,6 +83,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert paise to rupees
@@ -96,6 +104,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert paise to rupees
 
@@ -108,6 +118,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert paise to rupees
 
@@ -118,6 +130,8 @@ let rupees =  paisaToRupees 100
 
 printfn "Equivalent rupees : %d" rupees
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert paise to rupees
@@ -133,6 +147,8 @@ func main() {
 	fmt.Println(rupee)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert paise to rupees
@@ -155,6 +171,8 @@ class ConvertPaiseToRupees {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert paise to rupees
 
@@ -169,6 +187,8 @@ function paiseToRupees(num) {
 console.log("Paise to Rupees", paiseToRupees(100) + " Rupees");
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert paise to rupees
 
@@ -177,6 +197,8 @@ paisa = parse(Float64, readline(stdin))
 rupees =  paisa / 100
 println("Equivalent Rupees: ", rupees)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert paise to rupees
@@ -197,6 +219,8 @@ private fun ConvertPaiseToRupees(paise: Double): Double {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert paise to rupees
 
@@ -209,6 +233,8 @@ my $rupees = $paise / 100;
 print $paise." paise are ".$rupees." rupees\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to convert paise to rupees
 
@@ -219,6 +245,8 @@ print $paise." paise are ".$rupees." rupees\n";
   echo "Rupees: $x1 \n";
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to convert paise to rupees
@@ -235,6 +263,8 @@ print("Input  ( Ps ) :", paise)
 print("Output ( Rs ) :", to_rupee(paise))
 ```
 
+### R
+
 ```r
 # Write a R program to convert paise to rupees
 
@@ -242,6 +272,8 @@ paisa = 100
 rupees = paisa / 100
 cat("Rupees: ", rupees)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert paise to rupees
@@ -258,6 +290,8 @@ if $PROGRAM_NAME == __FILE__
 end
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert paise to rupees
 
@@ -273,6 +307,8 @@ object paisaToRupees {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to convert paise to rupees
 
@@ -283,6 +319,8 @@ print("Enter paise: ")
 var paise = Double(readLine()!)!
 print("Rupees: ", paise / 100)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to convert paise to rupees

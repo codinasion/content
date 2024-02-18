@@ -34,6 +34,8 @@ trackId: 4166
 description: "Write a program to find the maximum sum of a contiguous subarray."
 ---
 
+## Table of contents
+
 ## Write a program to find the maximum sum of a contiguous subarray
 
 Maximum subarray problem is the task of finding the contiguous subarray within a one-dimensional array of numbers which has the largest sum. For example, for the sequence of values `−2, 1, −3, 4, −1, 2, 1, −5, 4;` the contiguous subarray with the largest sum is `4, −1, 2, 1,` with sum `6`.
@@ -44,6 +46,8 @@ Output : 7
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find the maximum sum of a contiguous subarray
@@ -73,6 +77,8 @@ int main()
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find the maximum sum of a contiguous subarray
@@ -109,6 +115,8 @@ class Contiguous
 
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find the maximum sum of a contiguous subarray
@@ -153,6 +161,8 @@ int main() {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find the maximum sum of a contiguous subarray
 
@@ -171,6 +181,8 @@ void main() {
   maxsumSubarray([1 , -1 , -2 , 3 , 5 ,1]);
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to find the maximum sum of a contiguous subarray
@@ -201,6 +213,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to find the maximum sum of a contiguous subarray
 
@@ -228,6 +242,8 @@ public class FindTheMaximumSumOfAContiguousSubarray {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find the maximum sum of a contiguous subarray
 
@@ -241,6 +257,8 @@ function getTheHighstSumInArr(arr) {
   return maxSum;
 }
 ```
+
+### Python
 
 ```python
 # Write a Python program to find the maximum sum of a contiguous subarray
@@ -256,6 +274,8 @@ for i in range(len(arr)):
 
 print(mx)
 ```
+
+### R
 
 ```r
 # Write a R program to find the maximum sum of a contiguous subarray

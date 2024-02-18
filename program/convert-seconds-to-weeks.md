@@ -43,6 +43,8 @@ trackId: 3620
 description: "Write a program to convert seconds to weeks."
 ---
 
+## Table of contents
+
 ## Write a program to convert seconds to weeks
 
 1 week = 7 days = 168 hours = 10080 minutes = 604800 seconds
@@ -53,6 +55,8 @@ Output : 5
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to convert seconds to weeks
@@ -78,6 +82,8 @@ int ConvertSecondsToWeeks(int seconds)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to convert seconds to weeks
 
@@ -91,6 +97,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to convert seconds to weeks
@@ -113,6 +121,8 @@ int main() {
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to convert seconds to weeks
 
@@ -125,6 +135,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to convert seconds to weeks
 
@@ -135,6 +147,8 @@ let weeks = secondsToWeeks 3024000
 
 printfn "Equivalent weeks : %d" weeks
 ```
+
+### Go
 
 ```go
 // Write a Go program to convert seconds to weeks
@@ -155,6 +169,8 @@ func main() {
 }
 ```
 
+### Haskell
+
 ```haskell
 -- Write a Haskell program to convert seconds to weeks
 
@@ -167,6 +183,8 @@ main = do
    let weeks = seconds / 604800
    putStrLn $ show (weeks)
 ```
+
+### Java
 
 ```java
 // Write a Java program to convert seconds to weeks
@@ -189,6 +207,8 @@ public class ConvertSecondsToWeeks {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to convert seconds to weeks
 
@@ -206,6 +226,8 @@ const convertSecondsToWeeks = seconds => {
 console.log(convertSecondsToWeeks(3024000));
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to convert seconds to weeks
 
@@ -216,6 +238,8 @@ weeks = round(seconds / 604800)
 weeks = convert(Int, weeks)
 println(seconds, " seconds equals ", weeks, " complete weeks")
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to convert seconds to weeks
@@ -242,6 +266,8 @@ private fun ConvertSecondsToWeeks(sec: Int): Int {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to convert seconds to weeks
 
@@ -254,6 +280,8 @@ my $weeks = $seconds / 604800;
 print $seconds." seconds is ".$weeks." weeks", "\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to convert seconds to weeks
 
@@ -265,6 +293,8 @@ echo "Weeks: $x1 \n";
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to convert seconds to weeks
@@ -283,6 +313,8 @@ def convertSecondsToWeeks(seconds):
 print(convertSecondsToWeeks(3024000))
 ```
 
+### R
+
 ```r
 # Write a R program to convert seconds to weeks
 
@@ -290,6 +322,8 @@ seconds = 3024000
 weeks = seconds / 604800
 cat("weeks: ", weeks)
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to convert seconds to weeks
@@ -299,6 +333,8 @@ seconds = gets.chomp.to_i
 weeks = seconds / 604800
 print "Days : #{weeks}"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to convert seconds to weeks
@@ -326,6 +362,8 @@ fn main() {
 }
 ```
 
+### Scala
+
 ```scala
 // Write a Scala program to convert seconds to weeks
 
@@ -336,6 +374,8 @@ object HelloWorld {
 	}
 }
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to convert seconds to weeks
@@ -348,6 +388,8 @@ var seconds = 3024000
 var weeks = seconds / 604800
 print("Weeks: ", weeks)
 ```
+
+### TypeScript
 
 ````typescript
 // Write a TypeScript program to convert seconds to weeks

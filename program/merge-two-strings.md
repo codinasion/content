@@ -44,6 +44,8 @@ trackId: 5423
 description: "Write a program to merge two strings."
 ---
 
+## Table of contents
+
 ## Write a program to merge two strings
 
 ```
@@ -52,6 +54,8 @@ Output : ABCDEF
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to merge two strings
@@ -70,6 +74,8 @@ int main() {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to merge two strings
 
@@ -85,6 +91,8 @@ class Program
     }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to merge two strings
@@ -108,6 +116,8 @@ Contributed by : Kartikeya Saini
 */
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to merge two strings
 
@@ -120,6 +130,8 @@ void main() {
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to merge two strings
 
@@ -130,6 +142,8 @@ let mergeStrings str1 str2 =
 let merged = mergeStrings "ABC" "DEF"
 printfn "%s" merged // Outputs "ABCDEF"
 ```
+
+### Go
 
 ```go
 // Write a Go program to merge two strings
@@ -153,6 +167,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to merge two strings
 
@@ -170,6 +186,8 @@ public class MergeTwoStrings {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to merge two strings
 
@@ -179,6 +197,8 @@ function mergeStrings(str1, str2) {
 
 console.log(mergeStrings("ABC", "DEF"));
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to merge two strings
@@ -190,6 +210,8 @@ s2 = readline()
 s = s1 * s2
 print("Merged String : "*s)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to merge two strings
@@ -205,6 +227,8 @@ fun main(args: Array<String>) {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to merge two strings
 
@@ -215,6 +239,8 @@ $merge = $str1.$str2;
 
 print $merge;
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to merge two strings
@@ -229,6 +255,8 @@ echo mergeStrings('ABC', 'DEF');
 
 ?>
 ```
+
+### Python
 
 ```python
 # Write a Python program to merge two strings
@@ -246,6 +274,8 @@ def mergeString(str1: str, str2: str) -> str:
 print("Merged String : ", mergeString(string1, string2))
 ```
 
+### R
+
 ```r
 # Write a R program to merge two strings
 
@@ -253,6 +283,8 @@ string1 = 'ABC'
 string2 = 'DEF'
 cat("Merged String : ", paste(string1, string2))
 ```
+
+### Ruby
 
 ```ruby
 # Write a Ruby program to merge two strings
@@ -263,6 +295,8 @@ end
 
 mergeStrings('ABC', 'DEF')
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to merge two strings
@@ -278,6 +312,8 @@ fn main() {
     println!("{}", merge_two_strings("ABC", "DEF"));
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to merge two strings
@@ -296,6 +332,8 @@ object mergeStrings {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to merge two strings
 
@@ -310,6 +348,8 @@ var string2 = readLine()!
 
 print(string1 + string2)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to merge two strings

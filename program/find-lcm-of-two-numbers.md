@@ -41,6 +41,8 @@ trackId: 1208
 description: "Write a program to find lcm of two numbers."
 ---
 
+## Table of contents
+
 ## Write a program to find lcm of two numbers
 
 LCM (Least Common Multiple) of two numbers is the smallest number which can be divided by both numbers. For example, the LCM of 15 and 20 is 60 and LCM of 10 and 15 is 30.
@@ -51,6 +53,8 @@ Output : 36
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find lcm of two numbers
@@ -76,6 +80,8 @@ int main(){
 
 //Contributed by Raghav Garg
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to find lcm of two numbers
@@ -107,6 +113,8 @@ public class Exercise45
  }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find lcm of two numbers
@@ -166,6 +174,8 @@ int main()
 }
 ```
 
+### Go
+
 ```go
 // Write a Go program to find lcm of two numbers
 
@@ -192,6 +202,8 @@ func main(){
     fmt.Print("Output : ",lcm)
 }
 ```
+
+### Java
 
 ```java
 // Write a Java program to find lcm of two numbers
@@ -225,6 +237,8 @@ public class findlcmoftwonumbers {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to find lcm of two numbers
 
@@ -246,6 +260,8 @@ const n2 = 18;
 console.log("Inputs  :", n1, n2);
 console.log("Output :", FindLcmOfTwoNumbers(n1, n2));
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find lcm of two numbers
@@ -270,6 +286,8 @@ fun main(args: Array<String>) {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to find lcm of two numbers
 
@@ -293,6 +311,8 @@ my $b = <STDIN>;
 my $result = findLcm($a, $b);
 print "LCM of $a and $b is $result\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find lcm of two numbers
@@ -319,6 +339,8 @@ function find_lcm_of_two_numbers($n1, $n2)
 echo find_lcm_of_two_numbers(12, 18);
 ```
 
+### Python
+
 ```python
 # Write a Python program to find lcm of two numbers
 
@@ -342,6 +364,8 @@ x = int(input("n1: "))
 y = int(input("n2: "))
 print(f"LCM of {x} and {y} : {findLCM(x,y)}")
 ```
+
+### R
 
 ```r
 # Write a R program to find lcm of two numbers
@@ -369,6 +393,8 @@ lcmResult <- lcm(number1, number2)
 cat("LCM of", number1, "and", number2, "is", lcmResult, "\n")
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find lcm of two numbers
 
@@ -378,6 +404,8 @@ end
 
 findLCMOfTwoNumbers 12, 18
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find lcm of two numbers
@@ -399,6 +427,8 @@ def findLcm(number1: Int, number2: Int): Int = {
 
 print(findLcm(10, 12))
 ```
+
+### Swift
 
 ```swift
 // Write a Swift program to find lcm of two numbers
@@ -433,6 +463,8 @@ func findLCM(n1: Int, n2: Int)->Int{
 var result = findLCM(n1: 12, n2:18)
 print("LCM of 12 and 18 is ",result)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find lcm of two numbers

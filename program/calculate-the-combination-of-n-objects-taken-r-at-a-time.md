@@ -27,6 +27,8 @@ trackId: 2659
 description: "Write a program to calculate the combination of n objects taken r at a time."
 ---
 
+## Table of contents
+
 ## Write a program to calculate the combination of n objects taken r at a time
 
 Combination is a selection of objects from a group such that (unlike permutations) the order of selection does not matter. The number of combinations on n objects taken r at a time is given by the formula n!/(r!(n-r)!) = n(n-1)(n-2)...(n-r+1)/r!
@@ -37,6 +39,8 @@ Output : 10
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to calculate the combination of n objects taken r at a time
@@ -60,6 +64,8 @@ int main()
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to calculate the combination of n objects taken r at a time
@@ -99,6 +105,8 @@ public class combinationOfNObjectsTakenRAtATime
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to calculate the combination of n objects taken r at a time
 
@@ -123,6 +131,8 @@ int main()
 
 // Contributed by Raghav Garg @grraghav120
 ```
+
+### Go
 
 ```go
 // Write a Go program to calculate the combination of n objects taken r at a time
@@ -152,6 +162,8 @@ func calculateFactorial(n int) int {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to calculate the combination of n objects taken r at a time
 
@@ -172,6 +184,8 @@ class CalculateTheCombinationOfNObjectsTakenRAtATime {
     }
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to calculate the combination of n objects taken r at a time
@@ -201,6 +215,8 @@ function combination(n, r) {
 console.log(combination(5, 2));
 ```
 
+### Python
+
 ```python
 # Write a Python program to calculate the combination of n objects taken r at a time
 
@@ -219,6 +235,8 @@ n = 5
 r = 2
 print(int(nCr(n, r)))
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to calculate the combination of n objects taken r at a time

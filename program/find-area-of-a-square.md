@@ -42,6 +42,8 @@ trackId: 432
 description: "Write a program to find area of a square."
 ---
 
+## Table of contents
+
 ## Write a program to find area of a square
 
 Area of square = `Side`^2
@@ -53,6 +55,8 @@ Area : 4
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to find area of a square
@@ -71,6 +75,8 @@ int main(void){
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to find area of a square
 
@@ -84,6 +90,8 @@ class MainClass {
   }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to find area of a square
@@ -111,6 +119,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to find area of a square
 
@@ -123,6 +133,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to find area of a square
 
@@ -132,6 +144,8 @@ let areaOfSquare side : int =
 let area = areaOfSquare 2
 printfn "Area of Square : %d" area
 ```
+
+### Go
 
 ```go
 // Write a Go program to find area of a square
@@ -150,6 +164,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to find area of a square
 
@@ -166,6 +182,8 @@ class area_of_a_square
     }
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to find area of a square
@@ -185,6 +203,8 @@ console.log(`Input: side = ${side}`);
 console.log(`Output: ${findAreaOfASquare(side)}`);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to find area of a square
 
@@ -193,6 +213,8 @@ side = parse(Float64, readline(stdin))
 area = side * side
 println("Area of square : ", area)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to find area of a square
@@ -203,6 +225,8 @@ class FindAreaOfASquare {
     }
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to find area of a square
@@ -215,6 +239,8 @@ my $side = <STDIN>;
 my $area =  $side * $side;
 print "Area of square : ".$area, "\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to find area of a square
@@ -231,11 +257,15 @@ print "Area of square : ".$area, "\n";
 	print_r(find_area_of_a_square(5));      // 25
 ```
 
+### Python
+
 ```python
 # Write a Python program to find area of a square
 
 print("Area:", int(input("Side: ")) ** 2)
 ```
+
+### R
 
 ```r
 # Write a R program to find area of a square
@@ -245,6 +275,8 @@ area = side * side
 cat("Area of square: ", area)
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to find area of a square
 
@@ -253,6 +285,8 @@ side = gets.chomp.to_i
 area = side**2
 print "Area of square : #{area}"
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to find area of a square
@@ -264,6 +298,8 @@ fn main() {
     println!("Area of square is {0}", area as f32);
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to find area of a square
@@ -280,6 +316,8 @@ object areaOfSquare{
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to find area of a square
 
@@ -291,6 +329,8 @@ var side = 2.0
 var area = side * side
 print("Aread of square: ", area)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to find area of a square

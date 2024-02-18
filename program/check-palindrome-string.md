@@ -44,6 +44,8 @@ trackId: 1538
 description: "Write a program to check palindrome string."
 ---
 
+## Table of contents
+
 ## Write a program to check palindrome string
 
 Palindrome string is a string that is same when read from left to right and right to left. For example, "aba" is a palindrome string, "abc" is not.
@@ -54,6 +56,8 @@ Output : Palindrome String
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to check palindrome string
@@ -81,6 +85,8 @@ int main() {
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to check palindrome string
 
@@ -105,6 +111,8 @@ namespace palindromecheck {
    }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to check palindrome string
@@ -145,6 +153,8 @@ int main ()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to check palindrome string
 
@@ -165,6 +175,8 @@ void main() {
   print(checkPalin("abqa"));
 }
 ```
+
+### Go
 
 ```go
 // Write a Go program to check palindrome string
@@ -195,6 +207,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to check palindrome string
 
@@ -221,6 +235,8 @@ public class CheckPalindromeString {
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to check palindrome string
 
@@ -233,6 +249,8 @@ console.log(
   checkPalindromeString("abba") ? "Palindrome String" : "Not Palindrome String"
 );
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to check palindrome string
@@ -250,6 +268,8 @@ else
     println("$input_str is not a palindrome.")
 end
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to check palindrome string
@@ -273,6 +293,8 @@ private fun CheckPalindromeString(inputStr: String): Boolean {
     return inputStr.equals(reverseStr, ignoreCase = true)
 }
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to check palindrome string
@@ -298,6 +320,8 @@ if ($num == 0){
 }
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to check palindrome string
 
@@ -311,6 +335,8 @@ function check_palindrome_string($str)
 echo check_palindrome_string('abba') ? 'Palindrome String' : 'Not Palindrome String';
 ```
 
+### Python
+
 ```python
 # Write a Python program to check palindrome string
 
@@ -320,6 +346,8 @@ def checkPalindromeString(str):
 
 print("Palindrome String" if checkPalindromeString("abba") else "Not Palindrome String")
 ```
+
+### R
 
 ```r
 # Write a R program to check palindrome string
@@ -343,6 +371,8 @@ if (isPalindrome(user_input)) {
 }
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to check palindrome string
 
@@ -359,6 +389,8 @@ end
 
 print checkPalindromeString input_string
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to check palindrome string
@@ -377,6 +409,8 @@ fn main() {
 	check_palindrome_string("abba");
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to check palindrome string
@@ -399,6 +433,8 @@ object HelloWorld {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to check palindrome string
 
@@ -418,6 +454,8 @@ var str2 = "abba123"
 var result2 = checkPalindrome(str: str2)
 print("Is String - \(str2) is palindrome?:", result2)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to check palindrome string

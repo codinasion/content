@@ -42,6 +42,8 @@ trackId: 1354
 description: "Write a program to calculate compound interest."
 ---
 
+## Table of contents
+
 ## Write a program to calculate compound interest
 
 Compound interest = principal amount \* (1 + rate of interest) ^ time
@@ -55,6 +57,8 @@ Compound interest : 1610.51
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to calculate compound interest
@@ -77,6 +81,8 @@ int main()
     return 0;
 }
 ```
+
+### C#
 
 ```csharp
 // Write a C# program to calculate compound interest
@@ -113,6 +119,8 @@ public class compoundInterest
 }
 ```
 
+### C++
+
 ```cpp
 // Write a C++ program to calculate compound interest
 
@@ -148,6 +156,8 @@ int main()
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to calculate compound interest
 
@@ -165,6 +175,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to calculate compound interest
 
@@ -179,6 +191,8 @@ let res = compound principal interest time
 
 printfn "Compound interest : %.2f" res
 ```
+
+### Go
 
 ```go
 // Write a Go program to calculate compound interest
@@ -213,6 +227,8 @@ func main(){
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to calculate compound interest
 
@@ -235,6 +251,8 @@ class compoundInterest
 }
 ```
 
+### JavaScript
+
 ```javascript
 // Write a JavaScript program to calculate compound interest
 
@@ -246,6 +264,8 @@ function calculateCompoundInterest(principal, rate, time) {
 }
 console.log(calculateCompoundInterest(1000, 10, 5));
 ```
+
+### Julia
 
 ```julia
 # Write a Julia program to calculate compound interest
@@ -259,6 +279,8 @@ time = parse(Float64, readline(stdin))
 ci =  principal * ((1 + interest/100) ^ time)
 println("Compund Interest: ", ci)
 ```
+
+### Perl
 
 ```perl
 # Write a Perl program to calculate compound interest
@@ -276,6 +298,8 @@ my $compoundInterest = $principal  * ((1 + $interest) ** $time);
 print "Compound Interest :".$compoundInterest, "\n";
 ```
 
+### PHP
+
 ```php
 // Write a PHP program to calculate compound interest
 
@@ -288,6 +312,8 @@ echo compoundInterest(1000, 10, 5);
 ?>
 ```
 
+### Python
+
 ```python
 # Write a Python program to calculate compound interest
 
@@ -298,6 +324,8 @@ print(round(principal * ((1 + rate / 100) ** time), 2))
 
 # Contributed by Raghav Garg
 ```
+
+### R
 
 ```r
 # Write a R program to calculate compound interest
@@ -325,6 +353,8 @@ if (!is.numeric(principal) || !is.numeric(rate) || !is.numeric(time)) {
 }
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to calculate compound interest
 
@@ -341,6 +371,8 @@ end
 
 puts calculateCompoundInterest(principal_input, rate_input, time_input)
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to calculate compound interest
@@ -361,6 +393,8 @@ object compoundInterest {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to calculate compound interest
 
@@ -374,6 +408,8 @@ var time = 5.0
 var interest = principal * pow(1 + rate/100.0, time)
 print(interest)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to calculate compound interest

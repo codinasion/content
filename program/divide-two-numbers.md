@@ -44,6 +44,8 @@ trackId: 105
 description: "Write a program to divide two numbers."
 ---
 
+## Table of contents
+
 ## Write a program to divide two numbers
 
 ```
@@ -52,6 +54,8 @@ Output : 0.5
 ```
 
 ---
+
+### C
 
 ```c
 // Write a C program to divide two numbers
@@ -83,6 +87,8 @@ float DivideTwoNumbers(int num1, int num2)
 }
 ```
 
+### C#
+
 ```csharp
 // Write a C# program to divide two numbers
 
@@ -99,6 +105,8 @@ namespace Sample {
    }
 }
 ```
+
+### C++
 
 ```cpp
 // Write a C++ program to divide two numbers
@@ -127,6 +135,8 @@ float Divide2Numbers(int x, int y)
 }
 ```
 
+### Dart
+
 ```dart
 // Write a Dart program to divide two numbers
 
@@ -141,6 +151,8 @@ void main(){
 }
 ```
 
+### F#
+
 ```fsharp
 // Write a F# program to divide two numbers
 
@@ -151,6 +163,8 @@ let result =  divideTwoNumbers 2.0 4.0
 
 printfn "Division of given two numbers : %f" result
 ```
+
+### Go
 
 ```go
 // Write a Go program to divide two numbers
@@ -177,6 +191,8 @@ func main() {
 }
 ```
 
+### Java
+
 ```java
 // Write a Java program to divide two numbers
 
@@ -198,6 +214,8 @@ public class DivideTwoNumbers {
 
 }
 ```
+
+### JavaScript
 
 ```javascript
 // Write a JavaScript program to divide two numbers
@@ -227,6 +245,8 @@ console.log(`Input: n1 = ${n1} and n2 = 0`);
 console.log(`Output: ${divideTwoNumbers(n1, 0)}`);
 ```
 
+### Julia
+
 ```julia
 # Write a Julia program to divide two numbers
 
@@ -236,6 +256,8 @@ print("Enter the second number: ")
 num2 = parse(Float64, readline(stdin))
 println("Output: ", num1 / num2)
 ```
+
+### Kotlin
 
 ```kotlin
 // Write a Kotlin program to divide two numbers
@@ -253,6 +275,8 @@ fun main(args: Array<String>) {
 }
 ```
 
+### Perl
+
 ```perl
 # Write a Perl program to divide two numbers
 
@@ -265,6 +289,8 @@ print "Enter a number 2 : ";
 my $number2 = <STDIN>;
 print "Division of given two numbers :".$number1/$number2, "\n";
 ```
+
+### PHP
 
 ```php
 // Write a PHP program to divide two numbers
@@ -284,6 +310,8 @@ print "Division of given two numbers :".$number1/$number2, "\n";
 	print_r(divide_two_numbers("Hello"));     // null or empty
 ```
 
+### Python
+
 ```python
 # Write a Python program to divide two numbers
 
@@ -291,6 +319,8 @@ a, b = map(int, input().split())
 ans = a / b
 print(ans)
 ```
+
+### R
 
 ```r
 # Write a R program to divide two numbers
@@ -303,6 +333,8 @@ c <- a / b
 print(paste("Output is: ", c))
 ```
 
+### Ruby
+
 ```ruby
 # Write a Ruby program to divide two numbers
 
@@ -313,6 +345,8 @@ b = gets.chomp.to_f
 c=a/b
 print "Answer : %.1f" %c
 ```
+
+### Rust
 
 ```rust
 // Write a Rust program to divide two numbers
@@ -326,6 +360,8 @@ fn main()
     println!("Division of {0} and {1} is {2}", a, b, a as f32/ b as f32);
 }
 ```
+
+### Scala
 
 ```scala
 // Write a Scala program to divide two numbers
@@ -344,6 +380,8 @@ object divideNumbers {
 }
 ```
 
+### Swift
+
 ```swift
 // Write a Swift program to divide two numbers
 
@@ -357,6 +395,8 @@ func divide(num1: Double, num2: Double) -> Double {
 var result = divide(num1:2, num2:8)
 print("Result: ", result)
 ```
+
+### TypeScript
 
 ```typescript
 // Write a TypeScript program to divide two numbers
