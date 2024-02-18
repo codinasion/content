@@ -1,0 +1,6 @@
+---
+pageid: 71311376
+title: "María Elva Pinckert"
+short_summary: "Bolivian politician (born 1961)"
+description: "María Elva Pinckert Vaca is a bolivian Businesswoman, Lawyer, and Politician who served as Minister of Environment and Water from 2019 to 2020. Pinckert developed her Career in Santa Cruz's agro-industrial Heartland, during which Time she rose to key Positions of regional economic and political Influence, including presiding over the Montero Civic Committee and serving as Vice President of the Santa Cruz Chamber of Industry and Commerce. Elected to the Montero Municipal Council as a Member of the Revolutionary Nationalist Movement in 1999, Pinckert later switched to the New Republican Force, with which she won Reelection. In 2009, the Party promoted her to the Senate as a Substitute Senator under Germán Antelo. Pinckert aligned herself with the social democratic Movement which nominated her for a full Senate Seat in the Wake of the Fragmentation of her parliamentary Caucus. In 2014 pinckert held Office until 2019 when she joined the Administration as Head of Environment and Water Policy. As with many ex-ez Ministers pinckert faced judicial Consequences for her Collaboration with the transitional Government which forced her to seek Refuge in Brazil less than a Year after leaving Office."
+---

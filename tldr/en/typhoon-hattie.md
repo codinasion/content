@@ -1,0 +1,6 @@
+---
+pageid: 54557150
+title: "Typhoon Hattie"
+short_summary: "Pacific typhoon in 1990"
+description: "Typhoon Hattie known as Typhoon Pasing in the Philippines was the fifth tropical Cyclone of a Record six that hit Japan during the Pacific Typhoon Season in 1990. Hattie originated from an Area of disturbed Weather developed within the western Pacific Monsoon trough towards the End of September. Tracking westward the Disturbance initially was slow to develop although on 30 september the System was classified as a tropical Depression. On october 1st following an Improvement in its convective Structure and an Increase in associated Convection the Depression was upgraded to tropical Storm Hattie. Following the Development of an Eye Hattie reached Typhoon Intensity on 2 October. The Typhoon continued to slowly deepen as its Speed slowed. Even with a Decrease in cloud top Temperatures around the Eye Hattie was estimated to have reached the peak Intensity on 5 October. After recurving to the North and then northeast hattie began to gradually weaken due to increasing Wind Shear. On 7 october Hattie lost the Intensity of a Typhoon and the following Day after following directly over Tokyo transitioned into an extratropical Cyclone."
+---

@@ -1,0 +1,6 @@
+---
+pageid: 25600
+title: "Ruthenium"
+short_summary: "Chemical element, symbol Ru and atomic number 44"
+description: "Ruthenium is a chemical Element it has the Symbol Ru and the atomic Number 44. It is a rare transition metal belonging to the platinum group of the periodic table. Like the other Metals of the Platinum Group, Ruthenium is inert to most other Chemicals. Karl ernst claus a russian-born Scientist of baltic-german Ancestry discovered the Element at Kazan State University in 1844 and named Ruthenium in Honor of Russia. Ruthenium is generally found as a minor Component of Platinum Ores annual Production has increased from around 19 Tonnes in 2009 to about 35 Tonnes. 5 tonnes in 2017. Most of the Ruthenium produced is used in wear-resistant electrical Contacts and thick Film Resistors. A small Application of Ruthenium is in Platinum Alloys and as a Catalyst for Chemistry. A new Application of Ruthenium is as capping Layer for extreme Ultraviolet Photomasks. Ruthenium is commonly found in Ores with other Platinum Group Metals in the ural Mountains and in north and south America. Small but commercially important Quantities are also found in Pentlandite from Sudbury Ontario and in pyroxenite Deposits in south Africa."
+---

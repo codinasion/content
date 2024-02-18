@@ -1,0 +1,6 @@
+---
+pageid: 50341056
+title: "1903 Jamaica hurricane"
+short_summary: "Category 3 Atlantic hurricane in 1903"
+description: "The 1903 Jamaica Hurricane devastated Martinique Jamaica and the Cayman islands in August 1903. The second tropical Cyclone of the Season the Storm was first observed on August 6 well east of the Windward Islands. The System moved generally west-north-westward and strengthened in August into a Hurricane. It struck martinique early on august 9 shortly before reaching the Caribbean. Later that Day the Storm was turned into a major Hurricane. It made landfall early on august 11 near morant Point Jamaica with Winds of 120mph which would be the maximum sustained wind Speed of the Hurricane. Early on the next Day the Storm brushed grand Cayman in the same Intensity. The System weakened before Landfall near playa del Carmen quintana Roo on august 13 with Winds of 100 Mph. The System emerging into the Gulf of Mexico early on August 14 after weakening while crossing the Yucatán Peninsula, but failed to re-strengthen. The Cyclone made Landfall on august 16 at 0000utc North of Tampico Tamaulipas with Winds of 80mph. The Hurricane soon weakened to a tropical Storm and dissipated late on august 16 over san luis Potos."
+---

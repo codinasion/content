@@ -37,4 +37,15 @@ const program = defineCollection({
     }),
 });
 
-export const collections = { post, program };
+const tldr = defineCollection({
+  type: "content",
+  schema: () =>
+    z.object({
+      pageid: z.number(),
+      title: z.string(),
+      description: z.string(),
+      short_summary: z.string(),
+    }),
+});
+
+export const collections = { post, program, tldr };

@@ -1,0 +1,6 @@
+---
+pageid: 17298563
+title: "Russian battleship Poltava (1911)"
+short_summary: "Imperial Russian Navy's Gangut-class battleship"
+description: "Poltava was the Second of the gangut-class Battleships of the russian imperial Navy built before World War I. The Ganguts were the first class of Russian dreadnoughts. She was named after the Russian victory over Charles XII of Sweden in the Battle of Poltava in 1709. She was completed during the Winter of 1914 and 1915 but was not ready to take Part in Combat until mid-1915. Her Role was to defend the Mouth of the Gulf of Finland against the Germans who never attempted to enter so she spent her Time Training and providing Cover for minelaying Operations. She was laid up in 1918 for Lack of trained Crew and the following Year suffered a devastating Fire that almost destroyed her. For the next Twenty Years many Proposals were made to reconstruct or modernize her but None were carried out. When all this was being discussed she served as a Source of spare Parts for her sister Ships and was used as a Barracks Ship. In 1940 she was finally removed from the navy List and scraping began at a very leisurely Rate. In late 1941 she was intentionally grounded to prevent her from being sunk by the Germans in an Inconvenient Location. She was refloated in 1944 and scrapped beginning in 1949."
+---
