@@ -6,6 +6,7 @@ languages:
     "c-plus-plus",
     "c-sharp",
     "java",
+    "javascript",
     "scala",
     "dart",
     "go",
@@ -14,6 +15,7 @@ languages:
   ]
 contributors:
   [
+    "Parvezkhan0",
     "grinish21",
     "srini696",
     "srivamsidandu",
@@ -25,7 +27,7 @@ contributors:
     "harshraj8843",
   ]
 pubDatetime: 2022-01-26
-modDatetime: 2024-02-08T18:12:13Z
+modDatetime: 2024-02-19T07:18:44Z
 trackId: 5192
 description: "Write a program to implement binary search."
 ---
@@ -387,6 +389,42 @@ public class ImplementBinarySearch {
 
     }
 
+}
+```
+
+### JavaScript
+
+```javascript
+// Write a JavaScript program to implement binary search
+
+function binarySearch(arr, x) {
+  let lowerBound = 0;
+  let upperBound = arr.length - 1;
+
+  while (lowerBound <= upperBound) {
+    let midPoint = Math.floor((lowerBound + upperBound) / 2);
+
+    if (arr[midPoint] === x) {
+      return midPoint; // Element found, return index
+    } else if (arr[midPoint] < x) {
+      lowerBound = midPoint + 1; // Search in the right half
+    } else {
+      upperBound = midPoint - 1; // Search in the left half
+    }
+  }
+
+  return -1; // Element not found
+}
+
+// Example usage
+const list = [1, 2, 3, 4, 5];
+const value = 4;
+
+const index = binarySearch(list, value);
+if (index !== -1) {
+  console.log("Output:", index); // Output: 3
+} else {
+  console.log("Element not found.");
 }
 ```
 

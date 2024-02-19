@@ -1,0 +1,6 @@
+---
+pageid: 39257922
+title: "1940 New England hurricane"
+short_summary: "Category 2 Atlantic hurricane in 1940"
+description: "The 1940 new England Hurricane moved off the us Coast. S. East Coast and atlantic Canada producing strong Winds and torrential Rain in August and September 1940. The fourth tropical Cyclone and the third Hurricane of the Season originated on august 26th from a well-defined low-pressure Area in the open atlantic Ocean. The Disturbance slowly moving in a general west-northwest Motion intensified reaching tropical Storm Strength on August 28 and then Hurricane Intensity on August 30. The Hurricane passed within 85mi of Cape Hatteras before returning to the Northeast. The Hurricane continued to intensify and reached peak Intensity as a Category2Hurricane with Maximum sustained Winds of 110mph and a minimum barometric Pressure of 961mbar although these statistical Peaks were achieved at different Times on September2. Afterwards the Hurricane began a weakening Trend as it pushed Northeast and had degenerated into a tropical Storm by the Time it made its first Landfall on nova Scotia later that Day. The Storm had turned into an extratropical Cyclone the next Day while making another Landfall on new Brunswick. The extratropical Remnants persisted in Quebec before forming a larger extratropical System late on September3."
+---

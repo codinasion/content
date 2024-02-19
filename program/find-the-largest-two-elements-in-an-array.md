@@ -8,6 +8,7 @@ languages:
     "f-sharp",
     "javascript",
     "kotlin",
+    "ruby",
     "typescript",
     "dart",
     "go",
@@ -31,7 +32,7 @@ contributors:
     "hamzambo",
   ]
 pubDatetime: 2022-01-26
-modDatetime: 2024-02-13T17:20:36Z
+modDatetime: 2024-02-19T07:17:41Z
 trackId: 5033
 description: "Write a program to find the largest two elements in an array."
 ---
@@ -488,6 +489,21 @@ findLargestTwo(arr2)
 
 arr3 <- c(10, 10, 10)
 findLargestTwo(arr3)
+```
+
+### Ruby
+
+```ruby
+# Write a Ruby program to find the largest two elements in an array
+
+input = [12, 13, 1, 10, 34, 1];
+if input.length() <= 1
+  print "Array should contain atleast 2 elements"
+else
+  sort = input.sort.reverse
+  result = "#{sort[0].to_i},#{sort[1].to_i}"
+  print result
+end
 ```
 
 ### TypeScript

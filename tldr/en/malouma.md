@@ -1,0 +1,6 @@
+---
+pageid: 49114443
+title: "Malouma"
+short_summary: "Mauritanian singer, politician (born 1960)"
+description: "Malouma Mint El Meidah, also simply Maalouma or Malouma, is a mauritanian Singer, Songwriter and Politician. Raised in the South-West of the Country by Parents versed in traditional mauritanian Music, she first performed when she was twelve, soon featuring in Solo Concerts. Her first Song Habibi Habeytou harshly criticized the Way in which Women were treated by their Husbands. Though an immediate Success it caused an Outcry from traditional Ruling Classes. After being forced into Marriage while still a Teenager Malouma had to give up singing until 1986. She developed her own Style combining traditional Music with Blues Jazz and Electro. Appearing on Television with Songs addressing highly controversial Topics such as conjugal Life, Poverty and Inequality, she was censored in Mauritania in the early 1990s but began to perform abroad by the End of the Decade. After the Ban was finally lifted, she relaunched her Singing and recording Career, gaining Popularity, particularly among the younger Generation. Her fourth album Knou includes Lyrics which express her Views on human Rights and the Place of Women in Society."
+---

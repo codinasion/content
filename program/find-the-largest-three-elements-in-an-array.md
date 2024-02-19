@@ -11,6 +11,7 @@ languages:
     "dart",
     "go",
     "php",
+    "perl",
     "python",
     "r",
     "rust",
@@ -27,7 +28,7 @@ contributors:
     "harshraj8843",
   ]
 pubDatetime: 2022-01-26
-modDatetime: 2024-02-01T14:01:57Z
+modDatetime: 2024-02-19T07:16:50Z
 trackId: 5165
 description: "Write a program to find the largest three elements in an array."
 ---
@@ -297,6 +298,20 @@ fun main() {
 
     val arr2 = intArrayOf(10, 4, 3, 50, 23, 90, 1, 100, 49)
     findLargestThreeElements(arr2)
+}
+```
+
+### Perl
+
+```perl
+# Write a Perl program to find the largest three elements in an array
+
+@input = (10, 4, 3, 50, 23, 90);
+@input = sort { $b <=> $a } @input;
+if(scalar @input < 3){
+    print "Array should have atleast 3 elements";
+}else{
+    print "@input[0],@input[1],@input[2]\n";
 }
 ```
 

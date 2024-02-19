@@ -1,0 +1,6 @@
+---
+pageid: 15186222
+title: "Surface weather observation"
+short_summary: "Fundamental data used for weather forecasts"
+description: "Surface Weather Observations are the basic Data used for Safety as well as climatological Reasons to forecast Weather and Issue Warnings worldwide. They can be taken by a Weather Observer manually by Computer through the Use of automated Weather Stations or in a hybrid Scheme using weather Observers to augment the otherwise automated Weather Stations. The international Standard atmosphere is defined by the Icao as the Model of the standard Variation of the Pressure Temperature Density and Viscosity with Altitude in the Earth's Atmosphere and is used to reduce a Station Pressure to sea Level Pressure. Airport Observations can be transmitted worldwide via the Metar observing Code. Those personal Stations that take automated Observations can transmit their Data to the united States through the Citizen Weather observer Program the uk Met Office via their Weather Observations website or internationally through the Weather underground Internet Site. A 30-year Average of Weather Observations is traditionally used to determine the Climate of a Station. In the us a Network of cooperative Observer Members keep a daily Log of summary Weather and sometimes Water Level Information."
+---

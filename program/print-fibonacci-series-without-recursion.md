@@ -14,13 +14,14 @@ languages:
     "dart",
     "go",
     "php",
+    "perl",
     "python",
   ]
 contributors:
   [
+    "anandfresh",
     "harshraj8843",
     "Ariel201711",
-    "anandfresh",
     "jfinley6",
     "joao-vitor-souza",
     "rahmat-dev",
@@ -35,7 +36,7 @@ contributors:
     "Ipankaj07",
   ]
 pubDatetime: 2022-01-26
-modDatetime: 2023-08-03T20:39:16Z
+modDatetime: 2024-02-19T07:14:59Z
 trackId: 2109
 description: "Write a program to print fibonacci series without recursion."
 ---
@@ -255,6 +256,39 @@ while itr < pos
     global b = c
     global itr += 1
 end
+```
+
+### Perl
+
+```perl
+# Write a Perl program to print fibonacci series without recursion
+
+print "Enter an integer: ";
+$n=<STDIN>;
+$f1=0;
+$f2=1;
+print "Fibonacci series of given input :\n";
+if($n==1)
+{
+print "0\n";
+}
+elsif($n==2)
+{
+print "0\n1\n";
+}
+elsif($n>2)
+{
+print "0\n1\n";
+$f3=$f1+$f2;
+print "$f3\n";
+for($i=2;$i<$n;$i++)
+{
+$f1=$f2;
+$f2=$f3;
+$f3=$f1+$f2;
+print "$f3\n";
+}
+}
 ```
 
 ### PHP
