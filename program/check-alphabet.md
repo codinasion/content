@@ -328,3 +328,16 @@ console.log(isCharacterALetter("a"));
 console.log(isCharacterALetter("Z"));
 console.log(isCharacterALetter("!"));
 ```
+
+## Similar programs
+
+- [Check Special Character](/program/check-special-character)
+- [Check Pangram String](/program/check-pangram-string)
+- [Check Digit](/program/check-digit)
+- [Check Vowel](/program/check-vowel)
+- [Check Consonant](/program/check-consonant)
+- [Check Upper Case](/program/check-upper-case)
+- [Check Lower Case](/program/check-lower-case)
+- [Check Valid Date](/program/check-valid-date)
+- [Check Integer Or Float](/program/check-integer-or-float)
+- [Check Even Or Odd Number](/program/check-even-or-odd-number)

@@ -547,3 +547,16 @@ for (let i = n; i > 0; i--) {
 
 // contributed by Irad Doron :)
 ```
+
+## Similar programs
+
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Print All Prime Numbers Between Two Numbers](/program/print-all-prime-numbers-between-two-numbers)
+- [Print Numbers From 1 To N Without Using A Loop](/program/print-numbers-from-1-to-n-without-using-a-loop)
+- [Print Numbers From N To 1 Without Using A Loop](/program/print-numbers-from-n-to-1-without-using-a-loop)
+- [Find Average Of Numbers](/program/find-average-of-numbers)
+- [Find Sum Of Numbers](/program/find-sum-of-numbers)
+- [Print Pattern 1](/program/print-pattern-1)
+- [Print Elements Of An Array](/program/print-elements-of-an-array)
+- [Divide Two Numbers](/program/divide-two-numbers)
+- [Find The Sum Of All Numbers In An Array](/program/find-the-sum-of-all-numbers-in-an-array)

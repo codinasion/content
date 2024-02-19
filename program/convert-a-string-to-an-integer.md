@@ -392,3 +392,16 @@ const stringToInteger = (str: string): number => {
 
 console.log(stringToInteger("123"));
 ```
+
+## Similar programs
+
+- [Convert A String To An Integer (without Using Built In Functions)](</program/convert-a-string-to-an-integer-(without-using-built-in-functions)>)
+- [Check Integer Or Float](/program/check-integer-or-float)
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Convert String To Uppercase](/program/convert-string-to-uppercase)
+- [Find Average Of Digits Of A Number By Recursion](/program/find-average-of-digits-of-a-number-by-recursion)
+- [Find Length Of A String](/program/find-length-of-a-string)
+- [Find Sum Of Digits Of A Number](/program/find-sum-of-digits-of-a-number)
+- [Check Palindrome String](/program/check-palindrome-string)
+- [Print Reverse Of A String](/program/print-reverse-of-a-string)
+- [Print Reverse Of A String By Recursion](/program/print-reverse-of-a-string-by-recursion)

@@ -689,3 +689,16 @@ const sentenceCase = (str: string): string => {
 
 console.log(sentenceCase("hello world"));
 ```
+
+## Similar programs
+
+- [Check Pangram String](/program/check-pangram-string)
+- [Convert String To Camelcase](/program/convert-string-to-camelcase)
+- [Convert String To Pascalcase](/program/convert-string-to-pascalcase)
+- [Convert String To Titlecase](/program/convert-string-to-titlecase)
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Convert String To Reversecase](/program/convert-string-to-reversecase)
+- [Convert String To Alternatingcase](/program/convert-string-to-alternatingcase)
+- [Check Anagram String](/program/check-anagram-string)
+- [Convert String To Snakecase](/program/convert-string-to-snakecase)
+- [Convert String To Dotcase](/program/convert-string-to-dotcase)

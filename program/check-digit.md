@@ -384,3 +384,16 @@ console.log(isNumDigitTS("1"));
 console.log(isNumDigitTS("w"));
 console.log(isNumDigitTS("6.9"));
 ```
+
+## Similar programs
+
+- [Check Special Character](/program/check-special-character)
+- [Check Alphabet](/program/check-alphabet)
+- [Check Vowel](/program/check-vowel)
+- [Check Consonant](/program/check-consonant)
+- [Check Upper Case](/program/check-upper-case)
+- [Check Lower Case](/program/check-lower-case)
+- [Check Valid Date](/program/check-valid-date)
+- [Find Digital Root Of A Number](/program/find-digital-root-of-a-number)
+- [Check Integer Or Float](/program/check-integer-or-float)
+- [Check Even Or Odd Number](/program/check-even-or-odd-number)

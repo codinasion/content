@@ -318,3 +318,16 @@ function checkSpecialCharacter(str: string) {
 
 checkSpecialCharacter(">");
 ```
+
+## Similar programs
+
+- [Print Ascii Value Of A Character](/program/print-ascii-value-of-a-character)
+- [Print Character Of An Ascii Value](/program/print-character-of-an-ascii-value)
+- [Check Digit](/program/check-digit)
+- [Check Alphabet](/program/check-alphabet)
+- [Print String Of Ascii Values](/program/print-string-of-ascii-values)
+- [Print Ascii Value Of A String](/program/print-ascii-value-of-a-string)
+- [Check Consonant](/program/check-consonant)
+- [Check Vowel](/program/check-vowel)
+- [Check Upper Case](/program/check-upper-case)
+- [Check Lower Case](/program/check-lower-case)

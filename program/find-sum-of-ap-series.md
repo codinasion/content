@@ -390,3 +390,16 @@ function sumOfApSeries(a: number, n: number, d: number): number {
   return part1 * part2;
 }
 ```
+
+## Similar programs
+
+- [Find Sum Of Gp Series](/program/find-sum-of-gp-series)
+- [Find The Cofactor Of A Matrix](/program/find-the-cofactor-of-a-matrix)
+- [Find Sum Of Numbers](/program/find-sum-of-numbers)
+- [Print Fibonacci Series Without Recursion](/program/print-fibonacci-series-without-recursion)
+- [Print Fibonacci Series By Recursion](/program/print-fibonacci-series-by-recursion)
+- [Find Sum Of N Natural Numbers Using Formula](/program/find-sum-of-n-natural-numbers-using-formula)
+- [Find The Sum Of All Numbers In An Array](/program/find-the-sum-of-all-numbers-in-an-array)
+- [Find Sum Of Numbers By Recursion](/program/find-sum-of-numbers-by-recursion)
+- [Find Sum Of N Natural Numbers](/program/find-sum-of-n-natural-numbers)
+- [Implement Binary Search](/program/implement-binary-search)

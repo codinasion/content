@@ -445,3 +445,16 @@ function weekendsInYear(year: number): number {
 
 weekendsInYear(2);
 ```
+
+## Similar programs
+
+- [Convert Weeks To Days](/program/convert-weeks-to-days)
+- [Convert Days To Weeks](/program/convert-days-to-weeks)
+- [Check Leap Year](/program/check-leap-year)
+- [Convert Hours To Days](/program/convert-hours-to-days)
+- [Convert Days To Hours](/program/convert-days-to-hours)
+- [Convert Standard Date Format To Julian Date And Vice Versa](/program/convert-standard-date-format-to-julian-date-and-vice-versa)
+- [Convert Minutes To Days](/program/convert-minutes-to-days)
+- [Convert Days To Minutes](/program/convert-days-to-minutes)
+- [Convert Weeks To Hours](/program/convert-weeks-to-hours)
+- [Convert Hours To Weeks](/program/convert-hours-to-weeks)

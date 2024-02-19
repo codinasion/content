@@ -345,3 +345,16 @@ console.log("Power :", pow);
 
 console.log("Output :", power(number, pow));
 ```
+
+## Similar programs
+
+- [Find Power Of A Number](/program/find-power-of-a-number)
+- [Print Reverse Of A Number By Recursion](/program/print-reverse-of-a-number-by-recursion)
+- [Find Sum Of Digits Of A Number By Recursion](/program/find-sum-of-digits-of-a-number-by-recursion)
+- [Find Factorial Of A Number By Recursion](/program/find-factorial-of-a-number-by-recursion)
+- [Find Average Of Digits Of A Number By Recursion](/program/find-average-of-digits-of-a-number-by-recursion)
+- [Find Smallest Number In An Array](/program/find-smallest-number-in-an-array)
+- [Find Sum Of Numbers By Recursion](/program/find-sum-of-numbers-by-recursion)
+- [Find Cube Of A Number](/program/find-cube-of-a-number)
+- [Find Square Of A Number](/program/find-square-of-a-number)
+- [Check Prime Number](/program/check-prime-number)

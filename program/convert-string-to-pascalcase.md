@@ -370,3 +370,16 @@ const toPascalCase = str =>
 
 console.log(toPascalCase("hello world"));
 ```
+
+## Similar programs
+
+- [Convert String To Camelcase](/program/convert-string-to-camelcase)
+- [Convert String To Titlecase](/program/convert-string-to-titlecase)
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Convert String To Uppercase](/program/convert-string-to-uppercase)
+- [Convert String To Alternatingcase](/program/convert-string-to-alternatingcase)
+- [Convert String To Kebabcase](/program/convert-string-to-kebabcase)
+- [Convert String To Dotcase](/program/convert-string-to-dotcase)
+- [Convert String To Pathcase](/program/convert-string-to-pathcase)
+- [Reverse Words In A String](/program/reverse-words-in-a-string)
+- [Convert String To Vowelcase](/program/convert-string-to-vowelcase)

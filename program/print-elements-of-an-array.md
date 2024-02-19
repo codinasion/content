@@ -355,3 +355,16 @@ function printElementsOfAnArray(array: any[]): void {
 
 printElementsOfAnArray(["1", "2", "3", "4"]);
 ```
+
+## Similar programs
+
+- [Find The Smallest Two Elements In An Array](/program/find-the-smallest-two-elements-in-an-array)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Find The Smallest Three Elements In An Array](/program/find-the-smallest-three-elements-in-an-array)
+- [Find The Largest Two Elements In An Array](/program/find-the-largest-two-elements-in-an-array)
+- [Reverse An Array](/program/reverse-an-array)
+- [Find Smallest Number In An Array](/program/find-smallest-number-in-an-array)
+- [Find The Sum Of All Numbers In An Array](/program/find-the-sum-of-all-numbers-in-an-array)
+- [Find Largest Number In An Array](/program/find-largest-number-in-an-array)
+- [Print Pattern 1](/program/print-pattern-1)

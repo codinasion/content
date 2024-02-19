@@ -356,3 +356,16 @@ function toTitleCase(str: string): string {
 
 console.log(toTitleCase("hello world"));
 ```
+
+## Similar programs
+
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Convert String To Uppercase](/program/convert-string-to-uppercase)
+- [Convert String To Camelcase](/program/convert-string-to-camelcase)
+- [Convert String To Pascalcase](/program/convert-string-to-pascalcase)
+- [Print Hello World](/program/print-hello-world)
+- [Convert String To Alternatingcase](/program/convert-string-to-alternatingcase)
+- [Reverse Words In A String](/program/reverse-words-in-a-string)
+- [Convert String To Dotcase](/program/convert-string-to-dotcase)
+- [Convert String To Kebabcase](/program/convert-string-to-kebabcase)
+- [Convert String To Pathcase](/program/convert-string-to-pathcase)

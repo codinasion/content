@@ -360,3 +360,16 @@ function asciiValueOfCharacter(str: string) {
 
 asciiValueOfCharacter("A");
 ```
+
+## Similar programs
+
+- [Print Character Of An Ascii Value](/program/print-character-of-an-ascii-value)
+- [Print Ascii Value Of A String](/program/print-ascii-value-of-a-string)
+- [Print String Of Ascii Values](/program/print-string-of-ascii-values)
+- [Check Special Character](/program/check-special-character)
+- [Implement Ternary Search](/program/implement-ternary-search)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Check Digit](/program/check-digit)
+- [Check Alphabet](/program/check-alphabet)
+- [Check Consonant](/program/check-consonant)

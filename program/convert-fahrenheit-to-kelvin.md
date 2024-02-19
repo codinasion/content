@@ -427,3 +427,16 @@ function convertFahrenheitToKelvin(fahrenheit: number): string {
 
 console.log("Given Fahrenheit in Kelvin:", convertFahrenheitToKelvin(1));
 ```
+
+## Similar programs
+
+- [Convert Fahrenheit To Celsius](/program/convert-fahrenheit-to-celsius)
+- [Convert Celsius To Fahrenheit](/program/convert-celsius-to-fahrenheit)
+- [Find Sum Of Numbers](/program/find-sum-of-numbers)
+- [Find The Sum Of All Numbers In An Array](/program/find-the-sum-of-all-numbers-in-an-array)
+- [Find Sum Of Numbers By Recursion](/program/find-sum-of-numbers-by-recursion)
+- [Find Sum Of N Natural Numbers](/program/find-sum-of-n-natural-numbers)
+- [Convert A String To An Integer](/program/convert-a-string-to-an-integer)
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Convert String To Uppercase](/program/convert-string-to-uppercase)
+- [Convert Hours To Days](/program/convert-hours-to-days)

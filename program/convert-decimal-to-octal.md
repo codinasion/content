@@ -340,3 +340,16 @@ function decimalToOctal(num: number) {
 
 console.log("Decimal to Octal conversion", decimalToOctal(10));
 ```
+
+## Similar programs
+
+- [Convert Octal To Hexadecimal](/program/convert-octal-to-hexadecimal)
+- [Convert Hexadecimal To Octal](/program/convert-hexadecimal-to-octal)
+- [Convert Binary To Octal](/program/convert-binary-to-octal)
+- [Convert Octal To Binary](/program/convert-octal-to-binary)
+- [Convert Octal To Decimal](/program/convert-octal-to-decimal)
+- [Convert Decimal To Binary](/program/convert-decimal-to-binary)
+- [Convert Decimal To Hexadecimal](/program/convert-decimal-to-hexadecimal)
+- [Convert Hexadecimal To Binary](/program/convert-hexadecimal-to-binary)
+- [Convert Binary To Hexadecimal](/program/convert-binary-to-hexadecimal)
+- [Convert Binary To Decimal](/program/convert-binary-to-decimal)

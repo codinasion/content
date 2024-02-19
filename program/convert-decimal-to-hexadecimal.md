@@ -488,3 +488,16 @@ const decimalToHexadecimal = (number: number): string => {
 console.log(decimalToHexadecimal(11)); // B
 console.log(decimalToHexadecimal(32)); // 20
 ```
+
+## Similar programs
+
+- [Convert Hexadecimal To Decimal](/program/convert-hexadecimal-to-decimal)
+- [Convert Octal To Hexadecimal](/program/convert-octal-to-hexadecimal)
+- [Convert Hexadecimal To Octal](/program/convert-hexadecimal-to-octal)
+- [Convert Binary To Hexadecimal](/program/convert-binary-to-hexadecimal)
+- [Convert Hexadecimal To Binary](/program/convert-hexadecimal-to-binary)
+- [Convert Decimal To Octal](/program/convert-decimal-to-octal)
+- [Convert Decimal To Binary](/program/convert-decimal-to-binary)
+- [Convert Binary To Octal](/program/convert-binary-to-octal)
+- [Convert Octal To Binary](/program/convert-octal-to-binary)
+- [Convert Octal To Decimal](/program/convert-octal-to-decimal)

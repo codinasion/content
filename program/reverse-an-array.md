@@ -435,3 +435,16 @@ const reverseArray = (arr: number[]): number[] => {
 
 console.log(reverseArray([1, 2, 3, 4, 5]));
 ```
+
+## Similar programs
+
+- [Print Reverse Of A String](/program/print-reverse-of-a-string)
+- [Print Reverse Of A Number](/program/print-reverse-of-a-number)
+- [Print Reverse Of A String By Recursion](/program/print-reverse-of-a-string-by-recursion)
+- [Find Smallest Number In An Array](/program/find-smallest-number-in-an-array)
+- [Reverse Words In A String](/program/reverse-words-in-a-string)
+- [Find The Sum Of All Numbers In An Array](/program/find-the-sum-of-all-numbers-in-an-array)
+- [Print Reverse Of A Number By Recursion](/program/print-reverse-of-a-number-by-recursion)
+- [Find Largest Number In An Array](/program/find-largest-number-in-an-array)
+- [Print Elements Of An Array](/program/print-elements-of-an-array)
+- [Find The Average Of All Numbers In An Array](/program/find-the-average-of-all-numbers-in-an-array)

@@ -417,3 +417,16 @@ function findVolumeOfACuboid(length: number, width: number, height: number) {
 
 console.log(findVolumeOfACuboid(2, 3, 4));
 ```
+
+## Similar programs
+
+- [Find Area Of A Cuboid](/program/find-area-of-a-cuboid)
+- [Find Surface Area Of A Cuboid](/program/find-surface-area-of-a-cuboid)
+- [Find Volume Of A Cube](/program/find-volume-of-a-cube)
+- [Find Volume Of A Cone](/program/find-volume-of-a-cone)
+- [Find Volume Of A Cylinder](/program/find-volume-of-a-cylinder)
+- [Find Volume Of A Sphere](/program/find-volume-of-a-sphere)
+- [Find Length Of A String](/program/find-length-of-a-string)
+- [Find Area Of A Rectangle](/program/find-area-of-a-rectangle)
+- [Find Perimeter Of A Rectangle](/program/find-perimeter-of-a-rectangle)
+- [Find Area Of A Right Angled Triangle](/program/find-area-of-a-right-angled-triangle)

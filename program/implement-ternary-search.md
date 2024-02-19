@@ -641,3 +641,16 @@ const result = ternarySearch(list, valueToSearch);
 
 console.log(`Output: ${result}`);
 ```
+
+## Similar programs
+
+- [Implement Linear Search](/program/implement-linear-search)
+- [Implement Binary Search](/program/implement-binary-search)
+- [Implement Jump Search](/program/implement-jump-search)
+- [Implement Selection Sort](/program/implement-selection-sort)
+- [Divide Two Numbers](/program/divide-two-numbers)
+- [Print Ascii Value Of A String](/program/print-ascii-value-of-a-string)
+- [Print Ascii Value Of A Character](/program/print-ascii-value-of-a-character)
+- [Print Character Of An Ascii Value](/program/print-character-of-an-ascii-value)
+- [Print String Of Ascii Values](/program/print-string-of-ascii-values)
+- [Reverse An Array](/program/reverse-an-array)

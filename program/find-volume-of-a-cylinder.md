@@ -495,3 +495,16 @@ const cylinderVolume = volumeOfCylinder(cylinderRadius, cylinderHeight);
 
 console.log(`Volume of cylinder = ${cylinderVolume}`);
 ```
+
+## Similar programs
+
+- [Find Volume Of A Cone](/program/find-volume-of-a-cone)
+- [Find Volume Of A Sphere](/program/find-volume-of-a-sphere)
+- [Find Volume Of A Cube](/program/find-volume-of-a-cube)
+- [Find Volume Of A Cuboid](/program/find-volume-of-a-cuboid)
+- [Find Surface Area Of A Cylinder](/program/find-surface-area-of-a-cylinder)
+- [Find Surface Area Of A Cone](/program/find-surface-area-of-a-cone)
+- [Find Area Of A Cuboid](/program/find-area-of-a-cuboid)
+- [Find Area Of A Circle](/program/find-area-of-a-circle)
+- [Find Surface Area Of A Cuboid](/program/find-surface-area-of-a-cuboid)
+- [Find Surface Area Of A Sphere](/program/find-surface-area-of-a-sphere)

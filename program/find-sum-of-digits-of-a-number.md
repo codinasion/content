@@ -504,3 +504,16 @@ function getSumOfDigits(value: number) {
   return sum;
 }
 ```
+
+## Similar programs
+
+- [Find Sum Of Digits Of A Number By Recursion](/program/find-sum-of-digits-of-a-number-by-recursion)
+- [Find Average Of Digits Of A Number By Recursion](/program/find-average-of-digits-of-a-number-by-recursion)
+- [Find Average Of Digits Of A Number](/program/find-average-of-digits-of-a-number)
+- [Find Sum Of Numbers](/program/find-sum-of-numbers)
+- [Print Reverse Of A Number By Recursion](/program/print-reverse-of-a-number-by-recursion)
+- [Find Sum Of Cubes Of Numbers](/program/find-sum-of-cubes-of-numbers)
+- [Find Sum Of Squares Of Numbers](/program/find-sum-of-squares-of-numbers)
+- [Find The Sum Of All Numbers In An Array](/program/find-the-sum-of-all-numbers-in-an-array)
+- [Find Sum Of Numbers By Recursion](/program/find-sum-of-numbers-by-recursion)
+- [Print Reverse Of A Number](/program/print-reverse-of-a-number)

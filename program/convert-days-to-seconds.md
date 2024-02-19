@@ -402,3 +402,16 @@ function convertDaysToSeconds(days: number): number {
 
 console.log(convertDaysToSeconds(5));
 ```
+
+## Similar programs
+
+- [Convert Seconds To Days](/program/convert-seconds-to-days)
+- [Convert Seconds To Hours](/program/convert-seconds-to-hours)
+- [Convert Hours To Seconds](/program/convert-hours-to-seconds)
+- [Convert Minutes To Seconds](/program/convert-minutes-to-seconds)
+- [Convert Seconds To Minutes](/program/convert-seconds-to-minutes)
+- [Convert Seconds To Weeks](/program/convert-seconds-to-weeks)
+- [Convert Weeks To Seconds](/program/convert-weeks-to-seconds)
+- [Convert Days To Minutes](/program/convert-days-to-minutes)
+- [Convert Minutes To Days](/program/convert-minutes-to-days)
+- [Convert Hours To Days](/program/convert-hours-to-days)

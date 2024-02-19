@@ -341,3 +341,16 @@ function area(side: number): number {
 console.log("Side: " + side);
 console.log("Area: " + area(side));
 ```
+
+## Similar programs
+
+- [Find Surface Area Of A Cube](/program/find-surface-area-of-a-cube)
+- [Find Area Of A Square](/program/find-area-of-a-square)
+- [Find Cube Of A Number](/program/find-cube-of-a-number)
+- [Find Area Of A Circle](/program/find-area-of-a-circle)
+- [Find Area Of A Rectangle](/program/find-area-of-a-rectangle)
+- [Find Volume Of A Cube](/program/find-volume-of-a-cube)
+- [Find Cube Root Of A Number](/program/find-cube-root-of-a-number)
+- [Find Surface Area Of A Sphere](/program/find-surface-area-of-a-sphere)
+- [Find Area Of A Cuboid](/program/find-area-of-a-cuboid)
+- [Find Area Of A Right Angled Triangle](/program/find-area-of-a-right-angled-triangle)

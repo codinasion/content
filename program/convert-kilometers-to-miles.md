@@ -378,3 +378,16 @@ console.log("That is " + ConvertKilometersToMiles(1.6) + " // 0.9941936");
 console.log("Numer of miles in 3.2 kilometers: ");
 console.log("That is " + ConvertKilometersToMiles(3.2) + " // 1.9883872");
 ````
+
+## Similar programs
+
+- [Convert Kilometers To Miles](/program/convert-kilometers-to-miles)
+- [Convert Feet To Miles](/program/convert-feet-to-miles)
+- [Convert Miles To Feet](/program/convert-miles-to-feet)
+- [Convert Miles To Inches](/program/convert-miles-to-inches)
+- [Convert Inches To Miles](/program/convert-inches-to-miles)
+- [Convert Meters To Miles](/program/convert-meters-to-miles)
+- [Convert Miles To Meters](/program/convert-miles-to-meters)
+- [Convert A String To An Integer](/program/convert-a-string-to-an-integer)
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Convert String To Uppercase](/program/convert-string-to-uppercase)

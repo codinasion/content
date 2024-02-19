@@ -437,3 +437,16 @@ function permutations(total: number, sample: number): number {
 
 console.log(permutations(5, 2));
 ```
+
+## Similar programs
+
+- [Calculate The Combination Of N Objects Taken R At A Time](/program/calculate-the-combination-of-n-objects-taken-r-at-a-time)
+- [Calculate Simple Interest](/program/calculate-simple-interest)
+- [Calculate Compound Interest](/program/calculate-compound-interest)
+- [Convert Time From 24 Hour To 12 Hour Format](/program/convert-time-from-24-hour-to-12-hour-format)
+- [Convert Time From 12 Hour To 24 Hour Format](/program/convert-time-from-12-hour-to-24-hour-format)
+- [Find Sum Of N Natural Numbers Using Formula](/program/find-sum-of-n-natural-numbers-using-formula)
+- [Swap Two Numbers](/program/swap-two-numbers)
+- [Find Power Of A Number By Recursion](/program/find-power-of-a-number-by-recursion)
+- [Swap Two Numbers Without Using Third Variable](/program/swap-two-numbers-without-using-third-variable)
+- [Find Power Of A Number](/program/find-power-of-a-number)

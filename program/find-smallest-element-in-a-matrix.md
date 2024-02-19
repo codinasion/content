@@ -678,3 +678,16 @@ console.log(
   ])
 );
 ```
+
+## Similar programs
+
+- [Find Cofactors Of A Matrix](/program/find-cofactors-of-a-matrix)
+- [Find The Cofactor Of A Matrix](/program/find-the-cofactor-of-a-matrix)
+- [Find The Transpose Of A Matrix](/program/find-the-transpose-of-a-matrix)
+- [Find The Determinant Of A Matrix](/program/find-the-determinant-of-a-matrix)
+- [Find Smallest Number In An Array](/program/find-smallest-number-in-an-array)
+- [Find The Adjoint Of A Matrix](/program/find-the-adjoint-of-a-matrix)
+- [Implement Selection Sort](/program/implement-selection-sort)
+- [Find Largest And Smallest Numbers In An Array](/program/find-largest-and-smallest-numbers-in-an-array)
+- [Find The Trace Of A Matrix](/program/find-the-trace-of-a-matrix)
+- [Find Second Smallest Number In An Array](/program/find-second-smallest-number-in-an-array)

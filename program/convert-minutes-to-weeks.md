@@ -357,3 +357,16 @@ function ConvertMinutesToWeeks(minutes: number) {
 
 console.log(ConvertMinutesToWeeks(50400) + " weeks");
 ```
+
+## Similar programs
+
+- [Convert Minutes To Weeks](/program/convert-minutes-to-weeks)
+- [Convert Seconds To Weeks](/program/convert-seconds-to-weeks)
+- [Convert Weeks To Seconds](/program/convert-weeks-to-seconds)
+- [Convert Minutes To Hours](/program/convert-minutes-to-hours)
+- [Convert Hours To Minutes](/program/convert-hours-to-minutes)
+- [Convert Days To Minutes](/program/convert-days-to-minutes)
+- [Convert Minutes To Days](/program/convert-minutes-to-days)
+- [Convert Hours To Weeks](/program/convert-hours-to-weeks)
+- [Convert Weeks To Hours](/program/convert-weeks-to-hours)
+- [Convert Days To Weeks](/program/convert-days-to-weeks)

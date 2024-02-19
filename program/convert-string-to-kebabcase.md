@@ -334,3 +334,16 @@ function kebabCase(str: any) {
 
 kebabCase("hello world");
 ```
+
+## Similar programs
+
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Convert String To Dotcase](/program/convert-string-to-dotcase)
+- [Convert String To Pathcase](/program/convert-string-to-pathcase)
+- [Convert String To Uppercase](/program/convert-string-to-uppercase)
+- [Convert String To Snakecase](/program/convert-string-to-snakecase)
+- [Convert String To Reversecase](/program/convert-string-to-reversecase)
+- [Print Hello World](/program/print-hello-world)
+- [Convert String To Constantcase](/program/convert-string-to-constantcase)
+- [Reverse Words In A String](/program/reverse-words-in-a-string)
+- [Convert String To Titlecase](/program/convert-string-to-titlecase)

@@ -381,3 +381,16 @@ const printMultiplicationTable = (num: number) => {
 
 printMultiplicationTable(2);
 ```
+
+## Similar programs
+
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)
+- [Swap Two Numbers](/program/swap-two-numbers)
+- [Find The Smallest Two Elements In An Array](/program/find-the-smallest-two-elements-in-an-array)
+- [Find The Largest Two Elements In An Array](/program/find-the-largest-two-elements-in-an-array)
+- [Find The Smallest Three Elements In An Array](/program/find-the-smallest-three-elements-in-an-array)
+- [Print All Prime Numbers Between Two Numbers](/program/print-all-prime-numbers-between-two-numbers)
+- [Print Pattern 1](/program/print-pattern-1)
+- [Find Minimum Of N Numbers](/program/find-minimum-of-n-numbers)
+- [Print Elements Of An Array](/program/print-elements-of-an-array)

@@ -523,3 +523,16 @@ console.log(seconds);
 
 // contributed by technical Amanjeet
 ```
+
+## Similar programs
+
+- [Convert Weeks To Seconds](/program/convert-weeks-to-seconds)
+- [Convert Days To Seconds](/program/convert-days-to-seconds)
+- [Convert Seconds To Days](/program/convert-seconds-to-days)
+- [Convert Seconds To Hours](/program/convert-seconds-to-hours)
+- [Convert Hours To Seconds](/program/convert-hours-to-seconds)
+- [Convert Seconds To Minutes](/program/convert-seconds-to-minutes)
+- [Convert Minutes To Seconds](/program/convert-minutes-to-seconds)
+- [Convert Minutes To Weeks](/program/convert-minutes-to-weeks)
+- [Convert Weeks To Minutes](/program/convert-weeks-to-minutes)
+- [Convert Hours To Weeks](/program/convert-hours-to-weeks)

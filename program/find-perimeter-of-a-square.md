@@ -418,3 +418,16 @@ console.log(
   `The perimeter of the square of side ${side} is ${getPerimeterOfSquare(side)}`
 );
 ```
+
+## Similar programs
+
+- [Find Perimeter Of A Rectangle](/program/find-perimeter-of-a-rectangle)
+- [Find Square Of A Number](/program/find-square-of-a-number)
+- [Find Area Of A Square](/program/find-area-of-a-square)
+- [Find Square Root Of A Number](/program/find-square-root-of-a-number)
+- [Find The Inverse Of A](/program/find-the-inverse-of-a)
+- [Find The Trace Of A Matrix](/program/find-the-trace-of-a-matrix)
+- [Find The Determinant Of A Matrix](/program/find-the-determinant-of-a-matrix)
+- [Find The Adjoint Of A Matrix](/program/find-the-adjoint-of-a-matrix)
+- [Find The Cofactor Of A Matrix](/program/find-the-cofactor-of-a-matrix)
+- [Find Cofactors Of A Matrix](/program/find-cofactors-of-a-matrix)

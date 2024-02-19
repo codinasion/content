@@ -334,3 +334,16 @@ const inches = 10;
 const centimeters = inchesToCentimeters(inches);
 console.log(`${inches} inches is equal to ${centimeters} centimeters.`);
 ```
+
+## Similar programs
+
+- [Convert Centimeters To Inches](/program/convert-centimeters-to-inches)
+- [Convert Feet To Centimeters](/program/convert-feet-to-centimeters)
+- [Convert Centimeters To Feet](/program/convert-centimeters-to-feet)
+- [Convert Inches To Feet](/program/convert-inches-to-feet)
+- [Convert Feet To Inches](/program/convert-feet-to-inches)
+- [Convert Inches To Miles](/program/convert-inches-to-miles)
+- [Convert Miles To Inches](/program/convert-miles-to-inches)
+- [Convert Time From 12 Hour To 24 Hour Format](/program/convert-time-from-12-hour-to-24-hour-format)
+- [Convert Time From 24 Hour To 12 Hour Format](/program/convert-time-from-24-hour-to-12-hour-format)
+- [Convert A String To An Integer](/program/convert-a-string-to-an-integer)

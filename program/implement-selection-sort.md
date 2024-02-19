@@ -408,3 +408,16 @@ fn main() {
     println!("Sorted array: {:?}", numbers);
 }
 ```
+
+## Similar programs
+
+- [Find Smallest Element In A Matrix](/program/find-smallest-element-in-a-matrix)
+- [Implement Linear Search](/program/implement-linear-search)
+- [Implement Ternary Search](/program/implement-ternary-search)
+- [Implement Jump Search](/program/implement-jump-search)
+- [Find Minimum Of N Numbers](/program/find-minimum-of-n-numbers)
+- [Find Sum Of Cubes Of Numbers](/program/find-sum-of-cubes-of-numbers)
+- [Find Sum Of Squares Of Numbers](/program/find-sum-of-squares-of-numbers)
+- [Move All Zeroes To End Of Array](/program/move-all-zeroes-to-end-of-array)
+- [Implement Binary Search](/program/implement-binary-search)
+- [Swap Two Numbers](/program/swap-two-numbers)

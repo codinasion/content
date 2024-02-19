@@ -365,3 +365,16 @@ function findSurfaceAreaOfCube(numSides: number) {
 
 console.log(findSurfaceAreaOfCube(2));
 ```
+
+## Similar programs
+
+- [Find Area Of A Cube](/program/find-area-of-a-cube)
+- [Find Surface Area Of A Sphere](/program/find-surface-area-of-a-sphere)
+- [Find Surface Area Of A Cylinder](/program/find-surface-area-of-a-cylinder)
+- [Find Surface Area Of A Cone](/program/find-surface-area-of-a-cone)
+- [Find Surface Area Of A Cuboid](/program/find-surface-area-of-a-cuboid)
+- [Find Area Of A Square](/program/find-area-of-a-square)
+- [Find Cube Of A Number](/program/find-cube-of-a-number)
+- [Find Area Of A Circle](/program/find-area-of-a-circle)
+- [Find Area Of A Rectangle](/program/find-area-of-a-rectangle)
+- [Find Volume Of A Cube](/program/find-volume-of-a-cube)

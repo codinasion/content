@@ -504,3 +504,16 @@ const example_input_array = [10, 5, 8, 2, 7, 1, 3];
 const output_array = findSmallestThreeElements(example_input_array);
 console.log("Smallest three elements:", output_array);
 ```
+
+## Similar programs
+
+- [Find The Smallest Two Elements In An Array](/program/find-the-smallest-two-elements-in-an-array)
+- [Find The Largest Two Elements In An Array](/program/find-the-largest-two-elements-in-an-array)
+- [Find The Largest Three Elements In An Array](/program/find-the-largest-three-elements-in-an-array)
+- [Print Elements Of An Array](/program/print-elements-of-an-array)
+- [Move All Zeroes To End Of Array](/program/move-all-zeroes-to-end-of-array)
+- [Find Smallest Number In An Array](/program/find-smallest-number-in-an-array)
+- [Find Largest And Smallest Numbers In An Array](/program/find-largest-and-smallest-numbers-in-an-array)
+- [Find Second Smallest Number In An Array](/program/find-second-smallest-number-in-an-array)
+- [Find Minimum Of N Numbers](/program/find-minimum-of-n-numbers)
+- [Swap Two Numbers](/program/swap-two-numbers)

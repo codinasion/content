@@ -503,3 +503,16 @@ console.log("That is " + FindSurfaceAreaOfACuboid(2, 3, 4) + " // 52");
 console.log("Area of cuboid of dimensions 5, 1, 3: ");
 console.log("That is " + FindSurfaceAreaOfACuboid(5, 1, 3) + " // 46");
 ````
+
+## Similar programs
+
+- [Find Area Of A Cuboid](/program/find-area-of-a-cuboid)
+- [Find Surface Area Of A Cylinder](/program/find-surface-area-of-a-cylinder)
+- [Find Surface Area Of A Cube](/program/find-surface-area-of-a-cube)
+- [Find Volume Of A Cuboid](/program/find-volume-of-a-cuboid)
+- [Find Surface Area Of A Cone](/program/find-surface-area-of-a-cone)
+- [Find Area Of A Rectangle](/program/find-area-of-a-rectangle)
+- [Find Surface Area Of A Sphere](/program/find-surface-area-of-a-sphere)
+- [Find Area Of A Square](/program/find-area-of-a-square)
+- [Find Area Of A Cube](/program/find-area-of-a-cube)
+- [Find Area Of A Right Angled Triangle](/program/find-area-of-a-right-angled-triangle)

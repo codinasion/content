@@ -397,3 +397,16 @@ console.log("That is " + ConvertDaysToWeeks(14) + " // 2");
 console.log("Numer of weeks in 28 days: ");
 console.log("That is " + ConvertDaysToWeeks(28) + " // 4");
 ````
+
+## Similar programs
+
+- [Convert Weeks To Days](/program/convert-weeks-to-days)
+- [Convert Weeks To Hours](/program/convert-weeks-to-hours)
+- [Convert Hours To Weeks](/program/convert-hours-to-weeks)
+- [Convert Weeks To Minutes](/program/convert-weeks-to-minutes)
+- [Convert Minutes To Weeks](/program/convert-minutes-to-weeks)
+- [Convert Seconds To Weeks](/program/convert-seconds-to-weeks)
+- [Convert Weeks To Seconds](/program/convert-weeks-to-seconds)
+- [Convert Hours To Days](/program/convert-hours-to-days)
+- [Convert Days To Hours](/program/convert-days-to-hours)
+- [Convert Minutes To Days](/program/convert-minutes-to-days)

@@ -390,3 +390,16 @@ factorialize(5);
 
 console.log("Factorial of 5 is", factorialize(5));
 ```
+
+## Similar programs
+
+- [Find Factorial Of A Number](/program/find-factorial-of-a-number)
+- [Find Power Of A Number By Recursion](/program/find-power-of-a-number-by-recursion)
+- [Find Sum Of Numbers By Recursion](/program/find-sum-of-numbers-by-recursion)
+- [Print Reverse Of A Number By Recursion](/program/print-reverse-of-a-number-by-recursion)
+- [Find Power Of A Number](/program/find-power-of-a-number)
+- [Find Sum Of Digits Of A Number By Recursion](/program/find-sum-of-digits-of-a-number-by-recursion)
+- [Find Smallest Number In An Array](/program/find-smallest-number-in-an-array)
+- [Find Sum Of N Natural Numbers By Recursion](/program/find-sum-of-n-natural-numbers-by-recursion)
+- [Find Average Of Digits Of A Number By Recursion](/program/find-average-of-digits-of-a-number-by-recursion)
+- [Find Cube Of A Number](/program/find-cube-of-a-number)

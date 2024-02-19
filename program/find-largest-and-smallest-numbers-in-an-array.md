@@ -414,3 +414,16 @@ function findingSmallLarge(numArr: number[]) {
 const numberArr: number[] = [1, 2, 3, 4, 5];
 findingSmallLarge(numberArr);
 ```
+
+## Similar programs
+
+- [Find Largest Number In An Array](/program/find-largest-number-in-an-array)
+- [Find Smallest Number In An Array](/program/find-smallest-number-in-an-array)
+- [Find Second Largest Number In An Array](/program/find-second-largest-number-in-an-array)
+- [Find The Sum Of All Numbers In An Array](/program/find-the-sum-of-all-numbers-in-an-array)
+- [Find Second Smallest Number In An Array](/program/find-second-smallest-number-in-an-array)
+- [Find The Average Of All Numbers In An Array](/program/find-the-average-of-all-numbers-in-an-array)
+- [Find The Largest Two Elements In An Array](/program/find-the-largest-two-elements-in-an-array)
+- [Reverse An Array](/program/reverse-an-array)
+- [Find The Smallest Two Elements In An Array](/program/find-the-smallest-two-elements-in-an-array)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)

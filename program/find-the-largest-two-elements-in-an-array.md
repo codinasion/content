@@ -528,3 +528,16 @@ const { max1, max2 } = findTheLargestTwoElementsInAnArray(list);
 
 console.log(`The largest two elements are ${max1} and ${max2}`);
 ```
+
+## Similar programs
+
+- [Find The Smallest Two Elements In An Array](/program/find-the-smallest-two-elements-in-an-array)
+- [Find The Smallest Three Elements In An Array](/program/find-the-smallest-three-elements-in-an-array)
+- [Find Largest Number In An Array](/program/find-largest-number-in-an-array)
+- [Find The Largest Three Elements In An Array](/program/find-the-largest-three-elements-in-an-array)
+- [Print Elements Of An Array](/program/print-elements-of-an-array)
+- [Find Largest And Smallest Numbers In An Array](/program/find-largest-and-smallest-numbers-in-an-array)
+- [Find Second Largest Number In An Array](/program/find-second-largest-number-in-an-array)
+- [Move All Zeroes To End Of Array](/program/move-all-zeroes-to-end-of-array)
+- [Swap Two Numbers](/program/swap-two-numbers)
+- [Find Minimum Of N Numbers](/program/find-minimum-of-n-numbers)

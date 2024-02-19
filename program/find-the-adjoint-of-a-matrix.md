@@ -1039,3 +1039,16 @@ printMat(mat);
 console.log("Adjoint matrix:");
 printMat(getAdjoint(mat));
 ```
+
+## Similar programs
+
+- [Find The Transpose Of A Matrix](/program/find-the-transpose-of-a-matrix)
+- [Find Cofactors Of A Matrix](/program/find-cofactors-of-a-matrix)
+- [Find The Determinant Of A Matrix](/program/find-the-determinant-of-a-matrix)
+- [Find The Cofactor Of A Matrix](/program/find-the-cofactor-of-a-matrix)
+- [Find Smallest Element In A Matrix](/program/find-smallest-element-in-a-matrix)
+- [Find The Inverse Of A](/program/find-the-inverse-of-a)
+- [Find The Trace Of A Matrix](/program/find-the-trace-of-a-matrix)
+- [Find The Eigenvalues Of A Matrix](/program/find-the-eigenvalues-of-a-matrix)
+- [Find The Rank Of A Matrix](/program/find-the-rank-of-a-matrix)
+- [Find The Eigenvectors Of A Matrix](/program/find-the-eigenvectors-of-a-matrix)

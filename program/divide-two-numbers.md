@@ -413,3 +413,16 @@ console.log("Second Number: ", secondNumber);
 
 console.log("Output : ", divide(firstNumber, secondNumber));
 ```
+
+## Similar programs
+
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)
+- [Find Average Of Numbers](/program/find-average-of-numbers)
+- [Find Sum Of Numbers](/program/find-sum-of-numbers)
+- [Print All Prime Numbers Between Two Numbers](/program/print-all-prime-numbers-between-two-numbers)
+- [Find The Sum Of All Numbers In An Array](/program/find-the-sum-of-all-numbers-in-an-array)
+- [Find Sum Of Numbers By Recursion](/program/find-sum-of-numbers-by-recursion)
+- [Find The Average Of All Numbers In An Array](/program/find-the-average-of-all-numbers-in-an-array)
+- [Find Sum Of N Natural Numbers](/program/find-sum-of-n-natural-numbers)
+- [Find Largest And Smallest Numbers In An Array](/program/find-largest-and-smallest-numbers-in-an-array)

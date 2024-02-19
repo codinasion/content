@@ -366,3 +366,16 @@ let b: number = 20;
 console.log(a);
 console.log(b);
 ```
+
+## Similar programs
+
+- [Swap Two Numbers](/program/swap-two-numbers)
+- [Print Numbers From N To 1 Without Using A Loop](/program/print-numbers-from-n-to-1-without-using-a-loop)
+- [Print Numbers From 1 To N Without Using A Loop](/program/print-numbers-from-1-to-n-without-using-a-loop)
+- [Find Minimum Of N Numbers](/program/find-minimum-of-n-numbers)
+- [Find Sum Of N Natural Numbers Using Formula](/program/find-sum-of-n-natural-numbers-using-formula)
+- [Print All Prime Numbers Between Two Numbers](/program/print-all-prime-numbers-between-two-numbers)
+- [Find Maximum Of N Numbers](/program/find-maximum-of-n-numbers)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)
+- [Find The Largest Two Elements In An Array](/program/find-the-largest-two-elements-in-an-array)

@@ -447,3 +447,16 @@ export const binaryToOctal = (input: number): number => {
   return Number(decimal.toString(8));
 };
 ```
+
+## Similar programs
+
+- [Convert Binary To Octal](/program/convert-binary-to-octal)
+- [Convert Hexadecimal To Binary](/program/convert-hexadecimal-to-binary)
+- [Convert Binary To Hexadecimal](/program/convert-binary-to-hexadecimal)
+- [Convert Octal To Hexadecimal](/program/convert-octal-to-hexadecimal)
+- [Convert Hexadecimal To Octal](/program/convert-hexadecimal-to-octal)
+- [Convert Decimal To Binary](/program/convert-decimal-to-binary)
+- [Convert Decimal To Octal](/program/convert-decimal-to-octal)
+- [Convert Binary To Decimal](/program/convert-binary-to-decimal)
+- [Convert Octal To Decimal](/program/convert-octal-to-decimal)
+- [Convert Decimal To Hexadecimal](/program/convert-decimal-to-hexadecimal)

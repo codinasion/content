@@ -413,3 +413,16 @@ const ConvertSecondsToMinutes = (seconds: number): number => seconds / 60;
 console.log("Input: 300");
 console.log("Output:", ConvertSecondsToMinutes(300));
 ```
+
+## Similar programs
+
+- [Convert Minutes To Seconds](/program/convert-minutes-to-seconds)
+- [Convert Hours To Seconds](/program/convert-hours-to-seconds)
+- [Convert Seconds To Hours](/program/convert-seconds-to-hours)
+- [Convert Days To Seconds](/program/convert-days-to-seconds)
+- [Convert Seconds To Days](/program/convert-seconds-to-days)
+- [Convert Weeks To Seconds](/program/convert-weeks-to-seconds)
+- [Convert Seconds To Weeks](/program/convert-seconds-to-weeks)
+- [Convert Minutes To Hours](/program/convert-minutes-to-hours)
+- [Convert Hours To Minutes](/program/convert-hours-to-minutes)
+- [Convert Days To Minutes](/program/convert-days-to-minutes)

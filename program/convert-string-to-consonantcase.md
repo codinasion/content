@@ -574,3 +574,16 @@ const convertToConsonantcase = (input: string) => {
 
 console.log(convertToConsonantcase("hello world"));
 ```
+
+## Similar programs
+
+- [Convert String To Vowelcase](/program/convert-string-to-vowelcase)
+- [Convert String To Uppercase](/program/convert-string-to-uppercase)
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Convert String To Reversecase](/program/convert-string-to-reversecase)
+- [Convert String To Alternatingcase](/program/convert-string-to-alternatingcase)
+- [Print Hello World](/program/print-hello-world)
+- [Convert String To Dotcase](/program/convert-string-to-dotcase)
+- [Convert String To Kebabcase](/program/convert-string-to-kebabcase)
+- [Reverse Words In A String](/program/reverse-words-in-a-string)
+- [Convert String To Pathcase](/program/convert-string-to-pathcase)

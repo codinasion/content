@@ -516,3 +516,16 @@ const string2ReverseCase = (str: string): string => {
 
 console.log(string2ReverseCase("hello world"));
 ```
+
+## Similar programs
+
+- [Convert String To Uppercase](/program/convert-string-to-uppercase)
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Convert String To Consonantcase](/program/convert-string-to-consonantcase)
+- [Convert String To Vowelcase](/program/convert-string-to-vowelcase)
+- [Convert String To Dotcase](/program/convert-string-to-dotcase)
+- [Convert String To Kebabcase](/program/convert-string-to-kebabcase)
+- [Convert String To Pathcase](/program/convert-string-to-pathcase)
+- [Convert String To Alternatingcase](/program/convert-string-to-alternatingcase)
+- [Convert String To Constantcase](/program/convert-string-to-constantcase)
+- [Convert String To Snakecase](/program/convert-string-to-snakecase)

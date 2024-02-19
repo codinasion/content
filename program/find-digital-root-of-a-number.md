@@ -353,3 +353,16 @@ console.log(findDigitalRootByRecursion(642));
 console.log(findDigitalRootByRecursion(0));
 console.log(findDigitalRootByRecursion(1));
 ```
+
+## Similar programs
+
+- [Find Square Root Of A Number](/program/find-square-root-of-a-number)
+- [Find Cube Root Of A Number](/program/find-cube-root-of-a-number)
+- [Find Sum Of Digits Of A Number](/program/find-sum-of-digits-of-a-number)
+- [Find Average Of Digits Of A Number](/program/find-average-of-digits-of-a-number)
+- [Print Reverse Of A Number By Recursion](/program/print-reverse-of-a-number-by-recursion)
+- [Find Average Of Digits Of A Number By Recursion](/program/find-average-of-digits-of-a-number-by-recursion)
+- [Find Power Of A Number](/program/find-power-of-a-number)
+- [Find Sum Of Digits Of A Number By Recursion](/program/find-sum-of-digits-of-a-number-by-recursion)
+- [Check Armstrong Number](/program/check-armstrong-number)
+- [Find Smallest Number In An Array](/program/find-smallest-number-in-an-array)

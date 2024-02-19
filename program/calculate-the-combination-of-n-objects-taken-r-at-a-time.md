@@ -265,3 +265,16 @@ function cbn(n: number, r: number): number {
 
 console.log(cbn(5, 2));
 ```
+
+## Similar programs
+
+- [Calculate The Permutation Of N Objects Taken R At A Time](/program/calculate-the-permutation-of-n-objects-taken-r-at-a-time)
+- [Calculate Simple Interest](/program/calculate-simple-interest)
+- [Calculate Compound Interest](/program/calculate-compound-interest)
+- [Convert Time From 12 Hour To 24 Hour Format](/program/convert-time-from-12-hour-to-24-hour-format)
+- [Convert Time From 24 Hour To 12 Hour Format](/program/convert-time-from-24-hour-to-12-hour-format)
+- [Implement Selection Sort](/program/implement-selection-sort)
+- [Find Sum Of N Natural Numbers Using Formula](/program/find-sum-of-n-natural-numbers-using-formula)
+- [Find Power Of A Number By Recursion](/program/find-power-of-a-number-by-recursion)
+- [Find The Smallest Two Elements In An Array](/program/find-the-smallest-two-elements-in-an-array)
+- [Find The Largest Two Elements In An Array](/program/find-the-largest-two-elements-in-an-array)

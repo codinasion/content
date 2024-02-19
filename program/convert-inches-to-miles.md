@@ -352,3 +352,16 @@ function inchesToMiles(inches: number) {
 
 console.log("Converting Inches to Miles", inchesToMiles(12345) + " miles");
 ```
+
+## Similar programs
+
+- [Convert Miles To Inches](/program/convert-miles-to-inches)
+- [Convert Feet To Inches](/program/convert-feet-to-inches)
+- [Convert Inches To Feet](/program/convert-inches-to-feet)
+- [Convert Centimeters To Inches](/program/convert-centimeters-to-inches)
+- [Convert Inches To Centimeters](/program/convert-inches-to-centimeters)
+- [Convert Miles To Feet](/program/convert-miles-to-feet)
+- [Convert Feet To Miles](/program/convert-feet-to-miles)
+- [Convert Kilometers To Miles](/program/convert-kilometers-to-miles)
+- [Convert Miles To Kilometers](/program/convert-miles-to-kilometers)
+- [Convert Meters To Miles](/program/convert-meters-to-miles)

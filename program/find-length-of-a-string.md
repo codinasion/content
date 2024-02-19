@@ -393,3 +393,16 @@ function findLengthOfAString(text: string): number {
 
 console.log("Length of given text is:", findLengthOfAString("abcd"));
 ```
+
+## Similar programs
+
+- [Print Reverse Of A String](/program/print-reverse-of-a-string)
+- [Find Area Of A Cuboid](/program/find-area-of-a-cuboid)
+- [Print Reverse Of A String By Recursion](/program/print-reverse-of-a-string-by-recursion)
+- [Find Surface Area Of A Cuboid](/program/find-surface-area-of-a-cuboid)
+- [Find Area Of A Rectangle](/program/find-area-of-a-rectangle)
+- [Check Palindrome String](/program/check-palindrome-string)
+- [Find Volume Of A Cuboid](/program/find-volume-of-a-cuboid)
+- [Convert A String To An Integer](/program/convert-a-string-to-an-integer)
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Find Perimeter Of A Rectangle](/program/find-perimeter-of-a-rectangle)

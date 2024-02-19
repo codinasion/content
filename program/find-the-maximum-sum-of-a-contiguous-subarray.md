@@ -297,3 +297,16 @@ input_array <- c(-2, -3, 4, -1, -2, 1, 5, -3)
 max_sum <- findMaxSubarraySum(input_array)
 print(max_sum)
 ```
+
+## Similar programs
+
+- [Find The Maximum Sum Of A Contiguous Subarray (kadanes Algorithm)](</program/find-the-maximum-sum-of-a-contiguous-subarray-(kadanes-algorithm)>)
+- [Find The Maximum Sum Of A Contiguous Subarray (circular)](</program/find-the-maximum-sum-of-a-contiguous-subarray-(circular)>)
+- [Find Sum Of Numbers](/program/find-sum-of-numbers)
+- [Find The Sum Of All Numbers In An Array](/program/find-the-sum-of-all-numbers-in-an-array)
+- [Find Sum Of Numbers By Recursion](/program/find-sum-of-numbers-by-recursion)
+- [Find Maximum Of N Numbers](/program/find-maximum-of-n-numbers)
+- [Find Sum Of Digits Of A Number](/program/find-sum-of-digits-of-a-number)
+- [Find Sum Of N Natural Numbers](/program/find-sum-of-n-natural-numbers)
+- [Find Sum Of Digits Of A Number By Recursion](/program/find-sum-of-digits-of-a-number-by-recursion)
+- [Find Largest Number In An Array](/program/find-largest-number-in-an-array)

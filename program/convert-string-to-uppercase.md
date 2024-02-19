@@ -297,3 +297,16 @@ function stringToUppercase(str: string) {
 
 stringToUppercase("hello world");
 ```
+
+## Similar programs
+
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Print Hello World](/program/print-hello-world)
+- [Convert String To Reversecase](/program/convert-string-to-reversecase)
+- [Reverse Words In A String](/program/reverse-words-in-a-string)
+- [Convert String To Consonantcase](/program/convert-string-to-consonantcase)
+- [Convert String To Vowelcase](/program/convert-string-to-vowelcase)
+- [Split String Into Array Of Words](/program/split-string-into-array-of-words)
+- [Convert String To Titlecase](/program/convert-string-to-titlecase)
+- [Convert String To Alternatingcase](/program/convert-string-to-alternatingcase)
+- [Convert String To Constantcase](/program/convert-string-to-constantcase)

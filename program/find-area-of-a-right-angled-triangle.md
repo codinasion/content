@@ -344,3 +344,16 @@ export function areaOfRightTriangle(base: number, height: number): number {
   return 0.5 * base * height;
 }
 ```
+
+## Similar programs
+
+- [Print Floyds Triangle](/program/print-floyds-triangle)
+- [Find Area Of A Square](/program/find-area-of-a-square)
+- [Find Area Of A Cube](/program/find-area-of-a-cube)
+- [Find Area Of A Cuboid](/program/find-area-of-a-cuboid)
+- [Find Surface Area Of A Cylinder](/program/find-surface-area-of-a-cylinder)
+- [Find Area Of A Circle](/program/find-area-of-a-circle)
+- [Find Area Of A Rectangle](/program/find-area-of-a-rectangle)
+- [Find Surface Area Of A Cuboid](/program/find-surface-area-of-a-cuboid)
+- [Print Pascals Triangle](/program/print-pascals-triangle)
+- [Find Surface Area Of A Cone](/program/find-surface-area-of-a-cone)

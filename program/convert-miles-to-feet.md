@@ -372,3 +372,16 @@ export function convertMilesToFeet(miles: Miles): Feets {
   return miles * 5280;
 }
 ```
+
+## Similar programs
+
+- [Convert Miles To Feet](/program/convert-miles-to-feet)
+- [Convert Feet To Inches](/program/convert-feet-to-inches)
+- [Convert Inches To Feet](/program/convert-inches-to-feet)
+- [Convert Feet To Centimeters](/program/convert-feet-to-centimeters)
+- [Convert Centimeters To Feet](/program/convert-centimeters-to-feet)
+- [Convert Miles To Inches](/program/convert-miles-to-inches)
+- [Convert Inches To Miles](/program/convert-inches-to-miles)
+- [Convert Miles To Kilometers](/program/convert-miles-to-kilometers)
+- [Convert Kilometers To Miles](/program/convert-kilometers-to-miles)
+- [Convert Meters To Miles](/program/convert-meters-to-miles)

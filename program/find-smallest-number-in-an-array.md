@@ -403,3 +403,16 @@ function FindSmallestNumberInAnArray(values: number[]) {
 
 FindSmallestNumberInAnArray([1, 4, -5, 2, 1]);
 ```
+
+## Similar programs
+
+- [Find Second Smallest Number In An Array](/program/find-second-smallest-number-in-an-array)
+- [Find Largest And Smallest Numbers In An Array](/program/find-largest-and-smallest-numbers-in-an-array)
+- [Find Largest Number In An Array](/program/find-largest-number-in-an-array)
+- [Find Second Largest Number In An Array](/program/find-second-largest-number-in-an-array)
+- [Reverse An Array](/program/reverse-an-array)
+- [Find The Smallest Two Elements In An Array](/program/find-the-smallest-two-elements-in-an-array)
+- [Find The Smallest Three Elements In An Array](/program/find-the-smallest-three-elements-in-an-array)
+- [Find The Sum Of All Numbers In An Array](/program/find-the-sum-of-all-numbers-in-an-array)
+- [Print Elements Of An Array](/program/print-elements-of-an-array)
+- [Find Smallest Element In A Matrix](/program/find-smallest-element-in-a-matrix)

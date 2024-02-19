@@ -298,3 +298,16 @@ function printReverseOfAStringByRecursion(str: string): string {
   return printReverseOfAStringByRecursion(str.substring(1)) + str[0];
 }
 ```
+
+## Similar programs
+
+- [Print Reverse Of A String](/program/print-reverse-of-a-string)
+- [Print Reverse Of A Number](/program/print-reverse-of-a-number)
+- [Reverse An Array](/program/reverse-an-array)
+- [Reverse Words In A String](/program/reverse-words-in-a-string)
+- [Print Reverse Of A Number By Recursion](/program/print-reverse-of-a-number-by-recursion)
+- [Find Length Of A String](/program/find-length-of-a-string)
+- [Split String Into Array Of Characters](/program/split-string-into-array-of-characters)
+- [Check Palindrome String](/program/check-palindrome-string)
+- [Print Fibonacci Series By Recursion](/program/print-fibonacci-series-by-recursion)
+- [Print Fibonacci Series Without Recursion](/program/print-fibonacci-series-without-recursion)

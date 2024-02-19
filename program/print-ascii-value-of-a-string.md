@@ -291,3 +291,16 @@ function printASCIIofString(str: string) {
 
 printASCIIofString("ABCd");
 ```
+
+## Similar programs
+
+- [Print String Of Ascii Values](/program/print-string-of-ascii-values)
+- [Print Character Of An Ascii Value](/program/print-character-of-an-ascii-value)
+- [Print Ascii Value Of A Character](/program/print-ascii-value-of-a-character)
+- [Check Special Character](/program/check-special-character)
+- [Implement Ternary Search](/program/implement-ternary-search)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Print Reverse Of A String](/program/print-reverse-of-a-string)
+- [Print Reverse Of A String By Recursion](/program/print-reverse-of-a-string-by-recursion)
+- [Check Palindrome String](/program/check-palindrome-string)

@@ -408,3 +408,16 @@ const meters = 8046.72;
 console.log("Input  : " + meters);
 console.log("Output : " + convertMetersToMiles(meters));
 ```
+
+## Similar programs
+
+- [Convert Miles To Meters](/program/convert-miles-to-meters)
+- [Convert Feet To Miles](/program/convert-feet-to-miles)
+- [Convert Miles To Feet](/program/convert-miles-to-feet)
+- [Convert Miles To Inches](/program/convert-miles-to-inches)
+- [Convert Inches To Miles](/program/convert-inches-to-miles)
+- [Convert Miles To Kilometers](/program/convert-miles-to-kilometers)
+- [Convert Kilometers To Miles](/program/convert-kilometers-to-miles)
+- [Convert A String To An Integer](/program/convert-a-string-to-an-integer)
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Convert String To Uppercase](/program/convert-string-to-uppercase)

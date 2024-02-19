@@ -394,3 +394,16 @@ function checkVowels(str: string) {
 
 console.log(checkVowels("U"));
 ```
+
+## Similar programs
+
+- [Check Special Character](/program/check-special-character)
+- [Check Digit](/program/check-digit)
+- [Check Alphabet](/program/check-alphabet)
+- [Check Consonant](/program/check-consonant)
+- [Check Upper Case](/program/check-upper-case)
+- [Check Lower Case](/program/check-lower-case)
+- [Check Valid Date](/program/check-valid-date)
+- [Check Integer Or Float](/program/check-integer-or-float)
+- [Check Even Or Odd Number](/program/check-even-or-odd-number)
+- [Check Prime Number](/program/check-prime-number)

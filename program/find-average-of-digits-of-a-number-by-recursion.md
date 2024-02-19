@@ -509,3 +509,16 @@ const averageOfDigits = function (
 };
 console.log(averageOfDigits(123));
 ```
+
+## Similar programs
+
+- [Find Average Of Digits Of A Number](/program/find-average-of-digits-of-a-number)
+- [Find Sum Of Digits Of A Number](/program/find-sum-of-digits-of-a-number)
+- [Find Sum Of Digits Of A Number By Recursion](/program/find-sum-of-digits-of-a-number-by-recursion)
+- [Find Average Of Numbers By Recursion](/program/find-average-of-numbers-by-recursion)
+- [Print Reverse Of A Number By Recursion](/program/print-reverse-of-a-number-by-recursion)
+- [Find Average Of Numbers](/program/find-average-of-numbers)
+- [Find The Average Of All Numbers In An Array](/program/find-the-average-of-all-numbers-in-an-array)
+- [Print Reverse Of A Number](/program/print-reverse-of-a-number)
+- [Convert A String To An Integer](/program/convert-a-string-to-an-integer)
+- [Check Armstrong Number](/program/check-armstrong-number)

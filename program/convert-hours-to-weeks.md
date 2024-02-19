@@ -380,3 +380,16 @@ function convertHoursToWeeks(hours: number) {
 
 console.log(convertHoursToWeeks(840) + " weeks");
 ```
+
+## Similar programs
+
+- [Convert Hours To Weeks](/program/convert-hours-to-weeks)
+- [Convert Hours To Days](/program/convert-hours-to-days)
+- [Convert Days To Hours](/program/convert-days-to-hours)
+- [Convert Minutes To Weeks](/program/convert-minutes-to-weeks)
+- [Convert Weeks To Minutes](/program/convert-weeks-to-minutes)
+- [Convert Days To Weeks](/program/convert-days-to-weeks)
+- [Convert Weeks To Days](/program/convert-weeks-to-days)
+- [Convert Seconds To Weeks](/program/convert-seconds-to-weeks)
+- [Convert Weeks To Seconds](/program/convert-weeks-to-seconds)
+- [Convert Minutes To Hours](/program/convert-minutes-to-hours)

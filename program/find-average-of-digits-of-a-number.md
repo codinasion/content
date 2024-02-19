@@ -400,3 +400,16 @@ console.log("That is" + findAverageOfDigitsNumberTs(12345) + "// 3");
 console.log("Average digits of 0.");
 console.log("That is" + findAverageOfDigitsNumberTs(0) + "// 0");
 ````
+
+## Similar programs
+
+- [Find Average Of Digits Of A Number By Recursion](/program/find-average-of-digits-of-a-number-by-recursion)
+- [Find Sum Of Digits Of A Number](/program/find-sum-of-digits-of-a-number)
+- [Find Sum Of Digits Of A Number By Recursion](/program/find-sum-of-digits-of-a-number-by-recursion)
+- [Find Average Of Numbers By Recursion](/program/find-average-of-numbers-by-recursion)
+- [Find Average Of Numbers](/program/find-average-of-numbers)
+- [Find The Average Of All Numbers In An Array](/program/find-the-average-of-all-numbers-in-an-array)
+- [Print Reverse Of A Number By Recursion](/program/print-reverse-of-a-number-by-recursion)
+- [Check Armstrong Number](/program/check-armstrong-number)
+- [Print Reverse Of A Number](/program/print-reverse-of-a-number)
+- [Convert Hexadecimal To Octal](/program/convert-hexadecimal-to-octal)

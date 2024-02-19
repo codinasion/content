@@ -443,3 +443,16 @@ function checkLeapYear(year: number) {
 
 console.log(checkLeapYear(2022));
 ```
+
+## Similar programs
+
+- [Find Weekend Days From Number Of Years](/program/find-weekend-days-from-number-of-years)
+- [Convert Standard Date Format To Julian Date And Vice Versa](/program/convert-standard-date-format-to-julian-date-and-vice-versa)
+- [Check Valid Date](/program/check-valid-date)
+- [Check Digit](/program/check-digit)
+- [Check Alphabet](/program/check-alphabet)
+- [Check Vowel](/program/check-vowel)
+- [Check Consonant](/program/check-consonant)
+- [Check Integer Or Float](/program/check-integer-or-float)
+- [Check Even Or Odd Number](/program/check-even-or-odd-number)
+- [Check Upper Case](/program/check-upper-case)

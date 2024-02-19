@@ -532,3 +532,16 @@ function LinearSearch(sequence: number[], target: number): number {
   return -1; // Target not found
 }
 ```
+
+## Similar programs
+
+- [Implement Binary Search](/program/implement-binary-search)
+- [Implement Jump Search](/program/implement-jump-search)
+- [Implement Ternary Search](/program/implement-ternary-search)
+- [Implement Selection Sort](/program/implement-selection-sort)
+- [Move All Zeroes To End Of Array](/program/move-all-zeroes-to-end-of-array)
+- [Print Ascii Value Of A String](/program/print-ascii-value-of-a-string)
+- [Print Character Of An Ascii Value](/program/print-character-of-an-ascii-value)
+- [Print Ascii Value Of A Character](/program/print-ascii-value-of-a-character)
+- [Find Sum Of Cubes Of Numbers](/program/find-sum-of-cubes-of-numbers)
+- [Find Sum Of Squares Of Numbers](/program/find-sum-of-squares-of-numbers)

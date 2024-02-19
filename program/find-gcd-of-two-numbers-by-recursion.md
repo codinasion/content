@@ -463,3 +463,16 @@ const gcd = (x: number, y: number): number => {
 
 console.log(gcd(12, 18));
 ```
+
+## Similar programs
+
+- [Find Gcd Of Two Numbers](/program/find-gcd-of-two-numbers)
+- [Find Sum Of Numbers By Recursion](/program/find-sum-of-numbers-by-recursion)
+- [Find Average Of Numbers](/program/find-average-of-numbers)
+- [Find Sum Of N Natural Numbers By Recursion](/program/find-sum-of-n-natural-numbers-by-recursion)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)
+- [Find Lcm Of Two Numbers By Recursion](/program/find-lcm-of-two-numbers-by-recursion)
+- [Find Sum Of Cubes Of Numbers By Recursion](/program/find-sum-of-cubes-of-numbers-by-recursion)
+- [Find Sum Of Squares Of Numbers By Recursion](/program/find-sum-of-squares-of-numbers-by-recursion)
+- [Find Largest And Smallest Numbers In An Array](/program/find-largest-and-smallest-numbers-in-an-array)

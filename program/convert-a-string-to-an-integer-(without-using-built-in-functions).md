@@ -437,3 +437,16 @@ function convertStringToInteger(str: string): number {
   return num * (isNegative ? -1 : 1);
 }
 ```
+
+## Similar programs
+
+- [Convert A String To An Integer](/program/convert-a-string-to-an-integer)
+- [Check Integer Or Float](/program/check-integer-or-float)
+- [Print Numbers From N To 1 Without Using A Loop](/program/print-numbers-from-n-to-1-without-using-a-loop)
+- [Print Numbers From 1 To N Without Using A Loop](/program/print-numbers-from-1-to-n-without-using-a-loop)
+- [Find Sum Of N Natural Numbers Using Formula](/program/find-sum-of-n-natural-numbers-using-formula)
+- [Swap Two Numbers Without Using Third Variable](/program/swap-two-numbers-without-using-third-variable)
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Convert String To Uppercase](/program/convert-string-to-uppercase)
+- [Find Average Of Digits Of A Number By Recursion](/program/find-average-of-digits-of-a-number-by-recursion)
+- [Find Length Of A String](/program/find-length-of-a-string)

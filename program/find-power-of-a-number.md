@@ -451,3 +451,16 @@ const powerOfNumber = (num: number, power: number): number => {
 
 console.log(powerOfNumber(2, 3));
 ```
+
+## Similar programs
+
+- [Find Power Of A Number By Recursion](/program/find-power-of-a-number-by-recursion)
+- [Find Smallest Number In An Array](/program/find-smallest-number-in-an-array)
+- [Find Cube Of A Number](/program/find-cube-of-a-number)
+- [Find Square Of A Number](/program/find-square-of-a-number)
+- [Print Reverse Of A Number By Recursion](/program/print-reverse-of-a-number-by-recursion)
+- [Check Prime Number](/program/check-prime-number)
+- [Find Largest Number In An Array](/program/find-largest-number-in-an-array)
+- [Check Armstrong Number](/program/check-armstrong-number)
+- [Find Negative Of A Number](/program/find-negative-of-a-number)
+- [Find Average Of Digits Of A Number](/program/find-average-of-digits-of-a-number)

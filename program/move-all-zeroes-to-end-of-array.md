@@ -519,3 +519,16 @@ function moveZeroesToEnd(arr: number[]): number[] {
 console.log(moveZeroesToEnd([1, 2, 0, 4, 3, 0, 5, 0])); // Output: [1, 2, 4, 3, 5, 0, 0, 0]
 console.log(moveZeroesToEnd([1, 2, 0, 0, 0, 3, 6])); // Output: [1, 2, 3, 6, 0, 0, 0]
 ```
+
+## Similar programs
+
+- [Find The Smallest Two Elements In An Array](/program/find-the-smallest-two-elements-in-an-array)
+- [Find The Smallest Three Elements In An Array](/program/find-the-smallest-three-elements-in-an-array)
+- [Implement Jump Search](/program/implement-jump-search)
+- [Find The Largest Two Elements In An Array](/program/find-the-largest-two-elements-in-an-array)
+- [Find The Largest Three Elements In An Array](/program/find-the-largest-three-elements-in-an-array)
+- [Reverse An Array](/program/reverse-an-array)
+- [Find Smallest Number In An Array](/program/find-smallest-number-in-an-array)
+- [Find The Sum Of All Numbers In An Array](/program/find-the-sum-of-all-numbers-in-an-array)
+- [Find Largest Number In An Array](/program/find-largest-number-in-an-array)
+- [Print Elements Of An Array](/program/print-elements-of-an-array)

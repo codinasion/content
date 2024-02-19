@@ -495,3 +495,16 @@ const maxSumSubarrayCircularTs: any = (nums: number[]) => {
 var arr: number[] = [1, -2, 3, -2, 8, -5, 1, 7];
 console.log(maxSumSubarrayCircularTs(arr));
 ```
+
+## Similar programs
+
+- [Find The Maximum Sum Of A Contiguous Subarray](/program/find-the-maximum-sum-of-a-contiguous-subarray)
+- [Find The Maximum Sum Of A Contiguous Subarray (kadanes Algorithm)](</program/find-the-maximum-sum-of-a-contiguous-subarray-(kadanes-algorithm)>)
+- [Find Sum Of Numbers](/program/find-sum-of-numbers)
+- [Find The Sum Of All Numbers In An Array](/program/find-the-sum-of-all-numbers-in-an-array)
+- [Find Sum Of Numbers By Recursion](/program/find-sum-of-numbers-by-recursion)
+- [Find Maximum Of N Numbers](/program/find-maximum-of-n-numbers)
+- [Find Sum Of Digits Of A Number](/program/find-sum-of-digits-of-a-number)
+- [Find Sum Of N Natural Numbers](/program/find-sum-of-n-natural-numbers)
+- [Find Sum Of N Natural Numbers By Recursion](/program/find-sum-of-n-natural-numbers-by-recursion)
+- [Find Sum Of Cubes Of Numbers](/program/find-sum-of-cubes-of-numbers)

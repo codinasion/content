@@ -310,3 +310,16 @@ function sumOfNNaturalNumber(num: number): number {
 
 console.log(sumOfNNaturalNumber(5));
 ```
+
+## Similar programs
+
+- [Find Sum Of N Natural Numbers](/program/find-sum-of-n-natural-numbers)
+- [Find Sum Of Numbers By Recursion](/program/find-sum-of-numbers-by-recursion)
+- [Find Sum Of Numbers](/program/find-sum-of-numbers)
+- [Find Sum Of N Natural Numbers Using Formula](/program/find-sum-of-n-natural-numbers-using-formula)
+- [Find Sum Of Cubes Of Numbers By Recursion](/program/find-sum-of-cubes-of-numbers-by-recursion)
+- [Find The Sum Of All Numbers In An Array](/program/find-the-sum-of-all-numbers-in-an-array)
+- [Find Sum Of Squares Of Numbers By Recursion](/program/find-sum-of-squares-of-numbers-by-recursion)
+- [Find Sum Of Digits Of A Number By Recursion](/program/find-sum-of-digits-of-a-number-by-recursion)
+- [Find Sum Of Cubes Of Numbers](/program/find-sum-of-cubes-of-numbers)
+- [Find Average Of Numbers](/program/find-average-of-numbers)

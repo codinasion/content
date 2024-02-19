@@ -431,3 +431,16 @@ const simpleInterest = (
 };
 console.log(simpleInterest(1000, 10, 5));
 ```
+
+## Similar programs
+
+- [Calculate Compound Interest](/program/calculate-compound-interest)
+- [Calculate The Permutation Of N Objects Taken R At A Time](/program/calculate-the-permutation-of-n-objects-taken-r-at-a-time)
+- [Calculate The Combination Of N Objects Taken R At A Time](/program/calculate-the-combination-of-n-objects-taken-r-at-a-time)
+- [Find Gcd Of Two Numbers](/program/find-gcd-of-two-numbers)
+- [Find Gcd Of Two Numbers By Recursion](/program/find-gcd-of-two-numbers-by-recursion)
+- [Check Vowel](/program/check-vowel)
+- [Convert Time From 12 Hour To 24 Hour Format](/program/convert-time-from-12-hour-to-24-hour-format)
+- [Convert Time From 24 Hour To 12 Hour Format](/program/convert-time-from-24-hour-to-12-hour-format)
+- [Find The Largest Two Elements In An Array](/program/find-the-largest-two-elements-in-an-array)
+- [Find The Smallest Two Elements In An Array](/program/find-the-smallest-two-elements-in-an-array)

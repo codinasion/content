@@ -673,3 +673,16 @@ function convertTimeTo12Hours(time: string) {
 
 convertTimeTo12Hours("12:05:45PM");
 ```
+
+## Similar programs
+
+- [Convert Time From 24 Hour To 12 Hour Format](/program/convert-time-from-24-hour-to-12-hour-format)
+- [Convert Hours To Minutes](/program/convert-hours-to-minutes)
+- [Convert Minutes To Hours](/program/convert-minutes-to-hours)
+- [Convert Hours To Seconds](/program/convert-hours-to-seconds)
+- [Convert Seconds To Hours](/program/convert-seconds-to-hours)
+- [Convert Hours To Days](/program/convert-hours-to-days)
+- [Convert Days To Hours](/program/convert-days-to-hours)
+- [Convert Inches To Feet](/program/convert-inches-to-feet)
+- [Convert Feet To Inches](/program/convert-feet-to-inches)
+- [Calculate The Permutation Of N Objects Taken R At A Time](/program/calculate-the-permutation-of-n-objects-taken-r-at-a-time)

@@ -375,3 +375,16 @@ const reverseNumber = (n: number) => {
 
 console.log(reverseNumber(123));
 ```
+
+## Similar programs
+
+- [Print Reverse Of A Number By Recursion](/program/print-reverse-of-a-number-by-recursion)
+- [Print Reverse Of A String](/program/print-reverse-of-a-string)
+- [Reverse An Array](/program/reverse-an-array)
+- [Print Reverse Of A String By Recursion](/program/print-reverse-of-a-string-by-recursion)
+- [Reverse Words In A String](/program/reverse-words-in-a-string)
+- [Find Average Of Digits Of A Number By Recursion](/program/find-average-of-digits-of-a-number-by-recursion)
+- [Find Sum Of Digits Of A Number](/program/find-sum-of-digits-of-a-number)
+- [Find Average Of Digits Of A Number](/program/find-average-of-digits-of-a-number)
+- [Check Palindrome Number](/program/check-palindrome-number)
+- [Find Power Of A Number](/program/find-power-of-a-number)

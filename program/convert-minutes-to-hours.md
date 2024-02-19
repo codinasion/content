@@ -425,3 +425,16 @@ console.log("That is " + ConvertMinutesToHours(180) + " // 3");
 console.log("Numer of hours in 360 minutes: ");
 console.log("That is " + ConvertMinutesToHours(3024000) + " // 6");
 ````
+
+## Similar programs
+
+- [Convert Hours To Minutes](/program/convert-hours-to-minutes)
+- [Convert Minutes To Days](/program/convert-minutes-to-days)
+- [Convert Days To Minutes](/program/convert-days-to-minutes)
+- [Convert Weeks To Minutes](/program/convert-weeks-to-minutes)
+- [Convert Minutes To Weeks](/program/convert-minutes-to-weeks)
+- [Convert Seconds To Minutes](/program/convert-seconds-to-minutes)
+- [Convert Minutes To Seconds](/program/convert-minutes-to-seconds)
+- [Convert Seconds To Hours](/program/convert-seconds-to-hours)
+- [Convert Hours To Seconds](/program/convert-hours-to-seconds)
+- [Convert Hours To Days](/program/convert-hours-to-days)

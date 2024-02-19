@@ -359,3 +359,16 @@ const MergeTwoStrings = (s1: string, s2: string): string => {
 };
 export default MergeTwoStrings;
 ```
+
+## Similar programs
+
+- [Check Anagram String](/program/check-anagram-string)
+- [Check Palindrome String](/program/check-palindrome-string)
+- [Print String Of Ascii Values](/program/print-string-of-ascii-values)
+- [Convert String To Sentencecase](/program/convert-string-to-sentencecase)
+- [Print Ascii Value Of A String](/program/print-ascii-value-of-a-string)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)
+- [Find Sum Of Numbers](/program/find-sum-of-numbers)
+- [Reverse An Array](/program/reverse-an-array)
+- [Find Smallest Number In An Array](/program/find-smallest-number-in-an-array)

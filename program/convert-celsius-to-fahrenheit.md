@@ -353,3 +353,16 @@ function CelciusToFahrenheit(celsius: number): number {
 const celsius: number = -40;
 console.log(CelciusToFahrenheit(celsius)); //-40
 ```
+
+## Similar programs
+
+- [Convert Fahrenheit To Celsius](/program/convert-fahrenheit-to-celsius)
+- [Convert Fahrenheit To Kelvin](/program/convert-fahrenheit-to-kelvin)
+- [Find Minimum Of N Numbers](/program/find-minimum-of-n-numbers)
+- [Find Maximum Of N Numbers](/program/find-maximum-of-n-numbers)
+- [Convert A String To An Integer](/program/convert-a-string-to-an-integer)
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Convert String To Uppercase](/program/convert-string-to-uppercase)
+- [Convert Hours To Days](/program/convert-hours-to-days)
+- [Convert Days To Hours](/program/convert-days-to-hours)
+- [Convert Weeks To Days](/program/convert-weeks-to-days)

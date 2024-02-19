@@ -337,3 +337,16 @@ function findSumOfAllNumbersInAnArray(...args: Array<number>) {
   return sum;
 }
 ```
+
+## Similar programs
+
+- [Find Sum Of Numbers](/program/find-sum-of-numbers)
+- [Find Sum Of Numbers By Recursion](/program/find-sum-of-numbers-by-recursion)
+- [Find Sum Of N Natural Numbers](/program/find-sum-of-n-natural-numbers)
+- [Find The Average Of All Numbers In An Array](/program/find-the-average-of-all-numbers-in-an-array)
+- [Find Sum Of N Natural Numbers By Recursion](/program/find-sum-of-n-natural-numbers-by-recursion)
+- [Find Largest And Smallest Numbers In An Array](/program/find-largest-and-smallest-numbers-in-an-array)
+- [Find Sum Of Cubes Of Numbers](/program/find-sum-of-cubes-of-numbers)
+- [Find Average Of Numbers](/program/find-average-of-numbers)
+- [Find Sum Of Squares Of Numbers](/program/find-sum-of-squares-of-numbers)
+- [Find Sum Of Cubes Of Numbers By Recursion](/program/find-sum-of-cubes-of-numbers-by-recursion)

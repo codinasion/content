@@ -361,3 +361,16 @@ function sumOfDigits(num: number): number {
 
 console.log("Sum of Digits -> 12345 is", sumOfDigits(12345));
 ```
+
+## Similar programs
+
+- [Find Sum Of Digits Of A Number](/program/find-sum-of-digits-of-a-number)
+- [Find Average Of Digits Of A Number By Recursion](/program/find-average-of-digits-of-a-number-by-recursion)
+- [Find Average Of Digits Of A Number](/program/find-average-of-digits-of-a-number)
+- [Find Sum Of Numbers By Recursion](/program/find-sum-of-numbers-by-recursion)
+- [Find Sum Of N Natural Numbers By Recursion](/program/find-sum-of-n-natural-numbers-by-recursion)
+- [Print Reverse Of A Number By Recursion](/program/print-reverse-of-a-number-by-recursion)
+- [Find Sum Of Cubes Of Numbers By Recursion](/program/find-sum-of-cubes-of-numbers-by-recursion)
+- [Find Sum Of Squares Of Numbers By Recursion](/program/find-sum-of-squares-of-numbers-by-recursion)
+- [Find Sum Of Numbers](/program/find-sum-of-numbers)
+- [Find Power Of A Number By Recursion](/program/find-power-of-a-number-by-recursion)

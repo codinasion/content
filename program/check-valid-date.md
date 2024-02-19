@@ -416,3 +416,16 @@ function isValidDate(d: string | number | any): boolean {
 
 console.log(isValidDate(new Date()));
 ```
+
+## Similar programs
+
+- [Convert Standard Date Format To Julian Date And Vice Versa](/program/convert-standard-date-format-to-julian-date-and-vice-versa)
+- [Check Digit](/program/check-digit)
+- [Check Alphabet](/program/check-alphabet)
+- [Check Vowel](/program/check-vowel)
+- [Check Consonant](/program/check-consonant)
+- [Check Lower Case](/program/check-lower-case)
+- [Check Upper Case](/program/check-upper-case)
+- [Check Special Character](/program/check-special-character)
+- [Check Integer Or Float](/program/check-integer-or-float)
+- [Check Even Or Odd Number](/program/check-even-or-odd-number)

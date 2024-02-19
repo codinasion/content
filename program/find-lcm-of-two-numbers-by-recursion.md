@@ -412,3 +412,16 @@ const lcm: number = (number1 * number2) / gcd(number1, number2);
 
 console.log(`LCM of ${number1} and ${number2} is: ${lcm}`);
 ```
+
+## Similar programs
+
+- [Find Lcm Of Two Numbers](/program/find-lcm-of-two-numbers)
+- [Find Sum Of Numbers By Recursion](/program/find-sum-of-numbers-by-recursion)
+- [Find Sum Of Numbers](/program/find-sum-of-numbers)
+- [Find Sum Of N Natural Numbers By Recursion](/program/find-sum-of-n-natural-numbers-by-recursion)
+- [Find Average Of Numbers](/program/find-average-of-numbers)
+- [Find The Sum Of All Numbers In An Array](/program/find-the-sum-of-all-numbers-in-an-array)
+- [Find Gcd Of Two Numbers By Recursion](/program/find-gcd-of-two-numbers-by-recursion)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)
+- [Swap Two Numbers](/program/swap-two-numbers)

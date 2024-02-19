@@ -572,3 +572,16 @@ readline.question("Enter the first string: ", str1 => {
   });
 });
 ```
+
+## Similar programs
+
+- [Merge Two Strings](/program/merge-two-strings)
+- [Reverse Words In A String](/program/reverse-words-in-a-string)
+- [Split String Into Array Of Characters](/program/split-string-into-array-of-characters)
+- [Print Reverse Of A String](/program/print-reverse-of-a-string)
+- [Split String Into Array Of Words](/program/split-string-into-array-of-words)
+- [Check Palindrome String](/program/check-palindrome-string)
+- [Print Reverse Of A String By Recursion](/program/print-reverse-of-a-string-by-recursion)
+- [Convert String To Camelcase](/program/convert-string-to-camelcase)
+- [Find Length Of A String](/program/find-length-of-a-string)
+- [Check Digit](/program/check-digit)

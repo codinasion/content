@@ -381,3 +381,16 @@ const number = 5;
 console.log("Input  :", number);
 console.log("Output :", FindSquareOfANumber(number));
 ```
+
+## Similar programs
+
+- [Find Square Root Of A Number](/program/find-square-root-of-a-number)
+- [Find Area Of A Square](/program/find-area-of-a-square)
+- [Find Perimeter Of A Square](/program/find-perimeter-of-a-square)
+- [Find Power Of A Number](/program/find-power-of-a-number)
+- [Find Smallest Number In An Array](/program/find-smallest-number-in-an-array)
+- [Find Cube Of A Number](/program/find-cube-of-a-number)
+- [Find Largest Number In An Array](/program/find-largest-number-in-an-array)
+- [Find Power Of A Number By Recursion](/program/find-power-of-a-number-by-recursion)
+- [Check Prime Number](/program/check-prime-number)
+- [Find Negative Of A Number](/program/find-negative-of-a-number)

@@ -454,3 +454,16 @@ function isPrime(num: number) {
 
 console.log(isPrime(17));
 ```
+
+## Similar programs
+
+- [Print All Prime Numbers Between Two Numbers](/program/print-all-prime-numbers-between-two-numbers)
+- [Find Power Of A Number](/program/find-power-of-a-number)
+- [Check Even Or Odd Number](/program/check-even-or-odd-number)
+- [Check Armstrong Number](/program/check-armstrong-number)
+- [Find Smallest Number In An Array](/program/find-smallest-number-in-an-array)
+- [Find Cube Of A Number](/program/find-cube-of-a-number)
+- [Find Square Of A Number](/program/find-square-of-a-number)
+- [Find Power Of A Number By Recursion](/program/find-power-of-a-number-by-recursion)
+- [Find Largest Number In An Array](/program/find-largest-number-in-an-array)
+- [Print Reverse Of A Number By Recursion](/program/print-reverse-of-a-number-by-recursion)

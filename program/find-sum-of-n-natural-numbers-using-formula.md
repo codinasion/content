@@ -350,3 +350,16 @@ const FindSumOfNNaturalNumbersUsingFormula = (n: number): number => {
 console.log(FindSumOfNNaturalNumbersUsingFormula(5));
 export default FindSumOfNNaturalNumbersUsingFormula;
 ```
+
+## Similar programs
+
+- [Find Sum Of N Natural Numbers](/program/find-sum-of-n-natural-numbers)
+- [Find Sum Of N Natural Numbers By Recursion](/program/find-sum-of-n-natural-numbers-by-recursion)
+- [Find Sum Of Numbers](/program/find-sum-of-numbers)
+- [Find The Sum Of All Numbers In An Array](/program/find-the-sum-of-all-numbers-in-an-array)
+- [Find Sum Of Numbers By Recursion](/program/find-sum-of-numbers-by-recursion)
+- [Print Numbers From N To 1 Without Using A Loop](/program/print-numbers-from-n-to-1-without-using-a-loop)
+- [Print Numbers From 1 To N Without Using A Loop](/program/print-numbers-from-1-to-n-without-using-a-loop)
+- [Swap Two Numbers Without Using Third Variable](/program/swap-two-numbers-without-using-third-variable)
+- [Find Sum Of Cubes Of Numbers](/program/find-sum-of-cubes-of-numbers)
+- [Find Average Of Numbers](/program/find-average-of-numbers)

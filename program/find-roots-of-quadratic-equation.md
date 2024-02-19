@@ -649,3 +649,16 @@ function findQuadEquationRoots(a: number, b: number, c: number) {
 const solutions = findQuadEquationRoots(1, -5, 6);
 console.log(solutions);
 ```
+
+## Similar programs
+
+- [Find Sum Of N Natural Numbers Using Formula](/program/find-sum-of-n-natural-numbers-using-formula)
+- [Find The Eigenvalues Of A Matrix](/program/find-the-eigenvalues-of-a-matrix)
+- [Find The Eigenvectors Of A Matrix](/program/find-the-eigenvectors-of-a-matrix)
+- [Find Sum Of Ap Series](/program/find-sum-of-ap-series)
+- [Print Pascals Triangle](/program/print-pascals-triangle)
+- [Find Power Of A Number By Recursion](/program/find-power-of-a-number-by-recursion)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Calculate The Permutation Of N Objects Taken R At A Time](/program/calculate-the-permutation-of-n-objects-taken-r-at-a-time)
+- [Find Sum Of Numbers](/program/find-sum-of-numbers)

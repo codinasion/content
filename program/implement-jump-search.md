@@ -621,3 +621,16 @@ if (res !== -1) {
   console.log(`Element ${valueToSearch} not found`);
 }
 ```
+
+## Similar programs
+
+- [Implement Linear Search](/program/implement-linear-search)
+- [Move All Zeroes To End Of Array](/program/move-all-zeroes-to-end-of-array)
+- [Implement Ternary Search](/program/implement-ternary-search)
+- [Implement Binary Search](/program/implement-binary-search)
+- [Find The Smallest Two Elements In An Array](/program/find-the-smallest-two-elements-in-an-array)
+- [Find The Smallest Three Elements In An Array](/program/find-the-smallest-three-elements-in-an-array)
+- [Implement Selection Sort](/program/implement-selection-sort)
+- [Find The Largest Two Elements In An Array](/program/find-the-largest-two-elements-in-an-array)
+- [Print Elements Of An Array](/program/print-elements-of-an-array)
+- [Find The Largest Three Elements In An Array](/program/find-the-largest-three-elements-in-an-array)

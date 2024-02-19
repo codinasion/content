@@ -438,3 +438,16 @@ function decreaseNumberWithoutLoop(number: number) {
 
 decreaseNumberWithoutLoop(5);
 ```
+
+## Similar programs
+
+- [Print Numbers From N To 1 Without Using A Loop](/program/print-numbers-from-n-to-1-without-using-a-loop)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)
+- [Find Sum Of N Natural Numbers Using Formula](/program/find-sum-of-n-natural-numbers-using-formula)
+- [Swap Two Numbers Without Using Third Variable](/program/swap-two-numbers-without-using-third-variable)
+- [Print All Prime Numbers Between Two Numbers](/program/print-all-prime-numbers-between-two-numbers)
+- [Find Average Of Numbers](/program/find-average-of-numbers)
+- [Find Sum Of Numbers](/program/find-sum-of-numbers)
+- [Convert A String To An Integer (without Using Built In Functions)](</program/convert-a-string-to-an-integer-(without-using-built-in-functions)>)
+- [Print Pattern 1](/program/print-pattern-1)

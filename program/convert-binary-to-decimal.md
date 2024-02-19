@@ -478,3 +478,16 @@ console.log(convertBinaryToDecimal(1111))
 // should return 15
 */
 ```
+
+## Similar programs
+
+- [Convert Decimal To Binary](/program/convert-decimal-to-binary)
+- [Convert Octal To Binary](/program/convert-octal-to-binary)
+- [Convert Binary To Octal](/program/convert-binary-to-octal)
+- [Convert Binary To Hexadecimal](/program/convert-binary-to-hexadecimal)
+- [Convert Hexadecimal To Binary](/program/convert-hexadecimal-to-binary)
+- [Convert Octal To Decimal](/program/convert-octal-to-decimal)
+- [Convert Hexadecimal To Decimal](/program/convert-hexadecimal-to-decimal)
+- [Convert Decimal To Octal](/program/convert-decimal-to-octal)
+- [Convert Hexadecimal To Octal](/program/convert-hexadecimal-to-octal)
+- [Convert Octal To Hexadecimal](/program/convert-octal-to-hexadecimal)

@@ -343,3 +343,16 @@ function checkUpperCase(character: string) {
   return isUpperCase ? "Upper Case" : "Not Upper Case";
 }
 ```
+
+## Similar programs
+
+- [Check Lower Case](/program/check-lower-case)
+- [Check Special Character](/program/check-special-character)
+- [Check Digit](/program/check-digit)
+- [Check Alphabet](/program/check-alphabet)
+- [Check Vowel](/program/check-vowel)
+- [Check Consonant](/program/check-consonant)
+- [Find The Trace Of A Matrix](/program/find-the-trace-of-a-matrix)
+- [Check Valid Date](/program/check-valid-date)
+- [Check Integer Or Float](/program/check-integer-or-float)
+- [Check Even Or Odd Number](/program/check-even-or-odd-number)

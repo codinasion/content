@@ -414,3 +414,16 @@ function poundToKilogram(pounds: number): number {
 const pounds = prompt("Enter weight in pounds:");
 console.log(poundToKilogram(pounds));
 ```
+
+## Similar programs
+
+- [Convert A String To An Integer](/program/convert-a-string-to-an-integer)
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Convert String To Uppercase](/program/convert-string-to-uppercase)
+- [Convert Days To Hours](/program/convert-days-to-hours)
+- [Convert Hours To Days](/program/convert-hours-to-days)
+- [Convert Days To Weeks](/program/convert-days-to-weeks)
+- [Convert Weeks To Days](/program/convert-weeks-to-days)
+- [Convert Minutes To Hours](/program/convert-minutes-to-hours)
+- [Convert Hours To Minutes](/program/convert-hours-to-minutes)
+- [Convert Weeks To Hours](/program/convert-weeks-to-hours)

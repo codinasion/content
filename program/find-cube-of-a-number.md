@@ -367,3 +367,16 @@ const number = 2;
 console.log("Input  :", number);
 console.log("Output :", FindCubeOfANumber(number));
 ```
+
+## Similar programs
+
+- [Find Cube Root Of A Number](/program/find-cube-root-of-a-number)
+- [Find Area Of A Cube](/program/find-area-of-a-cube)
+- [Find Volume Of A Cube](/program/find-volume-of-a-cube)
+- [Find Surface Area Of A Cube](/program/find-surface-area-of-a-cube)
+- [Find Power Of A Number](/program/find-power-of-a-number)
+- [Find Smallest Number In An Array](/program/find-smallest-number-in-an-array)
+- [Find Square Of A Number](/program/find-square-of-a-number)
+- [Find Largest Number In An Array](/program/find-largest-number-in-an-array)
+- [Find Power Of A Number By Recursion](/program/find-power-of-a-number-by-recursion)
+- [Check Prime Number](/program/check-prime-number)

@@ -384,3 +384,16 @@ console.log(
   FindPerimeterOfARectangle(5, 2) + "cm"
 );
 ```
+
+## Similar programs
+
+- [Find Perimeter Of A Square](/program/find-perimeter-of-a-square)
+- [Find Area Of A Rectangle](/program/find-area-of-a-rectangle)
+- [Find Area Of A Cuboid](/program/find-area-of-a-cuboid)
+- [Find Length Of A String](/program/find-length-of-a-string)
+- [Find Surface Area Of A Cuboid](/program/find-surface-area-of-a-cuboid)
+- [Find Volume Of A Cuboid](/program/find-volume-of-a-cuboid)
+- [Find The Largest Two Elements In An Array](/program/find-the-largest-two-elements-in-an-array)
+- [Find The Smallest Two Elements In An Array](/program/find-the-smallest-two-elements-in-an-array)
+- [Find The Smallest Three Elements In An Array](/program/find-the-smallest-three-elements-in-an-array)
+- [Swap Two Numbers](/program/swap-two-numbers)

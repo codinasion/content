@@ -322,3 +322,16 @@ function FindVolumeOfACube(edge: number): number {
 // Console Test
 console.log(FindVolumeOfACube(2)); // 8
 ```
+
+## Similar programs
+
+- [Find Volume Of A Sphere](/program/find-volume-of-a-sphere)
+- [Find Volume Of A Cone](/program/find-volume-of-a-cone)
+- [Find Cube Of A Number](/program/find-cube-of-a-number)
+- [Find Volume Of A Cylinder](/program/find-volume-of-a-cylinder)
+- [Find Volume Of A Cuboid](/program/find-volume-of-a-cuboid)
+- [Find Area Of A Cube](/program/find-area-of-a-cube)
+- [Find Cube Root Of A Number](/program/find-cube-root-of-a-number)
+- [Find Surface Area Of A Cube](/program/find-surface-area-of-a-cube)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)

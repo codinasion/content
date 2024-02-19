@@ -379,3 +379,16 @@ const SplitStringIntoArrayOfWords = (s: string): string[] => {
 };
 export default SplitStringIntoArrayOfWords;
 ```
+
+## Similar programs
+
+- [Split String Into Array Of Characters](/program/split-string-into-array-of-characters)
+- [Reverse Words In A String](/program/reverse-words-in-a-string)
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Convert String To Uppercase](/program/convert-string-to-uppercase)
+- [Print Hello World](/program/print-hello-world)
+- [Convert String To Titlecase](/program/convert-string-to-titlecase)
+- [Convert String To Alternatingcase](/program/convert-string-to-alternatingcase)
+- [Convert String To Dotcase](/program/convert-string-to-dotcase)
+- [Convert String To Kebabcase](/program/convert-string-to-kebabcase)
+- [Convert String To Pathcase](/program/convert-string-to-pathcase)

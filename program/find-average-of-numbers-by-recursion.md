@@ -509,3 +509,16 @@ function average_of_numbers(arr: number[]): number {
 const array = [1, 2, 3, 4, 5];
 console.log(average_of_numbers(array));
 ```
+
+## Similar programs
+
+- [Find Average Of Numbers](/program/find-average-of-numbers)
+- [Find The Average Of All Numbers In An Array](/program/find-the-average-of-all-numbers-in-an-array)
+- [Find Average Of Digits Of A Number](/program/find-average-of-digits-of-a-number)
+- [Find Average Of Digits Of A Number By Recursion](/program/find-average-of-digits-of-a-number-by-recursion)
+- [Find Sum Of Numbers By Recursion](/program/find-sum-of-numbers-by-recursion)
+- [Find Sum Of Numbers](/program/find-sum-of-numbers)
+- [Find The Sum Of All Numbers In An Array](/program/find-the-sum-of-all-numbers-in-an-array)
+- [Find Sum Of N Natural Numbers By Recursion](/program/find-sum-of-n-natural-numbers-by-recursion)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)

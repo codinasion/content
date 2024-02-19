@@ -558,3 +558,16 @@ object HelloWorld {
   }
 }
 ```
+
+## Similar programs
+
+- [Implement Linear Search](/program/implement-linear-search)
+- [Implement Ternary Search](/program/implement-ternary-search)
+- [Implement Jump Search](/program/implement-jump-search)
+- [Implement Selection Sort](/program/implement-selection-sort)
+- [Convert Decimal To Binary](/program/convert-decimal-to-binary)
+- [Reverse An Array](/program/reverse-an-array)
+- [Find Smallest Number In An Array](/program/find-smallest-number-in-an-array)
+- [Find Sum Of Ap Series](/program/find-sum-of-ap-series)
+- [Find The Sum Of All Numbers In An Array](/program/find-the-sum-of-all-numbers-in-an-array)
+- [Find Sum Of Gp Series](/program/find-sum-of-gp-series)

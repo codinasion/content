@@ -393,3 +393,16 @@ function convertDaysToHours(days: number) {
 
 convertDaysToHours(5);
 ```
+
+## Similar programs
+
+- [Convert Days To Hours](/program/convert-days-to-hours)
+- [Convert Hours To Weeks](/program/convert-hours-to-weeks)
+- [Convert Weeks To Hours](/program/convert-weeks-to-hours)
+- [Convert Minutes To Days](/program/convert-minutes-to-days)
+- [Convert Days To Minutes](/program/convert-days-to-minutes)
+- [Convert Seconds To Days](/program/convert-seconds-to-days)
+- [Convert Days To Seconds](/program/convert-days-to-seconds)
+- [Convert Weeks To Days](/program/convert-weeks-to-days)
+- [Convert Days To Weeks](/program/convert-days-to-weeks)
+- [Convert Minutes To Hours](/program/convert-minutes-to-hours)

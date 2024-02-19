@@ -903,3 +903,16 @@ function test(num: number) {
 
 test(123456789);
 ```
+
+## Similar programs
+
+- [Print Number To Words In Indian Numbering System](/program/print-number-to-words-in-indian-numbering-system)
+- [Reverse Words In A String](/program/reverse-words-in-a-string)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Split String Into Array Of Words](/program/split-string-into-array-of-words)
+- [Print Reverse Of A Number By Recursion](/program/print-reverse-of-a-number-by-recursion)
+- [Print Pattern 1](/program/print-pattern-1)
+- [Print Elements Of An Array](/program/print-elements-of-an-array)
+- [Print Reverse Of A Number](/program/print-reverse-of-a-number)
+- [Find Power Of A Number](/program/find-power-of-a-number)

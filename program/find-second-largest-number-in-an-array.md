@@ -452,3 +452,16 @@ console.log(findSecondLargestNumberInAnArray([1, 20, 30]));
 console.log(findSecondLargestNumberInAnArray([10, 100, 1000]));
 console.log(findSecondLargestNumberInAnArray([1, 2, 3, 4, 5]));
 ```
+
+## Similar programs
+
+- [Find Largest Number In An Array](/program/find-largest-number-in-an-array)
+- [Find Second Smallest Number In An Array](/program/find-second-smallest-number-in-an-array)
+- [Find Largest And Smallest Numbers In An Array](/program/find-largest-and-smallest-numbers-in-an-array)
+- [Find Smallest Number In An Array](/program/find-smallest-number-in-an-array)
+- [Find The Largest Two Elements In An Array](/program/find-the-largest-two-elements-in-an-array)
+- [Reverse An Array](/program/reverse-an-array)
+- [Find The Sum Of All Numbers In An Array](/program/find-the-sum-of-all-numbers-in-an-array)
+- [Print Elements Of An Array](/program/print-elements-of-an-array)
+- [Find The Average Of All Numbers In An Array](/program/find-the-average-of-all-numbers-in-an-array)
+- [Find The Largest Three Elements In An Array](/program/find-the-largest-three-elements-in-an-array)

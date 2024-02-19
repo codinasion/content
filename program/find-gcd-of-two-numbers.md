@@ -493,3 +493,16 @@ function findGCD(number1: number, number2: number): number {
 
 findGCD(12, 18);
 ```
+
+## Similar programs
+
+- [Find Gcd Of Two Numbers By Recursion](/program/find-gcd-of-two-numbers-by-recursion)
+- [Find Average Of Numbers](/program/find-average-of-numbers)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)
+- [Find Largest And Smallest Numbers In An Array](/program/find-largest-and-smallest-numbers-in-an-array)
+- [Find Sum Of Numbers](/program/find-sum-of-numbers)
+- [Print All Prime Numbers Between Two Numbers](/program/print-all-prime-numbers-between-two-numbers)
+- [Divide Two Numbers](/program/divide-two-numbers)
+- [Find Lcm Of Two Numbers](/program/find-lcm-of-two-numbers)
+- [Find Lcm Of Two Numbers By Recursion](/program/find-lcm-of-two-numbers-by-recursion)

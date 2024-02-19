@@ -309,3 +309,16 @@ function splitStringIntoArrayOfCharacters(str: string) {
 
 splitStringIntoArrayOfCharacters("Hello World");
 ```
+
+## Similar programs
+
+- [Split String Into Array Of Words](/program/split-string-into-array-of-words)
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Convert String To Uppercase](/program/convert-string-to-uppercase)
+- [Reverse Words In A String](/program/reverse-words-in-a-string)
+- [Print Reverse Of A String](/program/print-reverse-of-a-string)
+- [Print Reverse Of A String By Recursion](/program/print-reverse-of-a-string-by-recursion)
+- [Reverse An Array](/program/reverse-an-array)
+- [Print Hello World](/program/print-hello-world)
+- [Find Smallest Number In An Array](/program/find-smallest-number-in-an-array)
+- [Find The Sum Of All Numbers In An Array](/program/find-the-sum-of-all-numbers-in-an-array)

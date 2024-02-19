@@ -485,3 +485,16 @@ function checkPalindromeNumber(num: number) {
 
 console.log(checkPalindromeNumber(190));
 ```
+
+## Similar programs
+
+- [Check Palindrome String](/program/check-palindrome-string)
+- [Print Reverse Of A Number](/program/print-reverse-of-a-number)
+- [Print Reverse Of A Number By Recursion](/program/print-reverse-of-a-number-by-recursion)
+- [Check Prime Number](/program/check-prime-number)
+- [Check Even Or Odd Number](/program/check-even-or-odd-number)
+- [Find Power Of A Number](/program/find-power-of-a-number)
+- [Check Armstrong Number](/program/check-armstrong-number)
+- [Find Average Of Digits Of A Number By Recursion](/program/find-average-of-digits-of-a-number-by-recursion)
+- [Find Sum Of Digits Of A Number](/program/find-sum-of-digits-of-a-number)
+- [Find Average Of Numbers](/program/find-average-of-numbers)

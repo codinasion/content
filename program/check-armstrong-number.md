@@ -486,3 +486,16 @@ const checkArmstrongNumber = (number: number) => {
 
 console.log(checkArmstrongNumber(153));
 ```
+
+## Similar programs
+
+- [Find Sum Of Digits Of A Number](/program/find-sum-of-digits-of-a-number)
+- [Find Average Of Digits Of A Number](/program/find-average-of-digits-of-a-number)
+- [Check Prime Number](/program/check-prime-number)
+- [Find Power Of A Number](/program/find-power-of-a-number)
+- [Check Even Or Odd Number](/program/check-even-or-odd-number)
+- [Find Average Of Digits Of A Number By Recursion](/program/find-average-of-digits-of-a-number-by-recursion)
+- [Find Sum Of Digits Of A Number By Recursion](/program/find-sum-of-digits-of-a-number-by-recursion)
+- [Find Smallest Number In An Array](/program/find-smallest-number-in-an-array)
+- [Print Reverse Of A Number By Recursion](/program/print-reverse-of-a-number-by-recursion)
+- [Find Cube Of A Number](/program/find-cube-of-a-number)

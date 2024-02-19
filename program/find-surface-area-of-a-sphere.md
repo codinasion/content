@@ -365,3 +365,16 @@ function findSurfaceAreaOfSphere(radius: number) {
 
 console.log(findSurfaceAreaOfSphere(2));
 ```
+
+## Similar programs
+
+- [Find Surface Area Of A Cone](/program/find-surface-area-of-a-cone)
+- [Find Surface Area Of A Cube](/program/find-surface-area-of-a-cube)
+- [Find Surface Area Of A Cylinder](/program/find-surface-area-of-a-cylinder)
+- [Find Surface Area Of A Cuboid](/program/find-surface-area-of-a-cuboid)
+- [Find Area Of A Circle](/program/find-area-of-a-circle)
+- [Find Area Of A Square](/program/find-area-of-a-square)
+- [Find Volume Of A Sphere](/program/find-volume-of-a-sphere)
+- [Find Area Of A Cube](/program/find-area-of-a-cube)
+- [Find Area Of A Rectangle](/program/find-area-of-a-rectangle)
+- [Find Area Of A Cuboid](/program/find-area-of-a-cuboid)

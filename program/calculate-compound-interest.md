@@ -426,3 +426,16 @@ function calculateCompoundInterest(
 }
 console.log(calculateCompoundInterest(1000, 10, 5));
 ```
+
+## Similar programs
+
+- [Calculate Simple Interest](/program/calculate-simple-interest)
+- [Calculate The Permutation Of N Objects Taken R At A Time](/program/calculate-the-permutation-of-n-objects-taken-r-at-a-time)
+- [Calculate The Combination Of N Objects Taken R At A Time](/program/calculate-the-combination-of-n-objects-taken-r-at-a-time)
+- [Convert Time From 12 Hour To 24 Hour Format](/program/convert-time-from-12-hour-to-24-hour-format)
+- [Convert Time From 24 Hour To 12 Hour Format](/program/convert-time-from-24-hour-to-12-hour-format)
+- [Find The Largest Two Elements In An Array](/program/find-the-largest-two-elements-in-an-array)
+- [Find The Smallest Two Elements In An Array](/program/find-the-smallest-two-elements-in-an-array)
+- [Find The Smallest Three Elements In An Array](/program/find-the-smallest-three-elements-in-an-array)
+- [Swap Two Numbers](/program/swap-two-numbers)
+- [Find Minimum Of N Numbers](/program/find-minimum-of-n-numbers)

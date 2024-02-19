@@ -274,3 +274,16 @@ print("Hello World !!!")
 const var_new: string = "hello world";
 console.log(var_new);
 ```
+
+## Similar programs
+
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Convert String To Uppercase](/program/convert-string-to-uppercase)
+- [Reverse Words In A String](/program/reverse-words-in-a-string)
+- [Split String Into Array Of Words](/program/split-string-into-array-of-words)
+- [Convert String To Titlecase](/program/convert-string-to-titlecase)
+- [Convert String To Alternatingcase](/program/convert-string-to-alternatingcase)
+- [Convert String To Dotcase](/program/convert-string-to-dotcase)
+- [Convert String To Kebabcase](/program/convert-string-to-kebabcase)
+- [Convert String To Pathcase](/program/convert-string-to-pathcase)
+- [Convert String To Consonantcase](/program/convert-string-to-consonantcase)

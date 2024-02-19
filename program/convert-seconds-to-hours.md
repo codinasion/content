@@ -368,3 +368,16 @@ function secondsToHMS(d: number): string {
 
 console.log(secondsToHMS(61));
 ```
+
+## Similar programs
+
+- [Convert Hours To Seconds](/program/convert-hours-to-seconds)
+- [Convert Seconds To Minutes](/program/convert-seconds-to-minutes)
+- [Convert Minutes To Seconds](/program/convert-minutes-to-seconds)
+- [Convert Seconds To Days](/program/convert-seconds-to-days)
+- [Convert Days To Seconds](/program/convert-days-to-seconds)
+- [Convert Weeks To Seconds](/program/convert-weeks-to-seconds)
+- [Convert Seconds To Weeks](/program/convert-seconds-to-weeks)
+- [Convert Minutes To Hours](/program/convert-minutes-to-hours)
+- [Convert Hours To Minutes](/program/convert-hours-to-minutes)
+- [Convert Hours To Days](/program/convert-hours-to-days)

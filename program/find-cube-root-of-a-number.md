@@ -351,3 +351,16 @@ function findCubeRootOfANumber(cube: number) {
 
 findCubeRootOfANumber(1331);
 ```
+
+## Similar programs
+
+- [Find Cube Of A Number](/program/find-cube-of-a-number)
+- [Find Square Root Of A Number](/program/find-square-root-of-a-number)
+- [Find Digital Root Of A Number](/program/find-digital-root-of-a-number)
+- [Find Area Of A Cube](/program/find-area-of-a-cube)
+- [Find Volume Of A Cube](/program/find-volume-of-a-cube)
+- [Find Surface Area Of A Cube](/program/find-surface-area-of-a-cube)
+- [Find Power Of A Number](/program/find-power-of-a-number)
+- [Find Smallest Number In An Array](/program/find-smallest-number-in-an-array)
+- [Find Square Of A Number](/program/find-square-of-a-number)
+- [Find Largest Number In An Array](/program/find-largest-number-in-an-array)

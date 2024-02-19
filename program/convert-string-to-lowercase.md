@@ -304,3 +304,16 @@ console.log(`Input: ${str}`);
 const result = convertToLowercase(str);
 console.log(`Output: ${result}`);
 ```
+
+## Similar programs
+
+- [Convert String To Uppercase](/program/convert-string-to-uppercase)
+- [Print Hello World](/program/print-hello-world)
+- [Reverse Words In A String](/program/reverse-words-in-a-string)
+- [Convert String To Reversecase](/program/convert-string-to-reversecase)
+- [Convert String To Dotcase](/program/convert-string-to-dotcase)
+- [Convert String To Kebabcase](/program/convert-string-to-kebabcase)
+- [Convert String To Pathcase](/program/convert-string-to-pathcase)
+- [Convert String To Consonantcase](/program/convert-string-to-consonantcase)
+- [Convert String To Vowelcase](/program/convert-string-to-vowelcase)
+- [Split String Into Array Of Words](/program/split-string-into-array-of-words)

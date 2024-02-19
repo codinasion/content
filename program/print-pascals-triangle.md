@@ -474,3 +474,16 @@ function pascalTriangle(num: number) {
 
 console.log(pascalTriangle(5));
 ```
+
+## Similar programs
+
+- [Print Floyds Triangle](/program/print-floyds-triangle)
+- [Find Area Of A Right Angled Triangle](/program/find-area-of-a-right-angled-triangle)
+- [Print Elements Of An Array](/program/print-elements-of-an-array)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Check Integer Or Float](/program/check-integer-or-float)
+- [Print Pattern 1](/program/print-pattern-1)
+- [Convert A String To An Integer](/program/convert-a-string-to-an-integer)
+- [Print Reverse Of A Number By Recursion](/program/print-reverse-of-a-number-by-recursion)
+- [Print Numbers From N To 1 Without Using A Loop](/program/print-numbers-from-n-to-1-without-using-a-loop)

@@ -269,3 +269,16 @@ function findNegativeOfANumber(num: number) {
 const inverse = findNegativeOfANumber(5);
 console.log(inverse);
 ```
+
+## Similar programs
+
+- [Find Power Of A Number](/program/find-power-of-a-number)
+- [Find Smallest Number In An Array](/program/find-smallest-number-in-an-array)
+- [Find Cube Of A Number](/program/find-cube-of-a-number)
+- [Find Square Of A Number](/program/find-square-of-a-number)
+- [Find Largest Number In An Array](/program/find-largest-number-in-an-array)
+- [Find Power Of A Number By Recursion](/program/find-power-of-a-number-by-recursion)
+- [Check Prime Number](/program/check-prime-number)
+- [Print Reverse Of A Number By Recursion](/program/print-reverse-of-a-number-by-recursion)
+- [Check Armstrong Number](/program/check-armstrong-number)
+- [Find Average Of Digits Of A Number](/program/find-average-of-digits-of-a-number)

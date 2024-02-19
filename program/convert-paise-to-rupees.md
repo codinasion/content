@@ -334,3 +334,16 @@ function paiseToRupees(num: number) {
 
 console.log("Paise to Rupees", paiseToRupees(100) + " rupees");
 ```
+
+## Similar programs
+
+- [Convert Rupees To Paise](/program/convert-rupees-to-paise)
+- [Convert A String To An Integer](/program/convert-a-string-to-an-integer)
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Convert String To Uppercase](/program/convert-string-to-uppercase)
+- [Convert Days To Hours](/program/convert-days-to-hours)
+- [Convert Hours To Days](/program/convert-hours-to-days)
+- [Convert Days To Weeks](/program/convert-days-to-weeks)
+- [Convert Weeks To Days](/program/convert-weeks-to-days)
+- [Convert Hours To Minutes](/program/convert-hours-to-minutes)
+- [Convert Minutes To Hours](/program/convert-minutes-to-hours)

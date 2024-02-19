@@ -363,3 +363,16 @@ const ConvertMilesToKilometers = (mile: number): number => {
 console.log("Input: 5");
 console.log("OutPut:", ConvertMilesToKilometers(5));
 ```
+
+## Similar programs
+
+- [Convert Kilometers To Miles](/program/convert-kilometers-to-miles)
+- [Convert Feet To Miles](/program/convert-feet-to-miles)
+- [Convert Miles To Feet](/program/convert-miles-to-feet)
+- [Convert Miles To Inches](/program/convert-miles-to-inches)
+- [Convert Inches To Miles](/program/convert-inches-to-miles)
+- [Convert Meters To Miles](/program/convert-meters-to-miles)
+- [Convert Miles To Meters](/program/convert-miles-to-meters)
+- [Convert A String To An Integer](/program/convert-a-string-to-an-integer)
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Convert String To Uppercase](/program/convert-string-to-uppercase)

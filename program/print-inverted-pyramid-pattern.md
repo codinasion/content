@@ -455,3 +455,16 @@ const invertedPyramid = (num: number): number => {
 
 invertedPyramid(5);
 ```
+
+## Similar programs
+
+- [Print Pattern 1](/program/print-pattern-1)
+- [Print Diamond Pattern](/program/print-diamond-pattern)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Print Elements Of An Array](/program/print-elements-of-an-array)
+- [Print Numbers From N To 1 Without Using A Loop](/program/print-numbers-from-n-to-1-without-using-a-loop)
+- [Print Numbers From 1 To N Without Using A Loop](/program/print-numbers-from-1-to-n-without-using-a-loop)
+- [Print Number To Words](/program/print-number-to-words)
+- [Print Fibonacci Series By Recursion](/program/print-fibonacci-series-by-recursion)
+- [Print Fibonacci Series Without Recursion](/program/print-fibonacci-series-without-recursion)

@@ -445,3 +445,16 @@ const test_output: number[] = findLargestThreeElements(test_input);
 console.log("Input:", test_input);
 console.log("Output:", test_output);
 ```
+
+## Similar programs
+
+- [Find The Smallest Three Elements In An Array](/program/find-the-smallest-three-elements-in-an-array)
+- [Find The Largest Two Elements In An Array](/program/find-the-largest-two-elements-in-an-array)
+- [Find The Smallest Two Elements In An Array](/program/find-the-smallest-two-elements-in-an-array)
+- [Find Maximum Of N Numbers](/program/find-maximum-of-n-numbers)
+- [Find Largest Number In An Array](/program/find-largest-number-in-an-array)
+- [Print Elements Of An Array](/program/print-elements-of-an-array)
+- [Cylindrically Rotate A Matrix By 90 Degrees](/program/cylindrically-rotate-a-matrix-by-90-degrees)
+- [Move All Zeroes To End Of Array](/program/move-all-zeroes-to-end-of-array)
+- [Find Largest And Smallest Numbers In An Array](/program/find-largest-and-smallest-numbers-in-an-array)
+- [Find Minimum Of N Numbers](/program/find-minimum-of-n-numbers)

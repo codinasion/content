@@ -491,3 +491,16 @@ console.log(
   "That is " + FindSurfaceAreaOfACone(5, 10) + " // 235.61944901923448"
 );
 ````
+
+## Similar programs
+
+- [Find Surface Area Of A Sphere](/program/find-surface-area-of-a-sphere)
+- [Find Surface Area Of A Cylinder](/program/find-surface-area-of-a-cylinder)
+- [Find Surface Area Of A Cube](/program/find-surface-area-of-a-cube)
+- [Find Surface Area Of A Cuboid](/program/find-surface-area-of-a-cuboid)
+- [Find Volume Of A Cone](/program/find-volume-of-a-cone)
+- [Find Area Of A Circle](/program/find-area-of-a-circle)
+- [Find Area Of A Square](/program/find-area-of-a-square)
+- [Find Area Of A Cube](/program/find-area-of-a-cube)
+- [Find Area Of A Cuboid](/program/find-area-of-a-cuboid)
+- [Find Area Of A Right Angled Triangle](/program/find-area-of-a-right-angled-triangle)

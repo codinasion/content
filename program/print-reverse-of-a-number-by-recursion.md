@@ -526,3 +526,16 @@ const reverseNum = (num: number): string => {
 
 console.log(reverseNum(8675309));
 ```
+
+## Similar programs
+
+- [Print Reverse Of A Number](/program/print-reverse-of-a-number)
+- [Print Reverse Of A String By Recursion](/program/print-reverse-of-a-string-by-recursion)
+- [Print Reverse Of A String](/program/print-reverse-of-a-string)
+- [Find Average Of Digits Of A Number By Recursion](/program/find-average-of-digits-of-a-number-by-recursion)
+- [Reverse An Array](/program/reverse-an-array)
+- [Find Sum Of Digits Of A Number By Recursion](/program/find-sum-of-digits-of-a-number-by-recursion)
+- [Find Sum Of Digits Of A Number](/program/find-sum-of-digits-of-a-number)
+- [Find Average Of Digits Of A Number](/program/find-average-of-digits-of-a-number)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)

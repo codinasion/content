@@ -353,3 +353,16 @@ const cm = 152.4;
 console.log(`Input: ${cm} cm`);
 console.log(`${cm} cm is ${ConvertCentimetersToFeet(cm)} feet`);
 ```
+
+## Similar programs
+
+- [Convert Feet To Centimeters](/program/convert-feet-to-centimeters)
+- [Convert Centimeters To Inches](/program/convert-centimeters-to-inches)
+- [Convert Inches To Centimeters](/program/convert-inches-to-centimeters)
+- [Convert Miles To Feet](/program/convert-miles-to-feet)
+- [Convert Feet To Miles](/program/convert-feet-to-miles)
+- [Convert Inches To Feet](/program/convert-inches-to-feet)
+- [Convert Feet To Inches](/program/convert-feet-to-inches)
+- [Find Minimum Of N Numbers](/program/find-minimum-of-n-numbers)
+- [Convert A String To An Integer](/program/convert-a-string-to-an-integer)
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)

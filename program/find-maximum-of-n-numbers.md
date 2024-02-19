@@ -290,3 +290,16 @@ function findMaximumOfNNumbers(...args: Array<number>) {
   return max;
 }
 ```
+
+## Similar programs
+
+- [Find Minimum Of N Numbers](/program/find-minimum-of-n-numbers)
+- [Swap Two Numbers](/program/swap-two-numbers)
+- [Find The Largest Three Elements In An Array](/program/find-the-largest-three-elements-in-an-array)
+- [Print All Prime Numbers Between Two Numbers](/program/print-all-prime-numbers-between-two-numbers)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)
+- [Swap Two Numbers Without Using Third Variable](/program/swap-two-numbers-without-using-third-variable)
+- [Find Average Of Numbers](/program/find-average-of-numbers)
+- [Find The Maximum Sum Of A Contiguous Subarray (kadanes Algorithm)](</program/find-the-maximum-sum-of-a-contiguous-subarray-(kadanes-algorithm)>)
+- [Find The Maximum Sum Of A Contiguous Subarray](/program/find-the-maximum-sum-of-a-contiguous-subarray)

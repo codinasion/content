@@ -594,3 +594,16 @@ function CheckIntegerOrFloat(number: number): "Integer" | "Float" {
 console.log(CheckIntegerOrFloat(2) + " // Integer");
 console.log(CheckIntegerOrFloat(5.3) + " // Float");
 ````
+
+## Similar programs
+
+- [Convert A String To An Integer](/program/convert-a-string-to-an-integer)
+- [Convert A String To An Integer (without Using Built In Functions)](</program/convert-a-string-to-an-integer-(without-using-built-in-functions)>)
+- [Check Digit](/program/check-digit)
+- [Check Alphabet](/program/check-alphabet)
+- [Check Vowel](/program/check-vowel)
+- [Check Consonant](/program/check-consonant)
+- [Check Valid Date](/program/check-valid-date)
+- [Check Even Or Odd Number](/program/check-even-or-odd-number)
+- [Check Upper Case](/program/check-upper-case)
+- [Check Lower Case](/program/check-lower-case)

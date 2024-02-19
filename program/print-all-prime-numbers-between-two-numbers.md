@@ -425,3 +425,16 @@ function printPrimeNumber(num1: number, num2: number) {
 
 printPrimeNumber(10, 13);
 ```
+
+## Similar programs
+
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Check Prime Number](/program/check-prime-number)
+- [Find Average Of Numbers](/program/find-average-of-numbers)
+- [Swap Two Numbers](/program/swap-two-numbers)
+- [Find Sum Of Numbers](/program/find-sum-of-numbers)
+- [Print Numbers From 1 To N Without Using A Loop](/program/print-numbers-from-1-to-n-without-using-a-loop)
+- [Print Numbers From N To 1 Without Using A Loop](/program/print-numbers-from-n-to-1-without-using-a-loop)
+- [Find Minimum Of N Numbers](/program/find-minimum-of-n-numbers)
+- [Divide Two Numbers](/program/divide-two-numbers)

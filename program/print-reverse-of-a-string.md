@@ -341,3 +341,16 @@ function reverseString(str: string) {
 
 console.log(reverseString("abcd"));
 ```
+
+## Similar programs
+
+- [Print Reverse Of A String By Recursion](/program/print-reverse-of-a-string-by-recursion)
+- [Print Reverse Of A Number](/program/print-reverse-of-a-number)
+- [Reverse An Array](/program/reverse-an-array)
+- [Reverse Words In A String](/program/reverse-words-in-a-string)
+- [Print Reverse Of A Number By Recursion](/program/print-reverse-of-a-number-by-recursion)
+- [Find Length Of A String](/program/find-length-of-a-string)
+- [Split String Into Array Of Characters](/program/split-string-into-array-of-characters)
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Convert String To Uppercase](/program/convert-string-to-uppercase)
+- [Check Palindrome String](/program/check-palindrome-string)

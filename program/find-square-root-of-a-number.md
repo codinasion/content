@@ -301,3 +301,16 @@ const number = 5;
 console.log("Input  :", number);
 console.log("Output :", FindSquareRootOfANumber(number));
 ```
+
+## Similar programs
+
+- [Find Cube Root Of A Number](/program/find-cube-root-of-a-number)
+- [Find Square Of A Number](/program/find-square-of-a-number)
+- [Find Digital Root Of A Number](/program/find-digital-root-of-a-number)
+- [Find Area Of A Square](/program/find-area-of-a-square)
+- [Find Perimeter Of A Square](/program/find-perimeter-of-a-square)
+- [Find Power Of A Number](/program/find-power-of-a-number)
+- [Print Reverse Of A Number By Recursion](/program/print-reverse-of-a-number-by-recursion)
+- [Find Smallest Number In An Array](/program/find-smallest-number-in-an-array)
+- [Find Cube Of A Number](/program/find-cube-of-a-number)
+- [Find Power Of A Number By Recursion](/program/find-power-of-a-number-by-recursion)

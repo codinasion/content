@@ -433,3 +433,16 @@ console.log("Second Number :", n2);
 console.log("First Number :", n1);
 console.log("Second Number :", n2);
 ```
+
+## Similar programs
+
+- [Swap Two Numbers Without Using Third Variable](/program/swap-two-numbers-without-using-third-variable)
+- [Find Minimum Of N Numbers](/program/find-minimum-of-n-numbers)
+- [Print All Prime Numbers Between Two Numbers](/program/print-all-prime-numbers-between-two-numbers)
+- [Find Maximum Of N Numbers](/program/find-maximum-of-n-numbers)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)
+- [Find The Largest Two Elements In An Array](/program/find-the-largest-two-elements-in-an-array)
+- [Find Average Of Numbers](/program/find-average-of-numbers)
+- [Find The Smallest Two Elements In An Array](/program/find-the-smallest-two-elements-in-an-array)
+- [Find Sum Of Numbers](/program/find-sum-of-numbers)

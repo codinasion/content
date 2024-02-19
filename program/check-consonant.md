@@ -379,3 +379,16 @@ function checkConsonants(str: string) {
 
 console.log(checkConsonants("j"));
 ```
+
+## Similar programs
+
+- [Check Special Character](/program/check-special-character)
+- [Check Digit](/program/check-digit)
+- [Check Alphabet](/program/check-alphabet)
+- [Check Vowel](/program/check-vowel)
+- [Check Upper Case](/program/check-upper-case)
+- [Check Lower Case](/program/check-lower-case)
+- [Check Valid Date](/program/check-valid-date)
+- [Check Integer Or Float](/program/check-integer-or-float)
+- [Check Even Or Odd Number](/program/check-even-or-odd-number)
+- [Check Prime Number](/program/check-prime-number)

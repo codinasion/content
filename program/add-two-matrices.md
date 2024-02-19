@@ -787,3 +787,16 @@ const arr2 = [
 
 console.log(addTwoMatrices(arr1, arr2));
 ```
+
+## Similar programs
+
+- [Print Multiplication Table](/program/print-multiplication-table)
+- [Find The Largest Two Elements In An Array](/program/find-the-largest-two-elements-in-an-array)
+- [Find The Smallest Two Elements In An Array](/program/find-the-smallest-two-elements-in-an-array)
+- [Find The Rank Of A Matrix](/program/find-the-rank-of-a-matrix)
+- [Find The Smallest Three Elements In An Array](/program/find-the-smallest-three-elements-in-an-array)
+- [Print Elements Of An Array](/program/print-elements-of-an-array)
+- [Find The Determinant Of A Matrix](/program/find-the-determinant-of-a-matrix)
+- [Convert Hexadecimal To Decimal](/program/convert-hexadecimal-to-decimal)
+- [Find The Transpose Of A Matrix](/program/find-the-transpose-of-a-matrix)
+- [Find Cofactors Of A Matrix](/program/find-cofactors-of-a-matrix)

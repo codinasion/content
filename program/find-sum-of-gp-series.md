@@ -566,3 +566,16 @@ console.log(sumOfGP(2, 3, 3));
 
 //contributed by peleg mazuz
 ```
+
+## Similar programs
+
+- [Find Sum Of Ap Series](/program/find-sum-of-ap-series)
+- [Find The Cofactor Of A Matrix](/program/find-the-cofactor-of-a-matrix)
+- [Find Sum Of Numbers](/program/find-sum-of-numbers)
+- [Print Fibonacci Series Without Recursion](/program/print-fibonacci-series-without-recursion)
+- [Print Fibonacci Series By Recursion](/program/print-fibonacci-series-by-recursion)
+- [Find Sum Of N Natural Numbers Using Formula](/program/find-sum-of-n-natural-numbers-using-formula)
+- [Find The Sum Of All Numbers In An Array](/program/find-the-sum-of-all-numbers-in-an-array)
+- [Find Sum Of Numbers By Recursion](/program/find-sum-of-numbers-by-recursion)
+- [Implement Binary Search](/program/implement-binary-search)
+- [Find Sum Of N Natural Numbers](/program/find-sum-of-n-natural-numbers)

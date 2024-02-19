@@ -409,3 +409,16 @@ const ConvertFeetToInches = (Feet: number): number => {
 };
 export default ConvertFeetToInches;
 ```
+
+## Similar programs
+
+- [Convert Feet To Inches](/program/convert-feet-to-inches)
+- [Convert Inches To Miles](/program/convert-inches-to-miles)
+- [Convert Miles To Inches](/program/convert-miles-to-inches)
+- [Convert Centimeters To Inches](/program/convert-centimeters-to-inches)
+- [Convert Inches To Centimeters](/program/convert-inches-to-centimeters)
+- [Convert Feet To Miles](/program/convert-feet-to-miles)
+- [Convert Miles To Feet](/program/convert-miles-to-feet)
+- [Convert Feet To Centimeters](/program/convert-feet-to-centimeters)
+- [Convert Centimeters To Feet](/program/convert-centimeters-to-feet)
+- [Convert Hours To Minutes](/program/convert-hours-to-minutes)

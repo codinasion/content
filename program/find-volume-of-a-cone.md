@@ -411,3 +411,16 @@ const findVolumeOfACone = (radius: number, height: number) =>
 
 console.log(findVolumeOfACone(2, 3));
 ```
+
+## Similar programs
+
+- [Find Volume Of A Cylinder](/program/find-volume-of-a-cylinder)
+- [Find Volume Of A Sphere](/program/find-volume-of-a-sphere)
+- [Find Volume Of A Cube](/program/find-volume-of-a-cube)
+- [Find Volume Of A Cuboid](/program/find-volume-of-a-cuboid)
+- [Find Surface Area Of A Cone](/program/find-surface-area-of-a-cone)
+- [Find Surface Area Of A Cylinder](/program/find-surface-area-of-a-cylinder)
+- [Find Area Of A Cuboid](/program/find-area-of-a-cuboid)
+- [Find Area Of A Circle](/program/find-area-of-a-circle)
+- [Find Surface Area Of A Cuboid](/program/find-surface-area-of-a-cuboid)
+- [Find Surface Area Of A Sphere](/program/find-surface-area-of-a-sphere)

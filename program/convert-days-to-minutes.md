@@ -341,3 +341,16 @@ function daysToMinutes(days: number) {
 
 console.log(daysToMinutes(1)); // 👉️ 1440
 ```
+
+## Similar programs
+
+- [Convert Minutes To Days](/program/convert-minutes-to-days)
+- [Convert Minutes To Hours](/program/convert-minutes-to-hours)
+- [Convert Hours To Minutes](/program/convert-hours-to-minutes)
+- [Convert Weeks To Minutes](/program/convert-weeks-to-minutes)
+- [Convert Minutes To Weeks](/program/convert-minutes-to-weeks)
+- [Convert Seconds To Days](/program/convert-seconds-to-days)
+- [Convert Days To Seconds](/program/convert-days-to-seconds)
+- [Convert Days To Hours](/program/convert-days-to-hours)
+- [Convert Hours To Days](/program/convert-hours-to-days)
+- [Convert Weeks To Days](/program/convert-weeks-to-days)

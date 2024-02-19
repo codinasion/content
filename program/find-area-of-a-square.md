@@ -342,3 +342,16 @@ export function findAreaOfSquare(side: SquareSide): SquareArea {
   return Math.pow(side, 2);
 }
 ```
+
+## Similar programs
+
+- [Find Area Of A Cube](/program/find-area-of-a-cube)
+- [Find Area Of A Circle](/program/find-area-of-a-circle)
+- [Find Area Of A Rectangle](/program/find-area-of-a-rectangle)
+- [Find Square Of A Number](/program/find-square-of-a-number)
+- [Find Surface Area Of A Cube](/program/find-surface-area-of-a-cube)
+- [Find Surface Area Of A Sphere](/program/find-surface-area-of-a-sphere)
+- [Find Area Of A Cuboid](/program/find-area-of-a-cuboid)
+- [Find Area Of A Right Angled Triangle](/program/find-area-of-a-right-angled-triangle)
+- [Find Surface Area Of A Cylinder](/program/find-surface-area-of-a-cylinder)
+- [Find Surface Area Of A Cone](/program/find-surface-area-of-a-cone)

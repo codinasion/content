@@ -490,3 +490,16 @@ function findLcm(number1: number, number2: number): number {
 
 findLcm(number1, number2);
 ```
+
+## Similar programs
+
+- [Find Lcm Of Two Numbers By Recursion](/program/find-lcm-of-two-numbers-by-recursion)
+- [Find Sum Of Numbers](/program/find-sum-of-numbers)
+- [Find Average Of Numbers](/program/find-average-of-numbers)
+- [Find The Sum Of All Numbers In An Array](/program/find-the-sum-of-all-numbers-in-an-array)
+- [Find Sum Of Numbers By Recursion](/program/find-sum-of-numbers-by-recursion)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)
+- [Swap Two Numbers](/program/swap-two-numbers)
+- [Print All Prime Numbers Between Two Numbers](/program/print-all-prime-numbers-between-two-numbers)
+- [Find Minimum Of N Numbers](/program/find-minimum-of-n-numbers)

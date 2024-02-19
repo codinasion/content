@@ -494,3 +494,16 @@ const checkPangramString = (string: string) => {
 console.log(checkPangramString("The quick brown fox jumps over the lazy dog"));
 // Returns Pangram sentence
 ```
+
+## Similar programs
+
+- [Check Alphabet](/program/check-alphabet)
+- [Convert String To Sentencecase](/program/convert-string-to-sentencecase)
+- [Check Palindrome String](/program/check-palindrome-string)
+- [Find Length Of A String](/program/find-length-of-a-string)
+- [Check Digit](/program/check-digit)
+- [Check Vowel](/program/check-vowel)
+- [Check Consonant](/program/check-consonant)
+- [Print Reverse Of A String](/program/print-reverse-of-a-string)
+- [Check Special Character](/program/check-special-character)
+- [Convert A String To An Integer](/program/convert-a-string-to-an-integer)

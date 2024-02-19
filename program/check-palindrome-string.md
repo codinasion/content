@@ -488,3 +488,16 @@ if (checkPalindromeString(string)) {
   console.log("Not a Palindrome String");
 }
 ```
+
+## Similar programs
+
+- [Check Palindrome Number](/program/check-palindrome-number)
+- [Find Length Of A String](/program/find-length-of-a-string)
+- [Print Reverse Of A String](/program/print-reverse-of-a-string)
+- [Print Reverse Of A String By Recursion](/program/print-reverse-of-a-string-by-recursion)
+- [Convert A String To An Integer](/program/convert-a-string-to-an-integer)
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Convert String To Uppercase](/program/convert-string-to-uppercase)
+- [Reverse Words In A String](/program/reverse-words-in-a-string)
+- [Split String Into Array Of Characters](/program/split-string-into-array-of-characters)
+- [Split String Into Array Of Words](/program/split-string-into-array-of-words)

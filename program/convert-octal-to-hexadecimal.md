@@ -640,3 +640,16 @@ hexnum = decToHexa(decnum);
 
 console.log("Equivalent Hexadecimal Value :" + hexnum);
 ```
+
+## Similar programs
+
+- [Convert Octal To Hexadecimal](/program/convert-octal-to-hexadecimal)
+- [Convert Hexadecimal To Binary](/program/convert-hexadecimal-to-binary)
+- [Convert Binary To Hexadecimal](/program/convert-binary-to-hexadecimal)
+- [Convert Octal To Binary](/program/convert-octal-to-binary)
+- [Convert Binary To Octal](/program/convert-binary-to-octal)
+- [Convert Decimal To Octal](/program/convert-decimal-to-octal)
+- [Convert Decimal To Hexadecimal](/program/convert-decimal-to-hexadecimal)
+- [Convert Octal To Decimal](/program/convert-octal-to-decimal)
+- [Convert Hexadecimal To Decimal](/program/convert-hexadecimal-to-decimal)
+- [Convert Decimal To Binary](/program/convert-decimal-to-binary)

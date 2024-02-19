@@ -330,3 +330,16 @@ console.log(printStringOfAsciiValues(75, 75, 82, 72) + "// KKRH");
 console.log("String values of 72, 69, 76, 76, 79");
 console.log(printStringOfAsciiValues(72, 69, 76, 76, 79) + "// HELLO");
 ````
+
+## Similar programs
+
+- [Print Ascii Value Of A String](/program/print-ascii-value-of-a-string)
+- [Print Character Of An Ascii Value](/program/print-character-of-an-ascii-value)
+- [Print Ascii Value Of A Character](/program/print-ascii-value-of-a-character)
+- [Check Special Character](/program/check-special-character)
+- [Print Numbers From N To 1](/program/print-numbers-from-n-to-1)
+- [Print Numbers From 1 To N](/program/print-numbers-from-1-to-n)
+- [Implement Ternary Search](/program/implement-ternary-search)
+- [Print Reverse Of A String](/program/print-reverse-of-a-string)
+- [Print Reverse Of A String By Recursion](/program/print-reverse-of-a-string-by-recursion)
+- [Check Palindrome String](/program/check-palindrome-string)

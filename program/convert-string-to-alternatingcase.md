@@ -566,3 +566,16 @@ const alternatingCase = (str: string): string => {
 
 console.log(alternatingCase("hello world"));
 ```
+
+## Similar programs
+
+- [Convert String To Lowercase](/program/convert-string-to-lowercase)
+- [Convert String To Uppercase](/program/convert-string-to-uppercase)
+- [Convert String To Consonantcase](/program/convert-string-to-consonantcase)
+- [Convert String To Vowelcase](/program/convert-string-to-vowelcase)
+- [Convert String To Titlecase](/program/convert-string-to-titlecase)
+- [Print Hello World](/program/print-hello-world)
+- [Convert String To Reversecase](/program/convert-string-to-reversecase)
+- [Reverse Words In A String](/program/reverse-words-in-a-string)
+- [Convert String To Dotcase](/program/convert-string-to-dotcase)
+- [Convert String To Kebabcase](/program/convert-string-to-kebabcase)
