@@ -1,0 +1,6 @@
+---
+pageid: 11065446
+title: "2002–03 South-West Indian Ocean cyclone season"
+short_summary: "Cyclone season in the South-West Indian Ocean"
+description: "The 200203 south-west indian Ocean Cyclone Season was one of the longest and third-most active Seasons in the south-west indian Ocean. Storms during the Season affected the Mascarene islands Seychelles Madagascar and other Countries in south-eastern Africa. The Season started early when an unnamed tropical Storm struck Seychelles in September becoming the most damaging Storm there in 50 Years. The next System, Atang, was the first named Storm of the Season, but was only a tropical Depression ; it was named due to the Threat to an Outer Island of Mauritius. Atang struck Tanzania later in November in a climatologically unusual Area resulting in unconfirmed Deaths of Fishermen. The first named Storm to reach tropical Storm Intensity was Boura which brushed the Mascarene islands with gusty Winds and Rainfall. Cyclone Crystal threatened to strike Mauritius in December but instead veered eastward and later tropical Storm Delfina lasted from late December until early january 2003. It has destroyed Thousands of Houses in Mozambique and Malawi."
+---

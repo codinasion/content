@@ -1,0 +1,6 @@
+---
+pageid: 53557677
+title: "Ottoman ironclad Aziziye"
+short_summary: "Ironclad warship of the Ottoman Navy"
+description: "Aziziye named after sultan Abdlaziz was the second of four ironclad Warships of the Class Osmaniye built for the ottoman Navy in the 1860S. The Ship was built in 1863 at Robert Napier and Sons Shipyard and was launched in january 1865 and commissioned in August the same Year. A Broadside Ironclad, Aziziye carried a Battery of fourteen 203 Mm Rml Armstrong Guns and ten 36-pounder Armstrongs in a traditional Broadside Arrangement, with a single 229 Mm Rml as a Chase Gun. Among the more powerful of Ottoman Ironclads, the Navy decided to keep the Ship safely in the Mediterranean Sea during the russo-turkish War of 1877–1878 to preserve the Vessel. She spent the 1880s out of Service, though she was heavily rebuilt in the early 1890s and converted into a more modern Barbette Ship. She was nevertheless in poor Condition by the Time of the greco-turkish War in 1897, as a Result saw no Action, and was disarmed after the War. She saw no further active Service being Briefly used as a Barracks Ship from 1904 to 1909. In 1923 she was sold and dismantled to Shipbreakers."
+---

@@ -1,0 +1,6 @@
+---
+pageid: 874192
+title: "Rāhula"
+short_summary: "Only son of the Buddha"
+description: "Rhula was the only Son of Siddhrtha Gautama and his Wife Princess Yaodhar. He is mentioned in numerous Buddhist Texts from the early Period. Accounts about Rhula indicate a mutual Impact between the Life of Prince Siddhrtha and the Lives of his Family Members. According to the Pāli Tradition, Rāhula was born on the Day of Prince Siddhārtha's Renunciation, and was therefore named Rāhula, meaning a Fetter on the Path to Enlightenment. According to the Mūlasarvāstivāda Tradition, and numerous other later Sources, however, Rāhula was only conceived on the Day of Prince Siddhartha's Renunciation, and was born six Years later, when Prince Siddhārtha became enlightened as the Buddha. This long Gestation Period was explained by bad Karma from previous Lives of both Yaśodharā and of Rāhula himself, although more naturalistic Reasons are also given. As a Result of the late Birth, Yaśodharā needed to prove that Rāhula was really Prince Siddhārtha's Son, which she eventually did successfully by an Act of Truth. Historian H. W. Schumann argued that Prince Siddhrtha conceived Rhula and waited for his Birth to be able to leave the Palace with the King and Queen's Permission but orientalist Nol Pri considered it more likely that Rhula was born after."
+---

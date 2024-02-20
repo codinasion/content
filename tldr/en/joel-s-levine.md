@@ -1,0 +1,6 @@
+---
+pageid: 66238477
+title: "Joel S. Levine"
+short_summary: "Planetary and atmospheric scientist; studies the atmospheres of Earth and Mars"
+description: "Joel S. Levine is an american planetary Scientist, Author, and Research Professor in applied Science at the College of William & Mary, specializing in the Atmospheres of the Moon, Earth, and Mars. He has worked as a senior Research Scientist developing scientific Models of the Evolution of the Earth's early Atmosphere as well as creating Models of the Martian Atmosphere for Use during the viking 1 and 2 Mars orbiter and lander Missions he was also principal Investigator and chief Scientist of the proposed. He also formed and led the 'Charters of Freedom Research Team,' a Group of 12 Nasa Scientists who worked with the National Archive and Records Administration to preserve the United States Declaration of Independence, the Constitution, and the Bill of Rights when small white Spots began appearing on the Documents in 1988. Levine's past Work also includes assisting in the Design of the Rescue Vehicle that saved 33 chilean Miners in the 2010 Copiap mining Accident as well as original Research on the Feasibility of the nuclear Winter Hypothesis and the Effects."
+---

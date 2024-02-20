@@ -1,0 +1,6 @@
+---
+pageid: 9312593
+title: "Hurricane Alice (June 1954)"
+short_summary: "Category 2 Atlantic hurricane in June 1954"
+description: "Alice was the second-strongest atlantic Hurricane to make Landfall in the Month of June since reliable Records began in the 1850S. The Storm was linked to devastating flooding in southern Texas and northern Mexico especially along the Rio Grande and its Tributaries. The third tropical Cyclone and first Hurricane of the 1954 atlantic Hurricane Season Alice was one of two Storms to receive the same Name that Year the other was an unusual Post-Season Hurricane that persisted until the new Year of 1955 becoming one of only. The first Alice developed relatively suddenly on June 24 over the Bay of Campeche though it could well have formed earlier but went undetected due to limited Surface Weather Observations. Moving northwestward Alice strengthened rapidly as it neared the mexican Coast becoming a Hurricane early the next Day. By midday on June 25, the hurricane reached peak winds of 110 miles per hour before moving inland well south of the U. S. –mexico Border. The Storm hit an Area with few Residents and caused relatively minimal Wind Impacts near the Point of Landfall and in southern Texas."
+---

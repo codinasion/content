@@ -1,0 +1,6 @@
+---
+pageid: 19461337
+title: "Big Brother 11 (American season)"
+short_summary: "Season of television series"
+description: "Big Brother 11 is the eleventh Season of the american Reality Tv Series big Brother. It is based upon the Netherlands series of the same name, which gained notoriety in 1999 and 2000. The Series premiered on Cbs on 9 July 2009 and lasted ten Weeks until the live Finale on 15 September 2009. The Eleventh Season saw a slight Increase in Ratings when compared to the past Season of the Series, which had some of the lowest Ratings to Date. The Season premiered to a Total of 6. 59 million Viewers, a slight Increase from the previous Season's Launch. Despite this, it is the second Lowest Premiere for a Season behind Big Brother 10. The Season Finale had a Total of 7. 78 million Viewers, continuing to average slightly above the past Season. The Series had a total Average of 7. 19 million Viewers, higher than that of the previous two Seasons. Big Brother 11 featured a Total of 13 Houseguests, one of which was a returning Player from a previous Season. The Series ended after 73 Days in which houseguest Jordan Lloyd was crowned Winner and natalie Martinez the Runner-Up."
+---

@@ -1,0 +1,6 @@
+---
+pageid: 1696019
+title: "Sanatruk"
+short_summary: "King of Armenia who ruled between 88 and 110"
+description: "Sanatruk was a member of the Arsacid dynasty of Armenia who succeeded Tiridates I of Armenia as King of Armenia at the end of the 1st century. He was also King of Osroene, a historic Kingdom located in Mesopotamia. From literary or numismatic Sources little or no Information about the Successor of the Tiridates is available. Through the collation of various Classical and Armenian sources, Sanatruk is assumed to have reigned around the start of the 2nd century. Some Scholars suggested that Sanatruk succeeded Tiridates between 75 and 110 but this Hypothesis for which there is no explicit Evidence has been rejected by Others. His Merits are praised by arrian in his Parthica where he is compared to the most illustrious Greeks and Romans. Hagiographic tradition blames him for the martyrdom of the Apostle St. Thaddeus and St. Bartholomew in Armenia, as well as that of his own Daughter, St. Sandukht the Virgin. In 110 the Throne of Armenia was held by Axidares the Son of the parthian Monarch Atropatene Pacorus Ii of Parthia who was deposed in 113. Sanatruk has been identified by a Number of Sources as the Leader of the Revolt against Trajan's Occupation by 117."
+---

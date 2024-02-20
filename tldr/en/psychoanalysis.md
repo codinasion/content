@@ -1,0 +1,6 @@
+---
+pageid: 23585
+title: "Psychoanalysis"
+short_summary: "Set of therapeutic techniques established by Sigmund Freud"
+description: "Psychoanalysis is a Set of Theories and therapeutic Techniques which deal in Part with the unconscious Mind and together form a Method of Treatment for mental Disorders. The Discipline was founded by Sigmund Freud in the early 1890s whose Work stemmed partly from the clinical Work of Josef Breuer and Others. Freud developed and refined the Theory and Practice of Psychoanalysis until his Death in 1939. He identified the Cornerstones of Psychoanalysis in an encyclopedic Article as the Assumption that there are unconscious mental processes the Recognition of the Theory of Repression and resistance the Appreciation of the Importance of Sexuality and of the Oedipus Complex. Freuds Colleagues alfred Adler and Carl Gustav Jung developed the Offshoots of Psychoanalysis which they called individual Psychology and analytical Psychology although Freud himself wrote a Number of Criticisms of them and strongly denied that they were Forms of. Psychoanalysis was later developed by neo-freudian Thinkers such as erich Fromm Karen Horney and harry Stack Sullivan in different Directions."
+---

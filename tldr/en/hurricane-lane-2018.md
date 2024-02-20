@@ -1,0 +1,6 @@
+---
+pageid: 58172335
+title: "Hurricane Lane (2018)"
+short_summary: "Category 5 Pacific hurricane"
+description: "Hurricane Lane was a powerful tropical Cyclone that brought torrential Rains and strong Winds to hawaii in late August 2018. The Storm was the wettest on Record in Hawaii with peak rainfall Accumulations of 58 Inches along the eastern Slopes of Mauna Kea. The Twelfth named Storm sixth Hurricane fourth major Hurricane and the first of three Category 5 Hurricanes of the record-breaking 2018 Pacific Hurricane Season Lane originated from an Area of low Pressure that formed on August13 well southwest of Mexico. The System was following West through a Region of favorable atmospheric and oceanic Conditions and steadily intensified over the following Days. On august 18 it reached an initial Peak as a Category 4 Hurricane. Temporarily inhibited by more hostile Conditions the Hurricane weakened slightly before regaining Strength and reaching Category5 Status South of Hawaii on August 22. Lane peaked with 160mph Winds and a barometric Pressure of 926 Mbar. The Storm then turned north and slowed down. During this Time torrential Rains battered much of the hawaiian Islands. Unfavorable Conditions again affected the Hurricane and it degraded to a tropical Depression by august 28 before dissipating the following Day."
+---

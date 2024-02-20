@@ -1,0 +1,6 @@
+---
+pageid: 24202898
+title: "Expansion of Macedonia under Philip II"
+short_summary: "The Rise of the Macedonian Empire 359-336 BC"
+description: "In the Span of just 25 Years under the Reign of Philip ii the ancient Kingdom of Macedonia at the Periphery of classical greek Affairs came to dominate ancient Greece largely Thanks to the Character and Policies of its King. In Addition to using effective Diplomacy and Marriage Alliances to achieve his political Aims philip Ii was responsible for reforming the ancient macedonian Army into an effective Fighting Force. During his Reign and the subsequent hellenistic Period the macedonian Phalanx became the Hallmark of the macedonian Army. He and his Troops and Engineers made extensive Use of Siege Engines. Chief among Philip's Thracian enemies was the ruler Kersebleptes, who may have coordinated a temporary alliance with Athens. In a Series of Campaigns stretching from 356 to 340 Bc philip ii managed to eventually subjugate Kersebleptes as a tributary Vassal conquering much of Thrace in the Process. Philip Ii also fought against the illyrian King Bardylis who threatened Macedonia Proper and against grabos Ii and Pleuratus in Illyria. In his newly conquered territories, he founded new cities such as Philippi, Philippopolis, Herakleia Sintike, and Herakleia Lynkestis."
+---

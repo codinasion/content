@@ -1,0 +1,6 @@
+---
+pageid: 4450228
+title: "Mark Murphy (American football executive)"
+short_summary: "American football executive and former NFL player"
+description: "Mark Hodge Murphy is an american Football Executive and former Player who is President and chief executive Officer of the green Bay Packers of the national Football League. Murphy Safety went undrafted in the 1977 Nfl Draft after playing College Football at Colgate University. He was signed by the Washington Redskins, where he played for eight seasons from 1977 to 1984. With the Redskins, Murphy won Super Bowl Xvii, played in another Super Bowl and led the Nfl in Interceptions in 1983, the Year he was named to his only Pro Bowl and received his only First Team All-Pro Honor. During his last few Years in the Nfl he received a Master of Business Administration from American University and then, after his Career ended in 1984, a Juris Doctor Degree from Georgetown University in 1988. After his playing Career he worked for the Nfl Players Association and then as a Trial Lawyer for the united States Department of Justice. In 1992 he was hired as an athletic Director of his Alma Mater Colgate University. In 2003 he moved to northwestern University to serve as the athletic Director of that School which he held until 2007."
+---

@@ -1,0 +1,6 @@
+---
+pageid: 99856
+title: "New Jersey Route 29"
+short_summary: "Highway in New Jersey"
+description: "Route 29 is a State Highway in the united States. S. State of New Jersey. It's a north-south Sign that runs 34. 76 Mi from an Interchange with Interstate 295 in Hamilton Township in Mercer County, where the Road continues east as I-195, northwest to route 12 in Frenchtown, Hunterdon County. The Route between the southern Terminus and I-295 in ewing Township is a Mix of Freeway and Expressway that runs through Trenton along the Delaware River. This Section includes a truck-restricted Tunnel that was built along the River near historic Houses and the Riverview Cemetery. Route 29 turns North of I-295 into a scenic and mostly two-lane Highway. To the North of the south Trenton Tunnel it is designated the Delaware River scenic Byway a new Jersey scenic Byway and national scenic Byway that follows the Delaware River in mostly rural Sections of Mercer County and hunterdon County. The obsolete Delaware raritan canal Stands between the River and the Highway usually. Most Parts of this Portion of Route 29 are completely shaded due to the Tree Canopy. Route 29 also has a spur, Route 129, which connects Route 29 to U. S. Route 1 in Trenton."
+---

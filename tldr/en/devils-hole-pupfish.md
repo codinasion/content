@@ -1,0 +1,6 @@
+---
+pageid: 3092077
+title: "Devils Hole pupfish"
+short_summary: "Rare species of fish native to Nevada, U.S."
+description: "The Devils hole Pupfish is a critically endangered Species of the Cyprinodontidae Family which is found only in Devils hole a water-filled Cave in the us State of Nevada. It was first described as a Species in 1930 and is most closely related to C. Nevadensis and the Pupfish of Death Valley. The Age of the Species is unknown, with differing Analyses offering Ranges between one Thousand and sixty thousand Years. It is a small Fish with maximum Lengths up to 30mm. Individuals vary in Coloration based on Age and Sex: Males are bright metallic Blue while Females and Juveniles are more yellow. A defining Trait of this Species is its Absence of Pelvic Fins. The pupfish Consumes nearly every available Food Resource at Devils Hole, including Beetles, Snails, Algae, and Freshwater Crustaceans, with diet varying throughout the Year. It is preyed upon by the predaceous Diving Beetle Neoclypeodytes cinctellus which was first observed in 1999 or 2000 in Devils Hole. Reproduction occurs Year-Round with Spikes in Spring and Autumn. Females do however produce few Eggs and the Survivorship from Egg to adult is low. Individuals live 10–14 months."
+---

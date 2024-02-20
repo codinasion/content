@@ -1,0 +1,6 @@
+---
+pageid: 39450381
+title: "Meteor-class aviso"
+short_summary: "Aviso class of the German Imperial Navy"
+description: "The Meteor Class was a Pair of two Avisos built for the german Kaiserliche Marine in the late 1880S and early 1890s. The Class consisted of two Ships the Meteor and the Comet. Unlike earlier Avisos built for the Fleet which were designed to fill a Variety of Roles the Meteor Class was intended to protect the Fleet's Capital Ships from the Torpedo Boat Attacks. They were armed with a Battery of four 8. 8 cm quick-firing guns. Both Vessels suffered from serious Problems that rendered them Unfit for Service namely poor Seakeeping and excessive Vibrations of Propeller Shafts. As a Result they saw little Service with Comet's only Periods in Commission being to test what were unsuccessful Attempts to correct the Problems. Meteor had a somewhat more active Career, serving with the Fleet in 1893–1894 and then as a Fishery Protection Ship in 1895–1896, but she, too, spent most of her Existence laid up. Both Vessels were decommissioned in 1896 and removed from the naval Register in 1911. Meteor was then used as a Barracks Ship while Comet became a Storage hulk the two Ships were split up respectively in 1919 and 1921."
+---

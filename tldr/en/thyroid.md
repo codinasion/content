@@ -1,0 +1,6 @@
+---
+pageid: 30078
+title: "Thyroid"
+short_summary: "Endocrine gland in the neck; secretes hormones that influence metabolism"
+description: "The thyroid Gland or thyroid Gland is an endocrine Gland in Vertebrates. In Humans, it is in the Neck and Consists of two connected Lobes. The lower two Thirds of the Lobes are connected by a thin Band of Tissue called an Isthmus. The thyroid Gland is a butterfly-shaped Gland that is located in the Neck below the Adam's Apple. Microscopically the functional Unit of the thyroid Gland is the spherical Thyroid Follicle lined with follicular Cells and occasionally parafollicular Cells that surround a Lumen containing Colloid. The thyroid Gland Secretes three Hormones the two thyroid Hormones Triiodothyronine and Thyroxine and the Peptide Hormone Calcitonin. The thyroid Hormones affect the metabolic Rate and Protein Synthesis in Children and are associated with Growth and Development. Calcitonin plays a role in calcium homeostasis. The Secretion of the two thyroid Hormones is controlled by the Thyroid-Stimulating Hormone which is secreted from the anterior pituitary Gland. Tsh is regulated by the Thyrotropin releasing Hormone produced by the Hypothalamus."
+---

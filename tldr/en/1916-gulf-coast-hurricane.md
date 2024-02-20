@@ -1,0 +1,6 @@
+---
+pageid: 53004118
+title: "1916 Gulf Coast hurricane"
+short_summary: "Category 3 Atlantic hurricane in 1916"
+description: "The Gulf Coast Hurricane of 1916 was a destructive tropical Cyclone that struck the central Gulf Coast of the united States in early July 1916. It generated the highest Storm Surge on Record in Mobile, Alabama, wrought widespread Havoc on Shipping, and dropped torrential Rainfall exceeding 2 Ft. The second tropical Cyclone first Hurricane and the first major Hurricane Category 3 or stronger on the modern-day Scale of the highly active atlantic Hurricane Season in 1916 originated on June 28 in the southwestern caribbean Sea and moved generally north-northwest. As a strengthening Hurricane crossing the Yucatn Channel on July 3 and brushing Cuba with gusty Winds the Cyclone reached its peak Intensity with Maximum sustained Winds of 120mph before making Landfall on July 5 in Pascagoula Mississippi. Over Land, the Hurricane rapidly weakened to a tropical Storm, but then retained much of its remaining Strength as it meandered across interior Mississippi and Alabama for several Days, its northward Progress impeded by a sprawling high-pressure Area to the North. The System weakened into a tropical Depression on 9 July and dissipated over southern Tennessee late the next Day."
+---

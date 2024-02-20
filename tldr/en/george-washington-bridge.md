@@ -1,0 +1,6 @@
+---
+pageid: 186703
+title: "George Washington Bridge"
+short_summary: "Suspension bridge between New Jersey and New York"
+description: "The George Washington Bridge is a double decked Suspension Bridge spanning the Hudson River that connects fort Lee in Bergen County new Jersey to the Washington Heights Neighborhood of Manhattan in new York City. It is named for the founding Father George washington the first President of the united States. The George Washington Bridge is the World's busiest Motor Vehicle Bridge with Traffic of more than 104million Vehicles in 2019 and is the World's only Suspension Bridge with 14 vehicular Lanes. It is owned by the port Authority of new York and new Jersey a bi-state Government Agency that operates Infrastructure at the Ports of new York and new Jersey. The George Washington Bridge is also informally known as the Gw Bridge, the Gwb, the Gw, or the George, and was known as the Fort Lee Bridge or Hudson River Bridge during Construction. The George Washington Bridge is 4760 Feet long and has a main Span of 3500 Feet. It was the longest main Bridge in the World from its 1931 Opening until the Opening of the golden Gate Bridge in san Francisco in 1937."
+---

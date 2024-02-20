@@ -1,0 +1,6 @@
+---
+pageid: 2856797
+title: "Hurricane Gordon"
+short_summary: "Category 1 Atlantic hurricane in 1994"
+description: "Gordon was an erratic long-lived and catastrophic late Season Hurricane of the atlantic Hurricane Season 1994. The Twelfth and final tropical Cyclone of the Season Gordon formed as a tropical Depression in the southwestern Caribbean on november 8. Without strengthening the Depression made Landfall in Nicaragua. Later on november 10 the System began to strengthen as it continued to track from Land and quickly strengthened into tropical Storm gordon the Seventh named Storm of the Season. Gordon also made Landfalls in Jamaica and Cuba while a minimal tropical Storm. It entered the southwestern atlantic while resembling a subtropical Cyclone. By the Time it entered the Gulf of Mexico the Storm was once again fully tropical. Tropical Storm Gordon crossed the Florida Keys later and turned northeast to the Northeast to make Landfall in Fort Myers florida. Gordon strengthened after it re-entered the atlantic Ocean becoming a Hurricane on 17 November. It briefly threatened north Carolina while turning to the northwest but it turned to the South and weakened. Gordon deteriorated into a tropical Depression and hit florida again at this Intensity on november 20. It turned to the North and dissipated over south carolina the next Day."
+---

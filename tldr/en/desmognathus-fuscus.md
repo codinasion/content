@@ -1,0 +1,6 @@
+---
+pageid: 12402861
+title: "Desmognathus fuscus"
+short_summary: "Species of amphibian"
+description: "Desmognathus Fuscus is a Species of amphibian in the Plethodontidae Family. The Species is usually called the Dusky Salamander or northern dusky Salamander to distinguish it from Populations in the southern united States which form several distinct Species the southern Dusky Salamanders. The northern dusky Salamander is the most widespread Representative of its Genus in Canada. It can be found in eastern North America from eastern Canada Extreme to new Brunswick South to south Carolina. The Size of the Species' total Population is unknown but is assumed to easily exceed 100000. The Species' Habitat Differs somewhat geographically ; dusky Salamanders in the northern Part of the Range prefer rocky Woodland Streams, Seepages, and Springs, while those in the south Favor Floodplains, Sloughs, and muddy Places along upland Streams. They are most common where Water is running or trickling. They hide under various objects, such as leaves or rocks, either in or near water. Alternately they may enter Burrows for Protection. The dusky Salamander lays its Eggs near Water in Rock or Logs or in Cavities below Water. The Larval Stage which follows is normally aquatic."
+---

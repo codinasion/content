@@ -1,0 +1,6 @@
+---
+pageid: 10853932
+title: "Jutland horse"
+short_summary: "Danish horse breed"
+description: "The Jutland Horse is a Draft Horse Breed from Denmark the Breed is named after the Jutland Peninsula which forms the western Part of the Country. Usually Chestnut, they are a compact, muscular Breed known for their Calm and willing Temperament. The Breed was originally developed for Use in Agriculture but is now more commonly found in urban Settings and at Horse Shows. Some of the best known members of the breed pull beer wagons for the Carlsberg brewery around Copenhagen, as well as at competitions and for demonstrations. Images from the 9th Century Show a Horse similar to the Jutland used by viking Raiders in what is now britain. The first written Record is from the 12th Century when they were popular as War Horses. Some Infusion of Bloodlines from other Breeds occurred in the 18th Century, but the modern Jutland Type only began about 1850 with the Addition of Blood from several other Breeds, mainly Draft Horses. A stud Book was created in the late 19th Century and the Jutland Population grew to a maximum around 15000 by 1950. The Numbers subsequently declined and as of 2011 only an estimated 1000 Horses remained."
+---

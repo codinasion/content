@@ -1,0 +1,6 @@
+---
+pageid: 490837
+title: "Giovanni Villani"
+short_summary: "Italian banker, diplomat, and chronicler"
+description: "Giovanni Villani was an italian Banker Diplomat and Chronicler from Florence who wrote the Nuova Cronica on Florence's History. He was a leading Florence Stateman but later gained an unsavoury Reputation and served Time in Prison as a Result of the Bankruptcy of a Trading and Banking Company he worked for. His Interest in and Elaboration of economic Details, statistical Information, and political and psychological Insight Mark him as a more modern Chronicler of late Medieval Europe. His Cronica is viewed as the first Introduction of Statistics as a positive Element in History. The historian Kenneth R. Bartlett Notes that in Contrast to his Renaissance-Era Successors his Reliance on such Elements as Divine Providence Links villani closely with the Medieval vernacular Chronicle Tradition. 'in recurring Themes made implicit through significant Events described in his Cronica, Villani also emphasized three Assumptions about the Relationship of Sin and Morality to historical Events, these being that excess Brings Disaster, that Forces of Right and wrong are in constant Struggle, and that Events are directly influenced by the will of God."
+---

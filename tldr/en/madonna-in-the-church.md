@@ -1,0 +1,6 @@
+---
+pageid: 34657810
+title: "Madonna in the Church"
+short_summary: "Small oil panel by Jan van Eyck"
+description: "Madonna in the Church is a small Oil Panel by the early Dutch Painter Jan Van Eyck. Probably executed between C. 14381440 - Depicts virgin mary holding the Baby Jesus in a gothic Cathedral. Mary is presented as Queen of heaven wearing a jewel-studded Crown cradling a playful child Christ who gazes at her and grips the Neckline of her red Dress in a Manner that recalls the byzantine Tradition of Eleusa. A Piece of wooden Carving at the Rear of the Nave Houses Evidence of Episodes of Mary's Life while a faux Bois Sculpture in a Niche shows her holding the Child in a similar Pose. Erwin Panofsky sees the Painting composed as if the main Figures in the Panel are intended to be the Sculptures come to Life. In a Doorway to the right two Angels sing a hymn Book Psalms. Like other byzantine Depictions of the Madonna Van Eyck depicts a monumental Mary unrealistically large compared to her Surroundings. The Panel contains closely observed Beams of light flooding through the Cathedral's Windows. It illuminates the Interior before culminating in two Pools on the Floor. The Light has symbolic Significance alluding simultaneously to mary's virginal Purity and to god's ethereal Presence."
+---

@@ -1,0 +1,6 @@
+---
+pageid: 2051142
+title: "Mosasaurus"
+short_summary: "Extinct genus of marine squamate reptile from the Late Cretaceous"
+description: "Mosasaurus is the type Genus of the Mosasaurs an extinct Group of aquatic Squamate Reptiles. It lived between 82 and 66 million Years ago during the campanian and maastrichtian Stages of the late cretaceous. The Genus was one of the first Mesozoic Marine reptiles known to science the first Fossils of Mosasaurus were found in the late 18th Century as Skulls in a Chalk Quarry near the dutch Town of Maastrich. One Skull discovered around 1780 was famously nicknamed the great Animal of Maastricht. In 1808 Naturalist Georges cuvier concluded that it belonged to a giant Marine Lizard with Similarities to monitor Lizards but otherwise unlike any Living Animal. This Concept at the Time was revolutionary and helped support the then-developing Ideas of Extinction. Cuvier did not designate a scientific Name for the Animal this was done in 1822 by William Daniel Conybeare when he named it Mosasaurus in Reference to its Origin in Fossil Deposits near the Meuse River. The exact Affinities of Mosasaurus as a Squamate Remain controversial and Scientists continue to debate whether its closest Living Relatives are monitor Lizards or Snakes."
+---

@@ -1,0 +1,6 @@
+---
+pageid: 10142742
+title: "Hurricane Caroline"
+short_summary: "Category 3 Atlantic hurricane in 1975"
+description: "Hurricane Caroline was one of two tropical Cyclones that hit northern Mexico during the atlantic Hurricane Season 1975. The third named Storm and the second Hurricane of the Season Caroline developed on august 24 North of the dominican Republic. The System crossed Cuba and Briefly degenerated into a tropical Wave due to land Interactions. However upon its Entry into the western caribbean Sea it was once again designated as a tropical Depression after a well-defined Circulation was observed on Satellite Imagery. As the Cyclone moved west-northwest it clipped the northern Portion of the Yucatn Peninsula before entering the Gulf of Mexico. On august 29 Caroline was upgraded to a tropical Storm in the central Gulf of Mexico before rapid Intensification began. Early on august 31 Caroline reached its peak Intensity with Winds of 115 Mph before landing South of Brownsville Texas with Winds of 105 Mph shortly thereafter. After moving inland Caroline weakened and quickly dissipated on September1 over the mountainous Terrain of northeastern Mexico. There were only two Deaths from Caroline, both indirect. However, there was heavy Rainfall in southern Texas and Mexico, including almost 12 in at Port Isabel."
+---

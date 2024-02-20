@@ -1,0 +1,6 @@
+---
+pageid: 40986996
+title: "Tropical Storm Koni"
+short_summary: "Pacific severe tropical storm in 2003"
+description: "Tropical Storm Koni known as tropical Storm Gilas in the Philippines caused moderate Damage in July 2003 in Areas of China and Vietnam. Koni's eighth tropical Storm in the western Pacific in 2004 originated on July 15 from a Disturbance located in the Trough of the Monsoons far east of the Philippines. The Intensity tracking Westward was slow and the System remained a tropical Depression as it moved through central Philippines on July 17. Upon moving into the South China Sea, however, Conditions allowed for Quicker Strengthening, and as such the Cyclone reached tropical Storm Status on July 18 before reaching its Peak Intensity with Maximum sustained Winds of 110 Km/H and a minimum barometric Pressure of 975 Mbar, making it a severe tropical Storm. However, atmospheric Conditions began to deteriorate as Koni made Landfall on Hainan on July 21, weakening the System. The tropical Storm weakened as it moved over the Gulf of tonkin Prior to a final Landfall in near Hanoi vietnam the following Day. The Combination of Land Interaction and Wind Shear caused Koni to dissipate over Laos on July 23rd."
+---

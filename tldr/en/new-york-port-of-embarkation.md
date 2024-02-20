@@ -1,0 +1,6 @@
+---
+pageid: 6550022
+title: "New York Port of Embarkation"
+short_summary: "United States Army command"
+description: "New York Port of Embarkation was a Command in the united States army that allowed the Movement of Troops and Supplies from the united States to overseas. The Command had Facilities in new York and new Jersey which covered roughly the Extent of the present Port of new York and new Jersey as well as Ports in other Cities as Sub-Ports under its direct Command. During World War i, when it was originally known as the Hoboken Port of Embarkation with Headquarters in seized Hamburg America Line Facilities in Hoboken, New Jersey, the Quartermaster Corps had Responsibility. The Sub-Ports were at Boston, Baltimore, Philadelphia and the canadian Ports of Halifax, Montreal and St. Johns. The World War i Port of Embarkation was disestablished seized and requisitioned Facilities were returned or sold and Operations consolidated at the new Army Terminal in Brooklyn. Between the Wars reduced Operations continued the Core Concepts of a Port of Embarkation and as the Home Port of Atlantic Army Ships. With the War in Europe the Army revived the formal new York Port of Embarkation Command with the new York Port the only atlantic Port of Embarkation taking a Lead in developing Concepts for Operations."
+---

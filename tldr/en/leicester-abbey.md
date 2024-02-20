@@ -1,0 +1,6 @@
+---
+pageid: 39405112
+title: "Leicester Abbey"
+short_summary: "Former Augustinian monastery in Leicester, England"
+description: "The Abbey of st mary de pratis known as the Leicester Abbey was an augustinian religious House in the City of Leicester in the east Midlands of England. The Abbey was founded in the 12th Century by Robert De beaumont 2nd Earl of Leicester it grew to become the wealthiest religious Establishment within Leicestershire. The Abbey gained the Advowsons of countless Churches in England through Patronage and Donations and acquired a considerable Amount of Land and several manorial Lordships. Leicester Abbey also maintained a Cell at cockerham Priory in Lancashire. The Prosperity of the Abbey was boosted through the Passage of special Privileges both by the english Kings and the Pope. They included an Exemption from sending Representatives to parliament and from paying Tithes on some Land and Livestock. Despite its Privileges and large Land Estates from the late 14th Century the Abbey began to suffer financially and was forced to lease out its Estates. The worsening financial Situation was exacerbated throughout the 15th Century and the early 16th Century by a Series of incompetent Corrupt and extravagant Abbots. The important Income of the Abbey was surpassed by even more significant Debts by 1535."
+---

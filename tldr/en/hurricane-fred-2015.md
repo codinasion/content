@@ -1,0 +1,6 @@
+---
+pageid: 47678838
+title: "Hurricane Fred (2015)"
+short_summary: "Category 1 Atlantic hurricane in 2015"
+description: "Fred was the easternmost atlantic Hurricane formed in the Tropics and was the first to pass through Cape Verde since 1892. Fred the second Hurricane and Sixth named Storm of the 2015 atlantic Hurricane Season originated in late August 2015 from a well-defined tropical Wave over West Africa. Once offshore the Wave moved northwest into a favorable tropospheric Environment and on august 30 strengthened into a tropical Storm. The following Day fred grew to a Category 1 Hurricane with maximum Winds of 85mph as it approached Cape Verde. After passing Boa Vista and moving away from Santo anto it entered a Phase of steady weakening dropping below Hurricane Status by September1 Onwards. Fred then turned to the west-northwest endured increasingly hostile Wind Shear but maintained its Status as a tropical Cyclone despite repeated Forecasts of rapid Dissipation. Through September45 it fluctuated between minimal tropical Storm and tropical Depression Strength before curving sharply to the North. By September6 fred's Circulation Pattern had greatly decreased and the Storm dissipated later that Day."
+---

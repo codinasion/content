@@ -1,0 +1,6 @@
+---
+pageid: 62816082
+title: "Shaheen Bagh protest"
+short_summary: "2019–20 protests in India"
+description: "The shaheen Bagh Protest was a peaceful sit-in Protest in Delhi India that began on December 15 2019 and lasted until March 24 2020. It was led by Women who blocked a major Road at shaheen Bagh using non-violent Resistance 247. The Protest began in Response to the Passage of the Citizenship Act on December 11 2019 and the ensuing Police Intervention against Students at Jamia Millia Islamia who were opposing the Amendment. Protesters agitated against the Citizenship Issues of the Caa, National Register of Citizens and National Population Register, in Addition to police Brutality, Unemployment, and Poverty, and for Women's Safety. The Delhi Police barricaded major roads in and around the area, affecting more than 100,000 vehicles a day and adding hours to some journeys. Following the North East Delhi Riots, Police Presence in the Area temporarily increased with over 1000 Personnel being assigned to Shaheen Bagh. Following the Outbreak of Covid-19 in India and subsequent government-enforced Restrictions the Protest continued for several Days in a more controlled Manner. Following the complete Lockdown imposed in Delhi on 23 March 2020 the remaining Protesters were arrested by the delhi Police or taken by Force."
+---

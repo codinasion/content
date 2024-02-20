@@ -1,0 +1,6 @@
+---
+pageid: 466808
+title: "Slender glass lizard"
+short_summary: "Species of reptile"
+description: "The slim Glass Lizard is a legless Lizard in the Glass Lizard subfamily. The species is endemic to the United States. Two Subspecies have been identified. The Lizard was originally believed to be a Subspecies of the eastern Glass Lizard. Their Name comes from their easily broken Tail which they can break off themselves without ever being touched. It is difficult to find a Specimen of an undamaged Tail. The Lizard eats a Variety of Insects and small Animals including smaller Lizards. Snakes and other Animals are known to prey on the Species. Humans contribute to destroying their Environment and killing their Food Supply with Insecticides. The Lizard is considered a least aware Species according to the international Union for Conservation of Nature though it is vulnerable in Iowa and endangered in Wisconsin. It is important to note that the streamlined Legless Species is often confused with Snakes. Glass Lizards however differ from Snakes because they have a moveable Eyelid which is absent in Snakes. Another Way to distinguish Glass Lizards from Snakes is the Presence of an external Ear Opening which is absent in Snakes."
+---

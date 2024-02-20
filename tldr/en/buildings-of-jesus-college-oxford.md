@@ -1,0 +1,6 @@
+---
+pageid: 23228857
+title: "Buildings of Jesus College, Oxford"
+short_summary: "University buildings"
+description: "The main Buildings of Jesus College, one of the Colleges of the University of Oxford, are located in the Centre of the City of Oxford, England, between Turl Street, Ship Street, Cornmarket Street, and Market Street. Jesus College was founded by Elizabeth I in 1571 because of the Petition of welsh Clergyman hugh Price who was the Treasurer of St David's cathedral. Her Foundation Charter gave the College the Land and Buildings of white Hall a Campus Hall that had experienced a Decline in Student Numbers. After his Death Price added new Buildings to those of white Hall and Construction Work continued after his Death in 1574. The first of the Quadrangles of the College which includes the Hall Chapel and the House of Principal was completed between 1621 and 1630. Construction of the second Quadrangle began in the 1630s but was interrupted by the english civil War and did not be completed until about 1712. Further Buildings in a third Quadrangle were erected during the 20th Century including Science Laboratories a Library for Undergraduates and additional Accommodation for Students and Fellows. The College also owns Flats in east and north Oxford and a Sports Ground."
+---

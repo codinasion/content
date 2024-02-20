@@ -1,0 +1,6 @@
+---
+pageid: 571100
+title: "Penthouse apartment"
+short_summary: "Unit on the top floor of a building"
+description: "A Penthouse is an Apartment or Unit located on the highest Floor of an Apartment building condominium Hotel or Tower. Penthouses are often distinguished by Luxury Features from other Apartments. The Term penthouse 'originally referred to and sometimes still refers to a separate smaller'House' that was built on the Roof of an Apartment Building. Architecturally it refers specifically to a Structure on the Roof of a Building set back from its exterior Walls. These Structures do not have to occupy the entire Roof Deck. Recently, Luxury high Rise Apartment Buildings have begun to designate multiple Units on the entire top residential Floor or Multiple higher residential Floors including the top Floor as Penthouse Apartments, and outfit them to include ultra-luxury Fixtures, Finishes, and Designs which are different from all other residential Floors of the Building. These penthouse Apartments are not typically set back from the Building ’ S Outer Walls, but are instead flush with the Rest of the Building and simply differ in Size, Luxury, and consequently Price. High Rise Buildings can also have Structures known as mechanical Penthouses that contain Machinery or Equipment such as the Drum Mechanisms for an Elevator."
+---

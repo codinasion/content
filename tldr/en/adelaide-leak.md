@@ -1,0 +1,6 @@
+---
+pageid: 28882454
+title: "Adelaide leak"
+short_summary: "Cricket scandal"
+description: "The adelaide Leak was the Revelation to the Press of a Dressing Room Incident during the third Test a Cricket Match played during the 193233 Ashes Series between Australia and england more commonly known as Bodyline Series. The australian Test Captain Bill Woodfull was struck by a Ball delivered by harold Larwood during the Course of Play on january 14 1933. Woodfull was shaken and dismissed shortly thereafter although not badly injured. Woodfull visited the Managers of the Marylebone Cricket Club Team Pelham Warner and Richard Palairet on his Return to the australian Dressing Room. Warner sought to see what woodfull's Health was but the Latter dismissed his Concerns in a Brusque Fashion. He said he did not want to speak to the Englishman owing to the Bodyline Tactics England were using, leaving Warner embarrassed and Shaken. The Matter became public Knowledge when Someone Present leaked the Exchange to the Press and it was widely reported on 16 January. Such Leaks to the Press were at the Time practically unknown and the Players were horrified that the Confrontation became public Knowledge."
+---

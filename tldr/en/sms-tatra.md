@@ -1,0 +1,6 @@
+---
+pageid: 60110194
+title: "SMS Tátra"
+short_summary: "Austro-Hungarian lead ship of Tatra-class"
+description: "Sms ttra was the lead Ship of her six Destroyer Class built for the Kaiserliche und Knigliche Kriegsmarine just before the first World War. Completed in 1913, she helped to sink an italian Destroyer during the Action off Vieste in May 1915 after Italy declared War on Austria-Hungary. Two Months later the Ship participated in an unsuccessful Attempt to capture a small Island in the central adriatic Sea from the Italians. In November and early December Ttra was one of the Ships conducting Raids off the albanian Coast to interdict the Supply Lines between Italy and Albania. The Ship was tasked with towing one of her sister Ships during the early Stages of the 1st Battle of Durazzo in late December which had been crippled by a Mine. She was forced to abandon her Sister when the Austro-Hungarians were discovered by a strong Force of allied Ships and had to avoid their Pursuit. In 1917 Ttra participated in several unsuccessful Raids on the Otranto Barrage. In 1920 she was transferred to italy in Accordance with the Peace Treaties ending the War and renamed Fasana. In 1923 she was used by the Regia Marina for Spare Parts which she was discarded and subsequently scrapped."
+---

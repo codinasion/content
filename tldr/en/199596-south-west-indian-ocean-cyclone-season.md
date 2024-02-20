@@ -1,0 +1,6 @@
+---
+pageid: 3637744
+title: "1995–96 South-West Indian Ocean cyclone season"
+short_summary: "Cyclone season in the Southwest Indian Ocean"
+description: "The south-west indian Ocean Cyclone Season 199596 was a moderately active Season that included Cyclone Bonita which was the first known tropical Cyclone to cross the southern indian Ocean into the southern Atlantic. Tropical Activity lasted about six Months from the Middle of november 1995 to early may 1996. The first tropical Cyclone Agnielle in the adjacent australian Basin formed on november 16 and reached Peak Winds later in the south-west indian Ocean. The next Storm named after Agnielle was bonita which formed early in january and killed 42 People. The Basin was most active in February, with two tropical Cyclones, or the Equivalent of a minimal Hurricane, as well as a severe tropical Storm. The first of these three was Doloresse, which killed 67 People due to a Shipwreck in the Comoros. The next Storm was Cyclone Edwige which caused heavy Crop Damage to mauritius before looping along the east Coast of Madagascar. Cyclone Flossy and tropical Storm Guylianne passed near the Mascarene Islands in March producing heavy Rainfall and gusty Winds."
+---

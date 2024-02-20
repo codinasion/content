@@ -1,0 +1,6 @@
+---
+pageid: 68493831
+title: "Hurricane Henri"
+short_summary: "Category 1 Atlantic hurricane in 2021"
+description: "Henri was a minimal Category 1 Hurricane that impacted the northeastern united States. The Eighth named Storm and third Hurricane of the 2021 atlantic Hurricane Season Henri developed from a Well defined Low-Pressure System to the North-Northeast of Bermuda to a tropical Depression on August 16. Nearly a Day later the System grew into tropical Storm Henri. Henri continued to move south and later Southwest before steadily strengthening reaching its initial peak Intensity early on August19 with Winds of 70mph and a Pressure of 994mbar. Soon after strong Winds shear weakened henri slightly. Henri eventually advanced to a Category 1 Hurricane on august 21 before weakening back to a tropical Storm and making Landfall on august 22 in westerly Rhode Island making it the second tropical Cyclone to landfall in. S. State of Rhode Island during the Season, seven Weeks after Elsa. It proceeded to move west-northwestward, weakening into a tropical depression while slowing down later that day. On august 23 Henri degenerated into a remnant Low over new England before dissipating over the atlantic the next Day."
+---

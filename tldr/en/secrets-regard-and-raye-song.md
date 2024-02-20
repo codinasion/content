@@ -1,0 +1,6 @@
+---
+pageid: 63764402
+title: "Secrets (Regard and Raye song)"
+short_summary: "2020 single by Regard and Raye"
+description: "'Secrets' is a Song by kosovo-albanian Disc Jockey Regard and English Singer and Songwriter Raye from the Latter's Debut Mini-Album, Euphoric Sad Songs. The Song was written by Regard Raye Johan lenox John Hill jordan asher cruz Kennedi Lykken and Stephen Feigenbaum and produced by Regard Hill and Lenox. It was released as a single on 24 april 2020 as a digital Download and streaming single by the Ministry of Sound. An english-language Deep and retro-sounding Club, House and R & B Song, it touches on the Theme of Secrets and Someone who has Something to hide. Secrets received critical Acclaim from Music Critics many of whom applauded Raye's Production and Singing. At the 2021 Brit Awards, the Song received a Nomination in the Category for the Song of the Year. The Song entered the top 10, among Others, in Bulgaria, Croatia, Ireland, Poland, Scotland and the United Kingdom, and received multiple Gold Certifications in various Countries as well as Platinum in Australia, Poland and the Uk. An accompanying Music Video premiered on June 19 2020 depicting the Journey of a masked Motorcyclist Drawn to a mysterious Location before being chased down by an unknown Pursuer."
+---

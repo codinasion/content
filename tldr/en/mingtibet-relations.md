@@ -1,0 +1,6 @@
+---
+pageid: 16997385
+title: "Ming–Tibet relations"
+short_summary: "Relations between Ming-dynasty China and Tibet"
+description: "The Ming Dynasty considered tibet Part of the western Regions. While the Ming Dynasty had some Degree of Influence at its Height in Tibet the exact Nature of their Relations is under Dispute by modern Scholars. Analysis of the Relationship is further complicated by modern political Conflicts and the Application of westphalian Sovereignty to a Time when the Concept of Sovereignty did not exist. The historical Status of China's Tibet a Book published by the People's Republic of China Asserts that the Ming Dynasty had unquestioned Sovereignty over Tibet by pointing to the ming Court's Issuing of various Titles to tibetan Leaders. Scholars in China also argue that Tibet has been an integral Part of China since the 13th Century and so was a Part of the Ming Empire. However, most Scholars outside China, such as Turrell V. Melvyn C wylie. Goldstein, and Helmut Hoffman, say that the Relationship was one of Suzerainty, ming Titles were only nominal, Tibet remained an independent Region outside Ming Control, and it simply paid Tribute until the Jiajing Emperor, who ceased Relations with Tibet."
+---

@@ -1,0 +1,6 @@
+---
+pageid: 1875798
+title: "Italian Socialist Party"
+short_summary: "Political party that existed in Italy from 1892 to 1994"
+description: "The italian Socialist Party was a social-democratic and democratic-socialist political Party in italy whose History stretched for more than a Century making it one of the longest-surviving Parties of the Country. The Psi was founded in 1892 in Genoa and became from the Start a big Tent of the political Left and Socialism of italy ranging from the revolutionary Socialism of andrea Costa to the marxist-inspired Reformist Socialism of Filippo. Under Turati's Leadership, the Party was a frequent Ally of the italian Republican Party and the italian Radical Party at the parliamentary Level, while lately entering in Dialogue with the Remnants of the Historical Left and the Liberal Union during Giovanni Giolitti's Governments to ensure Representation for the labour Movement and the working Class. In the 1900s and 1910s, the Psi achieved significant electoral Success, becoming Italy's first Party in 1919 and during the Country's Biennio Rosso in 1921, when it was Victim of violent paramilitary Activities from the far right, and was not able to move the Country in the revolutionary Direction it wanted."
+---

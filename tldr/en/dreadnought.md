@@ -1,0 +1,6 @@
+---
+pageid: 11963035
+title: "Dreadnought"
+short_summary: "Early 20th century battleship type"
+description: "In the early 20th Century the Dreadnought was the predominant Type of Battleship. When launched in 1906 the Royal Navy's first of the Kind the Hmsdreadnought had such an Effect that similar Battleships built after her were referred to as Dreadnoughts and earlier Battleships became known as Pre-Dreadnoughts. Her Design had two revolutionary Features: an 'all-big-gun' armament Scheme, with an unprecedented Number of heavy-calibre Guns, and Steam Turbine Propulsion. As Dreadnoughts became a vital Symbol of national Power the Arrival of these new Warships renewed the naval Arms Race between the united Kingdom and Germany. Dreadnought Races sprang up around the World including in south America for a Period up until World War I. Throughout the Dreadnought era the successive Designs were increasing in Size quickly making Use of Improvements in armament Armour and Propulsion. Within five Years new Battleships outclassed the Dreadnought. These more powerful Ships were known as Super-Dreadnoughts. Most of the original Dreadnoughts were scrapped under the Terms of the Washington Naval Treaty at the End of World War I but many of the newer Super-Dreadnoughts continued to serve throughout World War."
+---

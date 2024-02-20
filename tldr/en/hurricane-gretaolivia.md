@@ -1,0 +1,6 @@
+---
+pageid: 3580677
+title: "Hurricane Greta–Olivia"
+short_summary: "Category 4 Atlantic and Pacific hurricane in 1978"
+description: "Hurricane Greta later Hurricane Olivia was one of Fourteen named atlantic Hurricanes that crossed over central America into the eastern Pacific while remaining a tropical Cyclone. The Seventh named Storm of the atlantic Hurricane Season 1978 Greta formed on september 13 from a tropical Wave northwest of Trinidad and despite being in a climatologically unfavorable Area gradually intensified while moving west-northwest. On september 16 it was a Hurricane South of Jamaica. Two Days later the clear Eye approached northeastern Honduras but veered to the Northwest. Greta weakened after reaching peak Winds of 130mph the Day paralleling the northern Honduras Coast just offshore. It made Landfall on september 19 near Dangriga in Belize and quickly weakened into a tropical Depression while crossing Guatemala and southeastern Mexico. After entering the eastern Pacific the System re-intensified into a Hurricane and was renamed olivia the Eighteenth named Storm of the Pacific Hurricane Season of 1978 which weakened before Landfall and dissipated on September 23."
+---

@@ -1,0 +1,6 @@
+---
+pageid: 5600435
+title: "Just Like a Woman"
+short_summary: "1966 song by Bob Dylan"
+description: "'just like a Woman' is a Song by american Singer-Songwriter Bob Dylan from his seventh Studio Album, Blonde on Blonde. The Song was written by Dylan and produced by Bob Johnston. Dylan allegedly wrote it on thanksgiving Day in 1965, though some Biographers doubt this, concluding that he most likely improvised the Lyrics in the Studio. In March 1966 Dylan recorded the Song at Columbia Studio a in nashville Tennessee. The Song has been criticized for supposed Sexism or Misogyny in its Lyrics and received a mixed Critique Reaction from Critics. Some Critics suggested that the Song was inspired by Edie Sedgwick while Others consider that it refers to dylan's Relationship with fellow Folk Singer Joan Baez. Retrospectively the Song has received renewed Praise and in 2011 rolling Stone Magazine ranked Dylan's Version 232 in their List of 500 greatest Songs of all Time. A shorter Edit was released as a single in the united States during august 1966 and peaked at Number 33 on the Billboard hot 100. The single also reached 8th Place in the australian Charts, 12th Place on the Belgium Ultratop Wallonia Listing, 30th in the Dutch Top 40, and 38th on the Rpm Listing in Canada."
+---

@@ -1,0 +1,6 @@
+---
+pageid: 4401219
+title: "Tropical Storm Charley (1998)"
+short_summary: "Atlantic tropical storm in 1998"
+description: "Tropical Storm Charley was the third named Storm of the atlantic Hurricane Season in 1998. Charley was the first of two tropical storms to make landfall in Texas during that season. The Storm was initiated by a tropical Wave that moved off the west african Coast on 9 August. The Wave generally moved west-northwest producing occasional Bursts of Convection finally arriving in the southeastern Gulf of Mexico by august 19 when animated Satellite Images began to indicate it could have developed a low Pressure Centre. The Investigation that began the following Day by Hurricane Hunter revealed that this was not the Case. The System remained for two Days lacking an organized low Level Centre of Circulation until early Morning on Monday august 21 when Alerts were issued for the tropical Depression which measured 185 Miles east of Brownsville Texas. Later that Day the Depression became a tropical Storm as it moved steadily west-northwest Strengthening and then weakening again before making landfall around Port Aransas texas the next Morning. The Storm moved slowly Inland and finally dissipated near the Town of Del Rio Texas on August 24."
+---

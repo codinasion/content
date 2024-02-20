@@ -1,0 +1,6 @@
+---
+pageid: 20849289
+title: "Hurricane Beta"
+short_summary: "Category 3 Atlantic hurricane in 2005"
+description: "Hurricane Beta was a compact and intense tropical Cyclone that impacted the southern Caribbean in late October 2005. Beta was the twenty-fourth tropical Storm fourteenth Hurricane and seventh and final major Hurricane of the atlantic Hurricane Season 2005 Record-Breaking Season. On october 21 a developing tropical Wave entered the eastern caribbean Sea and the following Day tropical Storm Alpha spawned. As the Wave commenced the Convection in the southwestern Caribbean redeveloped and on october26 the System spawned another low-pressure Region that developed into tropical Depression Twenty-Six. The Depression intensified into a tropical Storm the next Morning and was named Beta. By the Morning of october 28 the Storm became a Hurricane the Fourteenth of the Season. At its Peak Intensity the Beta underwent rapid Intensification for several Hours in Winds of 115 Mph on october 30. The Storm began to deteriorate before Landfall weakened to category2 Status as it crossed the nicaraguan Coast. Rapid Weakening followed Landfall and the Storm dissipated early the next Morning."
+---

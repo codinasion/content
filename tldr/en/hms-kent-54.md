@@ -1,0 +1,6 @@
+---
+pageid: 977213
+title: "HMS Kent (54)"
+short_summary: "County-class heavy cruiser built in the late 1920s"
+description: "Hms Kent Pennant Number 54 was a heavy Cruiser of the County Class built for the Royal Navy in the late 1920S. She was the lead Ship of the Kent Subclass. After Completion the Ship was sent to the China Station where she remained until the Beginning of the second World War except for a major Renovation in 193738. In late 1939 Kent hunted the german Pocket Battleship admiral Graf Spee in the East Indies then was reassigned in early 1940 to troop Convoy Escort Duties in. She was transferred to the Mediterranean in mid-40 but soon after arriving was torpedoed. The Ship was in Repair for a Year and was assigned to the Home Fleet where she escorted Convoys to and from north Russia for the next several Years. In mid 1944 Kent escorted british Aircraft Carriers as their Aircraft launched Attacks in norway on german Shipping and Airfields. A few Months later she was the Flagship of a Force intercepted a german Convoy in norwegian Waters and sank two Cargo Ships and five Escorts. The Ship was paid off early in 1945 and placed in Reserve until she was used as a Target. Kent was sold to scrap in 1948."
+---

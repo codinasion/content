@@ -1,0 +1,6 @@
+---
+pageid: 1624379
+title: "Interstate 275 (Michigan)"
+short_summary: "Interstate Highway in Michigan, United States"
+description: "Interstate 275 is an auxiliary interstate Highway in the us State of Michigan that serves as a western Bypass of the detroit metropolitan Area. The michigan Department of Transportation maintains the Highway as Part of the larger State Trunkline Highway System. The Freeway runs through the western Suburbs near detroit Metropolitan wayne County Airport and crosses several Rivers and Railway Lines in the Area. The southern Terminus is the Interchange with i-75 near newport Northeast of Monroe. Mdot considers the Interstate to run to an Interchange with I-96, I-696 and M-5 on the Farmington Hills–Novi City Line, running concurrently with I-96 for about five Miles. This gives a total Length of about 35. 03 Miles, which is backed up by official Signage. According to the federal Highway Administration the Length is 29. 97 Miles because that Agency Considers I-275 to end at the Junction with I-96 and M-14 along the Boundary between Livonia and Plymouth Township. All other Map Makers such as Google Maps and the american Automobile Association follow Mdot's Practice."
+---

@@ -1,0 +1,6 @@
+---
+pageid: 2120866
+title: "Delaware Route 1"
+short_summary: "Highway in Delaware"
+description: "Delaware Route1 is the longest numbered State Highway in the us. S. State of Delaware. The route runs 102. 63 Mi from the Maryland State Line in Fenwick Island, Sussex County, where the Road continues south into that State as Maryland Route 528, north to an Interchange with Interstate 95 in Christiana, New Castle County, where the Road continues north as Part of De 7. Between Fenwick Island and Dover Air Force Base in Dover, Kent County, DE 1 is a multilane divided highway with at-grade intersections and occasional interchanges. The Route Heads north through the Delaware beaches resort Area along the atlantic Ocean before it runs northwest through rural Areas turning North at Milford to continue to dover. At dover de1 becomes the korean War Veterans memorial Highway a partially tolled Freeway. Between Dover and Tybouts Corner, De 1 Parallels U. S. Route 13 Crosses and Intersects with it multiple Times. Past Tybouts Corner, the Freeway Heads north parallel to de 7 to the northern Terminus of De 1 in Christiana. The De1 serves as the main north-south State Highway in Delaware connecting the Delaware beaches with the Dover and Wilmington Areas."
+---

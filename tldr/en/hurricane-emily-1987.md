@@ -1,0 +1,6 @@
+---
+pageid: 3475960
+title: "Hurricane Emily (1987)"
+short_summary: "Category 3 Atlantic hurricane in 1987"
+description: "Hurricane emily was a powerful tropical Cyclone that struck Hispaniola in September 1987. It was the first Hurricane in the Caribbean Sea since Hurricane Katrina of 1981 and had the second-fastest Forward Speed of a 20th-century Hurricane, behind only the 1938 New England Hurricane. The Fifth named twelfth tropical Cyclone second Hurricane and only major Hurricane to develop during the under-average atlantic Hurricane Season in 1987 emily formed out of a tropical Disturbance that moved off the West Coast of Africa on September 20 the Storm quickly attained Hurricane Status before undergoing rapid Intens. On September 22. The Storm reached its Peak Intensity later that Day with Winds of 125 Mph and a barometric Pressure of 958mbar. The Storm weakened to category 2 Status before making Landfall in the dominican Republic. After weakening to a tropical Storm emily tracked northeast through the atlantic Ocean undergoing a second Phase of rapid Intensification before passing directly over Bermuda on September 25th. The following Day a final public Advisory was issued by the national Hurricane Center that Forecasters said the Storm was entering an extratropical Cyclone."
+---

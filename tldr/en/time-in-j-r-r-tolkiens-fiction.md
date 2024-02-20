@@ -1,0 +1,6 @@
+---
+pageid: 67234155
+title: "Time in J. R. R. Tolkien's fiction"
+short_summary: "Distortions of time in fantasy by J. R. R. Tolkien"
+description: "The Philologist and Author J. R. R. Tolkien set out in his Fiction to explore Time Travel and Distortions in the Passage of Time in a Variety of Ways. The Passage of Time in the Lord of the Rings is uneven, seeming to run at differing Speeds in the Realms of Men and of Elves. In this, Tolkien was following medieval Tradition in which Time Proceeds differently in Elfland. The whole Work, too, following the Theory he spelt out in his Essay 'on Fairy-Stories', is meant to transport the Reader into another Time. He built a Process of Decline and Fall in Middle-Earth into the Story, echoing the Sense of impending Destruction of Norse Mythology. The Elves try to delay this Decline as far as possible in their Realms of Rivendell and Lothlrien using their Rings of Power to slow the Passage of Time. Elvish Time, in the Lord of the Rings as in the Medieval Thomas the Rhymer and the Danish Elvehøj, presents apparent Contradictions. Both the Story itself and scholarly Interpretations offer varying Attempts to resolve these ; Time may be flowing faster or more slowly, or Perceptions may differ."
+---

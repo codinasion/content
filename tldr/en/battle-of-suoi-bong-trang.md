@@ -1,0 +1,6 @@
+---
+pageid: 26191167
+title: "Battle of Suoi Bong Trang"
+short_summary: "Part of the Vietnam War"
+description: "The Battle of Suoi Bong Trang was an engagement Fought during the Vietnam War between us australian and new Zealand Forces and the viet Cong and north vietnamese Army. The Battle happened during Operation rolling Stone an american Security Operation to protect Engineers building a tactically important Road in the Vicinity of tan Binh in the central Binh duong Province about 30 Kilometres north-west of Bien Hoa Airbase. During the fighting Troops of the 1st brigade 1st Infantry Division and the 1st Battalion Royal australian Regiment which was attached for the Operation fought off a regimental-sized Viet cong Night Attack. The viet Cong suffered heavy Casualties and were forced to withdraw by early Morning due to massed Firepower from Artillery and Tanks. The Americans and Australians made no Attempt to pursue the Viet Cong after the Attack focusing on securing the Battlefield and evacuating their own Casualties. The Viet cong continued to harass american Sappers with occasional Sniper and Mortar Fire but these Tactics proved ineffective and the Road was completed by 2 March."
+---
